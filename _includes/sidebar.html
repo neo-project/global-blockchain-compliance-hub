@@ -1,0 +1,41 @@
+<div class="col-md-3">
+  <div class="panel-group" id="accordion">
+    {% for cat in site.categories %}
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <span class="glyphicon glyphicon-expand"></span>
+          <span class="panel-title">
+            <a data-toggle="collapse" data-parent="#accordion" href="#collapse-{{ cat[0] }}">
+              {{ cat[0] | replace: '-', ' ' | upcase }}
+            </a>
+          </span>
+        </div>
+
+        {% assign open = false %}
+        {% for post in cat[1] %}
+          {% assign words = page.url | split: '/' %}
+          {% if words[2] == post.name %}
+            {% assign open = true %}
+          {% endif %}
+        {% endfor %}
+
+        {% if open == true %}
+          <div id="collapse-{{ cat[0] }}" class="list-group in">
+        {% else %}
+          <div id="collapse-{{ cat[0] }}" class="list-group collapse">
+        {% endif %}
+
+            {% for post in cat[1] %}
+              {% assign words = page.url | split: '/' %}
+              {% if words[2] == post.name %}
+                <a class="list-group-item active" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+              {% else %}
+                <a class="list-group-item" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+              {% endif %}
+            {% endfor %}
+
+          </div>      
+      </div>
+    {% endfor %}
+  </div>
+</div>

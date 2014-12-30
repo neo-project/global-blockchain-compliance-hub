@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        {% include header.html %}
+      </div>
+      
+      <div class="row">
+        {% include sidebar.html %}
+        {{ content }}
+      </div>
+      
+      {% if page.comments %}
+        {% include disqus.html %}
+      {% endif %}
+
+      {% include footer.html %}
+    </div>
+  </body>
+</html>

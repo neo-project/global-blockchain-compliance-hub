@@ -1,0 +1,10 @@
+# Site settings
+title: FOP Leader Handbook
+email: your-email@domain.com
+description: The handook for leaders of the Harvard First-Year Outdoor Program.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+permalink: none
