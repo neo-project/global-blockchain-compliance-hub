@@ -155,6 +155,7 @@ Cell phones and PLBs have the potential to be extremely useful tools in this set
 - In the event of a time-sensitive medical emergency, consider all means necessary to get help. Hitchhiking should not be used for matters of sheer convenience.
 
 ### Initiatives and Trust Activities
+
 #### Policy
 - A leader will be present during any initiative or trust activities.
 - Spotting is required for any activity that warrants it. Traditionally, this means any rigorous activity on or off the ground.
