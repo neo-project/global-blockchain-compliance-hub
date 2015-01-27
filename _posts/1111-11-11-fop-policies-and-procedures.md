@@ -157,6 +157,7 @@ Cell phones and PLBs have the potential to be extremely useful tools in this set
 ### Initiatives and Trust Activities
 
 #### Policy
+
 - A leader will be present during any initiative or trust activities.
 - Spotting is required for any activity that warrants it. Traditionally, this means any rigorous activity on or off the ground.
 - A leader will explain all guidelines and restrictions (head never below waist, etc.) and will stop any activity that is endangering the safety of a participant (no overstraining, diving headfirst, etc.).
