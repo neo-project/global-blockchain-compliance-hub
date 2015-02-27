@@ -38,9 +38,9 @@ comments: true
 ```
 For re-ordering individual posts (and re-naming/re-ordering entire sections too), the two fields you'll care about are the `date` and `category` ones.
 
-The `category` field includes the name of the entire section. It should be in all lowercase, and spaces should be replaced with `-` (e.g. the "Policies and Procedures" section is written as `policies-and-procedures`, but don't worry, it will eventually render correctly). Make sure the `category` field is the same for all posts you want within that section.
+The `category` field includes the name of the entire section. It should be in all lowercase, and spaces should be replaced with a `-` (e.g. the "Policies and Procedures" section is written as `policies-and-procedures`, but don't worry, it will eventually render correctly). Make sure the `category` field is the same for all posts you want within that section.
 
-The `date` field is used to order the sections and the posts within each section. It's a roundout process, but it's necessary given that we're using Jekyll. The year part of the date (i.e. the first four numbers) corresponds to the section order. For example, the `goals-and-history` post above goes in the first section (i.e. `philosophy`) and so the year part of its date is `0001` (see below for a table of year numbers and their corresponding sections). The month part of the date (i.e. the second two numbers) corresponds to the order of the posts within a given section; however, it goes in reverse order (i.e. the first post in the section is the one with the number `12`). Since the `goals-and-history` post is the first post in the `philosophy` section, the month part of its date is `12`. The final two numbers (i.e. the day part of the date) are always `01` since we don't need to use them in our ordering hierarchy.
+The `date` field is used to order the sections as well as the posts within each section. It's a roundout process, but it's necessary given that we're using Jekyll. The year part of the date (i.e. the first four numbers) corresponds to the section order. For example, the `goals-and-history` post above goes in the first section (i.e. `philosophy`) and so the year part of its date is `0001` (see below for a table of the current year numbers and their corresponding sections). The month part of the date (i.e. the second two numbers) corresponds to the order of the posts within a given section; however, it goes in reverse order (i.e. the first post in the section is the one with the number `12`). Since the `goals-and-history` post is the first post in the `philosophy` section, the month part of its date is `12`. The final two numbers (i.e. the day part of the date) are always `01` since we don't need to use them in our ordering hierarchy.
 
 | Section                 | Year  |
 |:-----------------------:|:-----:|
@@ -51,6 +51,8 @@ The `date` field is used to order the sections and the posts within each section
 | interpersonal-skills    | 0005  |
 | back-on-campus          | 0006  |
 | emergencies             | 0007  |
+
+P.S. Please edit the above table if you change the order of the section in the Handbook.
 
 ## You Rock ##
 
