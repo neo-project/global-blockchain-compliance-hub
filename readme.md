@@ -52,7 +52,7 @@ The `date` field is used to order the sections as well as the posts within each 
 | back-on-campus          | 0006  |
 | emergencies             | 0007  |
 
-P.S. Please edit the above table if you change the order of the section in the Handbook.
+P.S. Please edit the above table if you change the order of the sections in the Handbook.
 
 ## You Rock ##
 
