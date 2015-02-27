@@ -22,3 +22,7 @@ Here are a few notes:
 - Browse through different files to get a sense of how links are created, pictures are inserted, etc. It's probably best to maintain consistency in terms of formatting and style.
 
 When you're done editing, simply hit the big "Commit changes" button at the bottom of the page. We recommend including a short description of your changes in the box provided. Your changes will be rendered instantly at [http://harvardfop.github.io](http://harvardfop.github.io).
+
+## Re-Ordering ##
+
+Coming soon!
