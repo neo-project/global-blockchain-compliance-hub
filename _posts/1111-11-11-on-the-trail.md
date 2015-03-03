@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 0004-10-01
+date: 0004-09-01
 name: on-the-trail
 title: "On the Trail"
 category: technical-skills
