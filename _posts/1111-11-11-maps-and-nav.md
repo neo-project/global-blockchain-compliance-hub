@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 0004-09-01
+date: 0004-10-01
 name: maps-and-nav
 title: "Maps and Navigation"
 category: technical-skills
