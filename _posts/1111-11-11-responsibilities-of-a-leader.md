@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 0002-121-01
+date: 0002-12-01
 name: responsibilities-of-a-leader
 title: "Responsibilities of a FOP Leader"
 category: policies-and-procedures
