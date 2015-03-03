@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 0002-12-01
+date: 0002-11-01
 name: fop-policies-and-procedures
 title: "FOP Policies and Procedures"
 category: policies-and-procedures
