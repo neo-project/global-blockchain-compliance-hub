@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 0004-05-01
+date: 0004-04-01
 name: backcountry-living
 title: "Backcountry Living"
 category: technical-skills
