@@ -115,4 +115,22 @@ Purification pointers:
 
 On the trail, FOP uses the "rubber band system" to differentiate the three states of water: purified, unpurified, or "charging". Before you start hiking, have each FOPper attach an elastic band to each one of their water bottles. When there is no chlorine in the water, leave the elastic band hanging around the cap strap. If it's charging but not ready, the elastic goes around the cap or mouth of the water bottle. And when it's done, pull the elastic down around the body of the bottle to signal that it's good to go. Voila!
 
+### Tips
+
+#### Morning 
+- Hang your watch on your ridgeline under the tarp, so you will be able to hear the alarm in the morning. Otherwise the sleeping bag and clothing muffle the sound. Or, put you watch in your hat for a similar effect.
+- For a group who have a hard time getting going in the morning, get up before your FOPpers and take the bear bag down, so that right when they get up, their food is there and they can start packing immediately. Also, if you’re feeling really generous, you can get up super early and make breakfast before your group wakes up, so that they have motivation to get right out of bed.
+
+#### Around Camp
+- Bandanas help to mark off the rope attached to the tarp, both so that people don’t trip over it and so that the tarp doesn’t get messed up once you’ve set it up.
+- Placing a bandana on each end of a tarpline next to the plastic will prevent rain water from riding the tarpline into the tarp.
+- Put your Nalgene on the ground face down on top of your head lamp to create a lantern with perfect mood lighting for a group meeting. Or, put your headlamp onto the bottle with light facing into the bottom.
+
+##### Dealing with bugs
+- Put DEET on with the back of your hands.
+- Use Pyrethum on your clothes before you leave, it will stay on your clothing for 2-weeks.
+- Be extra careful to wash hands before doing food stuff…DEET is nasty, nasty stuff.
+
+
+
 [period kit]: {{ site.url }}/assets/period_kit.png
