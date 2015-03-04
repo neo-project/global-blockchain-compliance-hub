@@ -124,7 +124,16 @@ All thanks to the user manual on MSR's website.
 -Parts Overview and Steps for Operation
 ![partsoverview][partsoverview]
 ![stepone][stepone]
-![stepone][stepone]
+![steptwo][steptwo]
+![stepthree][stepthree]
+![stepfour][stepfour]
+![stepfive][stepfive]
+![stepsix][stepsix]
+![stepseven][stepseven]
+![stovemaintenance][stovemaintenance]
+![pumpmaintenance][pumpmaintenance]
+![troubleshooting][troubleshooting]
+
 
 
 
@@ -292,4 +301,14 @@ Be scrupulous about picking out as much food from pots as possible before rinsin
 
 [stove parts]: http://oi59.tinypic.com/1zj50g.jpg
 [partsoverview]: http://fop.fas.harvard.edu/files/fop/files/0_-_parts_overview.pdf
+[stepone]: http://fop.fas.harvard.edu/files/fop/files/1_-_step_1_0.pdf
+[steptwo]: http://fop.fas.harvard.edu/files/fop/files/2_-_step_2.pdf
+[stepthree]: http://fop.fas.harvard.edu/files/fop/files/3_-_step_3.pdf
+[stepfour]: http://fop.fas.harvard.edu/files/fop/files/4_-_step_4.pdf
+[stepfive]: http://fop.fas.harvard.edu/files/fop/files/5_-_step_5.pdf
+[stepsix]: http://fop.fas.harvard.edu/files/fop/files/6_-_step_6.pdf
+[stepseven]: http://fop.fas.harvard.edu/files/fop/files/7_-_step_7.pdf
+[stovemaintenance]: http://fop.fas.harvard.edu/files/fop/files/8_-_stove_maintenance.pdf
+[pumpmaintenance]: http://fop.fas.harvard.edu/files/fop/files/9_-_pump_maintenance.pdf
+[troubleshooting]: http://fop.fas.harvard.edu/files/fop/files/10_-_troubleshooting.pdf
 
