@@ -266,4 +266,11 @@ When you make your sump hole, dig a six-inch pit and be sure to strain everythin
 
 Be scrupulous about picking out as much food from pots as possible before rinsing. Never bring anything but a clean pot to the water. Dirty pots, pans, bowls, and cups should never go to the stream for cleaning or for rinsing. Instead, bring water for washing at least 200 yards away from the water source. Get out all the food bits, then scrub the pot. Then rinse with water and sump the water. Dump rinse water at least 200 yards away from the water supply, and strain it through a screen strainer. Soap can be used sparingly, primarily to cut grease on cookware. It is highly concentrated and a few drops will suffice for an entire pot inside and out. It is important, though, that you rinse thoroughly: associated risks of residual soap on cookware include diarrhea and other gastro-intestinal problems.
 
+### Tips
+
+- How to strain pasta (or try): Put the lid tightly on the pot and hold firmly. Let water out slowly while holding tight to the top with gloved hands. Or, poke holes in a plastic bag, and use it as a strainer. (be careful not to melt the bag).
+- Leave a little extra water in the pasta when you strain, since everyone is dehydrated anyway. Soupy pasta is all right in the woods.
+- Use water from pasta in hot chocolate.
+- To make serving fair, let 2 FOPpers “own” each meal; they’ll be very equitable, and FOPpers won’t complain as much about the food.
+
 [stove parts]: http://bracket.no-ip.com/tb/images/st_pics/coleman_533-700_parts_list.gif
