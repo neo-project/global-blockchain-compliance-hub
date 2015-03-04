@@ -7,7 +7,7 @@ category: policies-and-procedures
 comments: true
 ---
 
-Managing the risks of travel is the focus of FOP leaders. Leaders are expected to manage risks on their trips by following the policies and procedures outlined in the handbook and by instructing FOPpers in correct procedures. Safe practices require constant vigilance. It is virtually impossible to enumerate a complete set of "rules" to deal with all such situations that may arise. These policies are FOP's best guidelines, meant to inform the leader on expectations for how a trip will be lead. Leaders may need to ignore policies in certain rare but specific instances when the best decision for the group and/or an individual requires deviations from policy. Leaders should follow all policies, but not lose sight of the overall goal of caring for the group.
+Managing the risks of travel is the focus of FOP leaders. Leaders are expected to manage risks on their trips by following the policies and procedures outlined in the handbook and by instructing FOPpers in correct procedures. Safe practices require constant vigilance. It is virtually impossible to enumerate a complete set of "rules" to deal with all such situations that may arise. These policies are FOP's best guidelines, meant to inform the leader on expectations for how a trip will be lead. Leaders may need to ignore policies or procedures in certain rare but specific instances when the best decision for the group and/or an individual requires deviations from policy. Leaders should follow all policies, but not lose sight of the overall goal of caring for the group.
 
 The policies and procedures in this section have been chosen by FOP to make the job of managing risks easier- or at least a bit clearer. Make sure you know the difference between a policy and a procedure.
 
@@ -22,7 +22,7 @@ As an ethical question, FOP has prioritized the following four conditions with r
 3. Individuals are not worse off for having participated.
 4. Participants have a positive experience.
 
-As a general guideline, policies are only to be broken in order to ensure the first or second conditions (that is, preservation of life or prevention of permanent disability). Policies should not be broken to merely ensure that a participant has fun. Procedures are slightly more flexible, allowing that procedures could be broken to ensure any of these four conditions. In other words, it is slightly more possible that situations arise where a procedure could be broken than a policy. It is worth pointing out, though, that procedures should only be broken to ensure the preservation of these four conditions; "I prefer to do it another way" would be an insufficient reason. Finally, please bear in mind that this structure is provided only to aid you in decision making, not as absolute rule.
+As a general guideline, *policies are only to be broken in order to ensure the first or second conditions* (that is, preservation of life or prevention of permanent disability). Policies should not be broken to merely ensure that a participant has fun. Procedures are slightly more flexible, allowing that procedures could be broken to ensure any of these four conditions. In other words, it is slightly more possible that situations arise where a procedure could be broken than a policy. It is worth pointing out, though, that procedures should only be broken to ensure the preservation of these four conditions; "I prefer to do it another way" would be an insufficient reason. Finally, please bear in mind that this structure is provided only to aid you in decision making, not as absolute rule.
 
 ### Alcohol and Illegal Drugs
 
@@ -239,12 +239,13 @@ tool if deemed necessary.
 - Line up along the side of the road and cross quickly as a group, all at once, with a leader on each end.
 -If you must walk along a road, walk single file on the side that faces the traffic. 
 
-### Sexual Activity 
+### Sexual Activity, Sexual Harassment, and Sexual Assault
 
 #### Policy
 
 - No sexual activity is permitted on FOP.
 - Sexual/romantic relationships between leaders/staff and participants are forbidden. This extends after the conclusion of a FOP trip.
+- All participants, leaders, and staff are expected to follow the standards of conduct outlined in the Harvard College [Handbook for Students](http://handbook.fas.harvard.edu). 
 
 ### Shelters/Huts
 
@@ -330,7 +331,7 @@ tool if deemed necessary.
 - The group travels together under the supervision of FOP leaders/staff.
 - If a group needs to separate, a FOP leader/staff person accompanies each group.
 - With the exception of certain situations (e.g. bathroom breaks, while sleeping, etc.) a leader will typically have visual contact with the participants.
-- During normal group activities, the leader-to-participant ratios should not exceed 8:1.
+- During normal group activities, the leader-to-participant ratio should not exceed 1:8.
 
 #### Procedure
 
