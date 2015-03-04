@@ -180,7 +180,7 @@ FOP spotting guidelines:
 #### Procedure
 
 - Meet with the leaders of any FOP trip you will be interacting with to discuss your trips and decide on a manner of interaction that is comfortable for all involved.
-- When interacting with strangers, Be cordial, but vague, about your trip plans. Do not advertise, but do not hide, that you are a Harvard orientation program. Don't tell strangers where you're going and don't give out personal information.
+- When interacting with strangers, be cordial, but vague, about your trip plans. Do not advertise, but do not hide, that you are a Harvard orientation program. Don't tell strangers where you're going and don't give out personal information.
 
 ### Lightning
 
@@ -293,7 +293,8 @@ tool if deemed necessary.
    - One leader is in the sweep and one in the lead position so that participants are sandwiched between leaders.
    - Participants are separated by short, regular intervals so that they are able to communicate verbally with the person immediately in front and behind them.
    - The solo hike only runs for a specified amount of time or distance so that the leader in front knows when to stop and regroup.
-   - At any junction or detour the leader must stop and wait to regroup.- Participants must not deviate from the established trail.
+   - At any junction or detour the leader must stop and wait to regroup.
+   - Participants must not deviate from the established trail.
 
 ### Stoves/Fuel 
 
