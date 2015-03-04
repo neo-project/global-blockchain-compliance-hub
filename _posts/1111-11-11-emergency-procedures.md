@@ -69,6 +69,39 @@ Many individuals get lost when they go to the bathroom at night. Make sure your 
 
 All members should always maintain visual contact with the rest of the group. Do not allow people to hike or canoe far ahead. It is simply too easy for people to get lost once a group is separated. Also, if an emergency occurs while the group is split up, it is vastly more difficult to deal with the situation.
 
+### Disclosures of Sexual Harassment or Sexual Assault
+
+**Please note** that the FOP Director is not a confidential resource.  S/he is legally required to report any knowledge of sexual harassment to a Title IX Coordinator.  Individuals paid by the University, including deans, tutors, professors, PAFs, and most faculty are also no able to keep information about harassment confidential.  To speak with a confidential resource, individuals should go to the Office of Sexual Assault Prevention and Response (OSAPR) or a peer counseling group that specializes in relationship violence (for example, Response).
+
+##### "Disclosure Flow Chart": *What to do if someone discloses to you in the field or on campus*
+
+1. If someone discloses to you, the first thing you should do is offer support. Listen, and thank them for sharing their experience with you. Let them know you believe them. Do not introduce terms; use the language that they used.  Do not ask “why” questions; they can be perceived as blaming.   
+ 
+*Example: “Thanks for telling me about that experience.  It sounds like you had a really bad night, and I wish that hadn’t happened to you.  I appreciate that you have shared this with me now, because I imagine it could be hard to share that experience with others.”*
+2. Let that individual know that, while you will not share all the details of the story with your co-leader, you will have to let your co know that the conversation occurred. Make sure the individual feels comfortable with the amount of information you will/will not share.
+
+*Example: “Again, thanks for letting me know about this. Because of how FOP leaders make decisions, I will be letting my co-leader know that we have had this conversation.  That said, I want you to feel comfortable with the amount of information I share. We won’t tell anyone else without talking it over with you.  Would you prefer I just say that you told me about a bad night this past summer, and that you are still uncertain how to handle it? Would you be comfortable with me sharing a few details about when this event happened to provide some context?”*
+3. Ensure that the individual feels safe right now.  Come up with a plan to ensure their emotional and physical safety for the remainder of the trip.  This may require an evacuation.
+
+*Example: “Our first concern is that you feel safe.  How are you feeling about being in the woods right now? Would you prefer to go back to the frontcountry? Or are there certain parts of the trip that are making you uncomfortable that we could address?  For example, do you feel comfortable sleeping under the tarp with everyone?”*
+4. Talk to your co-leader. ***This information should not be shared with anyone that is not the FOP Director, your co-leader, and/or OSAPR (if you choose to contact them).*** 
+5. If you and your co-leader would like additional support, or would like to talk through a plan for how to support the individual, call OSAPR’s 24-hour hotline.  Option 3 will put you directly in touch with a confidential OSAPR staff member. Number: **(617) 495-9100**.
+6. Consider whether you think FOP as a program should know about the incident.  For example, did the incident occur on the trip itself, or during Aloha Day?  (Please note that some incidents of sexual assault or sexual harassment could require a mandatory evacuation. Please see the list of mandatory notifications and evacs below).   
+
+If you do think the program should be informed about the incident, contact Basecamp via normal notification procedures.    Please consider that all Basecamp members are not confidential resources.  That means they must disclose any information of which they are aware.  Feel free to describe the incident in general terms; only use names if the individual has confirmed s/he is OK with you doing so.
+
+#####Best Practices
+- First and foremost, remember that you are NOT A PSYCHIATRIST and therefore are not expected (and should not feel like you have to) “solve” or “respond perfectly” to a disclosure. These are best practices. Remember that offering an ear to listen/a shoulder to cry on is incredibly helpful in and of itself. 
+- Ask if the person of concern feels safe right now.  If they do not feel safe in their current environment, ensure their safety by rearranging camp, evacuating the trip or the individual, or other means.
+- Offer support; indicate that the individual’s concern is valid and that you believe them.
+- Don’t ask too many questions, or specific questions about the incident. **Do not ask "Why" questions**, as these can be perceived as blaming the victim.
+- DO NOT introduce terms; use the terms that the survivor did. 
+- Provide but don’t force resources - it is a survivor’s decision to seek help if, how, and when they choose to.
+- Do not respond by saying anything violent. It’s common for people to say things like “Oh, I want to hurt/beat up that person for doing that to you because I’m so angry,” etc. However, for someone who has recently undergone a traumatic/violent event, this can be frightening/damaging language. 
+- **When you’re in the field:** 
+  - Make sure you ask the person disclosing to you whether or not they are comfortable with you sharing the information with your co-leader. Where appropriate, let the person disclosing to you know that you will have to share some information with your co-leader, even if it’s not the “full disclosure” that they shared with you. 
+  - If you have cell service, you can call OSAPR directly (617-495-9100) or sit with the person of concern as they speak with OSAPR.  
+
 ### Media Procedures
 
 In the event of a serious emergency, the director is responsible for notifying the FDO, which in turn will notify the appropriate Harvard authorities. Leaders will refer all questions to the Harvard Office of Public Affairs and Communication. Do not engage in speculation with anyone, not even each other.
