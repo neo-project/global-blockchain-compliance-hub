@@ -126,7 +126,7 @@ On the trail, FOP uses the "rubber band system" to differentiate the three state
 - Placing a bandana on each end of a tarpline next to the plastic will prevent rain water from riding the tarpline into the tarp.
 - Put your Nalgene on the ground face down on top of your head lamp to create a lantern with perfect mood lighting for a group meeting. Or, put your headlamp onto the bottle with light facing into the bottom.
 
-##### Dealing with bugs
+#### Dealing with bugs
 - Put DEET on with the back of your hands.
 - Use Pyrethum on your clothes before you leave, it will stay on your clothing for 2-weeks.
 - Be extra careful to wash hands before doing food stuff…DEET is nasty, nasty stuff.
