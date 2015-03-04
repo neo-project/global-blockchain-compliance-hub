@@ -55,6 +55,16 @@ For a group of hikers with loaded packs, the standard equation is:
 
 FOP Groups are generally slower than this. 1 mile per hour is a more conservative estimate for FOP.
 
+### Compasses
+
+Compasses are great tools for navigation, but realistically, on a FOP Trip, the most common situation you’ll need your compass for is to orient your map. When you orient a map, you position it so that north on the map actually points north, and in this way you can look in a particular direction for a landmark and know exactly where it is on the map to determine your position. To orient your map, follow these steps:
+-	Lay out the map on a flat surface.
+-	Adjust your compass for the magnetic declination (the difference between true north and magnetic north) in your region: find in one of the corners of the map a figure which shows the cardinal directions, with an arrow pointing slightly east or west of true north, labeled magnetic north. Place your compass on this figure with the solid arrow (on the baseplate of the compass) above the compass rose lining up with the arrow for true north.  Then twist the compass rose so that the two red lines (the orienting arrow) are parallel with the arrow for magnetic north. Considering where FOP trips take place, you will always be twisting the compass so that the orienting arrow is pointed slightly west from north.
+-	Place your adjusted compass on the map with the edge of the baseplate lining up with the north-south meridians on the map.
+-	Slowly turn the map and compass together until the compass needle is “boxed” by the orienting arrow (often referred to as putting “red Fred in the shed” since the northern end of the needle is red and the orienting arrow is a box).
+-	Now the map is oriented to match the real world. Look around for landmarks you see (mountains, valleys, rivers) and then try to find them on the map, and then deduce your relative position.
+
+
 ### Getting Lost
 
 One of the more disconcerting events occurring on a trip is the realization that you are lost. Getting confused about where you are is a common occurrence, and getting lost is the next step in a trajectory that may lead up to a condition called "Woods Shock." Woods Shock occurs when a person's ability to coordinate his/her mental map of what they should be seeing and experiencing is different from what they are seeing and experiencing, resulting in complete loss of spatial orientation. This confusion results in a severe loss of judgment.
