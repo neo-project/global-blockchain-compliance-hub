@@ -126,6 +126,23 @@ On the trail, FOP uses the "rubber band system" to differentiate the three state
 - Placing a bandana on each end of a tarpline next to the plastic will prevent rain water from riding the tarpline into the tarp.
 - Put your Nalgene on the ground face down on top of your head lamp to create a lantern with perfect mood lighting for a group meeting. Or, put your headlamp onto the bottle with light facing into the bottom.
 
+#### Nighttime
+- Put your wet socks on your shoulders (or in your crotch) while you sleep and they’ll be dry in the morning.
+- Bring earplugs help on trips with alarm noises and snoring.
+- If snoring is a problem, sometimes by matching breaths with the snorer, you will be able to be less bothered. When they exhale, you exhale, fooling your body into thinking you are snoring.
+- Worried about the waterproofness of your tarp? Just double the tarps up, one on top of the other, and get cozy. Or, cut extra garbage bags along the sides - leave the bottoms, so it’s one big rectangle of plastic - and lay the sheets of plastic over the ridgeline.)
+- Do not put a plastic bag over a sleeping bag’s bottom for extra waterproofing, it will collect condensation that’s escaping from your sleeping bag, and you’ll wake up with soaking wet feet.
+- Keep one pair of socks in your sleeping bag and never take them out: your “bed socks”. This way, no matter how wet, cold, or grungy your feet get during the day, you’ll always have clean, dry warmth awaiting you in your sleeping bag. 
+- You can put the bottom of your sleeping bag on your backpack to keep your feet off the ground.
+- Brent’s Curtain Method (BCM): enter your sleeping bag warm wearing a layer of polypro. Drop your poly bottoms to your ankles, but do not take off. Lift your shirt to your neck and roll-up sleeves, or just leave shirt around neck. When your body temp starts to drop through the night, pull the ‘curtains’ down: pull your poly tops and bottoms on, giving you the extra bit of warmth to sleep for another couple of hours.
+- Another method of keeping warm is the Matissa Gasket (MG) which involves taking a fleece and clothes to wrap around your neck in your sleeping bag. Since heat in a sleeping bag often escapes through the hole in the top, the gasket plugs up the hole.
+- Since staying on the ensolite pad is important if you want to stay warm, you can shape your ensolite to ‘hold’ your body on the pad by placing shoes under the ensolite sides to make the edges higher than the middle and stop the pad from sliding. Also, if you are sleeping on slanted ground, you can place shoes and boots at the bottom of your ensolite to keep it from sliding out from under the tarp.
+- Clothing can act as padding to fill in spots, pad rocks, and try to make your bed more comfortable.
+- If you are getting cold at night, make sure you go to bed warm. The sleeping bag only retains heat, so do calisthenics before getting in your sleeping bag or even push-ups or sit-ups once in your sleeping bag to warm up the bag.
+- Because the ground sucks away your heat, the higher off the ground you are, the warmer you are, so do not be afraid to place layers of clothes on your sleeping pad to create an extra insulating layer.
+- If your feet are cold during the day, you can create “vapor barrier socks.” Put on a pair of thin polypro socks, then a plastic bag over your foot, then a dry pair of thick socks. Your feet will get wet from your sweat, but the plastic will prevent evaporation, keeping heat from escaping your foot and keeping insulating layers dry (boots and wool socks).
+- If your sleeping bag is too long for you, the empty air at the bottom will make you colder (since you stay warm in a sleeping bag because your body warms the air, and so all that extra air to warm makes your body colder). Try stuffing some extra clothing down at the bottom to keep your toes warm. Alternatively, pull your sleeping bag up so that the extra length is squished around your waist.
+
 #### Dealing with bugs
 - Put DEET on with the back of your hands.
 - Use Pyrethum on your clothes before you leave, it will stay on your clothing for 2-weeks.
