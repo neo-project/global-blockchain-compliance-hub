@@ -101,6 +101,8 @@ A word of caution: map bearings and field bearings can differ in the USA by as m
 
 ![takingbearing][takingbearing]
 
+All of the above content (minus the crash course) is taken from summitpost.org
+
 ### Getting Lost
 
 One of the more disconcerting events occurring on a trip is the realization that you are lost. Getting confused about where you are is a common occurrence, and getting lost is the next step in a trajectory that may lead up to a condition called "Woods Shock." Woods Shock occurs when a person's ability to coordinate his/her mental map of what they should be seeing and experiencing is different from what they are seeing and experiencing, resulting in complete loss of spatial orientation. This confusion results in a severe loss of judgment.
