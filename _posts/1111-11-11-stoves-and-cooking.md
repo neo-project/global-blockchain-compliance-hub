@@ -300,15 +300,15 @@ Be scrupulous about picking out as much food from pots as possible before rinsin
 - If you do lose your spoon: twig chopsticks! Can work excellent– take all the bark off the stick and clean the wood until it is shiny and you will wonder why you ever carried a spoon (until you eat a little of the bark or wood). If you get really desperate, a folded tupperware top works surprisingly well.
 
 [stove parts]: http://oi59.tinypic.com/1zj50g.jpg
-[partsoverview]: http://fop.fas.harvard.edu/files/fop/files/0_-_parts_overview.pdf
-[stepone]: http://fop.fas.harvard.edu/files/fop/files/1_-_step_1_0.pdf
-[steptwo]: http://fop.fas.harvard.edu/files/fop/files/2_-_step_2.pdf
-[stepthree]: http://fop.fas.harvard.edu/files/fop/files/3_-_step_3.pdf
-[stepfour]: http://fop.fas.harvard.edu/files/fop/files/4_-_step_4.pdf
-[stepfive]: http://fop.fas.harvard.edu/files/fop/files/5_-_step_5.pdf
-[stepsix]: http://fop.fas.harvard.edu/files/fop/files/6_-_step_6.pdf
-[stepseven]: http://fop.fas.harvard.edu/files/fop/files/7_-_step_7.pdf
-[stovemaintenance]: http://fop.fas.harvard.edu/files/fop/files/8_-_stove_maintenance.pdf
-[pumpmaintenance]: http://fop.fas.harvard.edu/files/fop/files/9_-_pump_maintenance.pdf
-[troubleshooting]: http://fop.fas.harvard.edu/files/fop/files/10_-_troubleshooting.pdf
+[partsoverview]: http://fop.fas.harvard.edu/files/fop/files/0_-_parts_overview.jpg
+[stepone]: http://fop.fas.harvard.edu/files/fop/files/1_-_step_1.jpg
+[steptwo]: http://fop.fas.harvard.edu/files/fop/files/2_-_step_2.jpg
+[stepthree]: http://fop.fas.harvard.edu/files/fop/files/3_-_step_3.jpg
+[stepfour]: http://fop.fas.harvard.edu/files/fop/files/4_-_step_4.jpg
+[stepfive]: http://fop.fas.harvard.edu/files/fop/files/5_-_step_5.jpg
+[stepsix]: http://fop.fas.harvard.edu/files/fop/files/6_-_step_6.jpg
+[stepseven]: http://fop.fas.harvard.edu/files/fop/files/7_-_step_7.jpg
+[stovemaintenance]: http://fop.fas.harvard.edu/files/fop/files/8_-_stove_maintenance.jpg
+[pumpmaintenance]: http://fop.fas.harvard.edu/files/fop/files/9_-_pump_maintenance.jpg
+[troubleshooting]: http://fop.fas.harvard.edu/files/fop/files/10_-_troubleshooting.jpg
 
