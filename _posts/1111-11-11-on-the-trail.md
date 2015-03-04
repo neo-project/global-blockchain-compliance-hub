@@ -150,3 +150,8 @@ Road crossing is much more dangerous than it may seem. It is important to take p
 - Make sure you have 200 feet of visibility in each direction. If you do not, you should have a leader act as spotter to let the group know when it is safe to cross. This is especially important when crossing in a spot where there are curves in the road.
 - Line up single-file along the road, with a leader at each end of the group, and communicate when everyone should begin walking across the road at the same time. Cross quickly and in a group.
 - If you have to walk along a road, walk in a line single file on the side of the road facing traffic and as far from the road as possible.
+
+### Tips
+- You can use personal tarps as extra raingear in lightening drills and big downpours.
+- If you notice your FOPpers only hiking next to certain people, mix up the order by having them hike in order of birthdays, height, or something similar.
+
