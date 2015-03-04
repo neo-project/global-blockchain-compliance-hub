@@ -19,6 +19,7 @@ Refer to the Emergency Call Guide in your leader packet for up-to-date emergency
 	- Dean Dingman Home: (617) 876-1472
 - Harvard University Police: (617) 495-1212
 	- Ask for watch officer to report an emergency if basecamp, Katie Steele, or Dean Dingman cannot be reached.
+- Office of Sexual Assault Prevention and Response (OSAPR) 24-hour hotline: 617-495-9100
 
 ### Secondary Emergency Numbers
 
