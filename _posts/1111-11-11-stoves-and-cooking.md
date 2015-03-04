@@ -45,7 +45,7 @@ Storage:
 
 Remember, the stove causes burns so treat it appropriately. The stove fuel we use is white gas and it is flammable! Emphasize stove safety with your FOPpers so that you will never have to deal with the agony of burns.
 
-#### How the Class FOP Peak 1 Stove Works
+#### How the Classic FOP Peak 1 Stove Works
 
 The stove consists of four main components: the Tank, Pump, Fuel Valve and Generator.
 
