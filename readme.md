@@ -15,6 +15,8 @@ The process for editing a page is the same regardless of the particular page you
 
 To edit a page, first click on it's name. You should then see a rendered version of the page (if it's a Markdown file) or the actual code (if it's `index.html`). Next, click on the pencil-like icon on the top right of the box containing the content. (It should be to the right of the words "Raw," "Blame," and "Histroy.") Now you'll be in the editor...go crazy!
 
+To delete a page, simply delete the .md file that contains it.
+
 Here are a few notes:
 
 - Markdown syntax is very simple to understand (here's a [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)), and feel free to toggle between the "Edit file" view and the "Preview changes" view to get a sense of what your changes will look like.
