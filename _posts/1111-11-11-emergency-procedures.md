@@ -154,3 +154,4 @@ In addition to the mandatory medical evacuations listed above, the following non
 - Eating concerns that are severe enough that they put person, leaders, or group in danger
 - Suicidal ideations
 - A FOP group without epinephrine (lost, broken, or used EPI-PEN/Twinject)
+- Any sexual harassment or sexual assault that compromises the physical or emotional safety of an individual or the group
