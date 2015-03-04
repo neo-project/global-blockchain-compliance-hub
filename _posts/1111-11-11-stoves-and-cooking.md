@@ -123,9 +123,7 @@ All thanks to the user manual on MSR's website.
 
 -Parts Overview and Steps for Operation
 ![partsoverview](http://fop.fas.harvard.edu/files/fop/files/0_-_parts_overview.jpg) 
--Step One
 ![stepone][stepone]
--Step Two
 ![steptwo][steptwo]
 ![stepthree][stepthree]
 ![stepfour][stepfour]
