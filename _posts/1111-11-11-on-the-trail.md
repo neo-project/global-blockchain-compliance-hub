@@ -61,7 +61,7 @@ Weight distribution:
 
 When traveling with a group, it's extremely important that everyone stay together. Try to keep a pace that's suitable for everyone; it's often helpful to put the slowest person in the front. Be aware of issues that may arise in a group of widely disparate hiking ability. One common problem is that faster hikers habitually get ahead and then stop until everyone catches up - so that they feel well rested when the slower hikers haven't had a break at all. Be sure you are aware of all the hiking and canoeing rules in the "Policies and Procedures" section of the handbook.
 
-#### Wilderness Travel Tips
+#### Wilderness Travel Pointers
 
 - Leaders should always sweep: have one leader towards the front and one in the back. The lead and the sweep should always be in earshot of each other.
 - When hiking up steep terrain, you will use less energy by taking many small steps than several large big ones. Plant the whole sole of your foot against the hill, so that you don't bounce too much on your Achilles tendon and injure it.
