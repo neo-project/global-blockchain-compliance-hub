@@ -152,6 +152,9 @@ On the trail, FOP uses the "rubber band system" to differentiate the three state
 - Taking everyone’s watch can create a new experience of time awareness for your FOPpers, only eating when they’re are hungry, sleeping when they’re tired, etc. (Make sure that leaders keep watches.) Also, make sure this is a choice, not forced.
 - You can put Andes Mints (mountainous, delicious) on everyone’s pillows the first night for a cutely hotel-ish treat to make the FOPpers feel welcomed and cared for (a Chris Angell special).
 - Use a talking stick to facilitate discussion.
+- Carry more durable trash compactor bags instead of regular trash bags to line your pack.
+- Bring extra ziplock bags as all of your FOPpers will want them.
+- Teabags can work to clean your face.
 - Have a Black Tie dinner or evening. Tell your FOPpers that they need to assemble their most formal attire from the things that they have with them. You can leave it up to their imagination or give them hints (socks make great ties, trash bags and tarps make great skirts and dresses). This works especially well on the last night of the trip, so that your FOPpers are entertained while you’re making the cheesecake.
 
 
