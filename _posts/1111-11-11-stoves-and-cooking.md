@@ -272,5 +272,8 @@ Be scrupulous about picking out as much food from pots as possible before rinsin
 - Leave a little extra water in the pasta when you strain, since everyone is dehydrated anyway. Soupy pasta is all right in the woods.
 - Use water from pasta in hot chocolate.
 - To make serving fair, let 2 FOPpers “own” each meal; they’ll be very equitable, and FOPpers won’t complain as much about the food.
+- How to not lose your spoon: Don’t carry a loose spoon. Tie your spoon to your bowl. You may need to drill holes, and you may want to cover the know with duct tape so it doesn’t get gross. Leave about 12” of p-cord between the spoon and the bowl. You can use the string to hang your bowl and spoon from tarplines, from a tree near the kitchen, and basically get your stuff out of the way in camp. Also, you can cut your spoon down and keep it inside your bowl. Or, you can pack it with your toothbrush or pack it the pocket of the jacket you always wear.
+- If you do lose your spoon: twig chopsticks! Can work excellent– take all the bark off the stick and clean the wood until it is shiny and you will wonder why you ever carried a spoon (until you eat a little of the bark or wood). If you get really desperate, a folded tupperware top works surprisingly well.
+
 
 [stove parts]: http://bracket.no-ip.com/tb/images/st_pics/coleman_533-700_parts_list.gif
