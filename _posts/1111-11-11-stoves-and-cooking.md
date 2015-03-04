@@ -45,7 +45,7 @@ Storage:
 
 Remember, the stove causes burns so treat it appropriately. The stove fuel we use is white gas and it is flammable! Emphasize stove safety with your FOPpers so that you will never have to deal with the agony of burns.
 
-#### How the Stove Works
+#### How the Class FOP Peak 1 Stove Works
 
 The stove consists of four main components: the Tank, Pump, Fuel Valve and Generator.
 
@@ -116,6 +116,21 @@ tighten the packing nuts on the stove just enough to prevent leaks (about a 1/2 
 
 
 Periodically squirt a few drops of oil into the hole on the pump cap. This will keep the pump functioning properly.
+
+### How to Use the MSR Whisperlite Stove
+
+All thanks to the user manual on MSR's website.
+
+-Parts Overview and Steps for Operation
+![partsoverview][partsoverview]
+![stepone][stepone]
+![stepone][stepone]
+
+
+
+-
+
+
 
 ### Nutrition and Eating Concerns on FOP
 
@@ -276,3 +291,5 @@ Be scrupulous about picking out as much food from pots as possible before rinsin
 - If you do lose your spoon: twig chopsticks! Can work excellent– take all the bark off the stick and clean the wood until it is shiny and you will wonder why you ever carried a spoon (until you eat a little of the bark or wood). If you get really desperate, a folded tupperware top works surprisingly well.
 
 [stove parts]: http://oi59.tinypic.com/1zj50g.jpg
+[partsoverview]: http://fop.fas.harvard.edu/files/fop/files/0_-_parts_overview.pdf
+
