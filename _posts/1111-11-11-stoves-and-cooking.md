@@ -119,7 +119,7 @@ Periodically squirt a few drops of oil into the hole on the pump cap. This will 
 
 ### How to Use the MSR Whisperlite Stove
 
-All thanks to the user manual on MSR's website.
+All thanks to the user manual on MSR's [website][whisperlite].
 
 -Parts Overview and Steps for Operation
 ![partsoverview](http://fop.fas.harvard.edu/files/fop/files/0_-_parts_overview.jpg) 
@@ -311,4 +311,5 @@ Be scrupulous about picking out as much food from pots as possible before rinsin
 [stovemaintenance]: http://fop.fas.harvard.edu/files/fop/files/8_-_stove_maintenance.jpg
 [pumpmaintenance]: http://fop.fas.harvard.edu/files/fop/files/9_-_pump_maintenance.jpg
 [troubleshooting]: http://fop.fas.harvard.edu/files/fop/files/10_-_troubleshooting.jpg
+[whisperlite]: http://d1l67pfsx3wblg.cloudfront.net/pdf/msr_whisperlite_manual_en.pdf
 
