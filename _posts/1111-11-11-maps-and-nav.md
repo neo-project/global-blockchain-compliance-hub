@@ -101,7 +101,7 @@ A word of caution: map bearings and field bearings can differ in the USA by as m
 
 ![takingbearing][takingbearing]
 
-All of the above content (minus the crash course) is taken from summitpost.org
+All of the above content (minus the crash course) is taken from [summitpost.org][summitpost].
 
 ### Getting Lost
 
@@ -165,6 +165,7 @@ Knowing where you are on the map at all times is a habitual behavior that leader
 [compassrose]: http://images.summitpost.org/original/358192.jpg 
 [compassnavigating]: http://images.summitpost.org/original/358304.jpg
 [takingbearing]: http://images.summitpost.org/original/358201.jpg
+[summitpost]:http://www.summitpost.org/compass-basics-an-introduction-to-orientation-and-navigation/358187
 
 
 
