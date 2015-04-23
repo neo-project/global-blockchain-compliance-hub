@@ -39,6 +39,13 @@ Framing a solo well can help the group and individual FOPpers grow and can build
 
 One thing to keep in mind about solos: they do not only have to take place in the woods! Solos can be done anytime you can zone out and just be alone in the world - by the river on a sunny day, in a secret library spot with a pretty view, or in your dorm room. In teaching your FOPpers how wonderful solos can be, you are giving them a skill they can use throughout their life to collect themselves, slow down, and reflect. Make sure they know this - there are many times during freshmen year in particular when deep breaths during a twenty minute solo can do a whole mountain of good.
 
+When conducting solos, keep the following logistical guidelines in mind: 
+1. Have one leader stay put throughout (at a central, known location), and inform the FOPpers where that leader will be. 
+2. Have a communication system in place beforehand to deal with any emergencies. 
+3. Be aware of the solo locations of all FOPpers. Usually this will be within 50 meters of the leaders' location. 
+4. Solo participants should not move (other than to return to base camp) once they are settled.
+5. Supervise (and check-in if a longer solo), but in the least obstrusive manner possible.
+
 #### Evening/Summit Meetings
 
 Set aside time in the evening for a group assembly. You should try to meet every night unless there is an exceptional circumstance. There are many ways to structure the Summit so that it meets the needs of your group. Some days you might want to keep it light and playful, and other days you may get into more direct, involved, and deeper discussion. In general, you want to start in a less intimidating "sharing" mode and progress toward taking more risks and promoting full and open communication.
