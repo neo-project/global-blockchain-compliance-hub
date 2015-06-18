@@ -155,7 +155,8 @@ Soft tissues are everything but the bones; common soft tissue injuries affect th
 - Bandage, and keep cleaning and re-cleaning and monitor for signs of infection. Change bandages every 24 hours (sooner if conditions are dirty or wet).
 - An antibiotic can be applied to abrasions after cleaning and before bandaging, but don't fill a laceration or puncture wound with ointment as it will seal bacteria inside.
 - A patient should be evacuated for stitches if:
-    - Cut goes through skin more than 12 inch, or scarring is a concern
+    - The laceration is longer than 1/2 inches, if the cut is deep, and/or if scarring is a concern
+    - If the edges of skin do not fall together (i.e. flesh is exposed beneath)
     - If the cut is on face, hands, or over a joint
     - [WFR topic: If there is an injury to a blood vessel, ligament, or tendon]
 
