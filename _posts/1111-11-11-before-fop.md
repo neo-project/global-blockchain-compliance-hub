@@ -181,9 +181,8 @@ When you finally meet your group it is your responsibility to keep them together
 
 You and your co will want to cover this list with each other before you talk to your FOPpers. Plan out when you will talk about certain issues, and who will talk in each situation. From the very first night, the manner in which you talk about such issues as hygiene and minimum impact will set the tone for the rest of your trip. Many of these topics are addressed throughout the handbook.
 
-Remember- Everything Matters. Nothing Matters. 
-
-The first 24 hours can be busy, so don't feel like you have to cover everything in this amount of time. Do what you can and do the most important things. SLEEP (and fun are essential, so make sure those things happen in the first 24 hours as well. 
+#### Remember
+Everything Matters. Nothing Matters. The first 24 hours can be busy, so don't feel like you have to cover everything in this amount of time. Do what you can and do the most important things. SLEEP (and fun) are essential, so make sure those things happen in the first 24 hours as well. 
 
 #### On Campus
 
