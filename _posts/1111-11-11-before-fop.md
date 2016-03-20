@@ -11,7 +11,7 @@ comments: true
 
 Trip planning for all leaders begins at Pre-FOP, about five days before the first-years arrive. Pre-FOP is a busy time for the Steering Committee and leaders alike, so it is important to stay on schedule and make sure that things get done. Time is carefully allotted for WFA review, skills review workshops, food preparations, equipment work, and any troubleshooting.
 
-During your free time it is important that you and your co-leader get to know each other and establish your shared expectations for the trip. This is the time when you plan your route and review/discuss all relevant information, so that you are fully prepared to lead. Together, you should "inventory" your skills, both technical and interpersonal, so that you can address strengths and areas of possible improvement in your leadership styles. Make sure you're where you're supposed to be when you're supposed to be there, but find time with your co to set goals and prepare for the unexpected.
+During your free time it is important that you and your co-leader get to know each other and establish your shared expectations for the trip. This is the time when you plan your route and review/discuss all relevant information, so that you are fully prepared to lead. Together, you should "inventory" your skills, both technical and interpersonal, so that you can address strengths and areas of possible improvement in your leadership styles. Make sure you're where you're supposed to be when you're supposed to be there, but find time with your co to set goals and prepare for the unexpected. Also, sleep. Sleep is essentially to feeling energized for FOP! 
 
 #### Co-Leader Inventory
     
@@ -181,9 +181,13 @@ When you finally meet your group it is your responsibility to keep them together
 
 You and your co will want to cover this list with each other before you talk to your FOPpers. Plan out when you will talk about certain issues, and who will talk in each situation. From the very first night, the manner in which you talk about such issues as hygiene and minimum impact will set the tone for the rest of your trip. Many of these topics are addressed throughout the handbook.
 
+Remember- Everything Matters. Nothing Matters. 
+
+The first 24 hours can be busy, so don't feel like you have to cover everything in this amount of time. Do what you can and do the most important things. SLEEP (and fun are essential, so make sure those things happen in the first 24 hours as well. 
+
 #### On Campus
 
-- Medical concerns: Find out if anyone's medical history has changed or if they're taking any medication during the trip. Ask your FOPpers how they are feeling physically that day.
+- Medical concerns: Find out if anyone's medical history has changed or if they're taking any medication during the trip. Ask your FOPpers how they are feeling physically that day. (This should happen before leaving campus--- you could meet with FOPpers individually while the group is separating group gear and making GORP.)
 - The route: Get them psyched to hike (and to listen to your long, boring talk to follow); some may still feel a little tentative. Hand out copies of the map if you've got them.
 - Effective packing: Men should organize weight toward the upper middle of the back, while women should concentrate weight toward the hips.
 - Clothing and equipment: Have the FOPpers take everything out of their packs, or perhaps demonstrate with a volunteer how to prioritize packing so that raingear and water are always accessible, etc. At the same time, you can make sure everyone has everything they need so there will be no last-minute surprises.
@@ -193,7 +197,7 @@ You and your co will want to cover this list with each other before you talk to 
 - Eating concerns: Let FOPpers know that eating on FOP is critical for their warmth and safety. We burn a lot of calories and FOP is not the time to diet. Set the right tone - "mmm, I love all of this cheese since I get so hungry on the trail." If a FOPper has a real problem with the food, let the SC or the Director know, since some adjustments in the menu can be made.
 - Strangers: See policy. Especially important for service and front country trips.
 - Group dynamics: Stress the importance of working together and creating an atmosphere of mutual respect and tolerance. Introduce "No Discount" and the Full Value Contract.
-- Safety issues: Make them aware of general safety issues, such as staying with the group, and of program policies regarding drugs and alcohol, romance on FOP, etc. This is your opportunity to set the tone of being firm on safety issues. Emphasize that the wilderness is an isolated environment and that behavior that might be okay in their backyards (like jumping off rocks or horsing around) is not safe when you're hours from civilization.
+- Safety issues: Make them aware of general safety issues, such as staying with the group, and of program policies regarding drugs and alcohol, romance on FOP (can be framed as exclusive relationships), etc. This is your opportunity to set the tone of being firm on safety issues. Emphasize that the wilderness is an isolated environment and that behavior that might be okay in their backyards (like jumping off rocks or horsing around) is not safe when you're hours from civilization.
 - Accident issues: Explain to your FOPpers the expectations of them during an emergency situation. Explain "Universal Precautions" (see Part VII, Wilderness First Aid) and warn them to never attempt to help out with a first aid situation unless directed by a trained rescuer. We want to ensure that no one in FOP has an exposure to any blood borne pathogens.
 
 #### At the Trailhead
@@ -220,3 +224,4 @@ Things you may consider bringing on your trip:
 - A tiny container of Vaseline: Soothes your dry skin and works well as a stove repair lubricant. 
 - A packet of "Wet Ones" wipes: Because sometimes it's nice to feel a tiny bit clean.
 - A nail clipper: Because packing packs tends to lead to hangnails and everyone will be grateful for relief from those.
+- An extra stuff sack: You can put your surprises and personal items in this so FOPpers don't rummage through it when putting up/taking down the bear bag. 
