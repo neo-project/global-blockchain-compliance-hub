@@ -9,66 +9,110 @@ comments: true
 
 ### Knots
 
-This section will help you deal with all of the situations in which you have to attach one thing to another with rope or cord. Knots are easy to practice in Cambridge if one carries around a shoelace or similar stringy material. They can be great fun in boring classes, especially if one ties them to people. A few simple concepts can be useful when thinking about knots:
+This section will help you deal with all of the situations in which you have to attach one thing to another with rope or cord. Knots are easy to practice in Cambridge if one carries around a shoelace or similar stringy material. They can be great fun in boring classes, especially if one ties them to people. 
 
+When choosing which knot is appropriate for a given situation, you consider two factors: 
+- the strength of the knot
+- the ease of untying
+It's important to remember this second factor, because you want to be able to re-use your ropes the next day! Most of the knots described here are especially easy to untie because they have a built-in method for doing so. For the bowline and butterfly knot, this is called "breaking the back." 
+
+A few other simple concepts can be useful when thinking about knots:
 - The end of the rope in which you are tying the knot is called the "running end," and the other end is the "standing end."
 - A loop at the running end is called a "bight."
 - A simple knot is the "overhand" or "pretzel" knot.
 - Almost all knots can be made easier to untie by finishing them with a bight rather than just poking the running end through. The simplest example leads to the "slip knot." Try tying an overhand knot, but instead of poking the running end through as you normally would, poke a bight through. The result, after pulling everything tight, is a slip knot that is very easy to untie. Note that a slip knot can be tied at any point in the length of a rope because the ends are never pulled through.
+- The ridgeline is the thick, long rope that will be tied between two trees and serve to hold up the tarp.
+- The p cords are the shorter, thinner ropes that can be used for tying ends of the tarp to various anchor points.
 
 ![rope][rope]
 
 #### Types of Knots
 
 - Hitches are used to tie the rope to something other than itself or an- other rope.
-	- Taught-line Hitch (a.k.a. "Knot of Fours")
+	- Taut-line Hitch (a.k.a. "Knot of Fours")
 	- Trucker's Hitch
 	- Clove Hitch (a.k.a. "Ghostie")
 	- Bowline
 - Bends are used to tie two ropes together.
 	- Square Knot
 	- Sheet Bend
+	- Butterfly Knot
 
 There are many more cool knots out there, but those few will get you through tarping with flying colors.
 
-#### Taught-line Hitch (a.k.a. "Knot of Fours")
+#### Taut-line Hitch (a.k.a. "Knot of Fours")
+- Use case:
+	- Tying the corners and sides of the tarps to anchors (use this knot around the anchor, like a tree or root or rock)
+	- Tying the ridgeline of the nylon tarps (trucker's hitch rips the nylon tarps)
+- Advantages:
+	- You can slide the knot to adjust tension
+	- Keeps the nylon tarps and their water sealing safe from tears, because it cannot be pulled as tight as the trucker's hitch
+- Disadvantages:
+	- Can't be pulled as tight
+	- Harder to tie and untie than the trucker's hitch
 
-The most versatile knot for tarps, the taught-line hitch is especially
-useful for the ridgeline of the nylon tarps and the corners and sides of both the nylon and plastic tarps. This is the knot you will use the most while setting up FOP tarps. Its advantages over the trucker's hitch are that tension can be adjusted simply by sliding the knot, and that it cannot be pulled as tight as the trucker's hitch (thus keeping the nylon tarps and their water sealing safe from tears).
+##### How to tie: 
+Just remember that it's called the "Knot of Fours" for a reason!
+- Loop your running end around whatever object you're using as an anchor, and make a shape like this: ![knotoffours1][knotoffours1] 
+- Loop your running end around like this, but do it four times, one on top of the other, to get a neat stack: ![knotoffours2][knotoffours2]
+- Now, if when you bring your running end over to the 
 
-Disadvantages are that it cannot be pulled as tight, and that it is harder to tie and untie. (If you only pass a bight through at the end of tying the knot, it can make untying less difficult.
+##### How to Adjust Tension
+- 
+
 
 ![taught-line][taught-line]
 
 #### Trucker's Hitch
-
-This is a useful and versatile tarping knot. However, the trucker's hitch should be used only for the ridgeline of the plastic tarps; this knot puts too much stress on the nylon tarps and can rip the fabric or sealing. It is easy to tie, very easy to untie, and almost too easy to pull things tight with (especially when pulling on fragile tarp material - be careful). It consists of two slip knots. The first should be tied a little ways from the running end, by pulling a bight taken from the running end through a loop. (If you pull a bight from the tarp-side (standing end) through, the slip knot will close on itself later, making it much more difficult to untie.) Then the running end is fed around an anchor, back through the loop of the tightened slip knot, and tied off with another slip knot as shown. To untie, just pull.
+- Use case:
+	- Tying the ridgeline of the plastic tarps (not the nylon tarps; use the taut-line hitch for those)
+- Advantages:
+	- Easy to tie, untie, and pull tight!
+- Disadvantages:
+	- Careful not to pull too tight on tarps - you don't want to break the material!
+##### How to tie:
 
 ![trucker][trucker]
 
 #### Clove Hitch (a.k.a. "Ghostie")
-
-Used here to fasten tarp cord to the plastic tarps, using a small, smooth stone or pine cone. It consists of two identical loops, one in front of the other as shown. Remember to install the stone from underneath the tarp to prevent the creation of an excessive gutter on top (which would lead to pooling).
-
+- Use case:
+	- Fastening the tarp cord to the plastic tarps, using a small smooth stone, a handful of dirt, pine cone, whatever is handy
+##### How to tie:
+	- Two methods shown below, but the basic idea is to overlap two identical loops
+	- Two handed version:
+	- One handed version:
 ![clove][clove]
 
 #### Bowline
-
-Useful for attaching tarp cord to the grommets (the metal rings around the edge) on the newer tarps. A classic sailing knot. Easiest to remember and hardest to draw in the one-handed version.
+- Use case:
+	- Tying the ridgeline around a tree 
+	- Attaching the tarp cord to the grommets (the metal rings around the edges) on the newer tarps, instead of using the clove hitch
+##### How to tie:
 
 ![bowline][bowline]
 
 #### Square Knot
-
-What you use to tie your shoes, except without the slip knots (i.e., make two overhand knots). This knot is terrible for making a long ridgeline from two tarp cords because, once it has been pulled tight by a trucker's hitch over- night, it is often impossible to untie. ("Knot" to be confused with the "granny knot," which is tied left over right, left over right again; the granny knot is not as strong).
-
+- Use case: 
+	- If you have two short p cords, you can make one longer p cord! 
+	- DON'T use it to join two ridgelines
+- Advantages:
+	- You probably already know how to tie this one! It's what you use to tie your shoes, except without the slipknots (i.e. make two overhand knots)
+- Disadvantages:
+	- Really terrible for making a long ridgeline from two tarp cords because, once it has been pulled tight by a trucker's hitch over- night, it is often impossible to untie. ("Knot" to be confused with the "granny knot," which is tied left over right, left over right again; the granny knot is not as strong).
+##### How to tie:
 ![square][square]
 
 #### Sheet Bend
-
-A much better choice for making a long ridgeline, the sheet bend is also stronger. Start with a bight on one cord and wrap the other around it.
+- Use case:
+	- If you want to join two ridgelines to make a longer ridgeline
+- Advantages:
+	- Much stronger than the square knot
 
 ![sheet][sheet]
+
+#### Butterfly Knot
+
+#### Figure 8 ("Princess") Knot
 
 ### Tarps
 
