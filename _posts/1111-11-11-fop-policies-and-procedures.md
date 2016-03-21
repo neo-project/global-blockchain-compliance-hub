@@ -246,6 +246,7 @@ tool if deemed necessary.
 - No sexual activity is permitted on FOP.
 - Sexual/romantic relationships between leaders/staff and participants are forbidden. This extends after the conclusion of a FOP trip.
 - All participants, leaders, and staff are expected to follow the standards of conduct outlined in the Harvard College [Handbook for Students](http://handbook.fas.harvard.edu). 
+- No group nudity, including partial nudity, is allowed on FOP. 
 
 ### Shelters/Huts
 
