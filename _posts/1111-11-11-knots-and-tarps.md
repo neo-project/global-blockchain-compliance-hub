@@ -195,7 +195,7 @@ Along with taking pride in your tarps, you should take care of them. Both the ny
 
 [rope]: http://www.winstonhillsscoutgroup.com/Cubs/Gold/GOLD%20BOOMERANG%20TEST%203_files/Image7.gif
 [taught-line]: http://cdn.instructables.com/FE2/XCQX/FRD80IRK/FE2XCQXFRD80IRK.LARGE.gif
-[trucker]: http://www.nhamcpaddlers.org/images/truckers_hitch.gif
+[trucker]: {{ site.url }}/assets/Truckershitch.jpg
 [clove]: http://www.townsvillemaritimemuseum.org.au/gallery/Hitches_and_Bends/Hitches_and_Bends_img_1774.jpg
 [bowline]: http://www.byc.org/graphics/bowline2.gif
 [square]: http://www.canoecruisers.org/instruction/ACA_SWR_Class/Knots/SquareKnotDiagram.png
