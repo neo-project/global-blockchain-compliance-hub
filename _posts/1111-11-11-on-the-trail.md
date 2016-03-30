@@ -9,7 +9,7 @@ comments: true
 
 ### Packing a Pack/Pack Adjustment
 
-Remember to help your FOPpers with this before you set off each morning. Well- fitted packs can allow for a more comfortable hike, and happier people all day! While internal-frame packs dominate the backpack market today, most of the strategies described here apply to any pack wearer.
+Remember to help your FOPpers with this before you set off each morning. Well-fitted packs can allow for a more comfortable hike, and happier people all day! While internal-frame packs dominate the backpack market today, most of the strategies described here apply to any pack wearer.
 
 Weight distribution:
 
@@ -130,15 +130,16 @@ In addition, remember you have flexibility in deciding when, where, and how to c
 	- Try not to cross at a bend in the stream (uneven current that creates an uneven bed may present unexpected obstacles).
 	- Do not cross upstream of hazards such as a drop (waterfall), strainers, etc.
 	- Only cross on logs when they are securely on the ground.
-2. How to cross:
+2. Crossing methods:
+	- Tripod: Have three FOPpers hold hands in a ring and cross by rotating slowly, with one person moving at a time
+	- Pyramid: Arrange FOPpers in an arrow pointing upstream and cross slowly as a group. For this method it might be a good idea to 	put the strongest FOPpers in the very tip of the arrow, because they will be getting the brunt of the current, while those in the 	interior and on the sides will have an easier time.
+3. Things to note:
 	- Before anyone crosses, instruct your FOPpers in crossing procedure and familiarize them with the nuances of the cross.
-	- A leader should always go first to assist FOPpers from the other side.
 	- Undo the hip belt and sternum straps of your pack before you cross so
 	that you can quickly remove it if necessary.
 	- "Feel out" each step with your foot before you commit your weight to it.
 	- Avoid stepping on wet, slippery rocks or rocks that will shift easily.
 	- If necessary, carry a stick to help maintain your balance and test footing.
-	- Consider pairing up for support or handing packs across.
 	- Never face downstream, as the force of the river could cause your legs to buckle. Either sidestep facing upstream or walk perpendicular to the current.
 	- FOPpers should be instructed that in the unlikely event that they are swept off their feet they should get out of their pack and into the position where their feet are facing downstream and their heads upstream so any obstacles will hit their feet first, not their head. They should then try to get to the side of the river, where someone can help them out.
 
