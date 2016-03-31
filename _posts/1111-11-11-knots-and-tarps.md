@@ -66,6 +66,10 @@ There are many more cool knots out there, but those few will get you through tar
 #### Clove Hitch (a.k.a. "Ghostie")
 - Use case:
 	- Fastening the tarp cord to the plastic tarps, using a small smooth stone, a handful of dirt, pine cone, whatever is handy
+- Advantages:
+	- Incredibly quick and easy
+- Disadvantages:
+	- As is probably obvious, it isn't very secure. Shouldn't be used for holding a lot of strain
 
 ![clove][clove]
 
@@ -114,9 +118,7 @@ There are many more cool knots out there, but those few will get you through tar
 
 #### Figure 8 ("Princess") Knot
 - Use case:
-	- If you want to join two ridgelines to make a longer ridgeline
-- Advantages:
-	- Much stronger than the square knot
+	- When you bear bag, you'll hang a carabiner on this knot, and then hang all your smelly items on the carabiner!
 
 ![princess][princess]
 
