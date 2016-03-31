@@ -105,7 +105,7 @@ There are many more cool knots out there, but those few will get you through tar
 
 ![butterfly1234][butterfly1234]
 ![butterfly5678][butterfly5678]
-![butterflyfinal][butterflyfinal]
+![butterflylast][butterflylast]
 
 #### Figure 8 ("Princess") Knot
 - Use case:
@@ -204,7 +204,7 @@ Along with taking pride in your tarps, you should take care of them. Both the ny
 [princess]: {{ site.url }}/assets/Princessknot.jpg 
 [butterfly1234]: {{ site.url }}/assets/butterfly1234.jpg 
 [butterfly5678]: {{ site.url }}/assets/butterfly5678.jpg 
-[butterflyfinal]: {{ site.url }}/assets/butterflyfinal.jpg 
+[butterflylast]: {{ site.url }}/assets/butterflylast.jpg 
 [tarp]: http://i177.photobucket.com/albums/w228/cmgray1228/DSC00317.jpg
 [pinch]: {{ site.url }}/assets/pinch.jpg
 [pulley]: {{ site.url }}/assets/pulley.jpg
