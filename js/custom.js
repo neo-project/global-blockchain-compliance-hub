@@ -28,6 +28,8 @@ $(document).ready(function() {
 		"width": "400px"},
 		{"alt": "pulley",
 		"width": "600px"},
+		{"alt": "Princessknot",
+		"width": "400px"},
 		{"alt": "stove parts",
 		"width": "400px"},
 		{"alt": "bearbag1",
