@@ -36,7 +36,7 @@ A few other simple concepts can be useful when thinking about knots:
 - Bends are used to tie two ropes together.
 	- Square Knot
 	- Sheet Bend
-	- Butterfly Knot
+	- Alpine Butterfly Bend
 
 There are many more cool knots out there, but those few will get you through tarping with flying colors.
 
@@ -95,9 +95,21 @@ There are many more cool knots out there, but those few will get you through tar
 
 ![sheet][sheet]
 
-#### Butterfly Knot
+#### Alpine Butterfly Bend
+- Use case:
+	- If you want to join two ridgelines to make a longer ridgeline
+- Advantages:
+	- Your strongest option!
+	- Very easy to untie, even after being pulled very tight
+	- You don't actually need tape to hold the two ropes together while tying; that's just shown below for ease of demonstration
+
+![buttefly][butterfly]
 
 #### Figure 8 ("Princess") Knot
+- Use case:
+	- If you want to join two ridgelines to make a longer ridgeline
+- Advantages:
+	- Much stronger than the square knot
 
 ![princess][princess]
 
@@ -188,6 +200,7 @@ Along with taking pride in your tarps, you should take care of them. Both the ny
 [square]: http://www.canoecruisers.org/instruction/ACA_SWR_Class/Knots/SquareKnotDiagram.png
 [sheet]: http://www.pioneeringmadeeasy.co.uk/knotsandlash/images/sheetbend.jpg 
 [princess]: {{ site.url }}/assets/Princessknot.jpg 
+[butterfly]: {{ site.url }}/assets/butterfly.jpg 
 [tarp]: http://i177.photobucket.com/albums/w228/cmgray1228/DSC00317.jpg
 [pinch]: {{ site.url }}/assets/pinch.jpg
 [pulley]: {{ site.url }}/assets/pulley.jpg
