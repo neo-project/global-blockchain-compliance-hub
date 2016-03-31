@@ -28,7 +28,7 @@ $(document).ready(function() {
 		"width": "400px"},
 		{"alt": "pulley",
 		"width": "600px"},
-		{"alt": "Princessknot",
+		{"alt": "princess",
 		"width": "400px"},
 		{"alt": "stove parts",
 		"width": "400px"},
