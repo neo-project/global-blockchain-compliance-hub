@@ -30,6 +30,8 @@ $(document).ready(function() {
 		"width": "600px"},
 		{"alt": "princess",
 		"width": "400px"},
+		{"alt": "trucker",
+		"width": "400px"},
 		{"alt": "stove parts",
 		"width": "400px"},
 		{"alt": "bearbag1",
