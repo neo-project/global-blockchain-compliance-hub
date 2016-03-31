@@ -73,8 +73,13 @@ There are many more cool knots out there, but those few will get you through tar
 - Use case:
 	- Tying the ridgeline around a tree 
 	- Attaching the tarp cord to the grommets (the metal rings around the edges) on the newer tarps, instead of using the clove hitch
+- Advantages:
+	- Reasonably easy to untie
+- Disadvantages:
+	- Can only be tied when there isn't anything pulling the standing end
 
-![bowline][bowline]
+![bowline1234][bowline1234]
+![bowline5678][bowline5678]
 
 #### Square Knot
 - Use case: 
@@ -198,7 +203,8 @@ Along with taking pride in your tarps, you should take care of them. Both the ny
 [taught-line]: http://cdn.instructables.com/FE2/XCQX/FRD80IRK/FE2XCQXFRD80IRK.LARGE.gif
 [trucker]: {{ site.url }}/assets/Truckershitch.jpg
 [clove]: http://www.townsvillemaritimemuseum.org.au/gallery/Hitches_and_Bends/Hitches_and_Bends_img_1774.jpg
-[bowline]: http://www.byc.org/graphics/bowline2.gif
+[bowline1234]: {{ site.url }}/assets/bowline1234.jpg 
+[bowline5678]: {{ site.url }}/assets/bowline5678.jpg 
 [square]: http://www.canoecruisers.org/instruction/ACA_SWR_Class/Knots/SquareKnotDiagram.png
 [sheet]: http://www.pioneeringmadeeasy.co.uk/knotsandlash/images/sheetbend.jpg 
 [princess]: {{ site.url }}/assets/Princessknot.jpg 
