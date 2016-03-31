@@ -103,7 +103,9 @@ There are many more cool knots out there, but those few will get you through tar
 	- Very easy to untie, even after being pulled very tight
 	- You don't actually need tape to hold the two ropes together while tying; that's just shown below for ease of demonstration
 
-![buttefly][butterfly]
+![butterfly1234][butterfly1234]
+![butterfly5678][butterfly5678]
+![butterflyfinal][butterflyfinal]
 
 #### Figure 8 ("Princess") Knot
 - Use case:
@@ -200,7 +202,9 @@ Along with taking pride in your tarps, you should take care of them. Both the ny
 [square]: http://www.canoecruisers.org/instruction/ACA_SWR_Class/Knots/SquareKnotDiagram.png
 [sheet]: http://www.pioneeringmadeeasy.co.uk/knotsandlash/images/sheetbend.jpg 
 [princess]: {{ site.url }}/assets/Princessknot.jpg 
-[butterfly]: {{ site.url }}/assets/butterfly.jpg 
+[butterfly1234]: {{ site.url }}/assets/butterfly1234.jpg 
+[butterfly5678]: {{ site.url }}/assets/butterfly5678.jpg 
+[butterflyfinal]: {{ site.url }}/assets/butterflyfinal.jpg 
 [tarp]: http://i177.photobucket.com/albums/w228/cmgray1228/DSC00317.jpg
 [pinch]: {{ site.url }}/assets/pinch.jpg
 [pulley]: {{ site.url }}/assets/pulley.jpg
