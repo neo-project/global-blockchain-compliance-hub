@@ -51,16 +51,6 @@ There are many more cool knots out there, but those few will get you through tar
 	- Can't be pulled as tight
 	- Harder to tie and untie than the trucker's hitch
 
-##### How to tie: 
-Just remember that it's called the "Knot of Fours" for a reason!
-- Loop your running end around whatever object you're using as an anchor, and make a shape like this: ![knotoffours1][knotoffours1] 
-- Loop your running end around like this, but do it four times, one on top of the other, to get a neat stack: ![knotoffours2][knotoffours2]
-- Now, if when you bring your running end over to the 
-
-##### How to Adjust Tension
-- 
-
-
 ![taught-line][taught-line]
 
 #### Trucker's Hitch
@@ -70,24 +60,19 @@ Just remember that it's called the "Knot of Fours" for a reason!
 	- Easy to tie, untie, and pull tight!
 - Disadvantages:
 	- Careful not to pull too tight on tarps - you don't want to break the material!
-##### How to tie:
 
 ![trucker][trucker]
 
 #### Clove Hitch (a.k.a. "Ghostie")
 - Use case:
 	- Fastening the tarp cord to the plastic tarps, using a small smooth stone, a handful of dirt, pine cone, whatever is handy
-##### How to tie:
-	- Two methods shown below, but the basic idea is to overlap two identical loops
-	- Two handed version:
-	- One handed version:
+
 ![clove][clove]
 
 #### Bowline
 - Use case:
 	- Tying the ridgeline around a tree 
 	- Attaching the tarp cord to the grommets (the metal rings around the edges) on the newer tarps, instead of using the clove hitch
-##### How to tie:
 
 ![bowline][bowline]
 
@@ -99,7 +84,7 @@ Just remember that it's called the "Knot of Fours" for a reason!
 	- You probably already know how to tie this one! It's what you use to tie your shoes, except without the slipknots (i.e. make two overhand knots)
 - Disadvantages:
 	- Really terrible for making a long ridgeline from two tarp cords because, once it has been pulled tight by a trucker's hitch over- night, it is often impossible to untie. ("Knot" to be confused with the "granny knot," which is tied left over right, left over right again; the granny knot is not as strong).
-##### How to tie:
+
 ![square][square]
 
 #### Sheet Bend
@@ -113,6 +98,8 @@ Just remember that it's called the "Knot of Fours" for a reason!
 #### Butterfly Knot
 
 #### Figure 8 ("Princess") Knot
+
+![princess][princess]
 
 ### Tarps
 
@@ -200,6 +187,7 @@ Along with taking pride in your tarps, you should take care of them. Both the ny
 [bowline]: http://www.byc.org/graphics/bowline2.gif
 [square]: http://www.canoecruisers.org/instruction/ACA_SWR_Class/Knots/SquareKnotDiagram.png
 [sheet]: http://www.pioneeringmadeeasy.co.uk/knotsandlash/images/sheetbend.jpg
+[princess]: {{ site.url }}/assets/Princessknot.jpg
 [tarp]: http://i177.photobucket.com/albums/w228/cmgray1228/DSC00317.jpg
 [pinch]: {{ site.url }}/assets/pinch.jpg
 [pulley]: {{ site.url }}/assets/pulley.jpg
