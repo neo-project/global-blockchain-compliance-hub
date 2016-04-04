@@ -31,6 +31,7 @@ This isn’t a comprehensive list, but here are a few norms to think about setti
 
 #### Anger (& other emotions)
 These kinds of discussions can elicit a wide range of emotions from people, and that can be difficult to deal with. It can be easier if we:
+
   - Recognize that these issues are bigger than ourselves, and that: 
       - Your comment could be just the tip of the iceberg, or a trigger for some other incident or issue.
       - You could be inadvertently playing into a harmful stereotype or a binary that makes certain identities invisible. 
@@ -41,6 +42,7 @@ These kinds of discussions can elicit a wide range of emotions from people, and 
 
 #### Calling Out
 As the likely facilitator of many of these discussions, it may sometimes fall upon you to call someone out for a comment, question, attitude, or action that you notice. Awesome! Calling out is a good thing - besides being necessary on individual levels, it also pushes the group’s conversations to go deeper and gives people a chance to revisit and revise some of their harmful assumptions. Hopefully, you’ll be able to norm it in your group, and not have it seem like something unusual or confrontational, definitely not something that would end up requiring VOMPing. Here are some ways to help:
+
   - Have you and your co-leader(s) casually call each other out and handle it gracefully during one of the first days. (It doesn’t have to be convincingly realistic to do its job!) That exchange could go something like:
       - Co A: I was talking to my friend Emily about how hard she finds it to know how and when to “come out” to her friends as trans*. She was telling me about how hard it is to explain in a way that non-trans* folk can understand. 
       - Co B: Oh, did she feel trapped in the wrong body?
@@ -63,6 +65,7 @@ As the likely facilitator of many of these discussions, it may sometimes fall up
 
 #### Apologies
 Apologies are not scary! They’re really important and inevitable. When done well, they can allow people to feel comfortable leaning into difficult or uncomfortable discussions.
+
   - Here is what some bad apologies might sound like: 
       - I’m sorry that/if you were offended…
           - This one is kind of a microaggression, because it implies that the hurt was not necessarily legitimate and that the burden is on the other person to handle their own emotions. It demonstrates an attitude of being closed to further discussion and learning.
@@ -83,6 +86,7 @@ Apologies are not scary! They’re really important and inevitable. When done we
 
 #### Framing Tools / Anchors
 There are times when it may feel impossible to bring up these discussions organically, and you need a way to explicitly bring up this discussion or at least bring it to the forefront of people’s minds. Here are some ways to do that:
+
   - Read a quote from this section for everyone to ponder independently, or do some writing about. 
   - Read a quote and share how it sheds new light on your own experiences, or what you might have overlooked about an aspect of your privilege.
   - Say, “I benefit from the structures of privilege in X ways and I shouldn’t be at the center of this conversation. But I do think it’s incredibly important that this conversation happens, and here’s why. (Or here’s how these things affect my life or how I am implicitly part of the problem)”
@@ -97,13 +101,15 @@ There are times when it may feel impossible to bring up these discussions organi
 #### Decentering
 Most spaces in our culture are clearly centered around the experiences of a few privileged identities.
 For example, here are just a few ways that white experiences are centered every day:
-      - European tragedies are more publicized
-      - PSAs about issues like child marriage get more attention and outrage if they portray white victims (even though the majority of victims are Asian and African)
-      - Minorities are marked as ‘other’ in college admissions processes
-      - Books studied in schools are overwhelmingly written by white people about white people
-      - Language used by white people is seen as ‘proper’ while the language of other demographics is not
+
+  - European tragedies are more publicized
+  - PSAs about issues like child marriage get more attention and outrage if they portray white victims (even though the majority of victims are Asian and African)
+  - Minorities are marked as ‘other’ in college admissions processes
+  - Books studied in schools are overwhelmingly written by white people about white people
+  - Language used by white people is seen as ‘proper’ while the language of other demographics is not
 In light of that, how can we reverse the narrative so that we allow those who are normally labeled as ‘other’ to be at the center?
 Two ways:
+
   - Equal sharing of vulnerability
       - The responsibility is usually on those who would be ‘othered’ because of their identities to share their stories and be vulnerable. The burden is also on them to defend why conversations about diversity are important at all. Instead, those who find themselves with some privileged identities should also step forward and be vulnerable - about the ways that they are starting to see their own privilege, or mistakes that they might have made. They should also speak to why diversity is important. Studies have shown that it is white students who gain the most from being taught to consider the experiences of people who are different to them. Students of color gain little because they already do it, every day, from speaking in the language of the white majority or writing essays about white boys at school. A safe space can only be constructed with everyone’s active effort. 
   - Stepping back as the expert
