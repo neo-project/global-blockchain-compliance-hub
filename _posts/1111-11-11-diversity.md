@@ -107,6 +107,7 @@ For example, here are just a few ways that white experiences are centered every 
   - Minorities are marked as ‘other’ in college admissions processes
   - Books studied in schools are overwhelmingly written by white people about white people
   - Language used by white people is seen as ‘proper’ while the language of other demographics is not
+
 In light of that, how can we reverse the narrative so that we allow those who are normally labeled as ‘other’ to be at the center?
 Two ways:
 
