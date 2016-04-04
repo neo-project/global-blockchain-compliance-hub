@@ -21,6 +21,7 @@ Finally, we know it could be daunting to read this. It was daunting to write, to
 
 #### Conversation Norms
 This isn’t a comprehensive list, but here are a few norms to think about setting for your FOPpers:
+
   - Recognize that these issues are bigger than ourselves
   - Assume best intentions, but recognize that good intentions are not enough
   - Apologize fully when you are called out (more on that below)
