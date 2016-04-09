@@ -81,7 +81,7 @@ Apologies are not scary! They’re really important and inevitable. When done we
       - Or ask a question: 
           - Would you be willing to teach me more about the assumptions that underlie what I just said/did?
           - Would you help me understand how I can avoid this in the future?
-  - Altogether, here’s an example of a good apology (although it always depends on the situation):
+  - Altogether, here are a few examples of good apologies (although it always depends on the situation):
       - Hey, I’m really sorry for what I said. I see now that it was really hurtful and marginalizing of the experiences of people who deal with mental health issues every day. I’ll definitely make sure to avoid using those kinds of phrases in the future, and I’ll call my friends out on it too. Thank you so much for helping me realize this.
       - Wow, I know it might not have been easy for you to bring up but I see now that calling our FOP leaders 'mom' and 'dad' makes a lot of assumptions about gender roles and stereotyping. I'm definitely going to be thinking a lot harder about how I just make these kinds of binary assumptions all the time. Would you be okay with helping me by continuing to call me out whenever you notice me doing that again?
       - Hey, I just wanted you to know that I really really regret what I said last night. I shouldn't have pushed for specific examples of how dating preferences can be a facade for racism. It was unfair for you to have to share a personal story just to get me to see the point and shut up. I should have just made space for you to express your opinion and asked you for more details at a better time. I know you must be feeling hurt and maybe attacked - is there anything I could do to help make up for it? Would you be comfortable with me bringing it up again tonight and apologizing in front of everyone? 
@@ -141,6 +141,7 @@ Two ways:
   - racism
   - sexuality
   - oppression
+  - code-switching
 
 #### Some Online Resources
 Since we don't feel like we have the breadth of knowledge to offer really good, broad definitions for the terms above and many others that we have left out, we've tried to include some resources here to help you develop your understanding of these concepts and ideas on your own. 
