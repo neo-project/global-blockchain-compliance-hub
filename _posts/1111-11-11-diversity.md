@@ -9,9 +9,9 @@ comments: true
 
 It’s a requirement that all FOP trips have at least one conversation focused on issues surrounding diversity, allyship, and marginalization, but hopefully you find ways to build elements of this larger discussion into little moments on the trail and during other activities. 
 
-We know that we don’t have to justify why diversity is important to FOP leaders, but here’s one way you can frame its relevance to FOP’s role as a pre-orientation program. First, if one of our goals is for FOPpers to get to know each other as individuals, we should be making it equally possible for every member to be known. Some people hold identities that are more vulnerable and more difficult to fully express because of how they have been marginalized or ignored in society. Conversations about diversity can provide the framework to allow those students to be known in those aspects that set them apart, instead of forcing them to continue walking the earth invisible as they have so often before been forced to do. Even with a group that seems homogeneous, these conversations are an integral part of their experiences in the world that they might not have had the chance to ponder. It’s one way that they can deepen their knowledge of themselves, too. 
+We know that we don’t have to justify why diversity is important to FOP leaders, but here’s one way you can frame its relevance to FOP’s role as a pre-orientation program. First, if one of our goals is for FOPpers to get to know each other as individuals, we should be making it equally possible for every member to be known. Some people hold identities that are more vulnerable and more difficult to fully express because of how they have been marginalized or ignored in society. Conversations about diversity can provide the framework to allow those students to be known in those aspects that set them apart, instead of limiting them to more trite expressions of their experiences. Even with a group that seems homogeneous, these conversations can reveal integral aspects to their experiences in the world that they don't always get the chance to ponder. It’s one way that they can deepen their knowledge of themselves, too. 
 
-Also, taking a step back, FOP is probably the organization that deeply affects the most first-years before they even begin classes. We have the power to create the campus that we want to be part of.  With great power…
+Also, taking a step back, FOP is an organization that has the ability to deeply affect many first-years before they even begin classes. We have the power to create the campus that we want to be part of.  With great power…
 
 Try not to allow your conversation to be derailed into one about how “we all come from different places but we’re all equally valid.” Don’t let it be dominated by the kid who has lots of worldly ideas after traveling Europe on his gap year, or the kid with trite mottos about how “everyone’s diverse in their own way.” Lean into the conversation about the inequalities, the harder stuff, the way systems of oppression make some of us feel like we should be enemies. 
 
@@ -34,11 +34,11 @@ These kinds of discussions can elicit a wide range of emotions from people, and 
 
   - Recognize that these issues are bigger than ourselves, and that: 
       - Your comment could be just the tip of the iceberg, or a trigger for some other incident or issue.
-      - You could be inadvertently playing into a harmful stereotype or a binary that makes certain identities invisible. 
+      - You could be inadvertently playing into a harmful stereotype or a binary that makes certain identities invisible. Feeling like your identity is invisible can be painful, even if (or maybe especially because) it wasn't done on purpose.  
       - When someone is hurt by an offhand comment you might have made, their hurt could go beyond you and your intentions. 
       - When someone feels like their voice is silenced, it may not be about you as an individual silencing them, but the systematic silencing that they have faced at the hands of the group of privileged individuals that you may belong to.
   - Reverse the narrative:
-      - Just as we as a society habitually teach girls to avoid being sexually assaulted, a lot of times we try to create norms that prevent people from calling each other out in ways that might lead to feelings being hurt. But by remembering who the real victims are, we remind ourselves that it’s far more meaningful and to the point to try to teach in the direction of a society where one doesn’t have to fear sexual assault. Similarly, it can be more powerful to teach to a society where people understand that anger and other strong emotions are natural and important to express, and instead where those who are receiving these emotions learn how to handle them productively.
+      - Often, we end up putting pressure on those who feel deeply and personally affected by these issues to express their frustations "productively," or to realize that their anger might be misdirected, or extreme. But that can just add another layer of feeling like you're not truly being heard. Instead, as facilitators of discussion spaces, we can try to maintain norms that put responsibility on every member of the group - to listen more carefully and hear everything that's being expressed, both explicitly and implicitly. We can teach people to handle receiving these emotions productively and empathetically. We can make the 'safety' of spaces dependent on the willingness of every member to step into someone else's shoes, rather than on the willingness of those who are victims and survivors to bite their tongues.
 
 #### Calling Out
 As the likely facilitator of many of these discussions, it may sometimes fall upon you to call someone out for a comment, question, attitude, or action that you notice. Awesome! Calling out is a good thing - besides being necessary on individual levels, it also pushes the group’s conversations to go deeper and gives people a chance to revisit and revise some of their harmful assumptions. Hopefully, you’ll be able to norm it in your group, and not have it seem like something unusual or confrontational, definitely not something that would end up requiring VOMPing. Here are some ways to help:
@@ -46,7 +46,7 @@ As the likely facilitator of many of these discussions, it may sometimes fall up
   - Have you and your co-leader(s) casually call each other out and handle it gracefully during one of the first days. (It doesn’t have to be convincingly realistic to do its job!) That exchange could go something like:
       - Co A: I was talking to my friend Emily about how hard she finds it to know how and when to “come out” to her friends as trans\*. She was telling me about how hard it is to explain in a way that non-trans\* folk can understand. 
       - Co B: Oh, did she feel trapped in the wrong body?
-      - Co A: Well, actually, that’s probably not the phrase I’d use. It sort of lumps together all trans* people’s relationships with their bodies, and presents a binary about “right” and “wrong” bodies based on cis/hetero norms. A lot of trans* people feel that they’re much more trapped by society’s norms than by their own bodies. 
+      - Co A: Well, actually, that’s probably not the phrase I’d use. It sort of lumps together all trans\* people’s relationships with their bodies, and presents a binary about “right” and “wrong” bodies based on cis/hetero norms. A lot of trans\* people feel that they’re much more trapped by society’s norms than by their own bodies. 
       - Co B: Ah gotcha, thanks so much for explaining. 
       - Co A: No prob. *finishes story*
   - Use the “Ouch” / “I’m sorry” framework
@@ -70,7 +70,7 @@ Apologies are not scary! They’re really important and inevitable. When done we
       - I’m sorry that/if you were offended…
           - This one is kind of a microaggression, because it implies that the hurt was not necessarily legitimate and that the burden is on the other person to handle their own emotions. It demonstrates an attitude of being closed to further discussion and learning.
       - I meant / I didn’t mean…
-          - This shifts the conversation to being about someone’s intentions, when the more meaningful conversation is about the content of what was done or said and what might be problematic about those actions or words in themselves. It’s also another way to wriggle out of responsibility. 
+          - This shifts the conversation to being about someone’s intentions, when the more meaningful conversation is about the content of what was done or said and what might be problematic about those actions or words in themselves. Of course, it may be frustating to feel like you're being misinterpreted, and that could lead to some tension. One way to deal with that tension could be to stress that the reason we don't find this type of apology valuable is because we already take for granted that everyone has the best intentions, and that when one person is being called out, a lot of others may be able to recognize that they could have made the same mistake and equally have something valuable to learn. 
   - Here are the three parts of a good apology:
       - Validate emotions 
           - This can be done implicitly, with body language, or explicitly, with words like, “First off, I wanna validate your emotions”
@@ -82,7 +82,9 @@ Apologies are not scary! They’re really important and inevitable. When done we
           - Would you be willing to teach me more about the assumptions that underlie what I just said/did?
           - Would you help me understand how I can avoid this in the future?
   - Altogether, here’s an example of a good apology (although it always depends on the situation):
-        - Hey, I’m really sorry for what I said. I see now that it was really hurtful and marginalizing of the experiences of people who deal with mental health issues every day. I’ll definitely make sure to avoid using those kinds of phrases in the future, and I’ll call my friends out on it too. Thank you so much for helping me realize this.
+      - Hey, I’m really sorry for what I said. I see now that it was really hurtful and marginalizing of the experiences of people who deal with mental health issues every day. I’ll definitely make sure to avoid using those kinds of phrases in the future, and I’ll call my friends out on it too. Thank you so much for helping me realize this.
+      - Wow, I know it might not have been easy for you to bring up but I see now that calling our FOP leaders 'mom' and 'dad' makes a lot of assumptions about gender roles and stereotyping. I'm definitely going to be thinking a lot harder about how I just make these kinds of binary assumptions all the time. Would you be okay with helping me by continuing to call me out whenever you notice me doing that again?
+      - Hey, I just wanted you to know that I really really regret what I said last night. I shouldn't have pushed for specific examples of how dating preferences can be a facade for racism. It was unfair for you to have to share a personal story just to get me to see the point and shut up. I should have just made space for you to express your opinion and asked you for more details at a better time. I know you must be feeling hurt and maybe attacked - is there anything I could do to help make up for it? Would you be comfortable with me bringing it up again tonight and apologizing in front of everyone? 
 
 #### Framing Tools / Anchors
 There are times when it may feel impossible to bring up these discussions organically, and you need a way to explicitly bring up this discussion or at least bring it to the forefront of people’s minds. Here are some ways to do that:
@@ -95,24 +97,36 @@ There are times when it may feel impossible to bring up these discussions organi
       - How diverse is Harvard?
       - Do you respond to something racist someone says if they’re foreign? Or if you’ve just met them and they’re in your entryway?
       - I’m afraid people will laugh when I tell them about my PGPs. (personal gender pronouns)
+  - Included-Excluded: Have everyone share at the end of the day one time they've felt included and one time they've felt excluded in their lives.
+      - Variation: Have everyone share one time they felt included and one time they felt excluded *that day*. You could do it in addition to or instead of rose-bud-thorn, as a way of recapping the day. 
+  - Variations on the M&M activity: You can assign questions related to inclusion, privilege and diversity to each of the M&M colors. Here are a few:
+      - What's one personal experience that comes to mind when you think about 'injustice'?
+      - What's one aspect of your identity that you never think about?
+      - Describe a time when you accidentally or on purpose excluded someone else.
+      - Describe a time when you stayed silent about something. 
+      - Have you ever purposely changed the way you talked or behaved to fit in? 
+      - Have you ever accidentally found yourself behaving really differently from 'normal' you?
+      - Describe a time when you felt that you weren't being heard.
+      - What's one aspect of your identity that makes you feel insecure?
+      - How often do you think about 'oppression'?
   - Go around in a circle and ask each person to try to come up with one privilege in their lives that they think they’ve had that most other people in the group have not had. (This may be difficult - you need mature FOPpers for this one.)
-  - Ask everyone to describe the worst injustice they’ve had to deal with in their lives. (Again, could be heavy, and problematic, and triggering. UYJ.)
 
 #### Decentering
 Most spaces in our culture are clearly centered around the experiences of a few privileged identities.
-For example, here are just a few ways that white experiences are centered every day:
+For example, here are just a few ways that white, straight, or cis experiences are centered every day:
 
   - European tragedies are more publicized
-  - PSAs about issues like child marriage get more attention and outrage if they portray white victims (even though the majority of victims are Asian and African)
   - Minorities are marked as ‘other’ in college admissions processes
-  - Books studied in schools are overwhelmingly written by white people about white people
+  - Books studied in schools are overwhelmingly written by white people about white people, and so are TV shows, magazine articles, and so on...
   - Language used by white people is seen as ‘proper’ while the language of other demographics is not
+  - You have to 'come out' as anything other than straight - otherwise, you're assumed to be straight. But if you don't want to 'come out,' you're seen as 'in the closet'
+  - It's much harder to find gender-neutral bathrooms, housing options, and other public facilities
 
 In light of that, how can we reverse the narrative so that we allow those who are normally labeled as ‘other’ to be at the center?
 Two ways:
 
   - Equal sharing of vulnerability
-      - The responsibility is usually on those who would be ‘othered’ because of their identities to share their stories and be vulnerable. The burden is also on them to defend why conversations about diversity are important at all. Instead, those who find themselves with some privileged identities should also step forward and be vulnerable - about the ways that they are starting to see their own privilege, or mistakes that they might have made. They should also speak to why diversity is important. Studies have shown that it is white students who gain the most from being taught to consider the experiences of people who are different to them. Students of color gain little because they already do it, every day, from speaking in the language of the white majority or writing essays about white boys at school. A safe space can only be constructed with everyone’s active effort. 
+      - The responsibility is usually on those who would be ‘othered’ because of their identities to share their stories and be vulnerable. The burden is also on them to defend why conversations about diversity are important at all. Instead, those who find themselves with some privileged identities should also step forward and be vulnerable - about the ways that they are starting to see their own privilege, or mistakes that they might have made. They should also speak to why diversity is important. Studies have shown that it is white students who gain the most from being taught to consider the experiences of people who are different to them. Students of color gain little because they already do it, every day, from speaking in the language of the white majority or writing English and History essays about white boys/men at school. A safe space can only be constructed with everyone’s active effort. 
   - Stepping back as the expert
       - Relinquish the idea that everyone’s opinion on issues of marginalization is equally valid. Those who have faced it less, or in different areas, may never be able to truly feel the weight of the marginalization. They can only listen to and learn from those who have direct knowledge. 
       - This is where intersectionality is key - an individual who lives at the intersection of several different marginalized identities has experiences fundamentally different from individuals who inhabit only some of those identities. No one has authority to speak for others’ lives.
@@ -126,8 +140,11 @@ Two ways:
   - colonialism
   - racism
   - sexuality
+  - oppression
 
 #### Some Online Resources
+Since we don't feel like we have the breadth of knowledge to offer really good, broad definitions for the terms above and many others that we have left out, we've tried to include some resources here to help you develop your understanding of these concepts and ideas on your own. 
+
   - everydayfeminism.com
   - need more
 
