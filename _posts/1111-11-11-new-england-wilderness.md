@@ -362,7 +362,7 @@ Keep moving in the same direction across the sky and you'll reach the famous Her
 
 ##### Northern Crown
 
-Small and simple, this constellation looks more like a tiara than a crown. The bright star Gemma appears s the center jewel in the tiara.
+Small and simple, this constellation looks more like a tiara than a crown. The bright star Gemma appears at the center jewel in the tiara.
 
 ##### Bootes the Herdsman
 
