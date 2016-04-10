@@ -33,7 +33,7 @@ In an emergency, ***remember always*** to bring the following:
 It is possible that an evacuation may be necessary in the absence of major physical pain or injury. There is a difference between a disgruntled and homesick FOPper and one with more serious concerns. Try to convince a disgruntled FOPper to stay, but keep in mind more serious issues may exist:
 
 - **Suicidal Ideation**: If a FOPper is verbalizing a wish to commit suicide, either to you or to other FOPpers, that person needs to be taken out of the field.
-- **Threatening Behavior**: If an individual presents a risk to other individuals, or to him/ herself, s/he needs to be taken out of the field. This behavior could manifest itself in threatening language or actions.
+- **Threatening Behavior**: If an individual presents a risk to other individuals, or to themselves, they need to be taken out of the field. This behavior could manifest itself in threatening language or actions.
 - **Eating Problems**: Maintaining healthy caloric and water intake is essential in the outdoors. It is necessary not only to retain the energy for rigorous physical activity, but it is also an important part of preventing injuries. Individuals are more susceptible to accidents and hypothermia when their blood sugar is low. Because food and water are so important in the outdoors, an individual who is unwilling to eat the food presents a serious problem. Go over the importance of food in Cambridge and frame it along with other safety guidelines and rules. Continue to emphasize the importance of food in the backcountry and encourage your FOPper to eat. See if you can do anything to adjust to their concerns.
 
 ### Missing Person Procedures
@@ -44,12 +44,12 @@ We hope that you will never have to deal with this subject, but we want to offer
 
 What to do if someone is lost:
 
-1. Shout the persons name, or use whistles in an attempt to get a response.
+1. Shout the person's name, or use whistles in an attempt to get a response.
 2. Get out a map and try to figure out where the person might be after calling has failed. Try to recall where and when the person was last seen, as well as what he or she was wearing. Is there a pond or mountain summit nearby? Two or three people should go as a group to check that place. They should bring a map and a compass and agree to return by a certain time if they have no luck.
 3. It is critical not to let anyone else get lost. Don't send people scurrying wildly in every direction. People should scout away from the group only for designated amount of time (ex: 10 minutes).
 4. During the wait, keep the group together and calm. Make hot drinks, eat some food, begin setting up camp if necessary.
-5. After one hour of searching, notify basecamp.
-6. If you do not have sufficient cellular service to communicate with Base Camp, send a leader and two FOPpers out a designated evacuation route to make contact. They should bring a map marked with the groups location, a compass, food, and stuff for an overnight (depending on the time of day and distance). The remaining group should stay put. Both groups should yell or whistle from time to time. If the lost person wanders back, follow a plan agreed upon with those who walked out for help.
+5. After one hour of searching, notify Basecamp.
+6. If you do not have sufficient cellular service to communicate with Basecamp, send a leader and two FOPpers out a designated evacuation route to make contact. They should bring a map marked with the groups location, a compass, food, and stuff for an overnight (depending on the time of day and distance). The remaining group should stay put. Both groups should yell or whistle from time to time. If the lost person wanders back, follow a plan agreed upon with those who walked out for help.
 
 ##### Ways to avoid losing people in the first place!
 
@@ -71,7 +71,7 @@ All members should always maintain visual contact with the rest of the group. Do
 
 ### Disclosures of Sexual Harassment or Sexual Assault
 
-**Please note** that the FOP Director is not a confidential resource.  S/he is legally required to report any knowledge of sexual harassment to a Title IX Coordinator.  Individuals paid by the University, including deans, tutors, professors, PAFs, and most faculty are also no able to keep information about harassment confidential.  To speak with a confidential resource, individuals should go to the Office of Sexual Assault Prevention and Response (OSAPR) or a peer counseling group that specializes in relationship violence (for example, Response).
+**Please note** that the FOP Director is not a confidential resource.  S/he is legally required to report any knowledge of sexual harassment to a Title IX Coordinator.  Individuals paid by the University, including deans, tutors, professors, PAFs, and most faculty are also not able to keep information about harassment confidential.  To speak with a confidential resource, individuals should go to the Office of Sexual Assault Prevention and Response (OSAPR) or a peer counseling group that specializes in relationship violence (for example, Response).
 
 ##### "Disclosure Flow Chart": *What to do if someone discloses to you in the field or on campus*
 
@@ -87,7 +87,7 @@ All members should always maintain visual contact with the rest of the group. Do
 
 If you do think the program should be informed about the incident, contact Basecamp via normal notification procedures.    Please consider that all Basecamp members are not confidential resources.  That means they must disclose any information of which they are aware.  Feel free to describe the incident in general terms; only use names if the individual has confirmed s/he is OK with you doing so.
 
-#####Best Practices
+##### Best Practices
 - First and foremost, remember that you are NOT A PSYCHIATRIST and therefore are not expected (and should not feel like you have to) “solve” or “respond perfectly” to a disclosure. These are best practices. Remember that offering an ear to listen/a shoulder to cry on is incredibly helpful in and of itself. 
 - Ask if the person of concern feels safe right now.  If they do not feel safe in their current environment, ensure their safety by rearranging camp, evacuating the trip or the individual, or other means.
 - Offer support; indicate that the individual’s concern is valid and that you believe them.
