@@ -13,7 +13,7 @@ We know that we don’t have to justify why diversity is important to FOP leader
 
 Also, taking a step back, FOP is an organization that has the ability to deeply affect many first-years before they even begin classes. We have the power to create the campus culture that we want to be part of.  With great power…
 
-As facilitator, try not to allow your conversation to be derailed into one about how “we all come from different places but we’re all equally valid.” Don’t let it be dominated by the kid who has lots of worldly ideas after traveling Europe on his gap year, or the kid with trite mottos about how “everyone’s diverse in their own way.” Lean into the conversation about the inequalities, the harder stuff, the way systems of oppression make some of us feel like we should be enemies. 
+As facilitator, try not to allow your conversation to be derailed into one about how “we all come from different places but we’re all equally valid.” Don’t let it be dominated by the kid with trite mottos about how “everyone’s diverse in their own way.” Lean into the conversation about the inequalities, the harder stuff, the way systems of oppression make some of us feel like we should be enemies. 
 
 Knowing that these kinds of conversations can be particularly difficult, we have included here some tips and thoughts about how you might frame them. 
 
