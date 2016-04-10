@@ -30,7 +30,7 @@ Most of FOP camping will be done in established campsites. Questions to consider
 
 - Is the site protected from the elements: wind, precipitation, lightning?
 - Is a suitable water source within a reasonable distance?
-- Are there large dead trees (widow makers) or limbs that could fall?
+- Are there large dead trees or limbs that could fall?
 - Is the campsite safe from falling rocks?
 
 Other considerations:
