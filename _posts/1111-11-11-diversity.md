@@ -44,11 +44,9 @@ These kinds of discussions can elicit a wide range of emotions from people, and 
 As the likely facilitator of many of these discussions, it may sometimes fall upon you to call someone out for a comment, question, attitude, or action that you notice. Awesome! Calling out is a good thing - besides being necessary on individual levels, it also pushes the group’s conversations to go deeper and gives people a chance to revisit and revise some of their harmful assumptions. Hopefully, you’ll be able to norm it in your group, and not have it seem like something unusual or confrontational, definitely not something that would end up requiring VOMPing. Here are some ways to help:
 
   - Have you and your co-leader(s) casually call each other out and handle it gracefully during one of the first days. (It doesn’t have to be convincingly realistic to do its job!) That exchange could go something like:
-      - Co A: I was talking to my friend Emily about how hard she finds it to know how and when to “come out” to her friends as trans\*. She was telling me about how hard it is to explain in a way that non-trans\* folk can understand. 
-      - Co B: Oh, did she feel trapped in the wrong body?
-      - Co A: Well, actually, that’s probably not the phrase I’d use. It sort of lumps together all trans\* people’s relationships with their bodies, and presents a binary about “right” and “wrong” bodies based on cis/hetero norms. A lot of trans\* people feel that they’re much more trapped by society’s norms than by their own bodies. 
-      - Co B: Ah gotcha, thanks so much for explaining. 
-      - Co A: No prob. *finishes story*
+      - Co A: So last spring, Casey's parents came to visit and brought their dog!"
+      - Co B: Amazing!! What kind of dog does she have?
+      - Co A: Oh, their PGP's, or personal gender pronouns, are actually they/them/their, but yes, they have a labradoodle, and it's the cutest.
   - Use the “Ouch” / “I’m sorry” framework
       - Basically, you agree to the following rules: 
           - if someone wants to call someone else out, they just say “ouch” 
@@ -89,8 +87,8 @@ Apologies are not scary! They’re really important and inevitable. When done we
 #### Framing Tools / Anchors
 There are times when it may feel impossible to bring up these discussions organically, and you need a way to explicitly bring up this discussion or at least bring it to the forefront of people’s minds. Here are some ways to do that:
 
-  - Read a quote from this section for everyone to ponder independently, or do some writing about. 
-  - Read a quote and share how it sheds new light on your own experiences, or what you might have overlooked about an aspect of your privilege.
+  - Read a quote from the "Readings" part of the Handbook (the diversity section) for everyone to ponder independently, or do some writing about. 
+  - Read a quote from that section (or one of your own!) and share how it sheds new light on your own experiences, or what you might have overlooked about an aspect of your privilege.
   - Say, “I benefit from the structures of privilege in X ways and I shouldn’t be at the center of this conversation. But I do think it’s incredibly important that this conversation happens, and here’s why. (Or here’s how these things affect my life or how I am implicitly part of the problem)”
   - Pre-existing FOP activities can lead to discussions about these topics too, if FOPpers are willing to lean into the more uncomfortable differences between them, and if you prompt them to examine them in more depth. Some good examples are: circle of self, five-minute autobiographies, and hot seat. However, this may not work if you have a relatively homogenous group of FOPpers, and also may put undue pressure on those who consider themselves to be minorities to share their vulnerabilities while others don’t have to take the same level of emotional risk. 
   - Fear in a Hat: You can always plant questions like:
@@ -109,6 +107,7 @@ There are times when it may feel impossible to bring up these discussions organi
       - Describe a time when you felt that you weren't being heard.
       - What's one aspect of your identity that makes you feel insecure?
       - How often do you think about 'oppression'?
+      - What's the space in which you can feel most authentically known?
   - Go around in a circle and ask each person to try to come up with one privilege in their lives that they think they’ve had that most other people in the group have not had. (This may be difficult - you need mature FOPpers for this one.)
 
 #### Decentering
@@ -144,13 +143,53 @@ Two ways:
   - code-switching
 
 #### Some Online Resources
-Since we don't feel like we have the breadth of knowledge to offer really good, broad definitions for the terms above and many others that we have left out, we've tried to include some resources here to help you develop your understanding of these concepts and ideas on your own. 
+Since we don't feel like we have the breadth of knowledge to offer really good, broad definitions for the terms above and many others that we have left out, we've tried to include some resources here to help you develop your understanding of these concepts and ideas on your own. However, this is definitely not comprehensive, and we don't necessarily endorse any of the particular sources here, and they don't necessarily agree with each other - just trying to provide a jumping off point to observe and enter the dialogue!
 
-  - everydayfeminism.com
-  - need more
-
-#### Quotes
-
+  - [Everyday Feminism][everydayfeminism.com]
+  - [Black Girl Dangerous][blackgirldangerous.org] - "Amplifying the Voices of Queer and Trans People of Color"
+  - [Women Under Siege][womenundersiegeproject.org] - Investigates and analyzes sexualized violence in high-conflict areas of the world
+  - [Jezebel][jezebel.com]
+  - [Racialicious][racialicious.com] - "Race, Culture, and Identity in a Colorstruck World"
+  - [No, Seriously, What About Teh Menz?][http://goodmenproject.com/category/noseriouslywhatabouttehmenz/]
+  - [The Society Pages][thesocietypages.org/socimages/] - "Sociological Images encourages all kinds of people to exercise and develop their sociological imagination by presenting brief discussions of compelling and timely imagery that span the breadth of sociological inquiry."
+  - [Bitch Magazine][bitchmedia.org]
+  - [The Hairpin][thehairpin.com]
+  - [The Urban Scientist][http://blogs.scientificamerican.com/urban-scientist/] - "A hip hop maven blogs on urban ecology, evolutionary biology & diversity in the sciences"
 
 #### Your Space
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[everydayfeminism.com]: everydayfeminism.com
+[blackgirldangerous.org]: blackgirldangerous.org
+[womenundersiegeproject.org]: womenundersiegeproject.org
+[jezebel.com]: jezebel.com
+[racialicious.com]: racialicious.com
+[http://goodmenproject.com/category/noseriouslywhatabouttehmenz/]: http://goodmenproject.com/category/noseriouslywhatabouttehmenz/
+[thesocietypages.org/socimages/]: thesocietypages.org/socimages/
+[bitchmedia.org]: bitchmedia.org
+[thehairpin.com]: thehairpin.com
+[http://blogs.scientificamerican.com/urban-scientist/]: http://blogs.scientificamerican.com/urban-scientist/
