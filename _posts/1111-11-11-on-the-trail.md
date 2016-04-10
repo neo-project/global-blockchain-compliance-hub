@@ -79,7 +79,7 @@ You should do everything possible to avoid hiking at night because it is extreme
 
 - Go slowly and carefully. The potential for injury becomes much greater after dark. Tired and hungry, your FOPpers are more likely to be irritable and uncoordinated.
 - Keep the group together. Stay close enough so that the back end of the line can communicate with the person in front.
-- One leader should lead the group and the other should bring up the rear. Keep everyone else in between them, so that no one can disappear. Make sure, how- ever, that the rear person does not fall behind.
+- One leader should lead the group and the other should bring up the rear. Keep everyone else in between them, so that no one can disappear. Make sure, however, that the rear person does not fall behind.
 - Everyone should have their flashlights/headlamps on.
 - As soon as it begins to get dark, if not earlier, have a contingency plan in mind. Is there somewhere else you can camp?
 - Keep in mind that depth perception and reflexes are heavily impaired by darkness. Be alert and highly aware of the trail and your surroundings.
@@ -114,8 +114,8 @@ These factors should all be used to determine a rating for a river. Jed Williams
 - Easy: Water level ankle to shin deep. Clear. Often in late summer.
 - Moderate: Various boulders on the bottom, water covers half to three quarters of them. Water is shin to knee deep. Clear. Found year round but in early summer usually only in morning when low temperatures have reduced the snow run off.
 - Difficult: Water depth knee high or just below. Water velocity is forceful, 4-6 knots, water is reasonably clear. Often happens in times of high rain or high snow melt.
-- Very Difficult: Water depth is above knees with big boulders and rocks on the bot- tom. Water could be opaque and velocity is forceful at 5-7 knots. Maximum snow melt and very heavy rain produce these conditions.
-- Extremely Difficult: Water depth above knees boulders and rocks where one's foot could get wedged underneath. Generally opaque, brown and muddy. Velocity is very forceful, difficulty standing at over 7 knots.
+- Very Difficult: Water depth is above knees with big boulders and rocks on the bottom. Water could be opaque and velocity is forceful at 5-7 knots. Maximum snow melt and very heavy rain produce these conditions.
+- Extremely Difficult: Water depth above knees, boulders and rocks where one's foot could get wedged underneath. Generally opaque, brown and muddy. Velocity is very forceful, difficulty standing at over 7 knots.
 
 These ratings are very general. Ratings from Very Difficult to Extremely Difficult denote rivers where crossings should not be attempted. Rating from Moderate to Difficult can be attempted if the leaders deem it fair, but forms of support should be considered such as the tripod crossing (see above) or using long poles or sticks, and people not crossing should stand down river as 'spotters' (people who can assist should someone get swept off his or her feet).
 
