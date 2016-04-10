@@ -7,21 +7,21 @@ category: interpersonal-skills
 comments: true
 ---
 
-Learning is an essential component in building community and elevating human potential. As a leader, you have the ability to make FOP a powerful learning experience for your FOPpers. Processing is the term used to describe the methods used to encourage individuals to reflect on, describe, analyze and communicate their experiences. We have thousands of experiences every day, but we only learn from the ones we notice and process.
+Learning is an essential component in building community and elevating human potential. As a leader, you have the ability to make FOP a powerful learning experience for your FOPpers. Processing is the term used to describe the methods used to encourage individuals to reflect on, describe, analyze, and communicate their experiences. We have thousands of experiences every day, but we only learn from the ones we notice and process.
 
 ### Why Process?
 
 - To stimulate learning and growth.
 
-Each day FOPpers will be experiencing new things: learning new hiking skills, outback cooking skills, people skills and environmental skills. It is valuable for us to reflect on our new skills, knowledge, and feelings in order to internalize them. A FOPper may think of him/herself as non-athletic, yet have a breakthrough experience while hiking up a hill they didn't think they could get up. If the FOPper has the time and space to reflect on that breakthrough (especially in a situation where others are able to notice the achievement as well), then they may begin to forget the old message: "I'm not athletic" or "I am not capable." And internalize a new message: "I am athletic" or "I am capable." FOP provides opportunities and experiences for the FOPpers to stretch and grow. Processing the FOP experience helps to internalize new messages and promote new learning.
+Each day FOPpers will be experiencing new things: learning new hiking skills, outback cooking skills, people skills, and environmental skills. It is valuable for us to reflect on our new skills, knowledge, and feelings in order to internalize them. A FOPper may think of him/her/zirself as non-athletic, yet have a breakthrough experience while hiking up a hill they didn't think they could get up. If the FOPper has the time and space to reflect on that breakthrough (especially in a situation where others are able to notice the achievement as well), then he/she/ze may begin to forget the old message: "I'm not athletic" or "I am not capable." And internalize a new message: "I am athletic" or "I am capable." FOP provides opportunities and experiences for the FOPpers to stretch and grow. Processing the FOP experience helps to internalize new messages and promote new learning.
 
 - To create a positive group environment.
 
-A FOP trip is a dynamic experience that will provide opportunities for learning on many levels. The abundance of social and physical challenges brings up fear, anxiety, anger, exhilaration, camaraderie, and joy, to name just some of the emotions. FOPpers may have a variety of reactions to the stress brought about by challenges. Some FOPpers may get angry and moody, some withdraw, some get lonely, some may feel detached or deny feeling anything, but FOPpers are likely to have a combination of reactions to their experiences. Left to stew, these emotions can cause conflict or rifts in the group. Bringing reactions and feelings out into the open allows opportunities for deeper understanding of the issues operating upon the group. Understanding often leads to resolution and a deeper commitment to a positive group environment.
+A FOP trip is a dynamic experience that will provide opportunities for learning on many levels. The abundance of social and physical challenges brings up fear, anxiety, anger, exhilaration, camaraderie, joy, and many other emotions. FOPpers may have a variety of reactions to the stress brought about by challenges. Some FOPpers may get angry and moody, some withdraw, some get lonely, some may feel detached or deny feeling anything, but FOPpers are likely to have a combination of reactions to their experiences. Left to stew, these emotions can cause conflicts or rifts in the group. Bringing reactions and feelings out into the open allows opportunities for deeper understanding of the issues operating upon the group. Understanding often leads to resolution and a deeper commitment to a positive group environment.
 
 ### When to Process?
 
-It is important to have a structure that allows FOPpers and leaders to stay 'current' on issues. Having evening meetings, using "No Discount," Chow Circle, and trail breaks are all great avenues to establish consistency and structure for processing. Ultimately it is up to you and your co-leader to set times for processing - recognizing that it is often best to process when the experience is still fresh. It is possible to process too much, and remember that sometimes it's best to let the mountains speak for themselves.
+It is important to have a structure that allows FOPpers and leaders to stay 'current' on issues. Having evening meetings, using "No Discount," Chow Circle, and trail breaks are all great avenues to establish consistency and structure for processing. Ultimately it is up to you and your co-leader to set times for processing - recognizing that it is often best to process when the experience is still fresh. It IS possible to process too much, so remember that sometimes it's best to let the mountains speak for themselves.
 
 ### How to Process?
 
@@ -29,17 +29,18 @@ Don't ask the big questions first. Sometimes it can be overwhelming to process t
 
 #### Solos
 
-Solos are any designated time in which the members of the group take time to themselves to go and find somewhere to sit quietly on their own and reflect. They usually last for a leader-determined pre-set time - anywhere from 5 minutes to several days, though on FOP trips it would be unusual to conduct one for more than an hour. It is surprising how effective and worthwhile a short fifteen or twenty minute solo can be when well-situated within a day's activities. 
+Solos are any designated time in which the members of the group take time to themselves to go and find somewhere to sit quietly on their own and reflect. They usually last for a leader-determined pre-set time of anywhere from 5 minutes to several days - although on FOP trips it would be unusual to conduct one for more than an hour or two (#TwoDaySolos!). It is surprising how effective and worthwhile a short fifteen or twenty minute solo can be when well-situated within a day's activities. 
 
 Solos fill an important role in your processing toolkit, but they are also more than just processing - they are a time to rest, slow down, and be alone on a trip during which the leaders and participants have very little space and time to themselves. The time spent alone, in addition to being soothing mentally and physically, is a perfect time to reflect on the trip so far and on what is still to come. Often leaders will find that the group gets along better after a solo break, emerging energized and excited to be together again, and that FOPpers will clamor for a daily solo once they have had their first taste.
 
-Managing the timing and framing of a solo are tantamount to its success. Possible times are at a summit, beside a lake, after some significant event that can be reflected on and learned from, or when the group has just arrived in camp. Solos can also happen on the trail. Leaders can space FOPpers on the trail out by a half minute or so and have them walk in relative solitude to achieve a smilar effect. Be creative - it is very much a "feeling out" sort of thing. Times when you might not want to conduct a solo include when it would not be safe and when the group is feeling particularly close or a group processing activity would be more effective. Of course, combining a solo with a group processing activity before or afterward could be very effective! UYJ! (use your judgment!) Choosing the proper length for a solo might also seem tricky, but any time spent alone will be productive - don't worry too much. Twenty minutes is plenty, thirty is a treat, and even five can get the job done if you are feeling pinched. 
+Managing the timing and framing of a solo are tantamount to its success. Possible times are at a summit, beside a lake, after some significant event that can be reflected on and learned from, or when the group has just arrived in camp. Solos can also happen on the trail. Leaders can space FOPpers on the trail out by a half minute or so and have them walk in relative solitude to achieve a smilar effect. Be creative - this is very much a “feel it out" sort of thing. Times when you might not want to conduct a solo include when it would not be safe and when the group is feeling particularly close or a group processing activity would be more effective. Of course, combining a solo with a group processing activity before or afterward could be very effective! UYJ! (Use your judgment!) Choosing the proper length for a solo might also seem tricky, but any time spent alone will be productive - don't worry too much. Twenty minutes is plenty, thirty is a treat, and even five can get the job done if you are feeling pinched. 
 
-Framing a solo well can help the group and individual FOPpers grow and can build on themes the leaders want to emphasize. Possible themes include self-worth, nature, "the journey," challenge - you name it! Choosing a quote to read to the FOPpers before you send them off into the woods is often an effective framing technique. Additionally, you might use a solo as an opportunity for FOPpers to write down their goals for the coming year, what they want to carry with them after the trip, fears for Fear in a Hat, or a letter to themselves to be opened at a later date. 
+Framing a solo well can help the group and individual FOPpers grow and can build on themes the leaders want to emphasize. Possible themes include self-worth, nature, "the journey”, challenge - you name it! Choosing a quote to read to the FOPpers before you send them off into the woods is often an effective framing technique. Additionally, you might use a solo as an opportunity for FOPpers to write down their goals for the coming year, what they want to carry with them after the trip, fears for Fear in a Hat, or a letter to themselves to be opened at a later date. 
 
 One thing to keep in mind about solos: they do not only have to take place in the woods! Solos can be done anytime you can zone out and just be alone in the world - by the river on a sunny day, in a secret library spot with a pretty view, or in your dorm room. In teaching your FOPpers how wonderful solos can be, you are giving them a skill they can use throughout their life to collect themselves, slow down, and reflect. Make sure they know this - there are many times during freshmen year in particular when deep breaths during a twenty minute solo can do a whole mountain of good.
 
 When conducting solos, keep the following logistical guidelines in mind: 
+
 1. Have one leader stay put throughout (at a central, known location), and inform the FOPpers where that leader will be. 
 2. Have a communication system in place beforehand to deal with any emergencies. 
 3. Be aware of the solo locations of all FOPpers. Usually this will be within 50 meters of the leaders' location. 
@@ -60,21 +61,20 @@ Set ground rules for summit/evening meetings. You can mandate certain rules or h
 
 #### Follow a Progression
 
-The real skill in group building is in correctly reading your group, understanding their needs, knowing where they are in the group process, and then responding with the correct type of intervention. For example, doing intense feedback exercises in the beginning, before FOPpers know each other, is probably going to turn the FOPpers off, and maybe worse, undermine their trust in you. On the other hand, there may be times when issues are straining to reach the surface, and doing an appreciation circle would be very frustrating to FOPpers needing to discuss more intense problems.
+The real skill in group building is in correctly reading your group, understanding their needs, knowing where you are in the group process, and then responding with the correct type of intervention. For example, doing intense feedback exercises in the beginning, before FOPpers know each other, is probably going to turn the FOPpers off, and, maybe worse, undermine their trust in you. On the other hand, there may be times when issues are straining to reach the surface, and doing an appreciation circle would be very frustrating to FOPpers needing to discuss more intense problems.
 
-In the beginning of your trip, FOPpers will probably be more inclined to open up if the exercises are oriented toward sharing "safe" information about themselves - common information they regularly share with new friends. As the group members become accustomed to one another, and an atmosphere of trust is established, then sharing can progress to a higher level, with FOPpers revealing more of themselves to the group. Remember, this is not group therapy! It's important for group leaders to keep the topics of sharing from getting too personal and tragic - be sure you can handle the topic you open up. The sharing has more to do with understanding the FOP-per as he/she operates in the group, and not about the details of a troubled home life. That said, FOPpers are not isolated from their former memories and experiences while on the trip, and just because something is hard to share and sad does not mean it is out-of-bounds. To understand a FOPper in the group, the group might need to understand tough elements of the FOPper's past.
+In the beginning of your trip, FOPpers will probably be more inclined to open up if the exercises are oriented toward sharing "safe" information about themselves - common information they regularly share with new friends. As the group members become accustomed to one another, and an atmosphere of trust is established, then sharing can progress to a higher level, with FOPpers revealing more of themselves to the group. Remember: this is not group therapy! It's important for group leaders to keep the topics of sharing from getting too personal and tragic - be sure you can handle the topic you open up. The sharing has more to do with understanding the FOP-per as he/she operates in the group, and less to do with the details of a troubled home life. That said, FOPpers are not isolated from their former memories and experiences while on the trip, and just because something is hard to share and sad does not mean it is out-of-bounds. To understand a FOPper in the group the group might need to understand tough elements of the FOPper's past.
 
 Here are some suggestions for processing exercises corresponding to the typical stages of group development:
 
-- Forming: Initial name games and light-weight sharing, goal setting.
+- Forming: Initial name games, light-weight sharing, and goal setting.
 - Storming: Group problem solving activities, group sharing exercises, appreciation circles, comfortable feedback, facilitating conflicts with round tables, self-awareness exercises.
 - Norming: Re-evaluating group goals, sharing exercises, group problem solving activities.
-- Performing/Transition (to life at Harvard): Comfortable and uncomfortable feed- back exercises, appreciation, reaffirming feedback.
-
+- Performing/Transition (to life at Harvard): Comfortable and uncomfortable feedback exercises, appreciation, reaffirming feedback.
 
 #### Processing at Will: The Flexible Evening Meeting
 
-Some groups, and even some leaders, respond negatively to the idea that every evening they have to get together to "debrief the day," or "talk about deep issues." If leaders are turned off by having to lead evening meetings, and FOPpers are dreading the next time they have to "talk about all this serious stuff," then evening meetings are nearly worthless. If your group whines and complains every time you bring up group meeting, then be flexible. Plan to do evening meeting type activities at different times during the day, catching FOPpers when they're full of energy. Do an appreciation circle at the end of the trail, or over lunch. Circle up at a regroup and do a check in, have them say something as they take a treat. Perhaps this lighter technique might better suit your group. Sticking with the daily meeting may also get your group used to coming together for discussions and open the door for Summit meetings.
+Some groups, and even some leaders, respond negatively to the idea that every evening they have to get together to "debrief the day," or "talk about deep issues." If leaders are turned off by having to lead evening meetings, and FOPpers are dreading the next time they have to "talk about all this serious stuff," then evening meetings are nearly worthless. If your group whines and complains every time you bring up group meeting, be flexible. Plan to do evening meeting type activities at different times during the day, catching FOPpers when they're full of energy. Do an appreciation circle at the end of the trail, or over lunch. Circle up at a regroup and do a check in; have them say something as they take a treat. Perhaps this lighter technique might better suit your group. Sticking with the daily meeting may also get your group used to coming together for discussions and open the door for Summit meetings.
 
 When thinking of the specific technique you want to use to frame your evening meeting, some genres of exercises to consider are:
 
@@ -134,11 +134,16 @@ This activity typically lasts an hour or more, so the group should be warm, well
 #### Hints for Discussion
 
 - This activity can be powerful if the group takes it seriously and is willing to have discussion on other people' fears. When a group does not take it seriously, it may be best to gracefully bow out of the activity and try to reframe it later.
+  
 - Sometimes the discussion will focus too much on solutions, or superficial optimism. If one of the fears is "flunking out of school" it may be better to recognize that these things do happen and offer support rather than denial of anyone in the group could ever fail at anything.
+  
 - As a leader, you can add questions and/or comments to move the discussion along:
-	- Has anyone here ever felt this fear?
-	- Do others recognize this fear?
-	- Maybe there is no solution to this in the context of the activity, but I am glad it is out in the open where we can be sensitive to such a fear.
+  
+  	- Has anyone here ever felt this fear?
+  
+  	- Do others recognize this fear?
+  
+  	- Maybe there is no solution to this in the context of the activity, but I am glad it is out in the open where we can be sensitive to such a fear.
 
 #### Overall
 
@@ -167,7 +172,7 @@ Fuzzy Cheesecake has the potential to be a rather lengthy activity, so make sure
 The basic format of Fuzzy Cheesecake involves trip participants giving each other compliments and feeding each other big spoons of cheesecake. There are a variety of ways to coordinate this, however, so decide with your co(s) what is best for your group.
 
 - If a group is pressed for time, leaders may choose to do a cheesecake chain: person A compliments person B who compliments person C, etc. until each trip participant has both fed and been fed. You should decide whether you want the train to be organized or whether you would like FOPpers to be able to pay a compliment to whomever they choose.
-- Other leaders decide to have each FOPper pay a compliment to every other trip participant. Again, you should decide whether you want one person to be "in the spotlight" as each other trip member compliments them or whether you want each person to take turns complimenting every other participant. 
+- Other leaders decide to have each FOPper pay a compliment to every other trip participant. Again, you should decide whether you want one person to be "in the spotlight" as each other trip member compliments them or whether you want each person to take turns complimenting every other participant.
 
 #### Factors to Consider
 
