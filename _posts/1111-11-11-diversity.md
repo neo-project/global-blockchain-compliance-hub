@@ -107,6 +107,7 @@ There are times when it may feel impossible to bring up these discussions organi
       - Describe a time when you felt that you weren't being heard.
       - What's one aspect of your identity that makes you feel insecure?
       - How often do you think about 'oppression'?
+      - What's the space in which you can feel most authentically known?
   - Go around in a circle and ask each person to try to come up with one privilege in their lives that they think they’ve had that most other people in the group have not had. (This may be difficult - you need mature FOPpers for this one.)
 
 #### Decentering
@@ -184,3 +185,11 @@ Since we don't feel like we have the breadth of knowledge to offer really good, 
 
 [everydayfeminism.com]: everydayfeminism.com
 [blackgirldangerous.org]: blackgirldangerous.org
+[womenundersiegeproject.org]: womenundersiegeproject.org
+[jezebel.com]: jezebel.com
+[racialicious.com]: racialicious.com
+[http://goodmenproject.com/category/noseriouslywhatabouttehmenz/]: http://goodmenproject.com/category/noseriouslywhatabouttehmenz/
+[thesocietypages.org/socimages/]: thesocietypages.org/socimages/
+[bitchmedia.org]: bitchmedia.org
+[thehairpin.com]: thehairpin.com
+[http://blogs.scientificamerican.com/urban-scientist/]: http://blogs.scientificamerican.com/urban-scientist/
