@@ -21,7 +21,7 @@ The framework includes checking for scene safety, the primary and secondary surv
 
 The purpose is to get a primary history (what happened?), find any life-threatening injuries and treat them, and prevent further life-threatening injuries.
 
-Look, listen, and feel for ABC's - the brain can only survive for six minutes without oxygen!
+Look, listen, and feel for ABCs - the brain can only survive for six minutes without oxygen!
 
 - **A**irway: Look for any obstructions, listen for fluid or gurgling, feel for air moving in and out of airway. Remove obstructions before proceeding.
 - **B**reathing: Look to see if chest wall is moving properly, listen for wheezing or unusual sounds, feel for movement of air. Do artificial respiration if not breathing.
@@ -43,10 +43,10 @@ Remember to fill out the SOAP note with this info. The SOAP note is a legal docu
 #### Vital Signs
 
 - Level of Consciousness (LOC)/AVPU Scale
-    - Alert? How alert and oriented? A&O x 1 = person (they only know who they are). A&O x 2 = place (they also know their location). A&O x 3 = time (they know the time & date).
-    - Verbally responsive? They're unconscious, but do they respond to sound? See if they move or attempt to speak when addressed; see if they can follow a request to blink or move a limb.
-    - Painfully responsive? Do they groan or move in response to a knuckle rubbed on the sternum?
-    - Unresponsive? No response to verbal or painful stimuli. Comatose.
+    - **A**lert? How alert and oriented? A&O x 1 = person (they only know who they are). A&O x 2 = place (they also know their location). A&O x 3 = time (they know the time & date).
+    - **V**erbally responsive? They're unconscious, but do they respond to sound? See if they move or attempt to speak when addressed; see if they can follow a request to blink or move a limb.
+    - **P**ainfully responsive? Do they groan or move in response to a knuckle rubbed on the sternum?
+    - **U**nresponsive? No response to verbal or painful stimuli. Comatose.
 - Respiratory Rate & Effort
     - Respiratory Rate: Check by counting the number of breaths per minute. 10-20 breaths per minute are normal.
     - Respiratory Effort: Are they having to work hard to breathe? Ask if they feel short of breath.
@@ -73,11 +73,11 @@ Be sure to check CSMs in extremities:
 
 #### AMPLE History
 
-- Allergies: Allergic to foods, medications, insects etc.? Severity and treatment?
-- Medications: Taking any current medications (prescriptions or over-the-counter)? How often and how much? Dose taken today?
-- Past Pertinent History: Is there any past injury or illness that might contribute to the current problem?
-- Last Ins and Outs: Last time they ate or drank (and what they ate/drank), last urination or bowel movement?
-- Events Leading up to the Problem: What happened just before the accident?
+- **A**llergies: Allergic to foods, medications, insects etc.? Severity and treatment?
+- **M**edications: Taking any current medications (prescriptions or over-the-counter)? How often and how much? Dose taken today?
+- **P**ast Pertinent History: Is there any past injury or illness that might contribute to the current problem?
+- **L**ast Ins and Outs: Last time they ate or drank (and what they ate/drank), last urination or bowel movement?
+- **E**vents Leading up to the Problem: What happened just before the accident?
 
 ***STOP***...think...Monitor patient and plan for the evacuation if necessary. Keep recording vitals, etc., in the SOAP note.
 
@@ -273,7 +273,7 @@ When used properly, side effects are rare. Most common is liver damage due to la
 - Common brand name: Pepto-Bismol
 - Appearance: Large round pink pills
 
-Pepto can be used for most gastrointestinal problems, including heartburn, upset stomach, nausea, heartburn, and diarrhea (like the song). An adult dose is 2 tablets every hour as needed, not to exceed 8 doses in a 24-hour period.
+Pepto can be used for most gastrointestinal problems, including nausea, heartburn, indigestion, upset stomach, and diarrhea (like the song). An adult dose is 2 tablets every hour as needed, not to exceed 8 doses in a 24-hour period.
 
 Side effects are rare when used properly. But may include headache, diarrhea, drowsiness, thirst, or sweating, or dark stool.
 
