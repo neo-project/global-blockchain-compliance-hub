@@ -207,7 +207,7 @@ Along with taking pride in your tarps, you should take care of them. Both the ny
 [clove]: http://www.townsvillemaritimemuseum.org.au/gallery/Hitches_and_Bends/Hitches_and_Bends_img_1774.jpg
 [bowline1234]: {{ site.url }}/assets/bowline1234.jpg 
 [bowline5678]: {{ site.url }}/assets/bowline5678.jpg 
-[square]: http://www.canoecruisers.org/instruction/ACA_SWR_Class/Knots/SquareKnotDiagram.png
+[square]: http://www.netknots.com/files/6413/2990/8389/square-knot.jpg
 [sheet]: http://www.pioneeringmadeeasy.co.uk/knotsandlash/images/sheetbend.jpg 
 [princess]: {{ site.url }}/assets/Princessknot.jpg 
 [butterfly1234]: {{ site.url }}/assets/butterfly1234.jpg 
