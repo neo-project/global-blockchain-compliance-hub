@@ -45,7 +45,7 @@ We hope that you will never have to deal with this subject, but we want to offer
 What to do if someone is lost:
 
 1. Shout the person's name, or use whistles in an attempt to get a response.
-2. Get out a map and try to figure out where the person might be after calling has failed. Try to recall where and when the person was last seen, as well as what he or she was wearing. Is there a pond or mountain summit nearby? Two or three people should go as a group to check that place. They should bring a map and a compass and agree to return by a certain time if they have no luck.
+2. Get out a map and try to figure out where the person might be after calling has failed. Try to recall where and when the person was last seen, as well as what they were wearing. Is there a pond or mountain summit nearby? Two or three people should go as a group to check that place. They should bring a map and a compass and agree to return by a certain time if they have no luck.
 3. It is critical not to let anyone else get lost. Don't send people scurrying wildly in every direction. People should scout away from the group only for designated amount of time (ex: 10 minutes).
 4. During the wait, keep the group together and calm. Make hot drinks, eat some food, begin setting up camp if necessary.
 5. After one hour of searching, notify Basecamp.
@@ -71,7 +71,7 @@ All members should always maintain visual contact with the rest of the group. Do
 
 ### Disclosures of Sexual Harassment or Sexual Assault
 
-**Please note** that the FOP Director is not a confidential resource.  S/he is legally required to report any knowledge of sexual harassment to a Title IX Coordinator.  Individuals paid by the University, including deans, tutors, professors, PAFs, and most faculty are also not able to keep information about harassment confidential.  To speak with a confidential resource, individuals should go to the Office of Sexual Assault Prevention and Response (OSAPR) or a peer counseling group that specializes in relationship violence (for example, Response).
+**Please note** that the FOP Director is not a confidential resource.  They are legally required to report any knowledge of sexual harassment to a Title IX Coordinator.  Individuals paid by the University, including deans, tutors, professors, PAFs, and most faculty are also not able to keep information about harassment confidential.  To speak with a confidential resource, individuals should go to the Office of Sexual Assault Prevention and Response (OSAPR) or a peer counseling group that specializes in relationship violence (for example, Response).
 
 ##### "Disclosure Flow Chart": *What to do if someone discloses to you in the field or on campus*
 
@@ -85,7 +85,7 @@ All members should always maintain visual contact with the rest of the group. Do
 5. If you and your co-leader would like additional support, or would like to talk through a plan for how to support the individual, call OSAPR’s 24-hour hotline.  Option 3 will put you directly in touch with a confidential OSAPR staff member. Number: **(617) 495-9100**.
 6. Consider whether you think FOP as a program should know about the incident.  For example, did the incident occur on the trip itself, or during Aloha Day?  (Please note that some incidents of sexual assault or sexual harassment could require a mandatory evacuation. Please see the list of mandatory notifications and evacs below).   
 
-If you do think the program should be informed about the incident, contact Basecamp via normal notification procedures.    Please consider that all Basecamp members are not confidential resources.  That means they must disclose any information of which they are aware.  Feel free to describe the incident in general terms; only use names if the individual has confirmed s/he is OK with you doing so.
+If you do think the program should be informed about the incident, contact Basecamp via normal notification procedures.    Please consider that all Basecamp members are not confidential resources.  That means they must disclose any information of which they are aware.  Feel free to describe the incident in general terms; only use names if the individual has confirmed they are OK with you doing so.
 
 ##### Best Practices
 - First and foremost, remember that you are NOT A PSYCHIATRIST and therefore are not expected (and should not feel like you have to) “solve” or “respond perfectly” to a disclosure. These are best practices. Remember that offering an ear to listen/a shoulder to cry on is incredibly helpful in and of itself. 
