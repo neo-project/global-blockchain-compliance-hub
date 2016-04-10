@@ -9,11 +9,11 @@ comments: true
 
 It’s a requirement that all FOP trips have at least one conversation focused on issues surrounding diversity, allyship, and marginalization, but hopefully you find ways to build elements of this larger discussion into little moments on the trail and during other activities. 
 
-We know that we don’t have to justify why diversity is important to FOP leaders, but here’s one way you can frame its relevance to FOP’s role as a pre-orientation program. First, if one of our goals is for FOPpers to get to know each other as individuals, we should be making it equally possible for every member to be known. Some people hold identities that are more vulnerable and more difficult to fully express because of how they have been marginalized or ignored in society. Conversations about diversity can provide the framework to allow those students to be known in those aspects that set them apart, instead of limiting them to more trite expressions of their experiences. Even with a group that seems homogeneous, these conversations can reveal integral aspects to their experiences in the world that they don't always get the chance to ponder. It’s one way that they can deepen their knowledge of themselves, too. 
+We know that we don’t have to justify why diversity is important to FOP leaders, but here’s one way you can frame its relevance to FOP’s role as a pre-orientation program. First, if one of our goals is for FOPpers to get to know each other as individuals, we should be making it equally possible for every member to be known. Some people hold identities that are more vulnerable and more difficult to fully express because of how they have been marginalized or ignored in society. Conversations about diversity can provide the framework to allow those students to be known in those aspects that set them apart, instead of limiting them to more trite expressions of their experiences. Even with a group that seems homogeneous, these conversations can help them think through their own journeys in the world in ways that they might not always get the chance to explore in depth. It’s one way that they can deepen their knowledge of themselves, too. 
 
-Also, taking a step back, FOP is an organization that has the ability to deeply affect many first-years before they even begin classes. We have the power to create the campus that we want to be part of.  With great power…
+Also, taking a step back, FOP is an organization that has the ability to deeply affect many first-years before they even begin classes. We have the power to create the campus culture that we want to be part of.  With great power…
 
-Try not to allow your conversation to be derailed into one about how “we all come from different places but we’re all equally valid.” Don’t let it be dominated by the kid who has lots of worldly ideas after traveling Europe on his gap year, or the kid with trite mottos about how “everyone’s diverse in their own way.” Lean into the conversation about the inequalities, the harder stuff, the way systems of oppression make some of us feel like we should be enemies. 
+As facilitator, try not to allow your conversation to be derailed into one about how “we all come from different places but we’re all equally valid.” Don’t let it be dominated by the kid who has lots of worldly ideas after traveling Europe on his gap year, or the kid with trite mottos about how “everyone’s diverse in their own way.” Lean into the conversation about the inequalities, the harder stuff, the way systems of oppression make some of us feel like we should be enemies. 
 
 Knowing that these kinds of conversations can be particularly difficult, we have included here some tips and thoughts about how you might frame them. 
 
@@ -22,15 +22,15 @@ Finally, we know it could be daunting to read this. It was daunting to write, to
 #### Conversation Norms
 This isn’t a comprehensive list, but here are a few norms to think about setting for your FOPpers:
 
-  - Recognize that these issues are bigger than ourselves
-  - Assume best intentions, but recognize that good intentions are not enough
+  - Recognize that these issues are bigger than ourselves, and that we are limited as facilitators
+  - Assume best intentions, but recognize that good or benign intentions are not enough
   - Apologize fully when you are called out (more on that below)
   - Validate emotions, esp. if you don’t fully understand them
   - Validate personal anecdotes
   - Promote self-care, esp. for those who are sharing a lot of themselves
 
 #### Anger (& other emotions)
-These kinds of discussions can elicit a wide range of emotions from people, and that can be difficult to deal with. It can be easier if we:
+These kinds of discussions can elicit a wide range of emotions and responses from people, and that can be difficult to deal with as facilitator and participant. It can be easier if we:
 
   - Recognize that these issues are bigger than ourselves, and that: 
       - Your comment could be just the tip of the iceberg, or a trigger for some other incident or issue.
@@ -54,7 +54,7 @@ As the likely facilitator of many of these discussions, it may sometimes fall up
           - then the person who said “ouch” can either choose to talk about it more or just move on
           - there’s no pressure to explain the “ouch” in the heat of the moment
       - You can discuss with your cos whether the “ouch” has to be something personal or not, or if you want another word for less personal “ouches”
-      - This can help ease the barrier of anxiety for people who want to speak up when they see something not good but who may not feel comfortable interjecting without a framework
+      - This can help ease the barrier of anxiety for people who want to speak up when they see something harmful/hurtful/appropriative/not good but who may not feel comfortable interjecting without a framework
       - It can also keep conversations moving along instead of getting bogged down
       - It puts the power in the person who has gotten the “ouch”
   - Call it “calling in” instead of “calling out”
@@ -66,7 +66,7 @@ Apologies are not scary! They’re really important and inevitable. When done we
 
   - Here is what some bad apologies might sound like: 
       - I’m sorry that/if you were offended…
-          - This one is kind of a microaggression, because it implies that the hurt was not necessarily legitimate and that the burden is on the other person to handle their own emotions. It demonstrates an attitude of being closed to further discussion and learning.
+          - This one is a microaggression, because it implies that the hurt was not necessarily legitimate and that the burden is on the other person to handle their own emotions. It demonstrates an attitude of being closed to further discussion and learning.
       - I meant / I didn’t mean…
           - This shifts the conversation to being about someone’s intentions, when the more meaningful conversation is about the content of what was done or said and what might be problematic about those actions or words in themselves. Of course, it may be frustating to feel like you're being misinterpreted, and that could lead to some tension. One way to deal with that tension could be to stress that the reason we don't find this type of apology valuable is because we already take for granted that everyone has the best intentions, and that when one person is being called out, a lot of others may be able to recognize that they could have made the same mistake and equally have something valuable to learn. 
   - Here are the three parts of a good apology:
@@ -88,7 +88,7 @@ Apologies are not scary! They’re really important and inevitable. When done we
 There are times when it may feel impossible to bring up these discussions organically, and you need a way to explicitly bring up this discussion or at least bring it to the forefront of people’s minds. Here are some ways to do that:
 
   - Read a quote from the "Readings" part of the Handbook (the diversity section) for everyone to ponder independently, or do some writing about. 
-  - Read a quote from that section (or one of your own!) and share how it sheds new light on your own experiences, or what you might have overlooked about an aspect of your privilege.
+  - Read a quote from that section (or one of your own!) and share or have others share how it sheds new light on your/their own experiences, or what you/they might have overlooked about an aspect of your/their privilege.
   - Say, “I benefit from the structures of privilege in X ways and I shouldn’t be at the center of this conversation. But I do think it’s incredibly important that this conversation happens, and here’s why. (Or here’s how these things affect my life or how I am implicitly part of the problem)”
   - Pre-existing FOP activities can lead to discussions about these topics too, if FOPpers are willing to lean into the more uncomfortable differences between them, and if you prompt them to examine them in more depth. Some good examples are: circle of self, five-minute autobiographies, and hot seat. However, this may not work if you have a relatively homogenous group of FOPpers, and also may put undue pressure on those who consider themselves to be minorities to share their vulnerabilities while others don’t have to take the same level of emotional risk. 
   - Fear in a Hat: You can always plant questions like:
@@ -109,6 +109,7 @@ There are times when it may feel impossible to bring up these discussions organi
       - How often do you think about 'oppression'?
       - What's the space in which you can feel most authentically known?
   - Go around in a circle and ask each person to try to come up with one privilege in their lives that they think they’ve had that most other people in the group have not had. (This may be difficult - you need mature FOPpers for this one.)
+  - Use the important words listed in a section below (or use your own that you come up with) and do an activity where you write down each of the words on a piece of paper and have everyone take a few moments to silently walk around and write down their reactions to, thoughts about, or possible definitions of each of the words. Then allow time to discuss different perspectives on these ideas, and (perhaps also provide time for solo reflection afterwards). 
 
 #### Decentering
 Most spaces in our culture are clearly centered around the experiences of a few privileged identities.
@@ -125,7 +126,7 @@ In light of that, how can we reverse the narrative so that we allow those who ar
 Two ways:
 
   - Equal sharing of vulnerability
-      - The responsibility is usually on those who would be ‘othered’ because of their identities to share their stories and be vulnerable. The burden is also on them to defend why conversations about diversity are important at all. Instead, those who find themselves with some privileged identities should also step forward and be vulnerable - about the ways that they are starting to see their own privilege, or mistakes that they might have made. They should also speak to why diversity is important. Studies have shown that it is white students who gain the most from being taught to consider the experiences of people who are different to them. Students of color gain little because they already do it, every day, from speaking in the language of the white majority or writing English and History essays about white boys/men at school. A safe space can only be constructed with everyone’s active effort. 
+      - The responsibility is usually on those who would be ‘othered’ because of their identities to share their stories and be vulnerable. The burden is also on them to defend why conversations about diversity are important at all. Instead, those who find themselves with some privileged identities should also step forward and be vulnerable - about the ways that they are starting to see their own privilege, or mistakes that they might have made. They should also speak to why diversity is important, while acknowledging any limitations of their perspective. Studies have shown that it is white students who gain the most from being taught to consider the experiences of people who are different to them. Students of color gain little because they already do it, every day, from speaking in the language of the white majority or writing English and History essays about white boys/men at school. A safe space can only be constructed with everyone’s active effort. 
   - Stepping back as the expert
       - Relinquish the idea that everyone’s opinion on issues of marginalization is equally valid. Those who have faced it less, or in different areas, may never be able to truly feel the weight of the marginalization. They can only listen to and learn from those who have direct knowledge. 
       - This is where intersectionality is key - an individual who lives at the intersection of several different marginalized identities has experiences fundamentally different from individuals who inhabit only some of those identities. No one has authority to speak for others’ lives.
