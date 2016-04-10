@@ -137,7 +137,7 @@ The most important tarp factor is location. A few extra minutes of searching for
 
 A few general answers: good sites usually have a clear, flat (level and not bumpy) area surrounded by plenty of trees, with at least two sturdy trees approximately opposite each other. (If you have to move any logs or rocks to create a flat area, make sure to put them back in the morning, in accordance with FOP's minimum impact policy.) The site should not be in any kind of gully, basin, or depression where water will collect.
 
-Other campsite concerns apply, of course: is drinking and cooking water avail- able? Are you far enough from it? Far enough from the trail (at least out of sight)? Far enough from the top of a ridge or peak? Not in a designated fragile ecosystem or watershed area?
+Other campsite concerns apply, of course: is drinking and cooking water available? Are you far enough from it? Far enough from the trail (at least out of sight)? Far enough from the top of a ridge or peak? Not in a designated fragile ecosystem or watershed area?
 
 [Note: if you camp near an AMC lean-to shelter, always set up tarps and ***do not*** use the shelter, except in emergencies; thru-hikers, smaller groups, and groups without tarps have priority there. FOP permitting is granted for use in tarp areas only - in other words, we agree not to stay in shelters. Also, if you camp in an established campground, do use the clearings or tent platforms if available, to avoid further impact to the area.]
 
