@@ -143,7 +143,7 @@ Two ways:
   - code-switching
 
 #### Some Online Resources
-Since we don't feel like we have the breadth of knowledge to offer really good, broad definitions for the terms above and many others that we have left out, we've tried to include some resources here to help you develop your understanding of these concepts and ideas on your own. However, we don't necessarily endorse any of the particular sources here, and they don't necessarily agree with each other - just trying to provide a jumping off point to observe and enter the dialogue!
+Since we don't feel like we have the breadth of knowledge to offer really good, broad definitions for the terms above and many others that we have left out, we've tried to include some resources here to help you develop your understanding of these concepts and ideas on your own. However, this is definitely not comprehensive, and we don't necessarily endorse any of the particular sources here, and they don't necessarily agree with each other - just trying to provide a jumping off point to observe and enter the dialogue!
 
   - [Everyday Feminism][everydayfeminism.com]
   - [Black Girl Dangerous][blackgirldangerous.org] - "Amplifying the Voices of Queer and Trans People of Color"
