@@ -102,7 +102,7 @@ Deciduous trees have broad leaves that they drop come wintertime (but not before
 - Leaves: Sugar maple leaves turn brilliant yellow or orange in the fall, and have almost a 90 degree angle between each of the lobes. Sugar maple leaves' edges are smoother than those of the red maple.
 - Bark: Mature bark is dark gray with vertical ridges
 - Sap: This is the stuff that goes on our pancakes. Did you know it takes about 40 liters of maple sap to make one liter of maple syrup?
-- Habitat: Sugar Maples are tend to have strong root systems and tend to grow in a variety of environments, although not on shallow soils lacking moisture or in swamps. - They are very tolerant of shade and are therefore often found in the understory waiting for release (the process by which understory grow into a newly formed space in the canopy when another tree dies or is removed). While in the understory, Sugar Maples are often fed on and injured by browsing deer.
+- Habitat: Sugar Maples tend to have strong root systems and tend to grow in a variety of environments, although not on shallow soils lacking moisture or in swamps. - They are very tolerant of shade and are therefore often found in the understory waiting for release (the process by which understory grow into a newly formed space in the canopy when another tree dies or is removed). While in the understory, Sugar Maples are often fed on and injured by browsing deer.
 
 ![sug][sug]
 
@@ -376,13 +376,13 @@ Look for a sweeping curve of faint stars between the Dippers. This will be Draco
 [nbf]:http://www.minnesotaseasons.com/Plants/Large/B/balsam_fir_07.jpg
 [hem]: http://upload.wikimedia.org/wikipedia/commons/a/a0/Adelges_tsugae_3225077.jpg
 [ab]: http://www.treetopics.com/fagus_grandifolia/american_beech_1180092.png
-[sug]:http://www.meridian.k12.il.us/middle%20school/student_work/whitley/sugar%20maple%20leaf.jpg
+[sug]: http://maple.dnr.cornell.edu/images/TreeQuiz/LEAF1.JPG
 [striped]: http://www.bio.brandeis.edu/fieldbio/medicinal_plants/images/striped_maple_leaf_full.jpg
 [wa]: http://www.freshfromflorida.com/var/ezdemo_site/storage/images/media/images/florida-forest-service-images/ash-20leaf.jpg/24425-1-eng-US/Ash-20Leaf.JPG.jpg
 [bw]: http://www.aces.edu/natural-resources/forestry/tree-identification/images/amer_basswood.jpg
 [wb]: http://www.lockeheemstra.com/new_england/photos/birch_trees.jpg
-[tid]: http://khandrolingcoop.com/wp-content/uploads/2013/12/tracks.jpg
-[umaj]: http://my.execpc.com/60/B3/culp/astronomy/fig/UrsaMajor.gif
+[tid]: http://cdn.shopify.com/s/files/1/0169/5226/products/Woodland_nursery_art_animal_tracks_1024x1024.jpg?v=1428607793
+[umaj]: https://richardnilsendotcom1.files.wordpress.com/2013/06/ursa-major.jpg
 [umin]: http://upload.wikimedia.org/wikipedia/commons/8/86/Ursa_minor_constellation_map_black.png
 [swan]: http://www.setterfield.org/cygnus.jpg
 [herc]: http://upload.wikimedia.org/wikipedia/commons/c/c4/Hercules_Historical_View.png
