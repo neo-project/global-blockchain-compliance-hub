@@ -1,9 +1,9 @@
 # Site settings
 title: FOP Leader Handbook
-email: your-email@domain.com
+email: fop@fas.harvard.edu
 description: The handook for leaders of the Harvard First-Year Outdoor Program.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://harvardfop.github.io" # the base hostname & protocol for your site
+url: "https://harvardfop.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
