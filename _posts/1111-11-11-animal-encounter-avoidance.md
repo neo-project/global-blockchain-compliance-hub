@@ -17,7 +17,7 @@ Remember that, while your efforts to maintain group safety by avoiding animal en
 - Select the bearbag site and set up the lines as soon as you get into camp. This will minimize the safety risks associated with after-dark bearbagging expeditions and the environmental damage that often occurs in such situation.
 - Food should be at least 100 feet from both your sleeping area and kitchen, ideally upwind. (Uncertain about how far is 'far enough'? Consider how close you would want your evening visitors to you and your FOPpers.)
 - Bearbags should hang 10 feet from the ground and 8 feet from any tree trunk.
-- Safety comes first; it is unsafe to be without food; it is unsafe to bearbag recklessly. "You better think about what you're doin'. You better think about the consequences of your actions." - Aretha
+- Safety comes first, Benji! it is unsafe to be without food; it is unsafe to bearbag recklessly. "You better think about what you're doin'. You better think about the consequences of your actions." - Aretha
 - Make sure that all the food, toothpaste, soap, tampons, sunscreen and garbage make it into the food bags and then up, into the air. Having a bearbag is only effective if it contains everything with any scent.
 
 ### The Bearbag
