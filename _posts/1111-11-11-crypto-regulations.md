@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 0001-11-01
+date: 0001-12-01
 name: crypto-regulations
 title: "Crypto Regulations"
 category: New York
