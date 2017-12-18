@@ -1,9 +1,9 @@
 # Site settings
-title: FOP Leader Handbook
-email: fop@fas.harvard.edu
-description: The handook for leaders of the Harvard First-Year Outdoor Program.
+title: Blockchain Global Compliance Hub
+email: miryam.amsili@gmail.com
+description: The repository for global blockchain compliance
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://harvardfop.github.io" # the base hostname & protocol for your site
+url: "https://mimush.github.io/CryptoWikiTest.github.io/" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
