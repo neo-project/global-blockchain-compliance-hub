@@ -1,9 +1,9 @@
 ---
 layout: post
 date: 0001-12-01
-name: goals-and-history
-title: "The Goals and History of FOP"
-category: philosophy
+name: Forming-a-Business-in-New-York
+title: "Forming a Business in New York"
+category: New York
 comments: true
 ---
 
