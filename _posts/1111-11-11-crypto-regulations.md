@@ -1,9 +1,9 @@
 ---
 layout: post
 date: 0001-11-01
-name: risk-management
-title: "Risk Management"
-category: philosophy
+name: crypto-regulations
+title: "Crypto Regulations"
+category: New York
 comments: true
 ---
 
