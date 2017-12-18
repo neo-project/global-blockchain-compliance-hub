@@ -53,6 +53,7 @@ The `date` field is used to order the sections as well as the posts within each 
 | interpersonal-skills    | 0005  |
 | back-on-campus          | 0006  |
 | emergencies             | 0007  |
+| Crypto test             | 0008  |
 
 P.S. Please edit the above table if you change the order of the sections in the Handbook.
 
