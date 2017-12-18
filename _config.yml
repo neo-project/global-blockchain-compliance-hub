@@ -8,3 +8,5 @@ url: "https://harvardfop.github.io" # the base hostname & protocol for your site
 # Build settings
 markdown: kramdown
 permalink: none
+
+theme: jekyll-theme-minimal
