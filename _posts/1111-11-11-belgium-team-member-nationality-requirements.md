@@ -7,4 +7,4 @@ category: belgium
 comments: true
 ---
 
-Managing a business in California requires:
+Team members in Belgium should...
