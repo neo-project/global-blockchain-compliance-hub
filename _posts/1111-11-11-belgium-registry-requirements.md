@@ -1,9 +1,9 @@
 ---
 layout: post
 date: 0002-12-01
-name: forming-a-business
-title: "Forming A Business"
-category: california
+name: company-registry-requirements
+title: "Non-profit/or-profit Company Registry Requirements"
+category: belgium
 comments: true
 ---
 
