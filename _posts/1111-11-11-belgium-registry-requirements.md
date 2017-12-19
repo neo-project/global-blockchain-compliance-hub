@@ -7,4 +7,4 @@ category: belgium
 comments: true
 ---
 
-The following are the necessary to establish a business in California:
+The following are the necessary to establish a business in Belgium: 
