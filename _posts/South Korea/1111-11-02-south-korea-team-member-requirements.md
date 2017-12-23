@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 0004-11-01
+date: 0010-11-01
 name: team-member-nationality-requirements
 title: "Team Member Nationality Requirements"
-category: gibraltar
+category: south-korea
 comments: true
 ---
 
 
-Team members in Gibraltar must: 
+
