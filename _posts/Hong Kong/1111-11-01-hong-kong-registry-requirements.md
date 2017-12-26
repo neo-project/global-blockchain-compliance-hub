@@ -17,7 +17,7 @@ The most common type of business entities in Hong Kong are sole proprietorships 
 
 1.Company limited by shares(Profit companies): the liability of members is limited by the articles of association to the amount unpaid on the shares respectively held by them. (For reference only: Most limited companies are companies limited by shares.)
 		
-		[General Requirements] (www.bridges.hk/en/professional_services_2_2.php)
+		[General Requirements](www.bridges.hk/en/professional_services_2_2.php)
 
 		Company name
 		Certificate of Incorporation
