@@ -19,17 +19,17 @@ The most common type of business entities in Hong Kong are sole proprietorships 
 		
 		General Requirements:
 
-		..*Company name
-		..*Certificate of Incorporation
-		..*Business Registration License
-		..*10 copies of Articles of Association in English
-		..*1 copy of Articles of Association in Chinese
-		..*Share certificate book
-		..*Company chop, authorized signature stamp and common seal
-		..*Green box with company name printed on
-		..*1st year company secretarial services 
-		..*Complimentary opening bank account arrangement
-		..*5 certified true copies of company documents for opening bank account
+		Company name
+		Certificate of Incorporation
+		Business Registration License
+		10 copies of Articles of Association in English
+		1 copy of Articles of Association in Chinese
+		Share certificate book
+		Company chop, authorized signature stamp and common seal
+		Green box with company name printed on
+		1st year company secretarial services 
+		Complimentary opening bank account arrangement
+		5 certified true copies of company documents for opening bank account
 	
 
 2.Company Limited by Guarantee(Non-profit Companies): no share capital and the liability of members is limited by the articles of association to the amount that the members respectively undertake to contribute to the assets of the company in the event of its being wound up. (For reference only: Non-profit-making organizations are usually registered as companies limited by guarantee.)
