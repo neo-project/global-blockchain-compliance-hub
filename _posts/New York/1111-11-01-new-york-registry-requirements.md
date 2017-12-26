@@ -24,7 +24,8 @@ Instructions and requirements for each type of business entity can be found here
 - [Application of Authority for a Foreign Corporation](https://www.dos.ny.gov/corps/buscorp.html#appauth)
 - [Professional Service Corporation](https://www.dos.ny.gov/corps/buscorp.html#appauth)
 
-
+Sources: 
+- [New York Department of State Business Guide](https://www.dos.ny.gov/corps/busguide.html)
 
 
 
