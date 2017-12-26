@@ -10,7 +10,7 @@ To access the Handbook, visit [https://mimush.github.io/CryptoWikiTest.github.io
 
 The process for editing a page is the same regardless of the particular page you want to edit. The following are the pages you'll care about:
 
-- The landing page (i.e. the one that says "Congratulations!" at the top), which is called `index.html`
+- The landing page (i.e. the one that says "Welcome to NEO's Global Blockchain Compliance Hub!!" at the top), which is called `index.html`
 - All of the content pages of the Handbook, which are Markdown files (i.e. they end in `.md`) contained in the `_posts` folder
 
 To edit a page, first click on it's name. You should then see a rendered version of the page (if it's a Markdown file) or the actual code (if it's `index.html`). Next, click on the pencil-like icon on the top right of the box containing the content. (It should be to the right of the words "Raw," "Blame," and "Histroy.") Now you'll be in the editor...go crazy!
@@ -23,7 +23,7 @@ Here are a few notes:
 - Ignore the stuff at the top of the Markdown files (that renders as a table) since it's only necessary for Jekyll to work correctly.
 - Browse through different files to get a sense of how links are created, pictures are inserted, etc. It's probably best to maintain consistency in terms of formatting and style.
 
-When you're done editing, simply hit the big "Commit changes" button at the bottom of the page. We recommend including a short description of your changes in the box provided. Your changes will be rendered instantly at [https://mimush.github.io/CryptoWikiTest.github.io/](https://mimush.github.io/CryptoWikiTest.github.io/).
+When you're done editing, simply hit the big "Commit changes" button at the bottom of the page. Include a short description of your changes in the box provided. Your changes will be rendered instantly at [https://mimush.github.io/CryptoWikiTest.github.io/](https://mimush.github.io/CryptoWikiTest.github.io/).
 
 ## Re-Ordering ##
 
@@ -46,7 +46,7 @@ The `date` field is used to order the sections as well as the posts within each 
 
 | Section                 | Year  |
 |:-----------------------:|:-----:|
-|                         | 0001  |
+| about                   | 0001  |
 | belgium                 | 0002  |
 | germany                 | 0003  |
 | gibraltar               | 0004  |
