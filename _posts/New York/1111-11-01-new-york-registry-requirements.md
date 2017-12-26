@@ -26,7 +26,8 @@ Instructions and requirements for each type of business entity can be found here
 
 
 
-Sources:
+Sources
+------ 
 - Text quoted from [New York Department of State Business Guide](https://www.dos.ny.gov/corps/busguide.html). 
 - [New York Department of State's Division of Corporations, State Records and Uniform Commercial Code](https://www.dos.ny.gov/corps/index.html)
 
