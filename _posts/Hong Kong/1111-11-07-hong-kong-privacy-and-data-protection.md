@@ -40,7 +40,7 @@ A data user must take practicable steps to make personal data policies and pract
 
 - DPP6 - Data Access & Correction Principle
 
-	A data subject must be given access to his/her personal data and allowed to make corrections if it is inaccurate.
+A data subject must be given access to his/her personal data and allowed to make corrections if it is inaccurate.
 
 	
 Given the decentralized and distributed nature of Distributed Ledger Technology(DLT), customers involved should be made fully aware that their personal data is being shared among all the participating parties of the DLT platform. A proper governance structure should be set up among the participating parties, delivering proper notification to customers through an agreed mechanism. The DLT platform may also be required to come up with a set of agreed rules and policies to be followed by all participating parties and made known to customers.
