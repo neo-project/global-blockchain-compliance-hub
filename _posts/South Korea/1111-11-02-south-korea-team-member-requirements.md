@@ -13,9 +13,9 @@ A foreigner may stay in Korea within the scope of his/her sojourn status and soj
 
 ## Starting a business:
 
-Foreign Branches and Liaison offices don’t have visa requirements to start a business.
+**Foreign Branches and Liaison offices don’t have visa requirements to start a business.**
 
-A Foreign Owned Local Corporation is recognized as a "foreign investment" under the Foreign Investment Promotion Act in South Korea. An individual seeking to invest in South Korea should have one of the following:
+A **Foreign Owned Local Corporation** is recognized as a "foreign investment" under the Foreign Investment Promotion Act in South Korea. An individual seeking to invest in South Korea should have one of the following:
 - a D-8 (Corporate Investment) visa, a D-9 (Trade) 
 - an F-5 (permanent residence) visa 
 - an F-6 (marriage immigration) visa 
