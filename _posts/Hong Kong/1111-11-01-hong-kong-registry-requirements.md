@@ -11,13 +11,13 @@ The following are the necessary to establish a business in Hong Kong:
 
 Once you have decided to incorporate a limited company and chosen a company name, you can apply for incorporation with the Hong Kong Companies Registry (“CR”). To simplify the process of setting up a limited company, any application for company incorporation includes a simultaneous application for business registration.
 
-You may submit applications for incorporation of local companies online at the 24-hour portal e-Registry(https://www.eregistry.gov.hk/icris-ext/apps/por01a/index) or via the “CR eFiling” mobile application which can be downloaded free of charge from App Store or Google Play, or deliver the documents in hard copy form to the CR with the correct fees.
+You may submit applications for incorporation of local companies online at the 24-hour portal [e-Registry](https://www.eregistry.gov.hk/icris-ext/apps/por01a/index) or via the “CR eFiling” mobile application which can be downloaded free of charge from App Store or Google Play, or deliver the documents in hard copy form to the CR with the correct fees.
 
 The most common type of business entities in Hong Kong are sole proprietorships and partnerships. The other type of business entities and the detailed requirements are as followed:
 
 - Company limited by shares(Profit companies): the liability of members is limited by the articles of association to the amount unpaid on the shares respectively held by them. (For reference only: Most limited companies are companies limited by shares.)
 		
-		General Requirements:(http://www.bridges.hk/en/professional_services_2_2.php)
+		[General Requirements:](http://www.bridges.hk/en/professional_services_2_2.php)
 
 		Company name
 		Certificate of Incorporation
@@ -34,7 +34,7 @@ The most common type of business entities in Hong Kong are sole proprietorships 
 
 - Company Limited by Guarantee(Non-profit Companies): no share capital and the liability of members is limited by the articles of association to the amount that the members respectively undertake to contribute to the assets of the company in the event of its being wound up. (For reference only: Non-profit-making organizations are usually registered as companies limited by guarantee.)
 
-		General Requirements:(http://www.bridges.hk/en/professional_services_2_6.php)
+		[General Requirements:](http://www.bridges.hk/en/professional_services_2_6.php)
 
 		Company name 
 		Certificate of Incorporation
@@ -47,7 +47,7 @@ The most common type of business entities in Hong Kong are sole proprietorships 
 - Registered Non-Hong Kong Company (Foreign Company Offices): Foreign companies interested in setting up an office in Hong Kong can register a branch office, subsidiary, or a representative office. A non-Hong Kong company must apply for registration as a registered non-Hong Kong company
 		
 
-		General Requirements:(https://www.cr.gov.hk/en/public/services.htm)
+		[General Requirements:](https://www.cr.gov.hk/en/public/services.htm)
 
 		Should register within one month after the establishment of a place of business in Hong Kong.
 		Form NN1 - Application for Registration as Registered Non-Hong Kong Company;
@@ -59,8 +59,8 @@ The most common type of business entities in Hong Kong are sole proprietorships 
 
 - To get more detailed information about the subject, visit the footnotes or useful links below:
 		
-		- Companies Registry Website of The Government of the Hong Kong(https://www.cr.gov.hk/en/faq/index.htm)
-		- Company Registration, Frequently Asked Questions(https://www.cr.gov.hk/en/faq/index.htm)
-		- Hong Kong Government, Registration and Licences(https://www.gov.hk/en/business/registration/businesscompany/index.htm)
+		- [Companies Registry Website of The Government of the Hong Kong](https://www.cr.gov.hk/en/faq/index.htm)
+		- [Company Registration, Frequently Asked Questions](https://www.cr.gov.hk/en/faq/index.htm)
+		- [Hong Kong Government, Registration and Licences](https://www.gov.hk/en/business/registration/businesscompany/index.htm)
  
 
