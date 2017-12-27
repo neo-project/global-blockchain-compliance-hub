@@ -47,7 +47,7 @@ The most common type of business entities in Hong Kong are sole proprietorships 
 3. Registered Non-Hong Kong Company(Foreign Company Offices): Foreign companies interested in setting up an office in Hong Kong can register a branch office, subsidiary, or a representative office. A non-Hong Kong company must apply for registration as a registered non-Hong Kong company
 		
 
-   - [General Requirements:](https://www.cr.gov.hk/en/public/services.htm)
+  - [General Requirements:](https://www.cr.gov.hk/en/public/services.htm)
 
     - Should register within one month after the establishment of a place of business in Hong Kong.
     - Form NN1 - Application for Registration as Registered Non-Hong Kong Company;
@@ -58,11 +58,11 @@ The most common type of business entities in Hong Kong are sole proprietorships 
 
 
 
-- Sources
+Sources
 ------ 
 		
-   - [Companies Registry Website of The Government of the Hong Kong](https://www.cr.gov.hk/en/faq/index.htm)
-   - [Company Registration, Frequently Asked Questions](https://www.cr.gov.hk/en/faq/index.htm)
-   - [Hong Kong Government, Registration and Licences](https://www.gov.hk/en/business/registration/businesscompany/index.htm)
+- [Companies Registry Website of The Government of the Hong Kong](https://www.cr.gov.hk/en/faq/index.htm)
+- [Company Registration, Frequently Asked Questions](https://www.cr.gov.hk/en/faq/index.htm)
+- [Hong Kong Government, Registration and Licences](https://www.gov.hk/en/business/registration/businesscompany/index.htm)
  
 
