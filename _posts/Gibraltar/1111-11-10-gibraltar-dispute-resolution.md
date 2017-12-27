@@ -8,3 +8,5 @@ comments: true
 ---
 
 Dispute Resolution in Gibraltar is integrated by...
+
+The Gibraltar Financial Services Commission (GFSC) have not clarified an official regulation on this issue.
