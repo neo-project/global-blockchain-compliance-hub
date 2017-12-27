@@ -17,7 +17,7 @@ The most common type of business entities in Hong Kong are sole proprietorships 
 
 - Company limited by shares(Profit companies): the liability of members is limited by the articles of association to the amount unpaid on the shares respectively held by them. (For reference only: Most limited companies are companies limited by shares.)
 		
-		[General Requirements:](http://www.bridges.hk/en/professional_services_2_2.php)
+		[General Requirements]:(http://www.bridges.hk/en/professional_services_2_2.php)
 
 		Company name
 		Certificate of Incorporation
@@ -34,7 +34,7 @@ The most common type of business entities in Hong Kong are sole proprietorships 
 
 - Company Limited by Guarantee(Non-profit Companies): no share capital and the liability of members is limited by the articles of association to the amount that the members respectively undertake to contribute to the assets of the company in the event of its being wound up. (For reference only: Non-profit-making organizations are usually registered as companies limited by guarantee.)
 
-		[General Requirements:](http://www.bridges.hk/en/professional_services_2_6.php)
+		[General Requirements]:(http://www.bridges.hk/en/professional_services_2_6.php)
 
 		Company name 
 		Certificate of Incorporation
@@ -47,7 +47,7 @@ The most common type of business entities in Hong Kong are sole proprietorships 
 - Registered Non-Hong Kong Company (Foreign Company Offices): Foreign companies interested in setting up an office in Hong Kong can register a branch office, subsidiary, or a representative office. A non-Hong Kong company must apply for registration as a registered non-Hong Kong company
 		
 
-		[General Requirements:](https://www.cr.gov.hk/en/public/services.htm)
+		[General Requirements]:(https://www.cr.gov.hk/en/public/services.htm)
 
 		Should register within one month after the establishment of a place of business in Hong Kong.
 		Form NN1 - Application for Registration as Registered Non-Hong Kong Company;
@@ -59,8 +59,8 @@ The most common type of business entities in Hong Kong are sole proprietorships 
 
 - To get more detailed information about the subject, visit the footnotes or useful links below:
 		
-		- [Companies Registry Website of The Government of the Hong Kong](https://www.cr.gov.hk/en/faq/index.htm)
-		- [Company Registration, Frequently Asked Questions](https://www.cr.gov.hk/en/faq/index.htm)
-		- [Hong Kong Government, Registration and Licences](https://www.gov.hk/en/business/registration/businesscompany/index.htm)
+		- [Companies Registry Website of The Government of the Hong Kong] (https://www.cr.gov.hk/en/faq/index.htm)
+		- [Company Registration, Frequently Asked Questions] (https://www.cr.gov.hk/en/faq/index.htm)
+		- [Hong Kong Government, Registration and Licences] (https://www.gov.hk/en/business/registration/businesscompany/index.htm)
  
 
