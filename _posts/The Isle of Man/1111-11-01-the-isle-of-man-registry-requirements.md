@@ -28,8 +28,8 @@ Some of the key features and differences of the Companies Act 2006 from Companie
 
 For further detail, please see:
 
-- 1931 Companies Act
-- 2006 Companies Act
+- [1931 Companies Act](http://acsp.co.im/uploads/1931-companies-act-brochure.pdf)
+- [2006 Companies Act](http://acsp.co.im/uploads/iom-2006-companies-act.pdf)
 
 
 Types of Companies
