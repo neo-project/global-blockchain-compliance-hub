@@ -19,7 +19,6 @@ As set out in the Civil Code, an association or foundation may be formed subject
 Permission to incorporate must be obtained by drawing up articles of incorporation which detail the following: objective of the association; name; seat of office; provisions concerning assets; provisions concerning appointment and removal of directors; provisions concerning acquisition and loss of membership; cause of dissolution.  
 
 imilarly, the founder of a foundation must endow property and draw the same articles of incorporation as an association. 
-
 If incorporation of the association or foundation is permitted by the appropriate governing authority, the incorporation must be registered at the seat of the organization’s principal office within three weeks from the date of permission. The following information must be registered: objective; name; office; date of permission of incorporation; causes of dissolution; total value of assets; method of effective contributions; and names and domicile of directors. No information was found with respect to fees for registration, registration timeframe or how to determine exactly who is the “competent authority”. Most likely, in case of starting a non-profit organization, a founder shall apply through the Ministry of Justice, with detail explanation of purpose and activities of the organisation.
 
 ### For-Profit Organizations  
@@ -49,11 +48,9 @@ General Requirements
 1. To notify designated exchange bank.
 
 A foreign company establishing a domestic branch must send a notification to the head of the designated foreign exchange bank (any Korean bank which handles foreign exchange). To get permission of establishing a financial business, the company must register at the Ministry of Strategy and Finance.
-
 2. Register with Court Registry Office
 
 Once notification is confirmed by the exchange bank, the company must submit this to a local court registry office. In addition to the report/confirmation from the bank, the branch must nominate a representative who is responsible for day-to-day administration of the branch. The representative does not have to be a Korean resident.
-
 3. Register at Tax Office for Business Registration Certificate
 The branch must register at a tax office to obtain a business registration number. This process covers registering for tax such as sales and payroll tax. Foreign employees are required to pay Korean income taxes, which are generally withheld and paid by the employer. 
 Every business engaged in supplying of goods or services, whether or not for profit is required to register for VAT purposes by applying for a business registration certificate. The forms can be downloaded from the national tax office’s website  and must be submitted to it, or to a district tax office.
