@@ -37,6 +37,7 @@ The question of whether a business is carried on in Hong Kong and whether profit
 
 Sources and Further Reading
 ------ 
+- [Inland Revenue Department of Hong Kong, Profits Tax](http://www.ird.gov.hk/eng/tax/bus_pft.htm#a01)
 - [Frequently Asked Questions: Companies Incorporated Outside Hong Kong](http://www.ird.gov.hk/eng/pdf/faqciohk.pdf)
 - [Profit Tax: The scope of the charge, the basis period, exemptions, deductions](http://www.ird.gov.hk/eng/tax/bus_pft.htm)
 - [Frequently Asked Questions: Tax reporting for sole proprietorship, partnership](http://www.ird.gov.hk/eng/tax/ind_sp.htm#a04)
