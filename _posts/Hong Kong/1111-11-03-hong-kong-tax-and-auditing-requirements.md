@@ -13,10 +13,8 @@ IRD issues Tax Return filing notifications to companies on the 1st of April ever
 
 When filing the Tax Return, the following supporting documents must also be attached:
 
-   - The company’s balance sheet, auditor’s report and Profit & Loss Account relating to the basis period
-   - A tax computation indicating how the amount of assessable of profits (or adjusted losses) has been arrived at
-
-- Taxation
+  - The company’s balance sheet, auditor’s report and Profit & Loss Account relating to the basis period
+  - A tax computation indicating how the amount of assessable of profits (or adjusted losses) has been arrived at
 
 Persons, including corporations, partnerships, trustees and bodies of persons carrying on any trade, profession or business in Hong Kong are chargeable to tax on all profits (excluding profits arising from the sale of capital assets) arising in or derived from Hong Kong from such trade, profession or business. There is therefore no distinction made between residents and non-residents.
 
@@ -24,17 +22,17 @@ The question of whether a business is carried on in Hong Kong and whether profit
 
 - Profits Tax Rate 
 
-   1. Normal rate (for the year of assessment 2008/09 onwards)
+1. Normal rate (for the year of assessment 2008/09 onwards)
 		
-     - Corporations: %17
-     - Unincorporated Businesses: %15
+  - Corporations: %17
+  - Unincorporated Businesses: %15
 
-	 2. Concessionary rate: A tax rate at 50% of the normal profits tax rate will be applied to:
+2. Concessionary rate: A tax rate at 50% of the normal profits tax rate will be applied to:
 
-     - Trading profits and interest income received or derived from qualifying debt instruments issued in Hong Kong;
-     - Profits of the offshore business of professional reinsurer, or authorized captive insurer (for the year of assessment 2013/14 onwards);
-     - Qualifying profits of a qualifying corporate treasury centre (for the year of assessment 2016/17 onwards); and
-     - Qualifying profits of a qualifying aircraft lessor or a qualifying aircraft leasing manager (for the year of assessment 2017/18 onwards)
+   - Trading profits and interest income received or derived from qualifying debt instruments issued in Hong Kong;
+   - Profits of the offshore business of professional reinsurer, or authorized captive insurer (for the year of assessment 2013/14 onwards);
+   - Qualifying profits of a qualifying corporate treasury centre (for the year of assessment 2016/17 onwards); and
+   - Qualifying profits of a qualifying aircraft lessor or a qualifying aircraft leasing manager (for the year of assessment 2017/18 onwards)
 
 
 Sources and Further Reading
