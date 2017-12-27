@@ -13,8 +13,8 @@ IRD issues Tax Return filing notifications to companies on the 1st of April ever
 
 When filing the Tax Return, the following supporting documents must also be attached:
 
-  - The company’s balance sheet, auditor’s report and Profit & Loss Account relating to the basis period
-  - A tax computation indicating how the amount of assessable of profits (or adjusted losses) has been arrived at
+   - The company’s balance sheet, auditor’s report and Profit & Loss Account relating to the basis period
+   - A tax computation indicating how the amount of assessable of profits (or adjusted losses) has been arrived at
 
 - Taxation
 
@@ -22,16 +22,14 @@ Persons, including corporations, partnerships, trustees and bodies of persons ca
 
 The question of whether a business is carried on in Hong Kong and whether profits are derived from Hong Kong is largely one of fact, however some guidance on the principles applied can be found in cases which have been considered by the Hong Kong Courts and the Privy Council. No tax is levied on profits arising abroad, even if they are remitted to Hong Kong.
 
-   Profits Tax Rate 
+- Profits Tax Rate 
 
    1. Normal rate (for the year of assessment 2008/09 onwards)
 		
      - Corporations: %17
      - Unincorporated Businesses: %15
 
-	 2. Concessionary rate
-
-   A tax rate at 50% of the normal profits tax rate will be applied to:
+	 2. Concessionary rate: A tax rate at 50% of the normal profits tax rate will be applied to:
 
      - Trading profits and interest income received or derived from qualifying debt instruments issued in Hong Kong;
      - Profits of the offshore business of professional reinsurer, or authorized captive insurer (for the year of assessment 2013/14 onwards);
