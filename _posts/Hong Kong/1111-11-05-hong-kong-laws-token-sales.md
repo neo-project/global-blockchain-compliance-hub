@@ -7,7 +7,7 @@ category: hong-kong
 comments: true
 ---
 
-1. Laws related to Distributed Ledger Technology(DLT)
+Laws related to Distributed Ledger Technology(DLT)
 ------
 
 Arguably the law has not yet fully caught up with jurisdictional and data protection issues raised by the DLT in Hong Kong. Adoption of DLT, particularly un-permissioned DLT networks, raises a number of core issues which must be addressed before DLT is unleashed, particularly in the consumer context.
@@ -21,7 +21,7 @@ DLT can be incorporated into contracts to make them (wholly or, more likely part
 Quite apart from the question of legal enforceability is the question of what is the applicable law for the DLT arrangement. There are well established rules of private international law, aimed at establishing the laws to govern contracts, but as yet private international law may be inadequate to answer fully the challenges represented by DLT.
 
 
-2. Laws related to token sales
+Laws related to token sales
 ------
 
 A recent statement by the Hong Kong Securities and Futures Commission states that 'The Securities and Futures Commission (SFC) has noticed an increase in the use of initial coin offerings (ICOs) to raise funds in Hong Kong and elsewhere. This statement serves to explain that, depending on the facts and circumstances of an ICO, digital tokens that are offered or sold may be “securities” as defined in the Securities and Futures Ordinance (SFO), and subject to the securities laws of Hong Kong.’
