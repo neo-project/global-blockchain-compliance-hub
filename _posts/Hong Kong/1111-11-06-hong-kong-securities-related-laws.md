@@ -17,7 +17,7 @@ For further reading, please refer to [‘Securities and Futures Ordinance of Hon
 
   - For registration: Part II and Part XII of the Companies Ordinance in SFO
   - For authorization: Part IV in SFO
-	- For regulations related to exchanges and automated trading services: Part III in SFO.
+  - For regulations related to exchanges and automated trading services: Part III in SFO.
   
 
 Sources
