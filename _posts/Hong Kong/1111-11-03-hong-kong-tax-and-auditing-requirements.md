@@ -26,7 +26,7 @@ The question of whether a business is carried on in Hong Kong and whether profit
 		
    - Corporations: %17
    - Unincorporated Businesses: %15
-
+   
 2. Concessionary rate, A tax rate at 50% of the normal profits tax rate will be applied to:
 
    - Trading profits and interest income received or derived from qualifying debt instruments issued in Hong Kong;
