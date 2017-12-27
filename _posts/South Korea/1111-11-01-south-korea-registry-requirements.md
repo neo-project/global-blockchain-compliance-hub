@@ -1,4 +1,3 @@
-
 ---
 layout: post
 date: 0010-12-01
