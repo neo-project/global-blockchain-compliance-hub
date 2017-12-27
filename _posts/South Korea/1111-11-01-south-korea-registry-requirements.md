@@ -18,7 +18,7 @@ In South Korea, not-for profit organizations can exist as unregistered organizat
 As set out in the Civil Code, an association or foundation may be formed subject to permission of the competent authorities . 
 Permission to incorporate must be obtained by drawing up articles of incorporation which detail the following: objective of the association; name; seat of office; provisions concerning assets; provisions concerning appointment and removal of directors; provisions concerning acquisition and loss of membership; cause of dissolution.  
 
-Similarly, the founder of a foundation must endow property and draw the same articles of incorporation as an association. 
+imilarly, the founder of a foundation must endow property and draw the same articles of incorporation as an association. 
 
 If incorporation of the association or foundation is permitted by the appropriate governing authority, the incorporation must be registered at the seat of the organization’s principal office within three weeks from the date of permission. The following information must be registered: objective; name; office; date of permission of incorporation; causes of dissolution; total value of assets; method of effective contributions; and names and domicile of directors. No information was found with respect to fees for registration, registration timeframe or how to determine exactly who is the “competent authority”. Most likely, in case of starting a non-profit organization, a founder shall apply through the Ministry of Justice, with detail explanation of purpose and activities of the organisation.
 
@@ -36,10 +36,10 @@ Branches do not require formal incorporation, making them easier in principle to
 
 1.	Notify Designated Exchange Bank
 
-Branches of foreign corporations must designate a foreign exchange bank for the usual purpose of channeling working capital, but also to receive permission to establish in Korea.
-In order for a foreign company to establish a domestic branch, a notification must be sent to the head of the designated foreign exchange bank (any Korean bank which handles foreign exchange), according to Korea Law. Alternatively, Invest Korea reports that a financial business must register at the Ministry of Strategy and Finance for permission of establishment of a financial business. 
+Branches of foreign corporations must designate a foreign exchange bank for the usual purpose of channeling working capital, but also to receive permission to establish in Korea. In order for a foreign company to establish a domestic branch, a notification must be sent to the head of the designated foreign exchange bank (any Korean bank which handles foreign exchange), according to Korea Law. Alternatively, Invest Korea reports that a financial business must register at the Ministry of Strategy and Finance for permission of establishment of a financial business. 
+
 Required Documents generally include:
--	Report form of the establishment of a foreign company’s domestic branch
+ ..* Report form of the establishment of a foreign company’s domestic branch
 -	Article of association (Notarization of the location of the headquarters is required)
 -	A certified copy of registration or operation permission of headquarters
 -	General principles of headquarters
