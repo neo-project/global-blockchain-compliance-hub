@@ -21,6 +21,13 @@ Permission to incorporate must be obtained by drawing up articles of incorporati
 Similarly, the founder of a foundation must endow property and draw the same articles of incorporation as an association. 
 
 If incorporation of the association or foundation is permitted by the appropriate governing authority, the incorporation must be registered at the seat of the organization’s principal office within three weeks from the date of permission. The following information must be registered: objective; name; office; date of permission of incorporation; causes of dissolution; total value of assets; method of effective contributions; and names and domicile of directors. No information was found with respect to fees for registration, registration timeframe or how to determine exactly who is the “competent authority”. Most likely, in case of starting a non-profit organization, a founder shall apply through the Ministry of Justice, with detail explanation of purpose and activities of the organisation.
+
+### For-Profit Organizations  
+
+There are three types of business forms available to foreign companies in South Korea: Foreign Branch, Liaison Office, and Foreign Owned Local Corporation. Each of these business forms has advantages and disadvantages, as well as differing scope of business activities, registration requirements and minimum capital requirements. In most cases it will depend on the degree of commitment a company has to South Korea and the planned business activity.
+
+
+
  
 
 
