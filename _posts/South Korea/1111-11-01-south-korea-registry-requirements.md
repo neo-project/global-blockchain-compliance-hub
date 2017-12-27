@@ -33,14 +33,12 @@ A Branch Office is a form of business that generates profits in Korea, which is 
 
 Branches do not require formal incorporation, making them easier in principle to set up than a local corporation, and with less registration fees. Unlike liaison offices, branches are also allowed to engage in sales activity. They are considered a separate legal entity providing some separation of debts and liabilities from their parent. Generally, branch offices are suitable for smaller scale operations.  Foreign companies can move on to a local subsidiary later as needed.
 
-*Registration Steps*
+General Requirements
 
-1.	Notify Designated Exchange Bank
-
-Branches of foreign corporations must designate a foreign exchange bank for the usual purpose of channeling working capital, but also to receive permission to establish in Korea. In order for a foreign company to establish a domestic branch, a notification must be sent to the head of the designated foreign exchange bank (any Korean bank which handles foreign exchange), according to Korea Law. Alternatively, Invest Korea reports that a financial business must register at the Ministry of Strategy and Finance for permission of establishment of a financial business. 
+- To notify designated exchange bank
+A foreign company establishing a domestic branch must send a notification to the head of the designated foreign exchange bank (any Korean bank which handles foreign exchange). To get permission of establishing a financial business, the company must register at the Ministry of Strategy and Finance.
 
 Required Documents generally include:
-
 - Report form of the establishment of a foreign company’s domestic branch
 -	Article of association (Notarization of the location of the headquarters is required)
 -	A certified copy of registration or operation permission of headquarters
@@ -49,12 +47,10 @@ Required Documents generally include:
 -	A certificate of permission for business
 -	Power of attorney where the establishment of a domestic branch is commissioned to another person (Notarization of the location of the headquarters is required)
 
-All documents from the home country need to be notarized, and most likely provided with a Korean translated copy (the translator need not be certified).
+All documents from the home country need to be notarized, and provided with a Korean translated copy (the translator need not be certified).
 
-2.  Register with Court Registry Office
-
-Once notification is confirmed by the exchange bank, the company must submit this to a local court registry office. In addition to the report/confirmation from the bank, the branch must nominate a representative who is responsible for day-to-day administration of the branch. The representative does not have to be a Korean resident.
-Time: 1-2 weeks (estimated), Cost: no known charge
+- Register with Court Registry Office
+ Once notification is confirmed by the exchange bank, the company must submit this to a local court registry office. In addition to the report/confirmation from the bank, the branch must nominate a representative who is responsible for day-to-day administration of the branch. The representative does not have to be a Korean resident.
 
 3.  Register at Tax Office for Business Registration Certificate
 
