@@ -95,6 +95,13 @@ For further information, please see:
 - [1931 Companies Act](http://acsp.co.im/uploads/1931-companies-act-brochure.pdf)
 - [2006 Companies Act](http://acsp.co.im/uploads/iom-2006-companies-act.pdf)
 - [Designated Businesses Act, 2015](https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/2015/2015-0009/DesignatedBusinessesRegistrationandOversightAct2015_3.pdf?zoom_highlight=designated+business#search=%22designated%20business%22)
+
+
+
+Sources
+------
+
+- [2006 Companies Act](http://acsp.co.im/uploads/iom-2006-companies-act.pdf)
 							
 
 
