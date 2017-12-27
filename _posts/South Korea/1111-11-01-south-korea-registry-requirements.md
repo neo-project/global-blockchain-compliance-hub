@@ -46,10 +46,12 @@ All documents from the home country need to be notarized, and provided with a Ko
 
 General Requirements
 
-1. To notify designated exchange bank
+1. To notify designated exchange bank.
+
 A foreign company establishing a domestic branch must send a notification to the head of the designated foreign exchange bank (any Korean bank which handles foreign exchange). To get permission of establishing a financial business, the company must register at the Ministry of Strategy and Finance.
 
 2. Register with Court Registry Office
+
 Once notification is confirmed by the exchange bank, the company must submit this to a local court registry office. In addition to the report/confirmation from the bank, the branch must nominate a representative who is responsible for day-to-day administration of the branch. The representative does not have to be a Korean resident.
 
 3. Register at Tax Office for Business Registration Certificate
