@@ -45,28 +45,28 @@ All documents from the home country need to be notarized, and provided with a Ko
 
 General Requirements:
 
-*1. To notify designated exchange bank.
+*1. To notify designated exchange bank*
 
 A foreign company establishing a domestic branch must send a notification to the head of the designated foreign exchange bank (any Korean bank which handles foreign exchange). To get permission of establishing a financial business, the company must register at the Ministry of Strategy and Finance.
 
-*2. Register with Court Registry Office
+*2. Register with Court Registry Office*
 
 Once notification is confirmed by the exchange bank, the company must submit this to a local court registry office. In addition to the report/confirmation from the bank, the branch must nominate a representative who is responsible for day-to-day administration of the branch. The representative does not have to be a Korean resident.
 
-*3. Register at Tax Office for Business Registration Certificate
+*3. Register at Tax Office for Business Registration Certificate*
 
 The branch must register at a tax office to obtain a business registration number. This process covers registering for tax such as sales and payroll tax. Foreign employees are required to pay Korean income taxes, which are generally withheld and paid by the employer. 
 Every business engaged in supplying of goods or services, whether or not for profit is required to register for VAT purposes by applying for a business registration certificate. The forms can be downloaded from the national tax office’s website  and must be submitted to it, or to a district tax office.
 
-*4. Open Commercial Bank Account
+*4. Open Commercial Bank Account*
 
 Documentation such as identification documents would be required, and may require an initial deposit, as well as the business registration number. 
 
-*5. Establish an Office
+*5. Establish an Office*
 
 It is not clear whether a branch is legally required to have a physical office in Korea. There appears to be no specific registration requirement of the office location with government authorities. It seems that there is no restriction on using a virtual office as a business address or similar services in Korea.
 
-*6. Register for Social Security Insurances
+*6. Register for Social Security Insurances*
 
 The National Health Insurance Service (NHIS) collects contributions for all social insurance programs (National Pension, Health Insurance, Employment Insurance, and Industrial Accident Compensation Insurance).
 The employer must enroll and declare employees to the system. The following documents must submitted to the [NHIS](http://www.nhis.or.kr/static/html/wbd/g/a/wbdga0602.html), via post or in person at one of the [offices](http://www.nhic.or.kr/english/about/about04_5.html):
@@ -75,7 +75,8 @@ The employer must enroll and declare employees to the system. The following docu
 
 All businesses must submit a Declaration of WCI/EI Relations within 14 day after having started business. An employer must report employment information including worker’s name, resident registration number, address, employment date, employment termination date, average monthly wages, etc. using “relevant declaration forms”; the reported information will be used to assess and bill relevant (insurance) premiums. 
 
-*7. File Rules of Employment
+*7. File Rules of Employment*
+
 If a company has 10 or more employees in Korea its working conditions need to be documented in a “Rule of Employment” and this has to be filed with the Ministry of Labor and Employment. Either one “Rule of Employment” or different “Rules of Employment” can be created, split by working type or occupation type.
 
 
