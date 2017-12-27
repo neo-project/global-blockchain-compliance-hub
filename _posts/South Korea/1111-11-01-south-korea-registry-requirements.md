@@ -22,6 +22,7 @@ imilarly, the founder of a foundation must endow property and draw the same arti
 
 If incorporation of the association or foundation is permitted by the appropriate governing authority, the incorporation must be registered at the seat of the organization’s principal office within three weeks from the date of permission. The following information must be registered: objective; name; office; date of permission of incorporation; causes of dissolution; total value of assets; method of effective contributions; and names and domicile of directors. No information was found with respect to fees for registration, registration timeframe or how to determine exactly who is the “competent authority”. Most likely, in case of starting a non-profit organization, a founder shall apply through the Ministry of Justice, with detail explanation of purpose and activities of the organisation.
 
+
 ### For-Profit Organizations  
 
 There are three types of business forms available to foreign companies in South Korea: Foreign Branch, Liaison Office, and Foreign Owned Local Corporation. Each of these business forms has advantages and disadvantages, as well as differing scope of business activities, registration requirements and minimum capital requirements. In most cases it will depend on the degree of commitment a company has to South Korea and the planned business activity.
@@ -39,7 +40,8 @@ Branches do not require formal incorporation, making them easier in principle to
 Branches of foreign corporations must designate a foreign exchange bank for the usual purpose of channeling working capital, but also to receive permission to establish in Korea. In order for a foreign company to establish a domestic branch, a notification must be sent to the head of the designated foreign exchange bank (any Korean bank which handles foreign exchange), according to Korea Law. Alternatively, Invest Korea reports that a financial business must register at the Ministry of Strategy and Finance for permission of establishment of a financial business. 
 
 Required Documents generally include:
- ..* Report form of the establishment of a foreign company’s domestic branch
+
+- Report form of the establishment of a foreign company’s domestic branch
 -	Article of association (Notarization of the location of the headquarters is required)
 -	A certified copy of registration or operation permission of headquarters
 -	General principles of headquarters
