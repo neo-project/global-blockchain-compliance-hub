@@ -7,7 +7,6 @@ category: switzerland
 comments: true
 ---
 
-# Team member nationality requirements
 Foreigners are not disallowed from founding a company in Switzerland. A distinction is made between persons from EU/EFTA-states and citizens of third countries. Below are the requirements for starting your own business based on nationality:
 
    * Persons from EU/EFTA countries
