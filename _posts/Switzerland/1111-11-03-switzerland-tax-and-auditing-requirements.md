@@ -7,8 +7,6 @@ category: switzerland
 comments: true
 ---
 
-# Tax & auditing requirements
-
 #### Taxation requirements:
 
    1. Corporate Income Tax – Federal Level:
