@@ -21,9 +21,18 @@ Permission to incorporate must be obtained by drawing up articles of incorporati
 The founder of a foundation must endow property and draw the same articles of incorporation as an association. 
 If incorporation of the association or foundation is permitted by the appropriate governing authority, the incorporation must be registered at the seat of the organization’s principal office within three weeks from the date of permission. The following information must be registered: objective; name; office; date of permission of incorporation; causes of dissolution; total value of assets; method of effective contributions; and names and domicile of directors. No information was found with respect to fees for registration, registration timeframe or how to determine exactly who is the “competent authority”. Most likely, in case of starting a non-profit organization, a founder shall apply through the Ministry of Justice, with detail explanation of purpose and activities of the organisation.
 
+
+
+
+
 # For-Profit Organizations  
 
-There are three types of business forms available to foreign companies in South Korea: Foreign Branch, Liaison Office, and Foreign Owned Local Corporation. Each of these business forms has advantages and disadvantages, as well as differing scope of business activities, registration requirements and minimum capital requirements. In most cases it will depend on the degree of commitment a company has to South Korea and the planned business activity.
+There are three types of business forms available to foreign companies in South Korea: **Foreign Branch**, **Liaison Office**, and **Foreign Owned Local Corporation**. Each of these business forms has advantages and disadvantages, as well as differing scope of business activities, registration requirements and minimum capital requirements. In most cases it will depend on the degree of commitment a company has to South Korea and the planned business activity.
+
+
+
+
+
 
 ## 1. Branch Office
 
@@ -123,9 +132,89 @@ All businesses must submit a Declaration of WCI/EI Relations within 14 day after
   *5. File Rules of Employment*
   
  If a company has 10 or more employees in Korea its working conditions need to be documented in a “Rule of Employment” and this has to be filed with the Ministry of Labor and Employment. Either one “Rule of Employment” or different “Rules of Employment” can be created, split by working type or occupation type.
+ 
+ 
+ 
+ 
 
+# 3. Foreign Owned Local Corporation 
 
+A foreign owned local corporation is recognized as a "foreign investment" under the Foreign Investment Promotion Act in South Korea. The company must invest at least 100 million Korean won (KRW). If an investee corporation is a private business, the company cannot issue a business investment (D-8) visa. A trade (D-9) visa shall be issued if it invests KRW 300 million or more. Foreign investors and foreign-invested companies are of separate entities (independent accounting & settlement).
 
+The Korean Commercial Act provides five forms of companies:
+
+- Partnership company
+- Limited Partnership Company
+- Limited Liability Company
+- Limited Company
+- Stock Company
+
+Shares in Korean companies do not have to be held by Korean resident shareholders.
+The advantages/disadvantages to South Korean corporations are those typical for company structures. Choosing a company structure rather than a branch or liaison office has the standard benefits, such as having a separate legal entity to the parent company to keep debts and liabilities separate, as well as the typical drawbacks such as higher administrative and compliance requirements.
+
+**General requirements:**
+
+*1. Make company seal*
+
+Takes 1 day, cost: KRW 30,000
+
+*2.	Designate a bank for capital deposit*
+
+Designate a foreign exchange bank to deposit the required capital before proceeding to register the company. After the company is registered, the company can open a commercial bank account and arrange for the transfer of the capital into the company’s bank account
+
+*3. Register company*
+
+The online service www.startbiz.go.kr has combined the Internet Register Office, the Local Tax Payment System, the Electronic Notarization System, the National Tax Information System, the Financial Common Network, and the Social Insurance Information System which for the purpose of incorporation. Start Biz Online allows a founder to process the entire incorporation process online, including:
+
+- Checking the availability of trade name
+- Obtain a certificate of name availability
+-	Filing the application package for incorporation
+-	Obtaining a corporate registration tax bill
+-	Register the company
+-	Obtaining a certificate of seal impression of corporation
+-	Registering and getting a tax identification number (TIN)
+-	Submitting the rules of employment
+-	Registering electronically for the Public Health Insurance Program,
+-	Registering electronically for the National Pension Fund,
+-	Registering electronically for Employment Insurance,
+-	Registering electronically for Industrial Accident Compensation Insurance.
+
+**Fees:**
+
+-	e-registration KRW 2,000 fee
+-	2% of capital for capital registration tax
+-	“education tax” (20% of the registration tax)
+-	KRW 10,000 for incorporation fee (certificate of seal impression of incorporation)
+
+**Required documents usually include:** 
+
+- identification documents of members
+
+- incorporation documents (Article of incorporation) in Korean:
+
+-	 **for partnerships and limited partnerships**: purposes; trade name; name, resident registration number and domicile of each member; subject matter, value or basis of valuation of the contribution to be made by each member; place of principal office; and date of execution of articles of incorporation) ; 
+
+-	 **for stock companies**: purpose; trade name; total number of shares authorized and par value per share; number of shares to be issued at the time of incorporation; place of principal office; method of public notice; name, residence registration number and address of each promoter; any special benefits to be received by promoters and names of such promoters. In addition, the Commercial Act sets out that stock companies must register: the total amount of capital; total number and class of the issued and outstanding shares and contents and number of each class of shares; provision that the transfer of shares be subject to the approval of the board of directors; provision under which stock options are granted; places of branch offices; duration or reasons for dissolution of company; dividend of interest prior to the commencement of business; redemption of shares out of profits to be distributed to shareholders; name and residence registration number of each director, auditor and representative director;  
+
+-	 **for a limited liability company**: purposes; trade name; name, resident registration number and domicile of each member; total amount of capital; amount of each contribution unit; number of contribution units by each member; place of the principal office;  name, residence registration number and address of each director; name of representative director; provisions relating to the joint representation of the company by two or more directors; duration or any other reason for dissolution of the company; name and residence registration number of auditors  
+
+The first step is checking the company name, uploading incorporation documents as well as filing company information. Articles of association and documents like a company constitution must be prepared before registering a company.  During this period, the court registry office reviews the documents and information provided by the applicants, and due diligence of company address is conducted by the tax office. Afterwards, applicants can then proceed to payments for the corporate registration tax bill as well as the registration fee. Since the system already has the company information, there is no need to fill in separate forms for the payments.
+
+  *4.  Pay Social Security registration fees*
+  
+After the submission of documents is completed, applicants can then proceed on the same Start-Biz system to payments for the corporate registration tax bill as well as the registration fee. Since the system already has the company information, there is no need to fill in separate forms for the payments. Within the system it will apparently redirect the user as needed to pay various registrations for the Public Health Insurance Program, the National Pension Fund, Employment Insurance, and Industrial Accident Compensation Insurance.
+  
+  *5. Open Commercial Bank Account*
+
+Documentation such as identification documents would be required, and may require an initial deposit, as well as the business registration number. 
+
+   *6. Establish an Office*
+
+A company is required to have a physical office in Korea. It seems that there is no restriction on using a virtual office as a business address. There appears to be no specific registration requirement of the office location with government authorities. 
+
+  *7. File Rules of Employment*
+
+If a company has 10 or more employees in Korea its working conditions need to be documented in a “Rule of Employment” and this has to be filed with the Ministry of Labor and Employment. Either one “Rule of Employment” or different “Rules of Employment” can be created, split by working type or occupation type.
 
 
 
