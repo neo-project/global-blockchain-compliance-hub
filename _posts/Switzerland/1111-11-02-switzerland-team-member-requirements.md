@@ -11,9 +11,11 @@ comments: true
 Foreigners are not disallowed from founding a company in Switzerland. A distinction is made between persons from EU/EFTA-states and citizens of third countries. Below are the requirements for starting your own business based on nationality:
 
    * Persons from EU/EFTA countries
+   
 Citizens of EU/EFTA countries (currently still excluding Romania and Bulgaria) are allowed to make themselves self-employed in Switzerland. According to the free movement of persons agreement, persons who do not have a residence permit [(C-permit)](https://www.sem.admin.ch/sem/en/home/themen/aufenthalt/eu_efta/ausweis_c_eu_efta.html) are also allowed to found a company—the five-year residence permit [(B-permit)](https://www.sem.admin.ch/sem/en/home/themen/aufenthalt/eu_efta/ausweis_b_eu_efta.html) is sufficient. To register in Switzerland, the planned business activities have to be declared and proven. Documents to provide this proof can be—among others—the following: commercial register entry, VAT-number, business plan, professional register entry, proof of social insurance as a self-employed person, and books of account. Further information is provided by the cantonal migration offices.
 
    * Persons from third countries
+   
 Persons from non-EU/EFTA states wishing to be self-employed in Switzerland have to live up to standards of labour law. Only C-permit holders or people married to such or Swiss citizens have a legal right to be self-employed in Switzerland.
 If none of the criteria above is applicable, then foreign investors are still allowed to setup their own companies, as long as they can offer proof for the fact that their businesses will have a lasting and positive effect on the Swiss economy. A business plan is mandatory. Upon being granted the permission to set up your own business, you will receive a short – term permit [(L permit)](https://www.sem.admin.ch/sem/en/home/themen/aufenthalt/eu_efta/ausweis_l_eu_efta.html). By having this permit, you will be able to conduct business activities in Switzerland for 12 months. You can renew this permit for another 12 months, but in order to renew it, you must pass the labor law exam organized by the administration[1].
 
