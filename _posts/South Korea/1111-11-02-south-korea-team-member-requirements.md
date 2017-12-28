@@ -12,6 +12,8 @@ Foreigners should obtain a visa at a diplomatic mission abroad in advance in ord
 
 A foreigner may stay in Korea within the scope of his/her sojourn status and sojourn period. 
 
+**  **
+
 ## Starting a business:
 
 **Foreign Branches** and **Liaison offices** don’t have visa requirements to start a business.
@@ -21,6 +23,8 @@ A **Foreign Owned Local Corporation** is recognized as a "foreign investment" un
 - an F-5 (permanent residence) visa 
 - an F-6 (marriage immigration) visa 
 According to the Foreign Investment Promotion Act, at least KRW 100 million must be invested to get a D-8 visa.
+
+**  **
 
 ## Employees:
 
@@ -50,6 +54,8 @@ Requirements: a bachelor’s degree + 1 year of career, master’s degree or hig
 The Visa Application procedures, such as submission of application, reception and review, payment methods, confirmation and required documents may vary depending on the application methods: via eVisa Portal, Korean Diplomatic Missions, Korean Immigration Offices.
 
 All Employees’ work is regulated by the [Labor Standards Act](http://ilo.org/dyn/natlex/docs/WEBTEXT/46401/65062/E97KOR01.htm).
+
+**  **
 
 # Sources: 
 - [Ministry of Justice, Korea Visa Portal](https://www.visa.go.kr)
