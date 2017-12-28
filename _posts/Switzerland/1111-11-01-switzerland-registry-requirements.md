@@ -58,10 +58,10 @@ Additionally, a comprehensive step by step procedure and requirements for regist
 #### Legal forms for non-profit organisations:
 As mentioned above, Limited liability companies (GmbH/Sàrl) and Corporation/Joint-stock companies (AG/SA), if pursuing non-profit activities, may assume legal forms for non-profit organisations. 
 The main legal forms for non-profit organisations are[3]:
-#### Association (Verein/association): 
+#### 1. Association (Verein/association): 
 An association does not require approval from public authorities in order to operate in Switzerland. Associations acquire legal personality as soon as their intention to exist as a corporate body is apparent from their articles of association. No registration is required under Swiss law[4]. Entry in the commercial register is necessary if the association operates a commercial business to achieve its purpose and generates more than CHF 100,000 in annual turnover. Detailed information can be found on the [KMU Portal](https://www.kmu.admin.ch/kmu/de/home/praktisches-wissen/kmu-gruenden/firmengruendung/auswahl-rechtsform/verein.html).
 
-#### Foundation (Stiftung/fondation): 
+#### 2. Foundation (Stiftung/fondation): 
 A foundation is a legal entity that does not have members, but may have beneficiaries and which is mostly used for charitable purposes. A foundation is established by a notarial deed or by a will. From 1 January 2016 (as of July 2015) all private foundations must be entered in the commercial register in order to gain their legal personality. Family and religious foundations are exempt from this requirement and are not subject to administrative supervision. More information can be found on the website (available in German, French and Italian) for [Federal Supervisory Board for foundations](https://www.edi.admin.ch/edi/fr/home/le-dfi/organisation/services-specialises/autorite-federale-de-surveillance-des-fondations.html), on [Step.org](http://www.froriep.com/upload/prj/publication/Key-features-of-Swiss-Foundations-Julie-Wynne-Froriep-STEP_June2017.pdf), and on the [KMU portal](https://www.kmu.admin.ch/kmu/de/home/praktisches-wissen/kmu-gruenden/firmengruendung/auswahl-rechtsform/stiftung.html).
 
 #### For cryptocurrency related companies in particular, most developers aim for a foundation such as Ethereum Foundation.
