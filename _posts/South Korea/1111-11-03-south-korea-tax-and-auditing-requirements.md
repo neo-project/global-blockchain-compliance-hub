@@ -21,15 +21,15 @@ A company's tax year is its accounting period as specified in the articles of in
 
 Listed companies and unlisted financial institutions are required to adopt K-IFRS (Korea-International Financial Reporting Standards). Unlisted companies may choose either K-IFRS or Korean Generally Accepted Accounting Standards (K-GAAP) for financial accounting. Certain provisions of the tax laws (e.g. depreciation, foreign currency translations) have been amended to reflect the adoption of K-IFRS .
 
-**- Corporate tax:** 
+**Corporate tax:** 
 
-    - 10% (up to KRW 200 million)  
-    - 20% (from KRW 200 million to KRW 20 billion)
-    - 22% (over KRW 20 billion)
+   - 10% (up to KRW 200 million)  
+   - 20% (from KRW 200 million to KRW 20 billion)
+   - 22% (over KRW 20 billion)
 
-**- Local income tax:**
+**Local income tax:**
 
-    - 10% of corporate income tax liability
+   - 10% of corporate income tax liability
     
 a separate income tax that has its own tax base, tax exemption and credits, and tax rates
 
@@ -41,10 +41,10 @@ Every business engaged in supplying of goods or services, whether or not for pro
 
 **Withholding taxes:**
 
-    - Dividends: 20%
-    - Interest: 14 or 20%
-    - Royalties: 20% 
-    - Branch remittance tax:  no or 5-15%
+   - Dividends: 20%
+   - Interest: 14 or 20%
+   - Royalties: 20% 
+   - Branch remittance tax:  no or 5-15%
 
 **Wage tax/Social security contributions: Varies**
 
