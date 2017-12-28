@@ -7,8 +7,6 @@ category: south-korea
 comments: true
 ---
 
-## Taxes
-
 Foreigners must register their company/investment with the local tax office. Information about Korean taxes can be found at National Tax Service website. Given language issues, the complexity of Korean tax laws, companies are recommended to hire a local accounting firm to file taxes. 
 
 ## Regulating bodies: 
@@ -57,8 +55,6 @@ Every business engaged in supplying of goods or services, whether or not for pro
 A capital registration tax of 0.48% (or 1.44% for Seoul Metropolitan Area) is levied. A real estate tax of 0.07% to 5% is levied on different kinds of property. Real property tax varies from 0.24% rto 0.6% (including surtax). A company that owns real estate must pay a real estate tax in addition to property tax. 
 
 Other special taxes and stamp duties are levied on special occasions.
-
-**  **
 
 **Capital Gains Taxation**
 
