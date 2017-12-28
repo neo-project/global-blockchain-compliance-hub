@@ -102,7 +102,7 @@ Inheritance and gift taxes of 10% to 50% depending on the tax base (after deduct
 
 **  **
 
-# Audit
+## Audit
 
 A juristic person may, by its articles of incorporation or by a resolution of the general meeting, have auditors.  
 
@@ -117,7 +117,9 @@ Companies are required to utilise a statutory auditor for an annual audit of the
 
 For more information, consult the Regulation on External Audit and Accounting on Financial Supervisory Service.
 
-# Sources
+**  **
+
+## Sources
 
 - [National Tax Service Website](http://www.nts.go.kr/eng/)
 - [Financial Supervisory Service](http://www.english.fss.or.kr/fss/en/main.jsp)
