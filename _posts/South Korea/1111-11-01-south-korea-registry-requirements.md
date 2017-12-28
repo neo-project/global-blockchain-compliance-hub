@@ -7,11 +7,11 @@ category: south-korea
 comments: true
 ---
 
-# Non-profit/For-profit Company Registry Requirements
+## Non-profit/For-profit Company Registry Requirements
 
 Registration of both for profit and not-for profit organizations requires the submission of numerous documents including articles of incorporation. Registration of for profit organizations is more streamlined and straightforward. There is no centralized system for registration of not-for profits and information on procedures for incorporation and registration are difficult to find.
 
-# Not-For Profit Organizations 
+## Not-For Profit Organizations 
 
 In South Korea, not-for profit organizations can exist as unregistered organizations or an incorporated, registered non-profit (public-interest) corporations. Registration provides tax and other financial benefits. Associations and foundations (public interest corporations) relating to art, charity, science, religion, social intercourse or otherwise not engaged in profit are considered juristic persons and are governed by the Civil Code. 
 
@@ -25,7 +25,7 @@ If incorporation of the association or foundation is permitted by the appropriat
 
 
 
-# For-Profit Organizations  
+## For-Profit Organizations  
 
 There are three types of business forms available to foreign companies in South Korea: **Foreign Branch**, **Liaison Office**, and **Foreign Owned Local Corporation**. Each of these business forms has advantages and disadvantages, as well as differing scope of business activities, registration requirements and minimum capital requirements. In most cases it will depend on the degree of commitment a company has to South Korea and the planned business activity.
 
@@ -216,7 +216,7 @@ A company is required to have a physical office in Korea. It seems that there is
 
 If a company has 10 or more employees in Korea its working conditions need to be documented in a “Rule of Employment” and this has to be filed with the Ministry of Labor and Employment. Either one “Rule of Employment” or different “Rules of Employment” can be created, split by working type or occupation type.
 
-# Sources
+## Sources
 - [InvestKorea](http://www.investkorea.org/en/foreigner/corporation.do)
 - [Civil Act of South Korea](http://www.law.go.kr/eng/engLsSc.do?menuId=1&query=civil+act&x=37&y=30#liBgcolor22)
 - [Ministry of Government Legislation](http://www.moleg.go.kr/english/)
