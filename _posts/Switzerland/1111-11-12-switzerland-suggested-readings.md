@@ -9,7 +9,7 @@ comments: true
 
 To learn more about Switzerland's laws we recommend the following readings: 
 
-#### Registering and doing business in Switzerland:
+#### Registering and doing business in Switzerland
 1. [Switzerland Global Enterprise Handbook for Investors](https://www.s-ge.com/en/publication/handbook-investors/handbook-investors)
 
 2. [Guide to starting a business in Geneva](http://www.whygeneva.ch/en/guide-starting-business-canton-geneva)
