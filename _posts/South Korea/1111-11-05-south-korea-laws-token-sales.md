@@ -16,5 +16,16 @@ There are a few Laws Related to Token Sales, Blockchain, and Digital Proof in th
 
 The most relevant and detail Law by the end of 2017 is The Electronic Financial Transactions Act.
 
+A blockchain company, planning to issue and manage electronic currencies shall obtain permission from the Financial Services Commission, according to the **Article 28 of The Electronic Financial Transactions Act:**
+
+Managing electrocnic currencies includes one or more following services:
+1. Electronic funds transfer services;
+2. Issuance and management of electronic debit payment means;
+3. Issuance and management of electronic prepayment means;
+4. Electronic payment settlement agency services;
+5. Other electronic financial services prescribed by Presidential Decree.
+
+However, if a company only provides agent services, such as delivering information only for the electronic processing of electronic payment transactions without direct involvement in the transfer of funds, it doesn’t have to obtain permission from the Financial Services Commission to operate its business. Article 28 (2).
+
 
 
