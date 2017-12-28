@@ -7,13 +7,15 @@ category: south-korea
 comments: true
 ---
 
-# Taxes
+## Taxes
 
 Foreigners must register their company/investment with the local tax office. Information about Korean taxes can be found at National Tax Service website. Given language issues, the complexity of Korean tax laws, companies are recommended to hire a local accounting firm to file taxes. 
 
 ## Regulating bodies: 
 
 Financial Supervisory Service, National Tax Service
+
+**  **
 
 ## Corporate Taxes
 
@@ -46,13 +48,17 @@ Every business engaged in supplying of goods or services, whether or not for pro
    - Royalties: 20% 
    - Branch remittance tax:  no or 5-15%
 
-**Wage tax/Social security contributions: Varies**
+**Wage tax/Social security contributions:**
+
+   - Varies
 
 **Other Corporate Taxes**
 
 A capital registration tax of 0.48% (or 1.44% for Seoul Metropolitan Area) is levied. A real estate tax of 0.07% to 5% is levied on different kinds of property. Real property tax varies from 0.24% rto 0.6% (including surtax). A company that owns real estate must pay a real estate tax in addition to property tax. 
 
 Other special taxes and stamp duties are levied on special occasions.
+
+**  **
 
 **Capital Gains Taxation**
 
@@ -63,6 +69,8 @@ For resident companies, capital gains are treated as ordinary business income an
 A dividends received deduction (DRD) is applied to dividends transferred between resident companies. Various types of tax incentives are available for qualifying activities that fulfil the Tax Incentive Limitation Law, including: investments, R&D and high-tech foreign-invested companies, charitable donations, insurance premiums, etc.
 
 Start-up expenses, such as incorporation expenses, founders’ salary, and registration fees and taxes, are deductible if the expenses are recorded per the articles of incorporation and are actually paid. 
+
+**  **
 
 ## Individual Taxes
 
@@ -95,6 +103,8 @@ Foreign employees or executive officers who began work in Korea may elect apply 
 
 Capital Tax Rate
 Inheritance and gift taxes of 10% to 50% depending on the tax base (after deduction of exempt amounts such as spouse, old age and dependent allowance) are levied on residents for assets acquired worldwide and on non-residents for assets located in Korea only. Capital gains are taxed at the lesser of 10% of sales or 20% of gains.
+
+**  **
 
 # Audit
 
