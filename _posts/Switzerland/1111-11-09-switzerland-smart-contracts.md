@@ -7,8 +7,6 @@ category: switzerland
 comments: true
 ---
 
-# The definition of a ‘smart contract’ and whether a smart contract is legally binding (even if both parties agree to use a smart contract
-
 Switzerland has no law tailored for doing business online. Generally, contracts made through online channels are governed by the same provisions as standard "offline" contracts. 
 
 However, the Unfair Competition Act sets out certain rules a company or person offering goods or services by means of electronic commerce has to abide by. Under those rules, the company or person offering must:
