@@ -13,9 +13,9 @@ Still, the Financial Supervisory Service is the most suitable governmental body 
 
 *Article 39 of the The Electronic Financial Transactions Act* determines the order of supervision and inspection: 
 
-- “The Financial Supervisory Service shall supervise whether financial companies and electronic financial business entities abide by this Act or orders issued under this Act, following instructions from the Financial Services Commission.”
+- "The Financial Supervisory Service shall supervise whether financial companies and electronic financial business entities abide by this Act or orders issued under this Act, following instructions from the Financial Services Commission."
 
-- The Governor of the Financial Supervisory Service may inspect the electronic financial business and other related financial conditions of a financial company and an electronic financial business entity and, if deemed necessary to conduct such inspection, ask the financial company and the electronic financial business entity to submit data relating to its or his/her business operations and financial conditions or to order the attendance of all relevant persons“ <Amended by Act No. 11814, May 22, 2013>
+- "The Governor of the Financial Supervisory Service may inspect the electronic financial business and other related financial conditions of a financial company and an electronic financial business entity and, if deemed necessary to conduct such inspection, ask the financial company and the electronic financial business entity to submit data relating to its or his/her business operations and financial conditions or to order the attendance of all relevant persons" <Amended by Act No. 11814, May 22, 2013>
 
 *Articles 46, 49-51 of The Electronic Financial Transactions Act* determine violations, administrative fines and penalty provisions.  
 
@@ -23,7 +23,7 @@ Also,
 
 *The Act on the Development of Cloud Computing And Protection of Its Users, Article 30*, also determines order of inspection and investigation dispute cases:
  
-- “Where the Minister of Science and ICT has a reasonable ground to suspect that a cloud computing service provider has violated any provision of this Act, he/she may instruct public officials of the Ministry to conduct investigations as necessary to ascertain the violation. … The Minister of Science and ICT may order a cloud computing service provider who violates Article 25 (1) or 27 to cease the violation or to take corrective measures”.
+- "Where the Minister of Science and ICT has a reasonable ground to suspect that a cloud computing service provider has violated any provision of this Act, he/she may instruct public officials of the Ministry to conduct investigations as necessary to ascertain the violation. … The Minister of Science and ICT may order a cloud computing service provider who violates Article 25 (1) or 27 to cease the violation or to take corrective measures".
 
 ## Sources
 
