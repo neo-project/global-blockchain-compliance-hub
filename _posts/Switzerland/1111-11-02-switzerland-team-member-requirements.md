@@ -17,10 +17,14 @@ Persons from non-EU/EFTA states wishing to be self-employed in Switzerland have 
 If none of the criteria above is applicable, then foreign investors are still allowed to setup their own companies, as long as they can offer proof for the fact that their businesses will have a lasting and positive effect on the Swiss economy. A business plan is mandatory. Upon being granted the permission to set up your own business, you will receive a short – term permit [(L permit)](https://www.sem.admin.ch/sem/en/home/themen/aufenthalt/eu_efta/ausweis_l_eu_efta.html). By having this permit, you will be able to conduct business activities in Switzerland for 12 months. You can renew this permit for another 12 months, but in order to renew it, you must pass the labor law exam organized by the administration[1].
 
 The following requirements on residency and nationality apply to establish[2]:
-- Sole proprietorship: A sole proprietor company is owned by one proprietor only. Therefore, labour market regulations for persons apply. A residence and work permit is always required to work in Switzerland. 
-General and limited partnership: General and limited partnerships are usually small person-oriented companies. The limited partnership can include external investors who are not actively involved in the management of the company. Accordingly, labour market regulations for persons with a valid work and residence permit apply for the individuals.
-- Limited liability company (GmbH): The limited liability company (GmbH) as a legal entity must be represented by at least one person resident in Switzerland. This can be the manager or a director. Accordingly, this person needs to have a valid residence and work permit in Switzerland.
-- Joint-stock company (AG): A joint-stock company (AG) as a legal entity requires that at least one person entitled to represent the company must live in Switzerland and hold a valid residence and work permit for Switzerland.
+#### - Sole proprietorship: 
+A sole proprietor company is owned by one proprietor only. Therefore, labour market regulations for persons apply. A residence and work permit is always required to work in Switzerland. 
+#### - General and limited partnership: 
+General and limited partnerships are usually small person-oriented companies. The limited partnership can include external investors who are not actively involved in the management of the company. Accordingly, labour market regulations for persons with a valid work and residence permit apply for the individuals.
+#### - Limited liability company (GmbH): 
+The limited liability company (GmbH) as a legal entity must be represented by at least one person resident in Switzerland. This can be the manager or a director. Accordingly, this person needs to have a valid residence and work permit in Switzerland.
+#### - Joint-stock company (AG): 
+A joint-stock company (AG) as a legal entity requires that at least one person entitled to represent the company must live in Switzerland and hold a valid residence and work permit for Switzerland.
 
 #### Hiring non-Swiss/Non-EU nationals:
 Conditions apply to the employment of employees on the basis of the employee’s nationality. These conditions are as follows [3]: 
