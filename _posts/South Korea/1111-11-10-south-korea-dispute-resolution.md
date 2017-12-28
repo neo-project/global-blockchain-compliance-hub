@@ -7,12 +7,9 @@ category: south-korea
 comments: true
 ---
 
-Theoretically, the Financial Supervisory Service is responsible for resolving disputes.  
-However, recent public announcements of the FSS officials suggest that they will not yet significantly regulate the blockchain industry.
+Theoretically, the Ministry of Justice and the Financial Services Commmission under the Financial Supervisory Service are responsible for resolving disputes. However, recent public announcements of the FSS officials suggest that they will not yet significantly regulate the blockchain industry.
 
-Still, the Financial Supervisory Service is the most suitable governmental body for regulating electronic transactions and related projects. Other authorities, such as Personal Information Protection Commission, Ministry of the Interior and Safety, Korea Communications Commission, Korea Internet & Security Agency less likely to have expertise to effectively regulate possible issues. 
-
-So far, from legal prospective, we can only rely on the following articles:
+Still, the Financial Supervisory Service is the most suitable governmental body for regulating electronic transactions, cryptocurrencies and related projects. Other authorities, such as *Personal Information Protection Commission, Ministry of the Interior and Safety, Korea Communications Commission, Korea Internet & Security Agency* less likely to have expertise to effectively regulate possible issues with online transactions. However, they can resolve issues related to Blockchain, Data Access and Safety, Privacy etc. 
 
 *Article 39 of the The Electronic Financial Transactions Act* determines the order of supervision and inspection: 
 
