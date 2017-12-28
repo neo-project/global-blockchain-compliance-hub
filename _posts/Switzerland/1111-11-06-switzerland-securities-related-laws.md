@@ -7,7 +7,6 @@ category: switzerland
 comments: true
 ---
 
-# Securities-related laws (once a token is registered or identified as a security, what are the consequences for listing the token on crypto exchanges)
 
 #### A Token with one or more of the following rights will in all likelihood not meet the definition of security/financial instrument:
    1. Rights to program, develop or create features for the distributed ledger;
