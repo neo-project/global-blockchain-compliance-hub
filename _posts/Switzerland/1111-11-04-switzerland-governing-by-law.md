@@ -7,8 +7,9 @@ category: switzerland
 comments: true
 ---
 
-# Governing laws/bylaw requirements [1]
+# Governing laws/bylaw requirements
 
+Governance structures for different forms are described below[1]:
 
 #### Single-owner company or sole proprietorship (Einzelunternehmen/L'entreprise individuelle): 
 A trustee and an auditor may be appointed. Individual business owners are solely responsible for managing the business. Other persons may be appointed by the business owner as a representative.
@@ -41,7 +42,7 @@ Since 1 July 2015, every Swiss limited liability company must be represented by 
 The management of the GmbH is carried out jointly by all shareholders, unless this is regulated differently by statutes.
 Every managing director is entitled to represent the company. The representation can be regulated differently by statutes, however, at least one manager must be authorized to represent the company. 
 
-#### Bylaws in Switzerland[2]
+## Bylaws in Switzerland[2]:
 
 All companies are incorporated according to the provisions of the Swiss Commercial Code, but they must also have their own regulations for the management of the business which are set out in the articles of association. According to the Swiss Corporate Governance Code, any type of company is required to draft articles of association or articles of incorporation through which a company is formed. The articles of association of a Swiss company define the responsibilities of the directors, the main business objective and the shareholders’ control in the company. Also, no business can be incorporated without articles of association. 
 
