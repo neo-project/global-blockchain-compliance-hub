@@ -25,9 +25,9 @@ The Act is to establish the rights and liabilities of consumers and other partic
 
 Processing of personal information in the cloud is permitted.
 
-- the Act of the Development of Cloud Computing and Protection of Its Users (Cloud Computing Act). However, as this legislation is aimed at protecting cloud service users by regulating cloud service providers, a data handler, who is itself a cloud service user, is not subject to any specific regulations of the Cloud Computing Act. Thus, data processing in the cloud is subject to the basic principles of data protection, specifically in terms of the notice and consent process.
+- The Act of the Development of Cloud Computing and Protection of Its Users (Cloud Computing Act). However, as this legislation is aimed at protecting cloud service users by regulating cloud service providers, a data handler, who is itself a cloud service user, is not subject to any specific regulations of the Cloud Computing Act. Thus, data processing in the cloud is subject to the basic principles of data protection, specifically in terms of the notice and consent process.
 
--	Digital Signature Act  
+-	The Digital Signature Act  
 
 **Regulatory authorities:**
 
@@ -44,5 +44,34 @@ Processing of personal information in the cloud is permitted.
 MOI and PIPC are responsible for the affairs concerning general data protection issues KCC is responsible for the affairs between online services providers and users under IT Network Act. FSC is responsible for the affairs relating to financial services under the Credit Information Act.
 
 ## Sources
+
+- [Electronic Financial Transactions Act](http://www.law.go.kr/engLsSc.do?menuId=0&subMenu=5&query=%EC%A0%84%EC%9E%90%EA%B8%88%EC%9C%B5%EA%B1%B0%EB%9E%98%EB%B2%95#liBgcolor0)
+
+- [Personal Information Protection Act](https://www.privacy.go.kr/eng/laws_view.do?nttId=8186&imgNo=1) 
+- or [Personal Information Protection Act](http://law.go.kr/engLsSc.do?menuId=0&subMenu=5&query=%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%EB%B2%95#liBgcolor0)
+
+- [Act on Promotion of Information and Communications Network Utilization and Information Protection, ETC](https://www.privacy.go.kr/eng/laws_view.do?nttId=8187&imgNo=2)
+
+- [Use and Protection of Credit Information Act](https://www.privacy.go.kr/eng/laws_view.do?nttId=8188&imgNo=3) or 
+
+- [Use and Protection of Credit Information Act](http://law.go.kr/engLsSc.do?menuId=0&subMenu=5&query=%EC%8B%A0%EC%9A%A9%EC%A0%95%EB%B3%B4%EC%9D%98%20%EC%9D%B4%EC%9A%A9%20%EB%B0%8F%20%EB%B3%B4%ED%98%B8%EC%97%90%20%EA%B4%80%ED%95%9C%20%EB%B2%95%EB%A5%A0#liBgcolor0)
+
+- [Act on the Protection, Use, ETC. of Location Information](https://www.privacy.go.kr/eng/laws_view.do?nttId=8189&imgNo=4)
+
+- [Digital Signature Act](http://law.go.kr/engLsSc.do?menuId=0&subMenu=5&query=%EC%8B%A0%EC%9A%A9%EC%A0%95%EB%B3%B4%EC%9D%98%20%EC%9D%B4%EC%9A%A9%20%EB%B0%8F%20%EB%B3%B4%ED%98%B8%EC%97%90%20%EA%B4%80%ED%95%9C%20%EB%B2%95%EB%A5%A0#liBgcolor0)
+
+- [Personal Information Protection Commission](http://www.pipc.go.kr/cmt/main/english.do)
+
+- [Ministry of the Interior and Safety](http://www.moi.go.kr/eng/a01/engMain.do)
+
+- [Korea Communications Commission](http://eng.kcc.go.kr/user/ehpMain.do)
+
+- [Financial Services Comission](http://www.fsc.go.kr/eng/index.jsp)
+
+- [Korea Internet & Security Agency](http://www.kisa.or.kr/eng/main.jsp)
+
+
+
+
 
 
