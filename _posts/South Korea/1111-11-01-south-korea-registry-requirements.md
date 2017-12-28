@@ -112,7 +112,7 @@ The restriction on sales activities is the main disadvantage of a liaison office
 A  liaison office does not need to formally register,  however a notification must be reported to a designated foreign exchange bank. 
 A financial business must notify the Ministry of Strategy and Finance for permission of establishment of a financial business. 
 
-*2. Register at Tax Office for Business Registration Certificate*
+#*2. Register at Tax Office for Business Registration Certificate*
 
 The liaison office must register at a tax office to obtain a business registration number. This process covers registering for tax such as sales and payroll tax. Foreign employees are required to pay Korean income taxes, which are generally withheld and paid by the employer. Every business engaged in supplying of goods or services, whether or not for profit is required to register for VAT purposes by applying for a business registration certificate. The forms can be downloaded from the national tax office’s website and must be submitted to it, or to a district tax office.
 
@@ -137,7 +137,7 @@ All businesses must submit a Declaration of WCI/EI Relations within 14 day after
  
  
 
-# 3. Foreign Owned Local Corporation 
+## 3. Foreign Owned Local Corporation 
 
 A foreign owned local corporation is recognized as a "foreign investment" under the Foreign Investment Promotion Act in South Korea. The company must invest at least 100 million Korean won (KRW). If an investee corporation is a private business, the company cannot issue a business investment (D-8) visa. A trade (D-9) visa shall be issued if it invests KRW 300 million or more. Foreign investors and foreign-invested companies are of separate entities (independent accounting & settlement).
 
@@ -192,11 +192,11 @@ The online service www.startbiz.go.kr has combined the Internet Register Office,
 
 - incorporation documents (Article of incorporation) in Korean:
 
--	 **for partnerships and limited partnerships**: purposes; trade name; name, resident registration number and domicile of each member; subject matter, value or basis of valuation of the contribution to be made by each member; place of principal office; and date of execution of articles of incorporation) ; 
+    -	 **for partnerships and limited partnerships**: purposes; trade name; name, resident registration number and domicile of each member; subject matter, value or basis of valuation of the contribution to be made by each member; place of principal office; and date of execution of articles of incorporation) ; 
 
--	 **for stock companies**: purpose; trade name; total number of shares authorized and par value per share; number of shares to be issued at the time of incorporation; place of principal office; method of public notice; name, residence registration number and address of each promoter; any special benefits to be received by promoters and names of such promoters. In addition, the Commercial Act sets out that stock companies must register: the total amount of capital; total number and class of the issued and outstanding shares and contents and number of each class of shares; provision that the transfer of shares be subject to the approval of the board of directors; provision under which stock options are granted; places of branch offices; duration or reasons for dissolution of company; dividend of interest prior to the commencement of business; redemption of shares out of profits to be distributed to shareholders; name and residence registration number of each director, auditor and representative director;  
+    -	 **for stock companies**: purpose; trade name; total number of shares authorized and par value per share; number of shares to be issued at the time of incorporation; place of principal office; method of public notice; name, residence registration number and address of each promoter; any special benefits to be received by promoters and names of such promoters. In addition, the Commercial Act sets out that stock companies must register: the total amount of capital; total number and class of the issued and outstanding shares and contents and number of each class of shares; provision that the transfer of shares be subject to the approval of the board of directors; provision under which stock options are granted; places of branch offices; duration or reasons for dissolution of company; dividend of interest prior to the commencement of business; redemption of shares out of profits to be distributed to shareholders; name and residence registration number of each director, auditor and representative director;  
 
--	 **for a limited liability company**: purposes; trade name; name, resident registration number and domicile of each member; total amount of capital; amount of each contribution unit; number of contribution units by each member; place of the principal office;  name, residence registration number and address of each director; name of representative director; provisions relating to the joint representation of the company by two or more directors; duration or any other reason for dissolution of the company; name and residence registration number of auditors  
+    -  **for a limited liability company**: purposes; trade name; name, resident registration number and domicile of each member; total amount of capital; amount of each contribution unit; number of contribution units by each member; place of the principal office;  name, residence registration number and address of each director; name of representative director; provisions relating to the joint representation of the company by two or more directors; duration or any other reason for dissolution of the company; name and residence registration number of auditors  
 
 The first step is checking the company name, uploading incorporation documents as well as filing company information. Articles of association and documents like a company constitution must be prepared before registering a company.  During this period, the court registry office reviews the documents and information provided by the applicants, and due diligence of company address is conducted by the tax office. Afterwards, applicants can then proceed to payments for the corporate registration tax bill as well as the registration fee. Since the system already has the company information, there is no need to fill in separate forms for the payments.
 
@@ -216,5 +216,7 @@ A company is required to have a physical office in Korea. It seems that there is
 
 If a company has 10 or more employees in Korea its working conditions need to be documented in a “Rule of Employment” and this has to be filed with the Ministry of Labor and Employment. Either one “Rule of Employment” or different “Rules of Employment” can be created, split by working type or occupation type.
 
-
-
+# Sources
+- [InvestKorea](http://www.investkorea.org/en/foreigner/corporation.do)
+- [Civil Act of South Korea](http://www.law.go.kr/eng/engLsSc.do?menuId=1&query=civil+act&x=37&y=30#liBgcolor22)
+- [Ministry of Government Legislation](http://www.moleg.go.kr/english/)
