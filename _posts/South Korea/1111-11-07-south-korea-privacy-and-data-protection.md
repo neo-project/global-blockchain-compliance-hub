@@ -43,7 +43,7 @@ MOI and PIPC are responsible for the affairs concerning general data protection 
 
 - [Electronic Financial Transactions Act](http://www.law.go.kr/engLsSc.do?menuId=0&subMenu=5&query=%EC%A0%84%EC%9E%90%EA%B8%88%EC%9C%B5%EA%B1%B0%EB%9E%98%EB%B2%95#liBgcolor0)
 
-- [Personal Information Protection Act (The Ministry of Interior Service web-site)](https://www.privacy.go.kr/eng/laws_view.do?nttId=8186&imgNo=1) 
+- [Personal Information Protection Act (The Ministry of Interior and Safety web-site)](https://www.privacy.go.kr/eng/laws_view.do?nttId=8186&imgNo=1) 
 - or [Personal Information Protection Act (The Ministry of Justice web-site)](http://law.go.kr/engLsSc.do?menuId=0&subMenu=5&query=%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%EB%B2%95#liBgcolor0)
 
 - [Act on Promotion of Information and Communications Network Utilization and Information Protection, ETC](https://www.privacy.go.kr/eng/laws_view.do?nttId=8187&imgNo=2)
