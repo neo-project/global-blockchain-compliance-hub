@@ -1,3 +1,4 @@
+
 ---
 layout: post
 date: 0010-11-01
@@ -13,7 +14,7 @@ A foreigner may stay in Korea within the scope of his/her sojourn status and soj
 
 ## Starting a business:
 
-**Foreign Branches and Liaison offices don’t have visa requirements to start a business.**
+**Foreign Branches** and **Liaison offices** don’t have visa requirements to start a business.**
 
 A **Foreign Owned Local Corporation** is recognized as a "foreign investment" under the Foreign Investment Promotion Act in South Korea. An individual seeking to invest in South Korea should have one of the following:
 - a D-8 (Corporate Investment) visa, a D-9 (Trade) 
@@ -27,26 +28,30 @@ There are no government policies requiring the hiring of nationals.
 
 Foreign employees in Korea may apply for:
 
-- D-7 Commercial Residence Visa (if they have more than 1 year of working experience at the parent company’s headquarters, branch or other offices) 
-- E-7 Special Occupation Visa (Specially Designated Activities Visa).
+- D-7 Commercial Residence Visa / Intra-Company Transferee (if they have more than 1 year of working experience at the parent company’s headquarters, branch or other offices) 
+- E-7 Special Occupation Visa / Foreign National of Special Ability
 
+General procedure (D-7):
 
-General procedure: 
+The parties concerned (Employer and Employee) apply for a visa via portal, submit required documents, including employment certificate and contract -> After reception and review by visa consul the Applicant receives confirmation -> the Applicant prints and sends Visa Application Form -> Submission and Payment at Diplomatic Office -> The Minister of Justice issues a visa issuance certificate -> The foreign worker enters Korea.
 
-The parties concerned sign an employment contract -> An Employer and Employee submit required documents -> A related minister makes a recommendation -> The Minister of Justice issues a visa issuance certificate -> The foreign worker enters Korea.
+General procedure (E-7): 
 
-For management positions, employees applying for E-7 visa may receive special codes: 
-1120 Executive of an enterprise, 1202 Management supporting director, 1320 Finance director, 1350 Information and communication director etc. 
+The parties concerned (Employer and Employee) sign an employment contract -> An Employer and Employee submit required documents -> A related minister/institution makes a recommendation -> The Minister of Justice issues a visa issuance certificate -> The foreign worker enters Korea.
 
-Executives (code 1120) don’t need to meet any requirements; they also don't need an employment recommender.
+Employees applying for E-7 visa may receive special codes: 
 
-Managers may need bachelor’s degree + 1 year of career, master’s degree or higher, or more than 5 years’ career.
+Managers: 1120 Executive of an enterprise (no requirements), 1202 Management supporting director, 1320 Finance director, 1350 Information and communication director etc. 
+Requirements: a bachelor’s degree + 1 year of career, master’s degree or higher, or more than 5 years’ career.
+They also will need a recommendation from a related Ministry/Institution, e.g. Financial Services Commission, Ministry of Knowledge Economy, Korea Venture Industry Association, Korea Industrial Technology Foundation, Small and Medium Business Administration etc.
 
-They will need a recommendation from a related Ministry/Institution, e.g. Financial Services Commission, Ministry of Knowledge Economy, Korea Venture Industry Association, Korea Industrial Technology Foundation, Small and Medium Business Administration etc.
-
-Blockchain programmers, employees may receive following codes: 2221 computer system designer and analyst, 2223 software developer, 2224 database developer, 2225 network system developer, 2226 computer security professional etc.
-
-Such professionals need to meet some requirements, usually it is a bachelor’s degree + 1 year of career, master’s degree or higher, or more than 5 years’ career. They will also need a letter of recommendation from employment recommender, e.g. Ministry of Knowledge Economy, Korea Venture Industry Association, Korea Industrial Technology Foundation, Small and Medium Business Administration etc.)
+Blockchain programmers: 2221 computer system designer and analyst, 2223 software developer, 2224 database developer, 2225 network system developer, 2226 computer security professional etc.
+Requirements: a bachelor’s degree + 1 year of career, master’s degree or higher, or more than 5 years’ career. They will also need a recommendation from a related Ministry/Institution, e.g. Ministry of Knowledge Economy, Korea Venture Industry Association, Korea Industrial Technology Foundation, Small and Medium Business Administration etc.)
 
 All Employees’ work is regulated by the [Labor Standards Act](http://ilo.org/dyn/natlex/docs/WEBTEXT/46401/65062/E97KOR01.htm).
+
+#Sources: 
+- [Ministry of Justice, Korea Visa Portal](https://www.visa.go.kr)
+- [Labor Standards Act](http://www.ilo.org/dyn/natlex/docs/WEBTEXT/46401/65062/E97KOR01.htm)
+- [InvestKorea](https://www.investkorea.org)
 
