@@ -37,14 +37,16 @@ General procedure: The parties concerned (Employer and Employee) sign an employm
 
 Employees applying for E-7 visa may receive special codes: 
 
-Managers: 1120 Executive of an enterprise (no requirements), 1202 Management supporting director, 1320 Finance director, 1350 Information and communication director etc. 
+**Managers**: 1120 Executive of an enterprise (no requirements), 1202 Management supporting director, 1320 Finance director, 1350 Information and communication director etc. 
+
 Requirements: a bachelor’s degree + 1 year of career, master’s degree or higher, or more than 5 years’ career.
-They also will need a recommendation from a related Ministry/Institution, e.g. Financial Services Commission, Ministry of Knowledge Economy, Korea Venture Industry Association, Korea Industrial Technology Foundation, Small and Medium Business Administration etc.
+They also will need a recommendation from a related ministry/institution, e.g. Financial Services Commission, Ministry of Knowledge Economy, Korea Venture Industry Association, Korea Industrial Technology Foundation, Small and Medium Business Administration etc.
 
-Blockchain programmers: 2221 computer system designer and analyst, 2223 software developer, 2224 database developer, 2225 network system developer, 2226 computer security professional etc.
-Requirements: a bachelor’s degree + 1 year of career, master’s degree or higher, or more than 5 years’ career. They will also need a recommendation from a related Ministry/Institution, e.g. Ministry of Knowledge Economy, Korea Venture Industry Association, Korea Industrial Technology Foundation, Small and Medium Business Administration etc.)
+**Blockchain programmers**: 2221 Computer system designer and analyst, 2223 Software developer, 2224 Database developer, 2225 Network system developer, 2226 Computer security professional etc.
 
-The Visa Application procedures, such as submission of application, reception and review, payment methods, confirmation and required documents may vary regarding to the application methods: via eVisa Portal, Korean Diplomatic Missions, Korean Immigration Offices.
+Requirements: a bachelor’s degree + 1 year of career, master’s degree or higher, or more than 5 years’ career. They will also need a recommendation from a related ministry/institution, e.g. Ministry of Knowledge Economy, Korea Venture Industry Association, Korea Industrial Technology Foundation, Small and Medium Business Administration etc.)
+
+The Visa Application procedures, such as submission of application, reception and review, payment methods, confirmation and required documents may vary depending on the application methods: via eVisa Portal, Korean Diplomatic Missions, Korean Immigration Offices.
 
 All Employees’ work is regulated by the [Labor Standards Act](http://ilo.org/dyn/natlex/docs/WEBTEXT/46401/65062/E97KOR01.htm).
 
