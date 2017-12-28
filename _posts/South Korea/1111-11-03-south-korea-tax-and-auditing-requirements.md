@@ -24,7 +24,8 @@ Financial Supervisory Service, National Tax Service
 
 **- Corporate tax:**
     - 10% (up to KRW 200 million)  
-    - 20% (from KRW 200 million to KRW 20 billion)
+
+- 20% (from KRW 200 million to KRW 20 billion)
     - 22% (over KRW 20 billion)
 
 **- Local income tax:**
@@ -56,7 +57,9 @@ Interest: 14 or 20%
 Royalties: 20% 
 Branch remittance tax:  no or 5-15%
 
+
 **Wage tax/Social security contributions: Varies**
+
 
 **Other Corporate Taxes**
 
