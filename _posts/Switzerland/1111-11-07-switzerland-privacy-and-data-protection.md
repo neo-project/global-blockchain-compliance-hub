@@ -6,12 +6,10 @@ title: "Privacy and Data Protection-related Laws"
 category: switzerland
 comments: true
 ---
-
-# Privacy & data protection-related laws (especially on public blockchains)
  
 On 21 December 2016, the Federal Department of Justice and Police published a draft bill of the revised Swiss Federal Data Protection Act (FDPA). The proposed amendments are intended to adapt the existing law so as to align it with old and new developments on the European level, in particular the amendments introduced into European law by the General Data Protection Regulation (GDPR), which will apply from 25 May 2018, replacing Directive 95/46/EC, and the protocol for the revision of the Convention for the Protection of Individuals with regard to Automatic Processing of Personal Data (ETS 108) to be adopted by the Council of Europe in early 2017. The impact of the GDPR in Swiss companies can be found on the [MME website](https://www.mme.ch/en/magazine/magazine-detail/url_magazine/eu_data_protection_serious_impact_on_swiss_companies/). 
 
-Revisions to the FDPA include[1]:
+#### Revisions to the FDPA include[1]:
 
    1. Geographic scope
 The FDPA has already been interpreted by Swiss courts to apply to data processing activities outside of Switzerland that have notable effects in Switzerland (“effects principle”).
