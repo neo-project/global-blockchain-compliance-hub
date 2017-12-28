@@ -24,16 +24,16 @@ Taxable persons include Swiss resident legal entities, i.e., Swiss corporations,
 Resident companies are subject to corporate income tax on their worldwide income with the exception of income attributable to foreign permanent establishments or foreign real estate (immovable property). Such income is excluded from the Swiss tax base and is only taken into account for rate progression purposes in cantons that still apply progressive tax rates[1].
 
 #### Taxation details for different legal forms can be found here:
-[Single-owner company or sole proprietorship](https://www.kmu.admin.ch/kmu/de/home/praktisches-wissen/kmu-gruenden/uebersicht-rechtsformen/einzelunternehmen.html#1388174468) (Einzelunternehmen/L'entreprise individuelle)
-[General partnership](https://www.kmu.admin.ch/kmu/de/home/praktisches-wissen/kmu-gruenden/uebersicht-rechtsformen/kollektivgesellschaft.html#1093408002) (Kollektivgesellschaft/Société en nom collectif)
-[Limited partnership](https://www.kmu.admin.ch/kmu/de/home/praktisches-wissen/kmu-gruenden/uebersicht-rechtsformen/kommanditgesellschaft.html#-41342785) (Kommanditgesellschaft/Société en commandite)
-[Corporation/Joint-stock company](https://www.kmu.admin.ch/kmu/de/home/praktisches-wissen/kmu-gruenden/uebersicht-rechtsformen/aktiengesellschaft-ag.html#-1254732816) (Aktiengesellschaft/Société Anonyme) (AG/SA)
-[Limited liability company](https://www.kmu.admin.ch/kmu/de/home/praktisches-wissen/kmu-gruenden/uebersicht-rechtsformen/gesellschaft-mit-beschraenkter-haftung.html#22020997) (Gesellschaft mit beschränkter Haftung/Société à responsabilité limitée) (GmbH/Sàrl)
-[Foundations](http://www.swissfinancialyard.ch/en/company-formation/company-formation-switzerland/foundation-switzerland/) (Stiftung/fondation)
+* [Single-owner company or sole proprietorship](https://www.kmu.admin.ch/kmu/de/home/praktisches-wissen/kmu-gruenden/uebersicht-rechtsformen/einzelunternehmen.html#1388174468) (Einzelunternehmen/L'entreprise individuelle)
+* [General partnership](https://www.kmu.admin.ch/kmu/de/home/praktisches-wissen/kmu-gruenden/uebersicht-rechtsformen/kollektivgesellschaft.html#1093408002) (Kollektivgesellschaft/Société en nom collectif)
+* [Limited partnership](https://www.kmu.admin.ch/kmu/de/home/praktisches-wissen/kmu-gruenden/uebersicht-rechtsformen/kommanditgesellschaft.html#-41342785) (Kommanditgesellschaft/Société en commandite)
+* [Corporation/Joint-stock company](https://www.kmu.admin.ch/kmu/de/home/praktisches-wissen/kmu-gruenden/uebersicht-rechtsformen/aktiengesellschaft-ag.html#-1254732816) (Aktiengesellschaft/Société Anonyme) (AG/SA)
+* [Limited liability company](https://www.kmu.admin.ch/kmu/de/home/praktisches-wissen/kmu-gruenden/uebersicht-rechtsformen/gesellschaft-mit-beschraenkter-haftung.html#22020997) (Gesellschaft mit beschränkter Haftung/Société à responsabilité limitée) (GmbH/Sàrl)
+* [Foundations](http://www.swissfinancialyard.ch/en/company-formation/company-formation-switzerland/foundation-switzerland/) (Stiftung/fondation)
 
 Typically, companies are required to pay tax to 3 tax authorities, which include the federal government, the canton, and the municipality. The taxable elements, types of tax and the corresponding responsible tax authority can be found in the [Guide to starting a business in the canton of Geneva 2015 edition](https://ge.ch/ecoguichetpmepmi/content/guide-starting-business-canton-geneva)
 
-#### Value Added Tax (VAT)
+#### Value Added Tax (VAT):
 All business enterprises – irrespective of their legal form – are subject to VAT. However, business enterprises which lie under a turnover of CHF 75,000 per year will be exempt from the duty to pay VAT[2].
 
 Businesses are required to register for VAT by the end of the calendar year during which revenue reaches the threshold amount. The company is responsible for registering for VAT as soon as it meets the conditions for mandatory registration. 	
@@ -49,7 +49,7 @@ The online form for filing VAT can be found on [the federal tax administration w
 All other VAT related online forms can be found on [the federal tax administration website](https://www.estv.admin.ch/estv/de/home/mehrwertsteuer/dienstleistungen/formulare-online.html) .
 VAT is not charged on any bitcoin transactions. Comprehensive guidelines for taxation of bitcoins and other tokens in Switzerland can be found on the [MME website](https://www.mme.ch/en/magazine/magazine-detail/url_magazine/how_to_declare_bitcoins/).
 
-#### Tax Relief[3]
+#### Tax Relief[3]:
 Tax relief can be granted at cantonal and communal level and in explicitly defined regions at federal level for qualified new investments for up to 10 years.
 Federal Level
 The federal government has defined economically weaker regional community centers and regions which are entitled to grant business incentives including partial or full corporate income tax breaks for up to 10 years.
