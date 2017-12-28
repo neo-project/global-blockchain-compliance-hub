@@ -6,6 +6,7 @@ title: "Team Member Nationality Requirements"
 category: south-korea
 comments: true
 ---
+# Team Member Nationality Requirements
 
 Foreigners should obtain a visa at a diplomatic mission abroad in advance in order to enter South Korea.
 
@@ -50,7 +51,7 @@ The Visa Application procedures, such as submission of application, reception an
 
 All Employees’ work is regulated by the [Labor Standards Act](http://ilo.org/dyn/natlex/docs/WEBTEXT/46401/65062/E97KOR01.htm).
 
-#Sources: 
+# Sources: 
 - [Ministry of Justice, Korea Visa Portal](https://www.visa.go.kr)
 - [Labor Standards Act](http://www.ilo.org/dyn/natlex/docs/WEBTEXT/46401/65062/E97KOR01.htm)
 - [InvestKorea](https://www.investkorea.org)
