@@ -25,8 +25,8 @@ However, the Unfair Competition Act sets out certain rules a company or person o
 
 There is no legislative or regulatory body dedicated to passing legislation on doing business online. However, legislative and regulatory bodies in other fields, such as data protection or unfair competition, may regulate e-commerce issues where they concern their respective fields.
 
-More information on online contracts can be found on the [Thomson Reuters website page for digital business in Switzerland](https://uk.practicallaw.thomsonreuters.com/6-618-4863?transitionType=Default&contextData=(sc.Default)&firstPage=true&bhcp=1). 
+More information on online contracts can be found on the [Thomson Reuters website page for digital business in Switzerland](https://uk.practicallaw.thomsonreuters.com/6-618-4863). 
 More information on contract law can be found on [Eugen Bucher’s website](http://www.eugenbucher.ch/pdf_files/86.pdf)
 
 #### SOURCES 
-Information quoted from [Thomson Reuters website page for digital business in Switzerland](https://uk.practicallaw.thomsonreuters.com/6-618-4863?transitionType=Default&contextData=(sc.Default)&firstPage=true&bhcp=1)
+Information quoted from [Thomson Reuters website page for digital business in Switzerland](https://uk.practicallaw.thomsonreuters.com/6-618-4863)
