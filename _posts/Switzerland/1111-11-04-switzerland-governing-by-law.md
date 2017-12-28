@@ -7,8 +7,6 @@ category: switzerland
 comments: true
 ---
 
-# Governing laws/bylaw requirements
-
 Governance structures for different forms are described below[1]:
 
 #### Single-owner company or sole proprietorship (Einzelunternehmen/L'entreprise individuelle): 
