@@ -7,8 +7,6 @@ category: switzerland
 comments: true
 ---
 
-# Non-profit/for-profit company registry requirements	
-
 
 According to the [Switzerland Global Enterprise Handbook for Investors](https://www.s-ge.com/en/publication/handbook-investors/handbook-investors) the following basic options are available for establishing a business in Switzerland:
 – Forming an unincorporated or incorporated company
