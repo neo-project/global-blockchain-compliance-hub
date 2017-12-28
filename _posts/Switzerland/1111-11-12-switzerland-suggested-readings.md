@@ -18,6 +18,8 @@ To learn more about Switzerland's laws we recommend the following readings:
 
 4. [A blog post with an in-depth account of starting a business in Switzerland](http://www.quinagcommunication.com/en/news/3_Setting-up-a-company-in-Switzerland-Our-experience-creating-Quinag-.html)
 
+5. [Why establish your Startup in Crypto Valley](https://cryptovalley.swiss/mdocuments-library/?mdocs-cat=mdocs-cat-3&mdocs-att=null)
+
 #### Laws related to token sales, blockchain, and digital proof in Switzerland
 [FINMA Guidance 04/2017 Regulatory treatment of initial coin offerings](https://www.finma.ch/en/documentation/finma-guidance/#Order=4)
 
