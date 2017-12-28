@@ -11,6 +11,8 @@ comments: true
 
 Registration of both for profit and not-for profit organizations requires the submission of numerous documents including articles of incorporation. Registration of for profit organizations is more streamlined and straightforward. There is no centralized system for registration of not-for profits and information on procedures for incorporation and registration are difficult to find.
 
+**  **
+
 ## Not-For Profit Organizations 
 
 In South Korea, not-for profit organizations can exist as unregistered organizations or an incorporated, registered non-profit (public-interest) corporations. Registration provides tax and other financial benefits. Associations and foundations (public interest corporations) relating to art, charity, science, religion, social intercourse or otherwise not engaged in profit are considered juristic persons and are governed by the Civil Code. 
@@ -22,8 +24,7 @@ The founder of a foundation must endow property and draw the same articles of in
 If incorporation of the association or foundation is permitted by the appropriate governing authority, the incorporation must be registered at the seat of the organization’s principal office within three weeks from the date of permission. The following information must be registered: objective; name; office; date of permission of incorporation; causes of dissolution; total value of assets; method of effective contributions; and names and domicile of directors. No information was found with respect to fees for registration, registration timeframe or how to determine exactly who is the “competent authority”. Most likely, in case of starting a non-profit organization, a founder shall apply through the Ministry of Justice, with detail explanation of purpose and activities of the organisation.
 
 
-
-
+**  **
 
 ## For-Profit Organizations  
 
@@ -32,7 +33,7 @@ There are three types of business forms available to foreign companies in South 
 
 
 
-
+**  **
 
 ## 1. Branch Office
 
@@ -88,7 +89,7 @@ All businesses must submit a Declaration of WCI/EI Relations within 14 day after
 
 If a company has 10 or more employees in Korea its working conditions need to be documented in a “Rule of Employment” and this has to be filed with the Ministry of Labor and Employment. Either one “Rule of Employment” or different “Rules of Employment” can be created, split by working type or occupation type.
 
-
+**  **
 
 ## 2. Liaison Office
 
@@ -135,7 +136,7 @@ All businesses must submit a Declaration of WCI/EI Relations within 14 day after
  
  
  
- 
+ **  **
 
 ## 3. Foreign Owned Local Corporation 
 
@@ -215,6 +216,8 @@ A company is required to have a physical office in Korea. It seems that there is
   *7. File Rules of Employment*
 
 If a company has 10 or more employees in Korea its working conditions need to be documented in a “Rule of Employment” and this has to be filed with the Ministry of Labor and Employment. Either one “Rule of Employment” or different “Rules of Employment” can be created, split by working type or occupation type.
+
+**  **
 
 ## Sources
 - [InvestKorea](http://www.investkorea.org/en/foreigner/corporation.do)
