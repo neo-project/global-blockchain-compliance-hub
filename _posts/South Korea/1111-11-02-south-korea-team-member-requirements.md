@@ -6,7 +6,7 @@ title: "Team Member Nationality Requirements"
 category: south-korea
 comments: true
 ---
-# Team Member Nationality Requirements
+## Team Member Nationality Requirements
 
 Foreigners should obtain a visa at a diplomatic mission abroad in advance in order to enter South Korea.
 
