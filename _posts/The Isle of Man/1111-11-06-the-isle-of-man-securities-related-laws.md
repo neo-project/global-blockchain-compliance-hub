@@ -7,3 +7,6 @@ category: the-isle-of-man
 comments: true
 ---
 
+There are no examples of any token registered or identified as a security. 
+
+For detailed information, please see section [‘Laws related to token sales, blockchain, and digital proof’](https://mimush.github.io/CryptoWikiTest.github.io//the-isle-of-man/the-isle-of-man-laws-token-sales.html).
