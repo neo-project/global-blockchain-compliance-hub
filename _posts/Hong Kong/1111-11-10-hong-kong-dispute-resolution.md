@@ -7,6 +7,7 @@ category: hong-kong
 comments: true
 ---
 
+The answer for this question is still debated within the related work groups of the Hong Kong government agencies. There are two white papers released by the Hong Kong Monetary Authority  on November 11th, 2016 and October 25th 2017 in which they explain the progress in regulations related to Distributed Ledgers. I will refer to these papers when answering this question.
 
 Where a distributed ledger technology has a central administering authority with the power to insert arbitrary or remedial transactions into that ledger (a permissioned ledger might provide for this), the parties might, for example, agree that this authority has the power to determine any disputes. This agreement might be contained in a particular smart contract, or it could be part of the terms and conditions accepted by the participant when it acquires an identity or otherwise participates in the particular ledger. The authority would need protection from disputes arising from its exercise of these powers. Again, that could be a term of a smart contract or the terms and conditions of the permissioned ledger.
 
