@@ -2,7 +2,7 @@
 layout: post
 date: 0005-01-01
 name: suggested-readings
-title: "Suggested Readings"
+title: "Hong Kong: Suggested Readings"
 category: hong-kong
 comments: true
 ---
