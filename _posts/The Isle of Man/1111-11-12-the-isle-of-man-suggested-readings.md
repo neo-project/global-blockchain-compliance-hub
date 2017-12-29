@@ -2,7 +2,7 @@
 layout: post
 date: 0012-01-01
 name: suggested-readings
-title: "Suggested Readings"
+title: "The Isle of Man: Suggested Readings"
 category: the-isle-of-man
 comments: true
 ---
