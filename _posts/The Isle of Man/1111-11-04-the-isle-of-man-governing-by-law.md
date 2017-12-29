@@ -90,8 +90,9 @@ A company can voluntarily elect to file a copy of its register of members and/or
 
 In addition, if a company issues an offering document in respect of its securities, the company can voluntarily elect to file that offering document with the Registrar of Companies and that offering document will then be a matter of public record. However, there is no requirement for a company to do so. 	
 
-For further information, please see:
+For further information and related documents, please see:
 
+- [The Isle of Man, Companies Registry(Related Documents)](https://www.gov.im/categories/business-and-industries/companies-registry)
 - [1931 Companies Act](http://acsp.co.im/uploads/1931-companies-act-brochure.pdf)
 - [2006 Companies Act](http://acsp.co.im/uploads/iom-2006-companies-act.pdf)
 - [Designated Businesses Act, 2015](https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/2015/2015-0009/DesignatedBusinessesRegistrationandOversightAct2015_3.pdf?zoom_highlight=designated+business#search=%22designated%20business%22)
