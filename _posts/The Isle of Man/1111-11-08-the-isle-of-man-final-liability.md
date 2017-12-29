@@ -7,6 +7,8 @@ category: the-isle-of-man
 comments: true
 ---
 
+The answer or this question is not addressed by the regulators in the Isle of Man. However,  as the companies related to Virtual Currencies are regulated as  Designated Businesses, I will refer to Designated Businesses Act 2015 when answering this  question.
+
 As mentioned in Designated Businesses Act, 2015:
 
 ‘Liability of officers of bodies corporate 
