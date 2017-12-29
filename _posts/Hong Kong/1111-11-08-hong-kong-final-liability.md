@@ -7,6 +7,7 @@ category: hong-kong
 comments: true
 ---
 
+The answer for this question is still debated within the related work groups of the Hong Kong government agencies. There are two white papers released by the Hong Kong Monetary Authority  on November 11th, 2016 and October 25th 2017 in which they explain the progress in regulations related to Distributed Ledgers. I will refer to these papers when answering this question.
 
 A considerable degree of liability would be imposed on the issuer of the token, the degree of exposure of the issuer liability will depend on the structure of the scheme and the private agreements between the issuer and the token holders. The more centralized the control of the issue of the token, the greater the potential liability of the issuer. In the DigixDAO scheme, the issue of tokens is made by smart contracts and such operations are done autonomously beyond the control of the DigixDAO entity. In this type of scheme, liability will depend on the technical integrity of the smart contract code, many DAO style projects implement a policy of transparency by clearly documenting their technology and open sourcing their code for public audit and inspection. 
 
