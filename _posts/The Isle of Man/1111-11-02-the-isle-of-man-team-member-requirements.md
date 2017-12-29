@@ -7,6 +7,8 @@ category: the-isle-of-man
 comments: true
 ---
 
+There are no nationality requirements for the team members, but there are other requirements for the Registered Agent and Directors such as having a sound financial background and holding the appropriate license form the Isle of Man Financial Supervision Commission.
+
 Registered Agent(Only for Companies Act 2006)
 ------ 
 					
