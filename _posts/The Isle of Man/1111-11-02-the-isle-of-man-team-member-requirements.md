@@ -18,7 +18,10 @@ It is a fundamental principle of the Companies Act 2006 that every company incor
 					
 The registered agent has an important role to play throughout the whole of the Companies Act 2006. The registered agent is one of the key people responsible for ensuring that a company is properly administered and various statutory registers and documents have to be maintained at the office of a company’s registered agent. In addition, only the registered agent of a company is permitted to make certain filings with, and submit certain applications to, the Registrar of Companies.
 					
-In addition, a registered agent could find itself liable for any offence committed by a company under the Companies Act 2006 if the offence is proved to have been committed with the consent or connivance of, or to be attributable to neglect on the part of, the registered agent 
+In addition, a registered agent could find itself liable for any offence committed by a company under the Companies Act 2006 if the offence is proved to have been committed with the consent or connivance of, or to be attributable to neglect on the part of, the registered agent. 
+
+To reflect the responsibility placed on the registered agent and the importance of the role played by the registered agent, only persons holding the appropriate licence granted by the Isle of Man Financial Supervision Commission under the Isle of Man Fiduciary Services Acts 2000 and 2005 can act as registered agents
+
 
 Director
 ------ 
