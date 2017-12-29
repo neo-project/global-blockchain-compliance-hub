@@ -9,6 +9,16 @@ comments: true
 
 To learn more about the Isle of Man's laws we recommend the following readings: 
 
+ News
+ 
+ - [Isle of Man Trials First Government Run Blockchain Project](isle-of-man-trials-first-government-run-blockchain-project)
+ 
+ - [Isle of Man Bitcoin Gambling](https://www.coindesk.com/isle-of-man-bitcoin-gambling/)
+ 
+ - [Isle of Man Official Announces Permissive ICO Regulations](https://news.bitcoin.com/isle-of-man-official-announces-permissive-ico-regulations/)
+
+ Regulations
+
 - [1931 Companies Act](http://acsp.co.im/uploads/1931-companies-act-brochure.pdf)
 
 - [2006 Companies Act](http://acsp.co.im/uploads/iom-2006-companies-act.pdf)
