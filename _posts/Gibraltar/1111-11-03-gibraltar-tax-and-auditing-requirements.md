@@ -2,7 +2,7 @@
 layout: post
 date: 0004-10-01
 name: tax-and-auditing-requirements
-title: "Tax & Auditing Requirements"
+title: "Gibraltar: Tax & Auditing Requirements"
 category: gibraltar
 comments: true
 ---
@@ -11,7 +11,7 @@ Tax requirements in Gibraltar are....
 
 In Gibraltar, the main emphasis of the current tax regime for trading companies is on a single [low rate of tax](https://www.pwc.de/de/internationale-maerkte/assets/doing-business-in-gibraltar.pdf)
  
-**[Corporate Tax](https://www.pwc.de/de/internationale-maerkte/assets/doing-business-in-gibraltar.pdf)**
+**Corporate Tax** [1]
  
 **Conditions for corporation tax in Gibraltar**: income tax is charged on income accruing in or derived from Gibraltar
   * A company will be considered **resident** in Gibraltar for tax purposes if:
@@ -29,38 +29,38 @@ In Gibraltar, the main emphasis of the current tax regime for trading companies 
  
 **Capital allowances**: details can be found on page 7, [here](https://www.pwc.gi/publications/assets/TaxFacts16-17v2.pdf)   
   
-**Losses**: a trading loss incurred during an accounting period may be offset by a trading income. There is no provision for carrying back losses    
+**Losses**: a trading loss incurred during an accounting period may be offset by a trading income. There is no provision for carrying back losses
   
 **Group relief**: there is no group relief in Gibraltar  
   
-**Capital gains tax**: there is no capital gains tax in Gibraltar  
+**Capital gains tax**: there is no capital gains tax in Gibraltar
   
-**Capital duty**: a capital duty of £10 is payable on the initial authorization of share capital or further increase thereafter  
+**Capital duty**: a capital duty of £10 is payable on the initial authorization of share capital or further increase thereafter 
   
-**[Profits](https://www.pwc.de/de/internationale-maerkte/assets/doing-business-in-gibraltar.pdf)**: repatriation of profits from a Gibraltar company is normally achieved through dividend payments but can also be repatriated through interest charges, royalties, central cost re-charges or other methods  
+**Profits**: repatriation of profits from a Gibraltar company is normally achieved through dividend payments but can also be repatriated through interest charges, royalties, central cost re-charges or other methods
   
-**[Dividends](https://www.pwc.de/de/internationale-maerkte/assets/doing-business-in-gibraltar.pdf)**:
+**Dividends**:
 * Based on an imputation system
 * “Tax paid by a company is deducted from the personal liability of a shareholder who receives dividends paid for by the company’s profits”
 * “There is no tax payable by a company on dividends paid to either another company, including another Gibraltar company, or a non-resident individual.”
 * There is no withholding tax on the payment of the dividends.
   
-**[Royalties and licensing](https://www.pwc.de/de/internationale-maerkte/assets/doing-business-in-gibraltar.pdf)**: both royalty income and license fees are exempt from tax in Gibraltar. There is no withholding tax on the payment of royalties in respect of registered patents.
+**Royalties and licensing**: both royalty income and license fees are exempt from tax in Gibraltar. There is no withholding tax on the payment of royalties in respect of registered patents.
   
-**[Interest](https://www.pwc.de/de/internationale-maerkte/assets/doing-business-in-gibraltar.pdf):**
+**Interest:**
 * Unless the income forms a subset of a company’s trading, interest is not taxable in Gibraltar
 * Interest on borrowings, for the purposes of a trade or business, is tax-deductible based on accruals and subject to some anti-avoidance provisions
 * There is no withholding tax on the payment of interest
   
 **Central cost re-charges**: there is no withdrawal tax on central cost recharges, subject to judgement of the Commissioner of Income Tax
  
-For more information on the international tax initiatives of Gibraltar please see page 55 to 57 [here.](https://www.pwc.de/de/internationale-maerkte/assets/doing-business-in-gibraltar.pdf)
- 
+For more information on the international tax initiatives of Gibraltar please see page 55 to 57 [here.](https://www.pwc.de/de/internationale-maerkte/assets/doing-business-in-gibraltar.pdf)  
+
 -----------------  
     
-**[Auditing](https://www.pwc.gi/publications/assets/TaxFacts16-17v2.pdf)** 
+**Auditing** [2]
  
-Companies are required to file returns and calculate their tax liability for the year. The return, estimated liability—more specifically, the balance of tax, the actual liability less payments on account—are due nine months after the date of the company’s financial year end. Companies are required to make payments on account of future liabilities on February 28th and September 30th of each calendar year. The payments should amount to 50% of the tax based on the previous annum’s assessable income. The accounting reference period is generally 12-months, except for the first accounting reference period which must not be more than 18-months after the company has been launched as an incorporation [(source)](https://www.pwc.de/de/internationale-maerkte/assets/doing-business-in-gibraltar.pdf). Subject to limitations, a company may alter its accounting reference date. A public company must file its accounts at Companies House within ten months of its accounting reference date, while a private company has 13-months [(source)](https://www.pwc.de/de/internationale-maerkte/assets/doing-business-in-gibraltar.pdf)
+Companies are required to file returns and calculate their tax liability for the year. The return, estimated liability—more specifically, the balance of tax, the actual liability less payments on account—are due nine months after the date of the company’s financial year end. Companies are required to make payments on account of future liabilities on February 28th and September 30th of each calendar year. The payments should amount to 50% of the tax based on the previous annum’s assessable income. The accounting reference period is generally 12-months, except for the first accounting reference period which must not be more than 18-months after the company has been launched as an incorporation [1]. Subject to limitations, a company may alter its accounting reference date. A public company must file its accounts at Companies House within ten months of its accounting reference date, while a private company has 13-months [1].
 * Companies with table income of more than £1.25 million must file audited accounts with the tax return
 * Companies with a taxable turnover less than £1.25 million must file an Independent Accountant’s Report
 * Companies with no taxable turnover must still file tax returns, which depends on the size of the company, determined by the Companies Act. If a company is small and has no taxable turnover, only an abridged balance sheet needs to be filed. According to the [Companies Act](http://www.gibraltarlaws.gov.gi/articles/2014-19o.pdf), a company is considered small if;
@@ -89,5 +89,8 @@ Companies are required to file returns and calculate their tax liability for the
  
 Tax returns for individuals, partnerships, sole traders, and trusts are due by the 30th of November the following the year in which the income is assessed.
  
-The public filing of financial statements, audit requirements, and directors’ report are covered in the Companies (Accounts) Act which can be viewed [here](https://www.gibraltar.gov.gi/new/obligations-company)
+The public filing of financial statements, audit requirements, and directors’ report are covered in the Companies (Accounts) Act which can be viewed [here](https://www.gibraltar.gov.gi/new/obligations-company)  
 
+**SOURCES**
+[1][PWC Doing Business in Gibraltar](https://www.pwc.de/de/internationale-maerkte/assets/doing-business-in-gibraltar.pdf)  
+[2][PWC Tax Facts](https://www.pwc.gi/publications/assets/TaxFacts16-17v2.pdf)  
