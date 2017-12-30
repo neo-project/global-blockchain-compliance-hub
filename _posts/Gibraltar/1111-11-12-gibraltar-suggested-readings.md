@@ -24,3 +24,6 @@ comments: true
 **DLT/ICO:**
 * [Gibraltar DLT Regulatory Framework](http://www.gfsc.gi/dlt) 
 * [Published DLT Regulations](http://www.gfsc.gi/uploads/DLT%20regulations%20121017%20(2).pdf)
+
+**Miscellaneous:**
+* Gibraltar [UK-EU-Brexit](https://www.theguardian.com/world/2017/apr/07/will-the-uk-lose-gibraltar)
