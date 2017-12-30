@@ -17,7 +17,7 @@ In Gibraltar, the main emphasis of the current tax regime for trading companies 
    * A company will be considered **resident** in Gibraltar for tax purposes if:
      * The management and control of its business is exercised from Gibraltar
      * The location of management and control is established under legal principles laid down in the United Kingdom and is the place of the highest form of control and direction over a company’s affairs, as distinct from decisions on the day-to-day running of the business.
-* * A company may **not be considered resident** in Gibraltar for tax purposes if,
+* A company may **not be considered resident** in Gibraltar for tax purposes if,
    * A company is ordinarily resident in Gibraltar but earns profits outside Gibraltar
      * "The overarching mandate established by the Commissioner of Income Tax is the profit of a company will have accrued in or derived from the location where the service was provided or where the activity”—or the majority of activities—which produced profits took place
      * If this is outside Gibraltar, then the corporation is not subject to tax in Gibraltar
