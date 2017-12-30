@@ -24,17 +24,17 @@ According to the DLT Regulatory framework, the following are relevant principles
 * **Financial Crime**: DLT providers must adequately apply anti-money laundering and counter-terrorist financing preventive measures [4].
 * **Resilience**: DLT provider must be resilient and thus develop its own contingency, crisis management plans [4].
  
-Gibraltar’s anti-money laundering requires businesses to register with relevant supervisory authority and to have the necessary systems in place to prevent money laundering and report suspicious transactions. The range of businesses under these regulations include companies which are required to be licensed by the Financial Services Commission or the Gibraltar Regulatory Authority, for example. Therefore, at the early-stages of conception, the company should decide whether it will:
+Gibraltar’s anti-money laundering requires businesses to register with relevant supervisory authority and to have the necessary systems in place to prevent money laundering and report suspicious transactions. The range of businesses under these regulations include companies which are required to be licensed by the Financial Services Commission or the Gibraltar Regulatory Authority, for example. Therefore, at the early-stages of conception, the company should decide whether it will:[4]
 * Be subject to the regulations
 * Be registered with a relevant supervisory authority
  
-Published DLT regulations can be found [here](http://www.gfsc.gi/uploads/DLT%20regulations%20121017%20(2).pdf)
-May 2017 Government of Gibraltar [Consultation Document](http://chronicle.gi/2017/12/gibraltar-publishes-dlt-guidance-notes/)
-DLT Seminar slides – [20th of October 2017](http://www.gfsc.gi/uploads/DLT%20Turning%20Vision%20into%20Reality%2020%20October%202017.pdf)
-GSFC [Statement on ICOs](http://www.gfsc.gi/news/statement-on-initial-coin-offerings-250)
-DLT Application Process and Fees [document](http://www.gfsc.gi/uploads/DLT%20Application%20Process%20and%20Fee%20Structure%20Public.pdf)
+Published DLT regulations can be found [here](http://www.gfsc.gi/uploads/DLT%20regulations%20121017%20(2).pdf)  
+May 2017 Government of Gibraltar [Consultation Document](http://chronicle.gi/2017/12/gibraltar-publishes-dlt-guidance-notes/)  
+DLT Seminar slides – [20th of October 2017](http://www.gfsc.gi/uploads/DLT%20Turning%20Vision%20into%20Reality%2020%20October%202017.pdf)  
+GSFC [Statement on ICOs](http://www.gfsc.gi/news/statement-on-initial-coin-offerings-250)  
+DLT Application Process and Fees [document](http://www.gfsc.gi/uploads/DLT%20Application%20Process%20and%20Fee%20Structure%20Public.pdf)  
  
-To seek further clarification, one can contact the Gibraltar Financial Services Commission, DLT Working Group, and the Cryptocurrency Working Group. Note, [12]the Gibraltar Financial Services Commission will operate on shortened daily hours from December 27 to December 30, and will be closed for January 1st.
+To seek further clarification, one can contact the Gibraltar Financial Services Commission, DLT Working Group, and the Cryptocurrency Working Group. 
 
 --------
 **SOURCE**  
