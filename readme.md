@@ -62,6 +62,7 @@ The `date` field is used to order the sections as well as the posts within each 
 | california              | 0014  |
 | new york                | 0015  |
 | russia                  | 0016  |
+| turkey                  | 0017  |
 
 
 P.S. Please edit the above table if you change the order of the sections.
