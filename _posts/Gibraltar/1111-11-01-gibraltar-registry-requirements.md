@@ -7,7 +7,7 @@ category: gibraltar
 comments: true
 ---
 
-The following are the necessary to establish a business in Gibraltar: 
+**The following are the necessary to establish a business in Gibraltar:** 
 
 **Non-profit/for-profit company registry requirements**	
 
@@ -36,7 +36,7 @@ The following are the necessary to establish a business in Gibraltar:
     * A statement that the partnership is limited and the description of every limited partner as such
     * The sum contributed by each limited partner and whether paid in cash or how otherwise. 
 
-**Limited Liability Partnerships Overview [4]** 
+**Limited Liability Partnerships Overview ** [4]
 * **Limited Liability Partnerships** (LLP) are body corporate (with legal personality separate from that of its members) established under the Limited Liability Partnerships Act 2009
 * In order to **register a LLP**:
 * 2 or more persons must subscribe their names to the incorporation document
@@ -47,7 +47,7 @@ The following are the necessary to establish a business in Gibraltar:
     * State the name and address of each of the persons who are to be members of the limited liability partnership on incorporation; and
     * Either specify which of those persons are to be designated members or state that every person who from time to time is a member of the limited liability partnership is a designated member
 
-**[Companies Overview]** [5]  
+**Companies Overview** [5]  
 * The Companies Act of 2014 represents the most recent company law in Gibraltar 
   * This act distinguishes among the following types of companies:
   * Limited vs Unlimited Companies:
@@ -105,7 +105,7 @@ The following are the necessary to establish a business in Gibraltar:
 -------------
 **SOURCES**  
 [1] [Angleinfo.com](https://www.angloinfo.com/how-to/gibraltar/working/starting-a-business)  
-[2] [Gibraltar.gov.gi]](https://www.gibraltar.gov.gi/new/entities#ancla2)  
+[2] [Gibraltar.gov.gi](https://www.gibraltar.gov.gi/new/entities#ancla2)  
 [3] [Gibraltarlaws.gov.gi](http://www.gibraltarlaws.gov.gi/articles/1927-07o.pdf) 
 [4] [Gibraltarlaws.gov.gi](http://www.gibraltarlaws.gov.gi/articles/2009-06o.pdf)  
 [5] [Gibraltarlaws.gov.gi](http://www.gibraltarlaws.gov.gi/articles/2014-19o.pdf)  
