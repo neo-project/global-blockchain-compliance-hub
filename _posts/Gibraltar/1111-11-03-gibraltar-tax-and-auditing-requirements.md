@@ -16,8 +16,8 @@ In Gibraltar, the main emphasis of the current tax regime for trading companies 
 **Conditions for corporation tax in Gibraltar**: income tax is charged on income accruing in or derived from Gibraltar
 * A company will be considered **resident** in Gibraltar for tax purposes if:
  * The management and control of its business is exercised from Gibraltar
- * The location of management and control is established under legal principles laid down in the United Kingdom and is the place of the highest form of control and direction over a company’s affairs, as distinct from decisions on the day-to-day running of the business
-* A company may **not be considered resident** in Gibraltar for tax purposes if,
+  * The location of management and control is established under legal principles laid down in the United Kingdom and is the place of the highest form of control and direction over a company’s affairs, as distinct from decisions on the day-to-day running of the business
+ * A company may **not be considered resident** in Gibraltar for tax purposes if,
  * A company is ordinarily resident in Gibraltar but earns profits outside Gibraltar
   * "The overarching mandate established by the Commissioner of Income Tax is the profit of a company will have accrued in or derived from the location where the service was provided or where the activity”—or the majority of activities—which produced profits took place
   * If this is outside Gibraltar, then the corporation is not subject to tax in Gibraltar
@@ -25,7 +25,7 @@ In Gibraltar, the main emphasis of the current tax regime for trading companies 
 * Once it is established that a company is subject to Gibraltar taxation, the standard Corporate income rate is 10%, as of December 18, 2017
 * Taxable trading profits are calculated relative to widely accepted accounting principles, with certain legal adjustments, details can be found [here](http://taxsummaries.pwc.com/ID/Gibraltar-Corporate-Taxes-on-corporate-income)
 * Unlike in the UK, there is no capital gains tax in Gibraltar
-* Gibraltar’s access to EU directives has eliminated the retention tax on dividends received in Gibraltar and “enables mergers and corporate reorganizations to be undertaken on a tax-efficient basis.” Details on the latest information on outcomes of the Brexit negotiations can be found [here](http://taxsummaries.pwc.com/ID/Gibraltar-Corporate-Taxes-on-corporate-income)
+  * Gibraltar’s access to EU directives has eliminated the retention tax on dividends received in Gibraltar and “enables mergers and corporate reorganizations to be undertaken on a tax-efficient basis.” Details on the latest information on outcomes of the Brexit negotiations can be found [here](http://taxsummaries.pwc.com/ID/Gibraltar-Corporate-Taxes-on-corporate-income)
  
 **Capital allowances**: details can be found on page 7, [here](https://www.pwc.gi/publications/assets/TaxFacts16-17v2.pdf)   
   
