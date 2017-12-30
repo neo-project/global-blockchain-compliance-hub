@@ -7,7 +7,7 @@ category: gibraltar
 comments: true
 ---
 
-Tax requirements in Gibraltar are....
+**Tax requirements in Gibraltar are....**
 
 In Gibraltar, the main emphasis of the current tax regime for trading companies is on a single low rate of tax [1]
  
