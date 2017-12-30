@@ -22,18 +22,18 @@ comments: true
 **Gibraltar Blockchain Exchange** 
 * In october 2017, Gibraltar Stock Exchange (GSX) launched the Gibraltar Blockchain Exchange (GBX) in an effort to be a world leading token sale platform and cryptocurrency exchange [4]. GBX is set to open in January 2018 pending regulatory approval [5].
   * The GSX is regulated by GFSC under License number FSC 1231B and operates as an EU-regulated market,recognised by ESMA (European Regulator) and HMRC (UK)[6]. Therefore the GBX would have to comply with all the regulations of these organizations
-* As GBX utilizes blockchain technology, it would fall under the Financial Services (Distributed Ledger Technology Providers) Regulations 2017 [4](https://medium.com/@Gibraltar.Blockchain.Exchange/gibraltar-stock-exchange-plans-to-create-worlds-first-tokenised-stock-exchange-6db0153d5d3b). It would also represent the world’s [first regulated ICO token exchange](http://www.itpro.co.uk/strategy/29979/the-gibraltar-blockchain-exchange-attempts-to-tame-the-ico-wild-west)
+* As GBX utilizes blockchain technology, it would fall under the Financial Services (Distributed Ledger Technology Providers) Regulations 2017 [4]. It would also represent the world’s [first regulated ICO token exchange](http://www.itpro.co.uk/strategy/29979/the-gibraltar-blockchain-exchange-attempts-to-tame-the-ico-wild-west)
   * The GBX intends to [apply for a DLT Provider’s license](https://gbx.gi/#1508496269595-2f02501c-bba1) from the GFSC 
   * The GBX aims to provide an end-to-end ecosystem for listings, trades, wallets, corporate services, and KYC/AML services
   * To guarantee its clear governance and vision, the [GBX Alliance](https://medium.com/@Gibraltar.Blockchain.Exchange/gibraltar-stock-exchange-plans-to-create-worlds-first-tokenised-stock-exchange-6db0153d5d3b), a planned association of legal advisers, tech firms, academia and investors, will constitute an international forum, supporting development of the crypto community within the GBX
-  * On 30th October 2017, the GBX launched the private pre-sale of the Rock Token (RKT), the official utility token for the developing eco-system of the GBX & GSX, with a current token sale that can be viewed [here] (https://gbx.gi/)[4](https://medium.com/@Gibraltar.Blockchain.Exchange/gibraltar-stock-exchange-plans-to-create-worlds-first-tokenised-stock-exchange-6db0153d5d3b)
+  * On 30th October 2017, the GBX launched the private pre-sale of the Rock Token (RKT), the official utility token for the developing eco-system of the GBX & GSX, with a current token sale that can be viewed [here](https://gbx.gi/)[4]
   * The listing protocol for GSX is designed to set a high entry bar to ensure quality and transparency in all token listings on the GBX. Listing process can be found [here](https://gbx.gi/#1508498542771-413d905e-e3ad) 
 
 --------
 **SOURCE**  
-[1] [GFSC.gi](http://www.gfsc.gi/news/statement-on-initial-coin-offerings-250)  
-[2] [News.bitcoin.com](https://news.bitcoin.com/gibraltar-first-european-bitcoin-eti/)  
-[3] [Gsx.gi](https://www.gsx.gi/article/8292/gibraltar-stock-exchange-welcomes-bitcoineti)  
-[4] [Medium.com](https://medium.com/@Gibraltar.Blockchain.Exchange/gibraltar-stock-exchange-plans-to-create-worlds-first-tokenised-stock-exchange-6db0153d5d3b)  
-[5] [itpro.co.uk](http://www.itpro.co.uk/strategy/29979/the-gibraltar-blockchain-exchange-attempts-to-tame-the-ico-wild-west) 
-[6] [Gbx.gi](https://gbx.gi/#1508496269595-2f02501c-bba1)
+[1] [GFSC.gi](http://www.gfsc.gi/news/statement-on-initial-coin-offerings-250)   
+[2] [News.bitcoin.com](https://news.bitcoin.com/gibraltar-first-european-bitcoin-eti/)   
+[3] [Gsx.gi](https://www.gsx.gi/article/8292/gibraltar-stock-exchange-welcomes-bitcoineti)   
+[4] [Medium.com](https://medium.com/@Gibraltar.Blockchain.Exchange/gibraltar-stock-exchange-plans-to-create-worlds-first-tokenised-stock-exchange-6db0153d5d3b)   
+[5] [itpro.co.uk](http://www.itpro.co.uk/strategy/29979/the-gibraltar-blockchain-exchange-attempts-to-tame-the-ico-wild-west)  
+[6] [Gbx.gi](https://gbx.gi/#1508496269595-2f02501c-bba1)   
