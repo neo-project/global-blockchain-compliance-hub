@@ -13,7 +13,7 @@ comments: true
 * The September 22, 2017 statement from the Gibraltar Financial Services Commission on September 2017 indicated several uses for tokens: “In some cases, tokens represent securities, such as shares in a company, and their promotion and sale are regulated as such. More often, tokens serve some cryptocurrency or functional use that is unregulated, such as prepayment for access to a product or service that is to be developed using funds raised in the ICO” [1]
   * Therefore **it is possible that tokens may be registered as securities** but, as noted above, there is no legislation around token sale in Gibraltar as of now
 
-**[Gibraltar Welcomed Europe’s First Regulated Bitcoin Product](https://www.gsx.gi/article/8292/gibraltar-stock-exchange-welcomes-bitcoineti)** 
+**Gibraltar Welcomed Europe’s First Regulated Bitcoin Product** [3]
 * Bitcoin exchange-traded instrument [(ETI)](https://www.gsx.gi/article/8292/gibraltar-stock-exchange-welcomes-bitcoineti) BitcoinETI was debuted on the on the Gibraltar Stock Exchange (GSX) and Germany’s Deutsche Börse in July 2016 [2], [3]
   * This asset-backed Exchange Traded Instrument was issued by issued by iStructure PCC PLC, a Gibraltar based company
   * The issue of BitcoinETI was the result of a close partnership between a number of stakeholders in Gibraltar including Argentarius ETI Management Limited (Listing Member of GSX and securitisation specialist), Gibraltar based FinTech specialists Revoltura Limited (an iStructure PCC PLC subsidiary), the Government of Gibraltar, and the Financial Services Commission (Gibraltar’s regulator).
@@ -30,7 +30,7 @@ comments: true
   * The listing protocol for GSX is designed to set a high entry bar to ensure quality and transparency in all token listings on the GBX. Listing process can be found [here](https://gbx.gi/#1508498542771-413d905e-e3ad) 
 
 --------
-**SOURCE**
+**SOURCE**  
 [1] [GFSC.gi](http://www.gfsc.gi/news/statement-on-initial-coin-offerings-250)  
 [2] [News.bitcoin.com](https://news.bitcoin.com/gibraltar-first-european-bitcoin-eti/)  
 [3] [Gsx.gi](https://www.gsx.gi/article/8292/gibraltar-stock-exchange-welcomes-bitcoineti)  
