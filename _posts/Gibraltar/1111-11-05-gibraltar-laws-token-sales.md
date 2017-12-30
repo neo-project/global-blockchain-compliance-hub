@@ -42,7 +42,7 @@ comments: true
 ------
 
 **SOURCES**  
-[1][Gibraltarlaws.gov](http://gibraltarlaws.gov.gi/articles/2017s204.pdf)  
-[2][GFSC Statement](http://www.gfsc.gi/news/statement-on-initial-coin-offerings-250)  
-[3][Coindesk.com](https://www.coindesk.com/gibraltar-publishes-draft-regulations-for-blockchain-firms/)  
-[4][Fourtune.com](http://fortune.com/2017/09/26/tax-havens-initial-coin-offerings/)
+[1] [Gibraltarlaws.gov](http://gibraltarlaws.gov.gi/articles/2017s204.pdf)  
+[2] [GFSC Statement](http://www.gfsc.gi/news/statement-on-initial-coin-offerings-250)  
+[3] [Coindesk.com](https://www.coindesk.com/gibraltar-publishes-draft-regulations-for-blockchain-firms/)  
+[4] [Fourtune.com](http://fortune.com/2017/09/26/tax-havens-initial-coin-offerings/)
