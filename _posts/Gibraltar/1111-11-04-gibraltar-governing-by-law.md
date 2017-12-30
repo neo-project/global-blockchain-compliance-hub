@@ -13,7 +13,7 @@ Governing Law/Bylaw Requirements [1]
   
 After forming a corporation, the company must undertake certain steps on an ongoing basis to keep your business in compliance with Gibraltar’s legal framework. This guide outlines the ongoing requirements for Gibraltar corporations:
 * Companies must have on-file:
-  * **Books and records**: The Gibraltar Companies Act demands that the accounting records explains the transactions. The records must normally be kept in the company’s registered office and must be retained for a period of six-years. They must contain:[2]
+  * **Books and records**: The Gibraltar Companies Act demands that the accounting records explains the transactions. The records must normally be kept in the company’s registered office and must be retained for a period of six-years. They must contain: [2]
     * The sums of money received and expended with the reason and receipts of expenditure
     * The assets and liabilities
     * Goods sold and purchased
@@ -42,12 +42,13 @@ Specifically, **limited liability** companies must comply with accounting, regul
 For **limited partnerships**, the general partner may be a limited company but if it is, the limited partnership is obliged to file its accounts for public record with the Registrar of Companies
 * For limited partnerships, limited partners—at least one general partner, who has unlimited liability, and one or more limited partners—are liable for partnership obligations only to the extent of the cash and property they contribute or to the extent that they have received back the whole or any part of the capital they contributed  
  
-**The Annual General Meeting (AGM)**; the Companies Act requires that an AGM is held annually so that the accounts are put forth towards its members. The first AGM must be held within 18 months of the date of its incorporation and every calendar year thereafter, within at most 15 months of the previous AGM. A private limited company may waive this requirement to hold an AGM by appeal[3] 
-More information on Gibraltar’s governing laws/bylaws requirements and repository of all legal statements can be found [here](http://gibraltarlaws.gov.gi/). More broadly, the formation, management, and organization of a company in Gibraltar is largely governed by the Companies Act which can be viewed [here](http://www.gibraltarlaws.gov.gi/articles/2014-19o.pdf).
+**The Annual General Meeting (AGM)**; the Companies Act requires that an AGM is held annually so that the accounts are put forth towards its members. The first AGM must be held within 18 months of the date of its incorporation and every calendar year thereafter, within at most 15 months of the previous AGM. A private limited company may waive this requirement to hold an AGM by appeal [3] 
+
+More information on Gibraltar’s governing laws/bylaws requirements and repository of all legal statements can be found [here](http://gibraltarlaws.gov.gi/). An example bylaw of a Gibraltar-based company can be found [here](http://phx.corporate-ir.net/External.File?item=UGFyZW50SUQ9MTMwNjM0fENoaWxkSUQ9LTF8VHlwZT0z&t=1). More broadly, the formation, management, and organization of a company in Gibraltar is largely governed by the Companies Act which can be viewed [here](http://www.gibraltarlaws.gov.gi/articles/2014-19o.pdf).
 
 ------
 
 **SOURCES**
-[1][PWC Doing Business in Gibraltar](https://www.pwc.de/de/internationale-maerkte/assets/doing-business-in-gibraltar.pdf)  
-[3][PWC TaxFacts]https://www.pwc.gi/publications/assets/TaxFacts16-17v2.pdf 
-[2][ Nomoretax.eu](http://www.nomoretax.eu/gibraltar-legal-framework-cryptocurrency/)
+[1][PWC Doing Business in Gibraltar](https://www.pwc.de/de/internationale-maerkte/assets/doing-business-in-gibraltar.pdf)    
+[2][PWC TaxFacts](https://www.pwc.gi/publications/assets/TaxFacts16-17v2.pdf) 
+[3][Nomoretax.eu](http://www.nomoretax.eu/gibraltar-legal-framework-cryptocurrency/)
