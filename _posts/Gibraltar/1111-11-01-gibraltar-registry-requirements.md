@@ -11,21 +11,21 @@ The following are the necessary to establish a business in Gibraltar:
 
 **Non-profit/for-profit company registry requirements**	
 
-**The [common forms of business entities](https://www.angloinfo.com/how-to/gibraltar/working/starting-a-business) in Gibraltar are:** 
+**The common forms of business entities in Gibraltar are:** [1]
 
 * Sole Traders  
 * Partnerships  
 * Limited Liability Partnership  
 * Companies  
 
-**[Sole Traders Overview](https://www.gibraltar.gov.gi/new/entities#ancla2)** 
+**[Sole Traders Overview]** [2]
 * Becoming a sole trader is the simplest way to get started in business. It is the most basic form of business structure and it is also relatively easy and inexpensive to start and maintain.
 * Many sole traders choose to trade using their own name by registering as a Self-employed entity with the Income Tax Office and Employment Service. It is also possible to trade under a Business Name by registering one via Companies House prior to registering as Self-employed. 
 * Information on filing for a business name can be found [here](https://www.gibraltar.gov.gi/new/companies-house)
 * Sole traders retain complete control over the affairs of their business, including all assets and earnings. However, sole traders have unlimited liability and are consequently personally responsible for any losses their businesses may incur. It may also be harder to secure finance if registered as a sole trader   
      
 **Partnerships Overview** 
-* **[Limited partnerships (LP)](http://www.gibraltarlaws.gov.gi/articles/1927-07o.pdf)** (excluding Limited Liability Partnerships) are governed by the Limited Partnerships Act and consist of one or more persons called general partners, who shall be liable for all debts and obligations of the firm, and one or more persons to be called limited partners, who shall at the time of entering into such partnership contribute thereto a sum or sums as capital or property valued at a stated amount, and who shall not be liable for the debts or obligations of the firm beyond the amount so contributed. 
+* **Limited partnerships (LP)** (excluding Limited Liability Partnerships) are governed by the Limited Partnerships Act and consist of one or more persons called general partners, who shall be liable for all debts and obligations of the firm, and one or more persons to be called limited partners, who shall at the time of entering into such partnership contribute thereto a sum or sums as capital or property valued at a stated amount, and who shall not be liable for the debts or obligations of the firm beyond the amount so contributed. [3]
 * In order to **register a LP**:
   * Send to the Registrar a s statement signed by the partners containing the following: 
     * Firm name 
@@ -36,7 +36,7 @@ The following are the necessary to establish a business in Gibraltar:
     * A statement that the partnership is limited and the description of every limited partner as such
     * The sum contributed by each limited partner and whether paid in cash or how otherwise. 
 
-**[Limited Liability Partnerships Overview](http://www.gibraltarlaws.gov.gi/articles/2009-06o.pdf)** 
+**Limited Liability Partnerships Overview [4]** 
 * **Limited Liability Partnerships** (LLP) are body corporate (with legal personality separate from that of its members) established under the Limited Liability Partnerships Act 2009
 * In order to **register a LLP**:
 * 2 or more persons must subscribe their names to the incorporation document
@@ -47,7 +47,7 @@ The following are the necessary to establish a business in Gibraltar:
     * State the name and address of each of the persons who are to be members of the limited liability partnership on incorporation; and
     * Either specify which of those persons are to be designated members or state that every person who from time to time is a member of the limited liability partnership is a designated member
 
-**[Companies Overview](http://www.gibraltarlaws.gov.gi/articles/2014-19o.pdf)**  
+**[Companies Overview]** [5]  
 * The Companies Act of 2014 represents the most recent company law in Gibraltar 
   * This act distinguishes among the following types of companies:
   * Limited vs Unlimited Companies:
@@ -102,3 +102,10 @@ The following are the necessary to establish a business in Gibraltar:
 * More information on private foundations [here](http://www.ey.com/Publication/vwLUAssets/ey-private-foundations-in-gibraltar/$FILE/ey-private-foundations-in-gibraltar.pdf)
 
 
+-------------
+**SOURCES**  
+[1] [Angleinfo.com](https://www.angloinfo.com/how-to/gibraltar/working/starting-a-business)  
+[2] [Gibraltar.gov.gi]](https://www.gibraltar.gov.gi/new/entities#ancla2)  
+[3] [Gibraltarlaws.gov.gi](http://www.gibraltarlaws.gov.gi/articles/1927-07o.pdf) 
+[4] [Gibraltarlaws.gov.gi](http://www.gibraltarlaws.gov.gi/articles/2009-06o.pdf)  
+[5] [Gibraltarlaws.gov.gi](http://www.gibraltarlaws.gov.gi/articles/2014-19o.pdf)  
