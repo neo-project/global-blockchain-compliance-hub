@@ -24,11 +24,10 @@ comments: true
     * A DLT Provider must ensure that all of its systems and security access protocols are maintained to appropriate high standards
     * A DLT Provider must have systems in place to prevent, detect and disclose financial crime risks such as money laundering and terrorist financing
     * A DLT Provider must be resilient and have contingency arrangements for the orderly and solvent wind down of its business
-  * Notes on these regulations 
+  * Notes on these regulations: 
     * Once these regulations are put into effect, Gibraltar would be among the few jurisdictions worldwide to offer a fully regulated framework for firms working with blockchain[3]
     * Gibraltar plans to provide more guidelines in early 2018 to attract ICOs [4]
-    
-Repercussions for operating without a license fines according to the [Financial Services Penalty Fees Regulations 1993](http://www.gibraltarlaws.gov.gi/articles/1993s147.pdf) level 5. Further reprecussions have not yet been specified.
+  * Repercussions for operating without a license fines according to the [Financial Services Penalty Fees Regulations 1993](http://www.gibraltarlaws.gov.gi/articles/1993s147.pdf) level 5. Further reprecussions have not yet been specified.
 
 **Token Sales** [2]
 
@@ -46,4 +45,4 @@ Repercussions for operating without a license fines according to the [Financial 
 [1][Gibraltarlaws.gov](http://gibraltarlaws.gov.gi/articles/2017s204.pdf)  
 [2][GFSC Statement](http://www.gfsc.gi/news/statement-on-initial-coin-offerings-250)  
 [3][Coindesk.com](https://www.coindesk.com/gibraltar-publishes-draft-regulations-for-blockchain-firms/)  
-[4][fourtune.com](http://fortune.com/2017/09/26/tax-havens-initial-coin-offerings/)
+[4][Fourtune.com](http://fortune.com/2017/09/26/tax-havens-initial-coin-offerings/)
