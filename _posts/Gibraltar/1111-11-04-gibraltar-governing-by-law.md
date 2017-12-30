@@ -7,9 +7,7 @@ category: gibraltar
 comments: true
 ---
 
-**Companies in Gibraltar must...**
-
-Governing Law/Bylaw Requirements [1]
+**Companies in Gibraltar must...**[1]
   
 After forming a corporation, the company must undertake certain steps on an ongoing basis to keep your business in compliance with Gibraltar’s legal framework. This guide outlines the ongoing requirements for Gibraltar corporations:
 * Companies must have on-file:
@@ -49,6 +47,6 @@ More information on Gibraltar’s governing laws/bylaws requirements and reposit
 ------
 
 **SOURCES**
-[1][PWC Doing Business in Gibraltar](https://www.pwc.de/de/internationale-maerkte/assets/doing-business-in-gibraltar.pdf)    
-[2][PWC TaxFacts](https://www.pwc.gi/publications/assets/TaxFacts16-17v2.pdf) 
-[3][Nomoretax.eu](http://www.nomoretax.eu/gibraltar-legal-framework-cryptocurrency/)
+[1][PWC Doing Business in Gibraltar](https://www.pwc.de/de/internationale-maerkte/assets/doing-business-in-gibraltar.pdf)     
+[2][PWC TaxFacts](https://www.pwc.gi/publications/assets/TaxFacts16-17v2.pdf)   
+[3][Nomoretax.eu](http://www.nomoretax.eu/gibraltar-legal-framework-cryptocurrency/)  
