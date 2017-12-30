@@ -15,7 +15,7 @@ comments: true
 * Non Swiss/EEA nationals will require the prospective employer to request the issue of a work permit before commencement of employment
   * Certain conditions need to be met by the employer before the work permit is approved. A work permit is issued for a period not exceeding 12 months
   * There is a £3,000 fee for employing a non EEA/Swiss national without a work permit 
-* As of now an EU state national can work in Gibraltar and enjoy all the benefits and protection of European legislation relating to the free movement of workers, such as freedom from discrimination on the grounds of nationality, the worker will also be entitled to residence, as will his or her family[2]
+* As of now an EU state national can work in Gibraltar and enjoy all the benefits and protection of European legislation relating to the free movement of workers, such as freedom from discrimination on the grounds of nationality, the worker will also be entitled to residence, as will his or her family [2]
   * However, given Brexit, the future status of Gibraltar within the EU is [uncertain](https://www.theguardian.com/world/2017/apr/07/will-the-uk-lose-gibraltar) and the impact that this will have on employment legislation is unknown
 
 **Setting up a Company in Gibraltar**
