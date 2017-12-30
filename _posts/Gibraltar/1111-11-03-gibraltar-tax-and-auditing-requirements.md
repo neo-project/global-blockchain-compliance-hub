@@ -95,5 +95,5 @@ Companies are required to file returns and calculate their tax liability for the
 -------------
 
 **SOURCES**  
-[1][PWC Doing Business in Gibraltar](https://www.pwc.de/de/internationale-maerkte/assets/doing-business-in-gibraltar.pdf)  
-[2][PWC Tax Facts](https://www.pwc.gi/publications/assets/TaxFacts16-17v2.pdf)  
+[1] [PWC Doing Business in Gibraltar](https://www.pwc.de/de/internationale-maerkte/assets/doing-business-in-gibraltar.pdf)  
+[2] [PWC Tax Facts](https://www.pwc.gi/publications/assets/TaxFacts16-17v2.pdf)  
