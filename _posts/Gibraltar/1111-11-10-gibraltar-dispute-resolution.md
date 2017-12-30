@@ -2,7 +2,7 @@
 layout: post
 date: 0004-03-01
 name: how-is-dispute-resolution-integrated
-title: "How is Dispture Resolution Integrated"
+title: "Gibraltar: How is Dispture Resolution Integrated"
 category: gibraltar
 comments: true
 ---
