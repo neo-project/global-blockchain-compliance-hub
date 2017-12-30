@@ -24,5 +24,5 @@ Businesses based out of Gibraltar are offering opportunities for smart contracts
  -------
  **SOURCE**  
  [1] [GFSC.gi](http://www.gfsc.gi/uploads/DLT%20regulations%20121017%20(2).pdf)  
- [2] [Coindesk.com](https://www.coindesk.com/gibraltar-publishes-draft-regulations-for-blockchain-firms/
+ [2] [Coindesk.com](https://www.coindesk.com/gibraltar-publishes-draft-regulations-for-blockchain-firms/)
  
