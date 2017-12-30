@@ -2,14 +2,14 @@
 layout: post
 date: 0004-06-01
 name: privacy-and-data-protection-related-laws
-title: "Privacy and Data Protection-related Laws"
+title: "Gibraltar: Privacy and Data Protection-related Laws"
 category: gibraltar
 comments: true
 ---
 
 **Privacy laws in Gibraltar require**...
 
-**[Current Gibraltar Privacy and Data Protection-Related Laws](http://www.gra.gi/data-protection)**
+**Current Gibraltar Privacy and Data Protection-Related Laws** [1]
 * Data Protection Act 2004 is the law that governs how organisations (both private and public) should use information about individuals
   * This Data Protection Act 2004 can be found [here](http://www.gra.gi/data-protection/acts) and applies whenever an organisation processes (e.g. stores, collects, transmits, uses etc.) information that relates to a person such as a person’s name, DOB, their hobbies, comments about their performance, location, etc
   * This act nominates the Gibraltar Regulatory Authority is nominated as the Data Protection Commissioner
@@ -20,9 +20,9 @@ comments: true
 
 **Future Gibraltar Privacy and Data Protection-Related Laws**
 * As of May 25, 2018, the EU’s General Data Protection Regulation (GDPR) will come into effect in Gibraltar, automatically replacing the existing Data Protection act of 2004
-  * The GDPR applies to “data controllers” and “data processors”. The data controller is the organisation that says how and why personal data is processed and the data processor is the organisation that processes personal data on the data controller’s behalf [(source)](http://www.gra.gi/data-protection/general-data-protection-regulation/gdpr-1 )
+  * The GDPR applies to “data controllers” and “data processors”. The data controller is the organisation that says how and why personal data is processed and the data processor is the organisation that processes personal data on the data controller’s behalf [2]
   * A good summary of the GDPR can be found [here](https://www2.deloitte.com/nl/nl/pages/risk/articles/the-general-data-protection-regulation.html)
-  * Overall, the GDPR mandates that the rights of the “data subject,” that is, the individual whose data it is, be protected. [These rights include:](https://medium.com/learning-machine-blog/the-eu-general-data-protection-regulation-and-the-blockchain-1f1d20d24951)
+  * Overall, the GDPR mandates that the rights of the “data subject,” that is, the individual whose data it is, be protected. These rights include: [3] 
     * Article 12: The right to have questions about use of personal data answered, and to seek redress if these questions are not answered in a clear, concise, timely manner.
     * Articles 13 & 14: The right to know how personal data is being used at the time of collection, as well as the length of time for which it will be stored and contact information for the collecting party.
     * Article 15: The right to access the personal data that is being processed.
@@ -34,4 +34,10 @@ comments: true
     * Article 21: The right to object to personal data being used to profile or market to them.
     * Article 22: The right to not be subject to legal outcomes that rely solely on automated data processing.
   * Therefore Gibraltar privacy and data-protection law will be the same as other countries in the EU. Several articles have been written about the potential impact of the GDPR on blockchain including [here](https://medium.com/wearetheledger/the-blockchain-gdpr-paradox-fc51e663d047), [here](https://www.hlengage.com/_uploads/downloads/5425GuidetoblockchainV9FORWEB.pdf), [here](https://www.mindtree.com/blog/gdpr-stumbling-block-blockchain) and [here](https://martechtoday.com/can-blockchain-satisfy-gdprs-user-data-protection-requirements-targeted-ads-202600) as it is unknown how these new regulations will affect public blockchains
+  
+  --------
+  **SOURCE**  
+  [1] [Gra.gi Data Protection](http://www.gra.gi/data-protection)  
+  [2] [Gra.gi General Protection Regulation](http://www.gra.gi/data-protection/general-data-protection-regulation/gdpr-1)  
+  [3] [Medium.com](https://medium.com/learning-machine-blog/the-eu-general-data-protection-regulation-and-the-blockchain-1f1d20d24951)
 
