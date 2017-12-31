@@ -168,5 +168,5 @@ It should be noted that all the necessary documents issued and executed outside 
 Source
 ---
 
-- [Establishing a Business in Turkey, Investment Support and Promotion Agency of Turkey](http://www.invest.gov.tr/en-US/investmentguide/investorsguide/Pages/EstablishingABusinessInTR.aspx)
+- [Establishing a Business in Turkey, Investment Support and Promotion Agency of Turkey](http://www.invest.gov.tr/EN-US/INVESTMENTGUIDE/INVESTORSGUIDE/Pages/Taxes.aspx)
 
