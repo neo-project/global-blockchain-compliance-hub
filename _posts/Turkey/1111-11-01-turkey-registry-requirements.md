@@ -163,3 +163,10 @@ The documents required by the Ministry of Economy for establishing a liaison off
 
 It should be noted that all the necessary documents issued and executed outside Turkey must be notarized and apostilled or alternatively ratified by the Turkish consulate where they are issued. The original executed, notarized and apostilled documents must be officially translated and notarized by a Turkish notary.
 
+
+
+Source
+---
+
+- [Establishing a Business in Turkey, Investment Support and Promotion Agency of Turkey](http://www.invest.gov.tr/en-US/investmentguide/investorsguide/Pages/EstablishingABusinessInTR.aspx)
+
