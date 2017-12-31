@@ -122,3 +122,5 @@ Sources
 ---
 
 - [Taxes, Investment Support and Promotion Agency of Turkey](http://www.invest.gov.tr/EN-US/INVESTMENTGUIDE/INVESTORSGUIDE/Pages/Taxes.aspx)
+
+- [International Tax, Turkey Highlights Report, Deloitte](https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/international-business-support/deloitte-cn-ibs-turkey-tax-invest-en-2017.pdf)
