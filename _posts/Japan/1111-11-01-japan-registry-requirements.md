@@ -17,11 +17,13 @@ In Japan, there are firm legal distinctions between non-profit organizations or 
 * A representative director who is a legal resident in Japan and operates from the registered business address must be located in order to provide a bank account through which capital will initially be deposited.:
    * In the case of a Japanese branch of a foreign company, the 'representative director' role is called 'branch manager'.
 2. Prepare the required documents. 
- a. For a standard KK, these include:
+
+a. For a standard KK, these include:
    * A recently issued seal certificate (inkan shomeisho/印鑑証明書) of both investor and director, obtained within the last 3 months. If the investor becomes a director, two copies are required. These can be obtained at local city halls by registered Japanese residents.
      * It is possible to replace these with notarized signatures certified by the embassy or consulate in Japan of the foreigner's citizenship.
    * The signature or seal of the investor and director must be present on the articles of incorporation and other necessary documents.
    * One of the investors' personal bank account passbook (tsucho/通帳) and bank statement must be provided for the initial deposit of capital. This can be from either a new or an existing account. Japanese banks, such as SMBC, are ideal.
+ 
  b. The required documents for a Japanese subsidiary of a foreign company are:
    * A registry certificate of the parent company issued within 3 months. 
    * Notarized signature attestation of the parent company representative.
