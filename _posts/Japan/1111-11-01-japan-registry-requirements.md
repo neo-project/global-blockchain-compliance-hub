@@ -16,5 +16,9 @@ In Japan, there are firm legal distinctions between non-profit organizations or 
 1. Find an office address.
 * A representative director who is a legal resident in Japan and operates from the registered business address must be located in order to provide a bank account through which capital will initially be deposited.:
    * In the case of a Japanese branch of a foreign company, the 'representative director' role is called 'branch manager'.
+2. Prepare the required documents. 
+* These include:
+   * A recently issued seal certificate (inkan shomeisho/印鑑証明書) of both investor and director, obtained within the last 3 months.
+   * 
 
 
