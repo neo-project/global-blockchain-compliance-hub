@@ -27,5 +27,7 @@ In Japan, there are firm legal distinctions between non-profit organizations or 
    * Notarized signature attestation of the parent company representative.
    * The same with respect to all other requirements for individuals.
 3. Prepare the articles of incorporation (teikan/定款).
+Sample articles of incorporation can be found [here](http://www.teikan-j.jp/kabushikisample.pdf).
+* Articles of incorporation must contain: 
 
 
