@@ -7,5 +7,4 @@ category: south-korea
 comments: true
 ---
 
-
-
+Please check Section 1, Korea Registry Requirements and Section 3, Tax and Auditing Requirements for registration, organization and operating requirements. 
