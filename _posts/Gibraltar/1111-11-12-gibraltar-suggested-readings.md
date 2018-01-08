@@ -2,7 +2,7 @@
 layout: post
 date: 0004-01-01
 name: suggested-readings
-title: "Suggested Readings"
+title: "Gibraltar: Suggested Readings"
 category: gibraltar
 comments: true
 ---
@@ -27,3 +27,5 @@ comments: true
 
 **Miscellaneous:**
 * Gibraltar [UK-EU-Brexit](https://www.theguardian.com/world/2017/apr/07/will-the-uk-lose-gibraltar)
+
+| **[Previous Section](CryptoWikiTest.github.io/_posts/Gibraltar/1111-11-11-gibraltar-nullify-smart-contracts.md)**]
