@@ -40,7 +40,7 @@ comments: true
 - [New York Assembly Bill 8780 on Smart Contracts](https://legiscan.com/NY/text/A08780/2017)
 - [Four Blockchain Bills Introduced to the New York Legislature](https://www.coindesk.com/4-blockchain-bills-introduced-new-york-legislature/)
 - [Four Blockchain Bills Introduced in New York State Assembly](http://www.govtech.com/policy/Four-Blockchain-Bills-Introduced-in-New-York-State-Assembly.html)
-- [](https://legiscan.com/NY/text/A08780/2017)
+- [Bill Text: NY A08780](https://legiscan.com/NY/text/A08780/2017)
 - [When is a Smart Contract Actually a Contract?](https://www.coindesk.com/when-is-a-smart-contract-actually-a-contract/)
 - [http://media.straffordpub.com/products/smart-contracts-navigating-legal-regulatory-and-consumer-protection-issues-2017-08-30/reference-materials.pdf](Smart Contracts: Navigating Legal Regulatory Consumer Protection Issues)
 - [Recognition of Smart Contracts](https://www.pillsburylaw.com/en/news-and-insights/recognition-of-smart-contracts.html)
