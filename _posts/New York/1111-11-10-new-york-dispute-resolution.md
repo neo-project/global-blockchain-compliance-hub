@@ -2,8 +2,12 @@
 layout: post
 date: 0015-03-01
 name: how-is-dispute-resolution-integrated
-title: "How is Dispture Resolution Integrated"
+title: "New York: How is Dispture Resolution Integrated"
 category: new-york
 comments: true
 ---
+
+There's no current legislation on smart-contract-related dispute resolution. 
+
+| **[Previous Section](https://mimush.github.io/CryptoWikiTest.github.io//new-york/new-york-smart-contracts.html)** | **[Next Section](https://mimush.github.io/CryptoWikiTest.github.io//new-york/new-york-nullify-smart-contracts.html)** |
 
