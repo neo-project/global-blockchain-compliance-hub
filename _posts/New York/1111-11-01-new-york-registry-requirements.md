@@ -32,7 +32,7 @@ Sources
 - [New York Department of State's Division of Corporations, State Records and Uniform Commercial Code](https://www.dos.ny.gov/corps/index.html)
 
 
-#### [Next Section](https://mimush.github.io/CryptoWikiTest.github.io//new-york/new-york-team-member-requirements.html)
+| **[Next Section](https://mimush.github.io/CryptoWikiTest.github.io//new-york/new-york-team-member-requirements.html)** |
 
 
 
