@@ -40,3 +40,4 @@ Articles of incorporation must contain:
    *	Companies are free to select their fiscal years, but in Japan it is typical to select the year that ends on March 30. 
 
 
+
