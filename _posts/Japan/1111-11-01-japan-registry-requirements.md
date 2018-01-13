@@ -41,6 +41,8 @@ Articles of incorporation must contain:
 4. Deposit of Capital
 * An initial capital deposit is required in order to complete the registration. The sum for this transaction should be deducted from the personal bank account of one of the named investors.
 * In the case of a foreign company establishing a subsidiary, this can be the account of the representative director instead.
-
+5. Filing the application for registration 
+* This can be performed at a registry office/homukyoku/法務局. Registration fees vary by jurisdiction, but a good estimate is 150,000 JPY for KK, and 60,000 JPY for GK.
+* Once this process is completed, it is possible to obtain a registry certificate and company’s seal certificate, which are required to open a corporate bank account or signing contracts in the company name.
 
 
