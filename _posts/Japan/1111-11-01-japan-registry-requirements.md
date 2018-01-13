@@ -47,3 +47,5 @@ Articles of incorporation must contain:
 6. Tax and social insurance procedures
 * After establishing a branch office or corporation in Japan, tax notification must be submitted to tax authorities within a prescribed period after establishment
 
+(stopped here due to a need to fix formatting errors and add footnotes and various sublevel bullet points for the current section)
+
