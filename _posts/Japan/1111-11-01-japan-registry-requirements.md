@@ -34,9 +34,9 @@ Articles of incorporation must contain:
 * Company’s Activities (all activities that the company intends to perform, even if not immediately. There is no obligation to perform all activities listed, and this can be changed or amended later).
 * Administration (at least one director must be appointed. An investor/shareholder can also become a director at the time of founding).
    *	A representative director must also be elected amongst the directors. If there is only one director, that person is also the representative director. There can be several representative directors. 
-*	Corporate Capital
+*	Corporate Capital (formatting error)
    *	A fixed sum of capital to pay for the initial expenses of founding the business. 5 million yen in declared capital of foreign origin is required to be able to obtain an investor or business manager visa.
-*	Fiscal Year
+*	Fiscal Year (formatting error)
    *	Companies are free to select their fiscal years, but in Japan it is typical to select the year that ends on March 30. 
 4. Deposit of Capital
 * An initial capital deposit is required in order to complete the registration. The sum for this transaction should be deducted from the personal bank account of one of the named investors.
