@@ -28,6 +28,15 @@ In Japan, there are firm legal distinctions between non-profit organizations or 
    * The same with respect to all other requirements for individuals.
 3. Prepare the articles of incorporation (teikan/定款).
 Sample articles of incorporation can be found [here](http://www.teikan-j.jp/kabushikisample.pdf).
-* Articles of incorporation must contain: 
+* Articles of incorporation must contain:
+   * Company Name (alphabet, numbers, kanji, hiragana, katakana, or a mix of all of these).
+   * Company Address (office address as in 1).
+   * Company’s Activities (all activities that the company intends to perform, even if not immediately. There is no obligation to perform all activities listed, and this can be changed or amended later).
+   * Administration (at least one director must be appointed. An investor/shareholder can also become a director at the time of founding).
+   o	A representative director must also be elected amongst the directors. If there is only one director, that person is also the representative director. There can be several representative directors. 
+   *	Corporate Capital
+   o	A fixed sum of capital to pay for the initial expenses of founding the business. 5 million yen in declared capital of foreign origin is required to be able to obtain an investor or business manager visa.
+   *	Fiscal Year
+   o	Companies are free to select their fiscal years, but in Japan it is typical to select the year that ends on March 30. 
 
 
