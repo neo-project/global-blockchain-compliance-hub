@@ -44,5 +44,6 @@ Articles of incorporation must contain:
 5. Filing the application for registration 
 * This can be performed at a registry office/homukyoku/法務局. Registration fees vary by jurisdiction, but a good estimate is 150,000 JPY for KK, and 60,000 JPY for GK.
 * Once this process is completed, it is possible to obtain a registry certificate and company’s seal certificate, which are required to open a corporate bank account or signing contracts in the company name.
-
+6. Tax and social insurance procedures
+* After establishing a branch office or corporation in Japan, tax notification must be submitted to tax authorities within a prescribed period after establishment
 
