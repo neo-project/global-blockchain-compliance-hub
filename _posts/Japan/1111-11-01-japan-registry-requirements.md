@@ -9,7 +9,7 @@ comments: true
 
 **Company registry requirements in Japan are....**
 
-In Japan, there are firm legal distinctions between non-profit organizations or NGOs, and for-profit companies. For-profit companies come in two categories; the KK (kabushiki kaisha/株式会社) and the GK (godo kaisha/合同会社). Each and every one of the 15 organizations legally operating in the state of Japan as registered VCESPs (virtual currency exchange providers) are registered as KKs ([a list can be found here](http://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.pdf)). This is due to the legislative requirements on virtual currency and ICOs under Japanese law pursuant to the VCA (virtual currency act). The KK should be seen as the primary, and (as of Jan 2 2018) *only* way to legitimately operate exchanges for virtual currency and initiate ICOs in Japan.
+In Japan, there are firm legal distinctions between non-profit organizations or NGOs, and for-profit companies. For-profit companies come in two categories; the KK (kabushiki kaisha/株式会社) and the GK (godo kaisha/合同会社). Each and every one of the 15 organizations legally operating in the state of Japan as registered VCESPs (virtual currency exchange providers) are registered as KKs ([a list can be found here](http://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.pdf)). This is due to the legislative requirements on virtual currency and ICOs under Japanese law pursuant to the VCA (virtual currency act). The KK should be seen as the primary, and (as of Jan 2 2018) *only* way to legitimately operate exchanges for virtual currency and initiate ICOs in Japan. However, it is recommended that you seek legal counsel from a business attorney registered in Japan prior to taking action. 
 
 **For-profit companies - KK**
  
@@ -26,7 +26,7 @@ In Japan, there are firm legal distinctions between non-profit organizations or 
    * A registry certificate of the parent company issued within 3 months. 
    * Notarized signature attestation of the parent company representative.
    * The same with respect to all other requirements for individuals.
-3. Prepare the articles of incorporation (teikan/定款).
+3. Prepare the articles of incorporation (teikan/定款). 
 Sample articles of incorporation can be found [here](http://www.teikan-j.jp/kabushikisample.pdf).
 Articles of incorporation must contain:
 * Company Name (alphabet, numbers, kanji, hiragana, katakana, or a mix of all of these).
@@ -52,6 +52,10 @@ Articles of incorporation must contain:
  * Health insurance and nursing care insurance
  * Employee's pension insurance
  
- **Non-profit companies**
+ **Key sources**
+
+[Guide to requirements for establishing as a registered virtual currency trader/provider](http://www.so-law.jp/wp-content/uploads/2017/07/Japanese_VC_Act_and_Registration-Overview_170704.pdf)
+[Guide to company type in Japan](https://www.juridique.jp/business/companytype.php)
+[Guide to documents for incorporation](https://www.juridique.jp/business/incorporation_documents.php)
+
  
- An English-language outline of Japan’s NPO law can be found [here](http://www.gdrc.org/ngo/jp-npolaw.html). Recent amendments to that law are described [here](http://www.gdrc.org/ngo/jp-npo-law.html). Non-profit organizations, known in Japanese as NPO法人 or 非営利団体 are significantly more complex than for-profit companies in the legal requirements for their operation. Any NPO facilitating the trade of/trading in virtual currency would be legally required to pay corporation tax [(source)](http://japanhousesaitama.lawyerjapanese.com/saitama/page-87/).
