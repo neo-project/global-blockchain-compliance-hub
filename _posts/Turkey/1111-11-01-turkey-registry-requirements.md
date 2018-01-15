@@ -7,7 +7,7 @@ category: turkey
 comments: true
 ---
 
-# HELLO WELCOME TO Turkey
+
 
 Turkey’s FDI Law is based on the principle of equal treatment, allowing international investors to have the same rights and liabilities as local investors.
 
