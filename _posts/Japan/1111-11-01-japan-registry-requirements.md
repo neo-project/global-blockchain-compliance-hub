@@ -54,4 +54,4 @@ Articles of incorporation must contain:
  
  **Non-profit companies**
  
- An English-language outline of Japan’s NPO law can be found [here](http://www.gdrc.org/ngo/jp-npolaw.html). Recent amendments to that law are described [here](http://www.gdrc.org/ngo/jp-npo-law.html). Non-profit organizations, known in Japanese as NPO法人 or 非営利団体 are significantly more complex than for-profit companies in the legal requirements for their operation. Any NPO facilitating the trade of/trading in virtual currency would be legally required to pay corporation tax.
+ An English-language outline of Japan’s NPO law can be found [here](http://www.gdrc.org/ngo/jp-npolaw.html). Recent amendments to that law are described [here](http://www.gdrc.org/ngo/jp-npo-law.html). Non-profit organizations, known in Japanese as NPO法人 or 非営利団体 are significantly more complex than for-profit companies in the legal requirements for their operation. Any NPO facilitating the trade of/trading in virtual currency would be legally required to pay corporation tax [(source)](http://japanhousesaitama.lawyerjapanese.com/saitama/page-87/).
