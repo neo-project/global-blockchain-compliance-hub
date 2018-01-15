@@ -45,7 +45,13 @@ Articles of incorporation must contain:
 * This can be performed at a registry office/homukyoku/法務局. Registration fees vary by jurisdiction, but a good estimate is 150,000 JPY for KK, and 60,000 JPY for GK.
 * Once this process is completed, it is possible to obtain a registry certificate and company’s seal certificate, which are required to open a corporate bank account or signing contracts in the company name.
 6. Tax and social insurance procedures
-* After establishing a branch office or corporation in Japan, tax notification must be submitted to tax authorities within a prescribed period after establishment
-
-(stopped here due to a need to fix formatting errors and add footnotes and various sublevel bullet points for the current section)
-
+* After establishing a branch office or corporation in Japan, tax notification must be submitted to tax authorities within a prescribed period after establishment.
+* All firms located in Japan are obliged to enroll their employees in the following categories of insurance. This is collectively referred to as social insurance/shakai hoken/社会保険.
+ * Worker's accident compensation insurance
+ * Unemployment insurance
+ * Health insurance and nursing care insurance
+ * Employee's pension insurance
+ 
+ **Non-profit companies**
+ 
+ An English-language outline of Japan’s NPO law can be found [here](http://www.gdrc.org/ngo/jp-npolaw.html). Recent amendments to that law are described [here](http://www.gdrc.org/ngo/jp-npo-law.html). Non-profit organizations, known in Japanese as NPO法人 or 非営利団体 are significantly more complex than for-profit companies in the legal requirements for their operation. Any NPO facilitating the trade of/trading in virtual currency would be legally required to pay corporation tax.
