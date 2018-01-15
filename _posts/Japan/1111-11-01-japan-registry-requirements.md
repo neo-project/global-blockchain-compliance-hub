@@ -55,7 +55,9 @@ Articles of incorporation must contain:
  **Key sources**
 
 [Guide to requirements for establishing as a registered virtual currency trader/provider](http://www.so-law.jp/wp-content/uploads/2017/07/Japanese_VC_Act_and_Registration-Overview_170704.pdf)
+
 [Guide to company type in Japan](https://www.juridique.jp/business/companytype.php)
+
 [Guide to documents for incorporation](https://www.juridique.jp/business/incorporation_documents.php)
 
  
