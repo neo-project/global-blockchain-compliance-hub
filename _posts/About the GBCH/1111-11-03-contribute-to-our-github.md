@@ -7,5 +7,4 @@ category: about
 comments: true
 ---
 
-##How can I contribute? 
-This is a crowdsource project that will grow as our community grows. Visit our github and add your knowledge, etc. 
+We're hoping this can become a community-driven community resource that will help folks interested in starting their own NEO-based blockchain projects think about regulation as they move towards the point where they'd need to actually seek counsel. We're undertaking this project because NEO is committed to compliant and sustainable growth, and we believe this sort of resource is currently lacking. If you're interested in contributing (by either updating a country page or creating a new one) please let us know—we're always looking for new partners. You can reach out to milesgraham@neo.org.
