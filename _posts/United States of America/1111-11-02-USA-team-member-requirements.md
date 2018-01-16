@@ -31,7 +31,8 @@ Also note other small differences for foreigners setting up firms in the U.S., t
 - Foreign citizens will face a slight delay (~30 days) when applying for the EIN (Federal Tax ID).
 - You don’t need a US address to incorporate in a US, but you do need a US mailing address through some provider.
 
-Sources:
+Sources
+------ 
 - [What a Non-Resident Needs to Consider when Forming a Company](https://www.business.com/articles/what-non-residents-need-to-consider-when-forming-a-company-here-in-the-us/)
 - [US Citizenship and Immigration Services](https://www.uscis.gov/)
 - [Starting your own US Company as a Foreigner](http://www.hightechstartupworld.com/2012/09/starting-your-own-us-company-as.html)
