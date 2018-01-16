@@ -14,7 +14,8 @@ You’ll need to decide on a business type. For foreign companies/individuals, t
 
 When it comes to deciding which state to register in, there are a few things to keep in mind. If you will have any kind of an office or physical presence in the U.S., then you should incorporate in that state. If you will not have a physical presence in the U.S., then you can incorporate in any state. Delaware, Nevada, and Wyoming are traditionally considered the most business-friendly states for incorporating.
 
-Sources: 
+Sources
+------ 
 - [The Entrepreneur's Guide to Business Law](https://www.amazon.com/The-Entrepreneurs-Guide-Business-Law/dp/0324042914)
 - [Startup Cheat Sheet: How to Incorporate your Company](https://medium.com/@tylertate/startup-cheat-sheet-how-to-incorporate-your-company-c85384e8f7a0)
 - [The Many Variables to Consider when Choosing in which State to Incorporate](https://www.entrepreneur.com/article/241528)
