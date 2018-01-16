@@ -8,6 +8,7 @@ comments: true
 ---
 
 **Federal Level**
+
 There has been no U.S. Federal Law or guidance explicitly defining the status of smart contracts, as of December 18. 2017. However, the 2000 federal Electronic Signatures in Global and National Commerce Act (“E-Sign Act”) may already provide sufficient legal weight for smart contracts to be enforced under the existing law.
 
 E-Sign Act (Signed into Law, 2000)
@@ -32,6 +33,7 @@ Even without state legislative initiative, there are existing common law and sta
 
 
 **State Level**
+
 At the state level, the Uniform Law Commission (a legal association in America which researches and drafts model legislation which states can choose to modify or adopt on their own, promoting the uniformity of laws across state borders) issued a Uniform Electronic Transaction Act (“UETA”) in 1999, which has been since adopted by 47 states. Note that the states who didn’t approve UETA still maintain the legal validity of electronic contracts under ESIGN requirements.
 
 Uniform Electronic Transaction Act (Published 1999, Adopted in large part by 47 states)
