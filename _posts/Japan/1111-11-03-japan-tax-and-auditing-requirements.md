@@ -16,11 +16,17 @@ Rates may vary considerably depending on the local taxation components in the pa
 
 **Auditing requirements**
 It is typical for the National Tax Agency to audit Japanese firms within 3-5 years of starting business in Japan ([source](http://www.venturejapan.com/business-in-japan/doing-business-in-japan/how-to-manage-japanese-corporate-tax/japanese-business-tax-audit/)).  For Virtual Currency Exchange Service Providers, additional requirements do exist. In particular:
+
 •	VCESPs must segregate their own cash from users’ cash, by:
 o	Using a bank etc., or
+
 o	Placing cash in a specific trust
+
 •	The VCESP must segregate users’ virtual currency from its own virtual currency, by both
+
 o	Making a clear distinction between the users’ virtual currency and its own virtual currency such that the users’ virtual currency is immediately identifiable, and;
+
 o	It must ensure that third parties to which management of the VC is outsourced (if applicable) that all thirdparties make a clear distinction between the VC of providers and users such that the users’ VC is immediately identifiable. 
+
 •	All VCESPs must regularly undergo an audit of the status of the segregated management by a public certified accountant or audit firm at least once a year ([source](https://www.amt-law.com/pdf/bulletins2_pdf/170207.pdf)).
 
