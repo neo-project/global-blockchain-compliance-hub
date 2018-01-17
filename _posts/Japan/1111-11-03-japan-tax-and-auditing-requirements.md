@@ -18,6 +18,7 @@ Rates may vary considerably depending on the local taxation components in the pa
 It is typical for the National Tax Agency to audit Japanese firms within 3-5 years of starting business in Japan ([source](http://www.venturejapan.com/business-in-japan/doing-business-in-japan/how-to-manage-japanese-corporate-tax/japanese-business-tax-audit/)).  For Virtual Currency Exchange Service Providers, additional requirements do exist. In particular:
 
 •	VCESPs must segregate their own cash from users’ cash, by:
+
 o	Using a bank etc., or
 
 o	Placing cash in a specific trust
