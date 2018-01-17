@@ -7,4 +7,4 @@ category: japan
 comments: true
 ---
 
-
+Central resources include the [Japan Blockchain Association](jba-web.jp), and [this document](http://www.fsa.go.jp/policy/virtual_currency/07.pdf) by the FSA.
