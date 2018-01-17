@@ -11,3 +11,8 @@ The Act on the Protection of Personal Information (APPI) requires business opera
 
 The amendments also created the Personal Information Protection Commission (PIPC) established in January 2016. Laws and regulations pertaining to the protection of personal information (non-blockchain specific) can be located on the PIPC website [here](https://www.ppc.go.jp/en/legal/).
 
+Notable among changes to Japanese data protection laws pertaining to financial services agencies are additional restrictions in relation to the extraterritorial provision of Japanese customer data outside of the country, or to third parties in general. More information on these requirements for companies can be found [here](https://www.whitecase.com/publications/article/transfer-personal-data-under-japans-amended-personal-information-protection-act).
+
+In addition, the PIPC upholds that under Japanese law, if a customer requires that details of a financial transaction be kept private, it is the legal obligation of the company or agent facilitating the transaction that anonymization take place. This is an apparent contradiction with the innate requirements of blockchain technology. However, Japanese privacy and data protection laws do coexist with blockchain technology, as described in this article [here](https://www.nikkei.com/article/DGXMZO21027660S7A910C1000000/).
+
+[More information on Japanese data protection laws](http://www.mondaq.com/x/231450/data+protection/Data+Protection+Laws+of+the+World+Handbook+Second+Edition+Japan)
