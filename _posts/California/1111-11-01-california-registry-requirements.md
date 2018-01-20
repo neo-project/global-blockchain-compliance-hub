@@ -2,7 +2,7 @@
 layout: post
 date: 0014-12-01
 name: company-registry-requirements
-title: "Non-profit/For-profit Company Registry Requirements"
+title: "California: Non-profit/For-profit Company Registry Requirements"
 category: california
 comments: true
 ---
@@ -84,6 +84,11 @@ According to [Nolo.com](https://www.nolo.com/legal-encyclopedia/how-form-limited
    5. Obtain A Business Bank Account 
    6. Obtain General Liability Insurance, because sole proprietors are personally liable for all business debts. 
 
-
+### Sources:
+* [How to Form an LLC in California](https://howtostartanllc.com/california-llc)
+* [How to Incorporate a Business in California](https://www.wikihow.com/Incorporate-a-Business-in-California)
+* [Governor's Office of Business and Economic Development - Incorporation Permit Requirements](http://www.calgold.ca.gov/)
+* [How to Form A Non-Profit in California](https://www.nolo.com/legal-encyclopedia/forming-nonprofit-corporation-california-36053.html)
+* [Tax Form 1023 For Non-Profits](https://www.irs.gov/forms-pubs/about-form-1023)
 
 
