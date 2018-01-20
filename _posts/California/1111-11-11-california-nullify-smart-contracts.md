@@ -7,7 +7,7 @@ category: california
 comments: true
 ---
 
-Section 10 of the UETA is worth reading in full. ([UETA](http://www.uniformlaws.org/shared/docs/electronic%20transactions/ueta_final_99.pdf), pg 33) It provides the effects of changes or errors on electronic contracts, which probably also apply to smart contracts. It states that
+Section 10 of the Uniform Electronic Transactions Act, which California has adopted, is worth reading in full for this question. ([UETA](http://www.uniformlaws.org/shared/docs/electronic%20transactions/ueta_final_99.pdf), pg 33) It provides the effects of changes or errors on electronic contracts, which probably also apply to smart contracts. It states that
 
 “If a change or error in an electronic record occurs in a transmission between parties to a transaction, the following rules apply:
    * If the parties have agreed to use a security procedure to detect changes or errors and one party has conformed to the procedure, but the other party has not, and the nonconforming party would have detected the change or error had that party also conformed, the conforming party may avoid the effect of the changed or erroneous electronic record 
