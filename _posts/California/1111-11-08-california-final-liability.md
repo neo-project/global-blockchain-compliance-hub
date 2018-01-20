@@ -2,9 +2,12 @@
 layout: post
 date: 0014-05-01
 name: final-responsibility-and-liability
-title: "Who Bears Final Responsibility and Liability"
+title: "California: Who Bears Final Responsibility and Liability"
 category: california
 comments: true
 ---
+
+As per the section on "Smart Contracts Definition and Legality", this has not yet been clarified by California courts. However, most smart contracts probably fall under the same jurisdiction of other electronic contracts under the UETA. In this case, it would be the counterparties who are liable for things that go wrong with a smart contract.
+
 
 
