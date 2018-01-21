@@ -13,6 +13,6 @@ As per article 94 of the Constitution of Japan, ‘Local public entities shall h
 
 [Guide to searching online for Japanese laws and regulations](https://blogs.loc.gov/law/2014/05/searching-for-current-japanese-laws-and-regulations)
 
-[Database used to search for laws](http://www.japaneselawtranslation.go.jp/law/?re=02)
+[Additional information on searching for jurisdictional Japanese regulations](http://www.japaneselawtranslation.go.jp/help/?re=02)
 
-[More information](http://www.japaneselawtranslation.go.jp/help/?re=02)
+[Database used to search for laws](http://www.japaneselawtranslation.go.jp/law/?re=02)
