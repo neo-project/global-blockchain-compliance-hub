@@ -15,4 +15,4 @@ It should be noted that https://smartcontract.jp/ is a private company with no r
 
 **Key sources**
 
-[block-chain.jp on the issue of smart contracts in Japanese law](http://block-chain.jp/tech/smart-contract)
+[Information on the issue of smart contracts in Japanese law](http://block-chain.jp/tech/smart-contract)
