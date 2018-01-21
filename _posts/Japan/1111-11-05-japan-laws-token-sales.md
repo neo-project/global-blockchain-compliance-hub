@@ -17,18 +17,27 @@ In April 2017, new regulations passed by the Financial Services Agency of Japan 
 
 The required documents to be submitted with the registration application for VCESP status can be found on page 5 of [this document](http://www.so-law.jp/wp-content/uploads/2017/07/Japanese_VC_Act_and_Registration-Overview_170704.pdf). A full list in Japanese of the requirements to obtain VCESP status, along with the associated documents, can be found on the FSA website [here](http://www.fsa.go.jp/policy/virtual_currency/index_2.html). Registered firms must declare a list of trading currencies to be approved during registration, and are not able to independently alter or modify this list without going through the FSA.
 
-It should be noted that the requirements for obtaining VCESP status are extremely stringent, and the number of firms that have successfully registered is exceedingly small. According to the latest database published by the FSA, there are only 15 firms legally registered to trade VC in the whole of Japan, and the range of currencies traded is narrow. See [here](http://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.pdf) for details.
+It should be noted that the requirements for obtaining VCESP status are extremely stringent, and the number of firms that have successfully registered is exceedingly small. According to the latest database published by the FSA, there are only 15 firms legally registered to trade VC in the whole of Japan, and the range of currencies traded is narrow. See below for more details.
 
 **ICO Token Sales**
 
-The Japan Blockchain Association has published guidelines for ICOs to Japanese residents, which can be found [here](http://jba-web.jp/archives/20171118_guidance-for-ico-token-sales-to-japanese-residents).
+The Japan Blockchain Association has published guidelines for ICOs to Japanese residents, which can be found below.
 Japan has no specific ICO regulations, but the Payment Services Act (PSA) also called the Virtual Currency Act (VCA) makes token sales a matter requiring extensive registration procedures at the risk of severe penalties. In particular:
 
 * Only registered Virtual Currency Exchange Business Operators are authorized to handle ICO tokens deemed as virtual currency (this requires notifying the FSA).
 * If ICO tokens are deemed prepaid payment instruments, registration with/notification to the FSA may still be required.
 * If the ICO is deemed to be a collective investment scheme/fund, then fund regulations pursuant to the FIEA (FIEA Fund Regulations) will apply. 
 * If regulations under these acts do not apply, the ICO tokens will be regulated under the Specified Commercial Transaction Act. 
-In all cases, it is strongly advised for firms intending to engage in token selling in Japan either through a subsidiary or an independent private company notify the Financial Services Agency of Japan (see http://www.fsa.go.jp/en/). 
+In all cases, it is strongly advised for firms intending to engage in token selling in Japan either through a subsidiary or an independent private company notify the Financial Services Agency of Japan.
 
-Blockchain
+**Blockchain**
+
 Japan officially recognizes bitcoin and digital currencies as money [source](https://cointelegraph.com/news/japan-officially-recognizes-bitcoin-and-digital-currencies-as-money),  and is generally a blockchain-friendly country. Blockchain technology [is increasingly used in the banking industry](https://www.cnbc.com/2017/03/01/japanese-banks-plan-to-adopt-blockchain-for-payments.html), and it would appear unlikely for any disruptive changes in its legal status to occur in the near future. In addition, the government is planning on escalating the use of blockchain technology to facilitate the systems for accepting governmental contract bids - see [here](https://asia.nikkei.com/Politics-Economy/Policy-Politics/Japan-looks-to-blockchains-for-more-secure-e-government-systems) for more information. 
+
+**Key sources**
+
+[Financial Services Agency of Japan](http://www.fsa.go.jp/en)
+
+[List of firms legally registered to trade VC in Japan](http://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.pdf)
+
+[Japan Blockchain Association guide on ICO token sales to Japanese residents](http://jba-web.jp/archives/20171118_guidance-for-ico-token-sales-to-japanese-residents)
