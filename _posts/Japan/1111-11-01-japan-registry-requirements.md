@@ -51,7 +51,7 @@ Articles of incorporation must contain:
  * Health insurance and nursing care insurance
  * Employee's pension insurance
  
- **Key sources**
+**Key sources**
 
 [Guide to requirements for establishing as a registered virtual currency trader/provider](http://www.so-law.jp/wp-content/uploads/2017/07/Japanese_VC_Act_and_Registration-Overview_170704.pdf)
 
