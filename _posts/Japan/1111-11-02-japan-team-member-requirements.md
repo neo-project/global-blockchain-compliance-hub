@@ -15,6 +15,6 @@ For a pre-existing company, such as a KK or a GK whose incorporation process has
 
 **Key sources**
  
- [Governmental information on visas to Japan](http://www.mofa.go.jp/j_info/visit/visa)
+[Governmental information on visas to Japan](http://www.mofa.go.jp/j_info/visit/visa)
  
- [Japanese work visa information](http://www.mofa.go.jp/j_info/visit/visa/long/index.html)
+[More on working visas to Japan](http://www.mofa.go.jp/j_info/visit/visa/long/index.html)
