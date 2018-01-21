@@ -32,7 +32,7 @@ In all cases, it is strongly advised for firms intending to engage in token sell
 
 **Blockchain**
 
-Japan officially recognizes bitcoin and digital currencies as money [source](https://cointelegraph.com/news/japan-officially-recognizes-bitcoin-and-digital-currencies-as-money),  and is generally a blockchain-friendly country. Blockchain technology [is increasingly used in the banking industry](https://www.cnbc.com/2017/03/01/japanese-banks-plan-to-adopt-blockchain-for-payments.html), and it would appear unlikely for any disruptive changes in its legal status to occur in the near future. In addition, the government is planning on escalating the use of blockchain technology to facilitate the systems for accepting governmental contract bids - see [here](https://asia.nikkei.com/Politics-Economy/Policy-Politics/Japan-looks-to-blockchains-for-more-secure-e-government-systems) for more information. 
+Japan [offically recognizes](https://cointelegraph.com/news/japan-officially-recognizes-bitcoin-and-digital-currencies-as-money) bitcoin and digital currencies as money,  and is generally a blockchain-friendly country. Blockchain technology [is increasingly used in the banking industry](https://www.cnbc.com/2017/03/01/japanese-banks-plan-to-adopt-blockchain-for-payments.html), and it would appear unlikely for any disruptive changes in its legal status to occur in the near future. In addition, the government is planning on escalating the use of blockchain technology to facilitate the systems for accepting governmental contract bids - see [here](https://asia.nikkei.com/Politics-Economy/Policy-Politics/Japan-looks-to-blockchains-for-more-secure-e-government-systems) for more information. 
 
 **Key sources**
 
