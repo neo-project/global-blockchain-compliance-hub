@@ -1,4 +1,3 @@
-
 ---
 layout: post
 date: 0016-11-01
@@ -21,17 +20,17 @@ Russia issues quotas on the number of foreign nationals it can employ per year. 
 The following types of Russian work permit can be issued:
  
  
-*Standard Russian Work Permit*
+  - *Standard Russian Work Permit*
 
 This is the general Russian work permit issued for those from non-CIS countries taking up employment in Russia. It is valid for the length of the employment contract (need to renew your Russian work visa annually if the job lasts longer than a year).  
 
 
-*Russian Work Permit for Highly Qualified Professionals*
+  - *Russian Work Permit for Highly Qualified Professionals*
 
 This is a special Russian work permit for those in skilled professions who gain employment with annual salary of over 1 million rubles (more than US$16,700). It is usually processed in 14 days, is valid for three years and entitles relatives including spouses, children and parents to Russian visas. 
 
  
-*Work Patent for CIS Nationals*
+  - *Work Patent for CIS Nationals*
 
 A citizen of CIS country that doesn't need a visa to enter Russia is not required to get Russian work permit or a job to enter Russia for work purposes. It requires to apply for a work patent from the local Russian Directorate of Migratory Affairs (GUVM) office within 30 days of arriving in Russia. The work patent is valid for 12 months and is renewable once; it is not counted in government quotas and an employer will not need an employment permit. To obtain a work patent, an employee will need to pass an exam of knowledge of Russian language, history and legislation of the Russian Federation.
  
