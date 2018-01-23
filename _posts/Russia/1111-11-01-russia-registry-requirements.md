@@ -85,22 +85,22 @@ Stages of registration of a Russian legal entity (Limited Liability Company, Pub
 
 1.  Registration at the Tax authority (5-7 working days)
 Once the company documents have been drawn up, a founder need to incorporate the business by sending the following documents to the registration office of the Federal Tax Service (FTS):
-•     registration application form including notarized signatures (200 rubles, US$3)
-•     copies of foundation documents
-•     proof of legal status of business founder(s)
-•     receipt of state registration fee (4000 rubles, US$67)
+- registration application form including notarized signatures (200 rubles, US$3)
+- copies of foundation documents
+- proof of legal status of business founder(s)
+- receipt of state registration fee (4000 rubles, US$67)
  
  
 Once these documents have been sent, the Federal Tax Service will make a decision within 5 working days and will either approve business to the State Register or refuse the registration. A list of grounds for refusal can be found in article 23 of the Federal Law no. 129-FZ. If  the business in Russia is accepted, this process also registers the business for tax purposes. The founder will receive the following documents within 7 days of the submission of application:
 
 
-•     the Incorporation Certificate (or Certificate of State Registration) and Tax Certificate from the FTS
-•     Tax Identification Number for the business
-•     copy of foundation documents with the mark of registering authority
-•     Extract from the Common State Register of Legal Entities
+- the Incorporation Certificate (or Certificate of State Registration) and Tax Certificate from the FTS
+- Tax Identification Number for the business
+- Copy of foundation documents with the mark of registering authority
+- Extract from the Common State Register of Legal Entities
 notarized copy of the signatures  (cost of R200, US$4 per person) for the account.
-Documents confirming the identity and authority of the signatories of the account
-Russian business license (if applicable for your business
+- Documents confirming the identity and authority of the signatories of the account
+Russian business license (if applicable for your business)
 
 
 2. Registration at the State Committee for Statistics  (2-5 working days)
