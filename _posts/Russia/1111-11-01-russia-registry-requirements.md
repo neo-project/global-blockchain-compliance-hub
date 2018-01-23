@@ -1,3 +1,4 @@
+
 ---
 layout: post
 date: 0016-12-01
@@ -37,4 +38,6 @@ The following documents must be registered no later than three months from the m
 All NPO must have an autonomous balance sheet, a bank account, be on the books of the tax and other public bodies of accounting and control (more info on Federal Tax Service Website).
 
 
-For more information please check the Federal Law No.82- on Public Associations (1995, amended 2004) (in English)
+[For more information please check the Federal Law No.82- on Public Associations (1995, amended 2004) (in English)](http://legislationline.org/documents/action/popup/id/4374)
+
+[The Civil Code of The Russian Federation](https://www.wto.org/english/thewto_e/acc_e/rus_e/WTACCRUS48A5_LEG_119.pdf)
