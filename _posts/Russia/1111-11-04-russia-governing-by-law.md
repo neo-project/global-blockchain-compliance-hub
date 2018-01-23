@@ -7,4 +7,4 @@ category: russia
 comments: true
 ---
 
-Tax and auditing requirements
+Please check Section 1, "Non-profit/For-Profit Organisation Requirements" and Section 3, "Tax & Auditing Requirements".
