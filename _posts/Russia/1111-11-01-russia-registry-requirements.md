@@ -89,6 +89,7 @@ The number of shareholders/participants in PJSC/LLC can not exceed 50. Any Russi
 
 *1.  Registration at the Tax authority (5-7 working days)*
 Once the company documents have been drawn up, a founder need to incorporate the business by sending the following documents to the registration office of the Federal Tax Service (FTS):
+
   - registration application form including notarized signatures (200 rubles, US$3)
   - copies of foundation documents
   - proof of legal status of business founder(s)
@@ -108,9 +109,13 @@ Russian business license (if applicable for your business)
 
 
 *2. Registration at the State Committee for Statistics  (2-5 working days)*
+
 *3. Making of the seal of the Company. (2-5 working days)*
+
 *4. Registration at non-budgetary funds (Pension Fund, Social Security Fund, Obligatory Medical Security Fund) is done by Tax inspectorate*
+
 *5. Opening of the bank account. The procedure of opening accounts and the list of the required documents are defined by the Instruction of the Bank of Russia of 14.09.2006 N28-I.*
+
 *6. Registration of the shares issue with the Federal Services for Financial Markets* (24-30 working days). Is applicable only to Private and Public Joint Stock Companies.*
  
  
@@ -121,9 +126,10 @@ Russian business license (if applicable for your business)
  
 Documents mentioned above require Consulate legalization or apostille with notarized translation to the Russian language.
 
-
+** **
 
 ## 1.2 Representative Office and Branch of a foreign legal entity
+
 
 Representative Office (RO) and Branch of a foreign legal entity are subdivisions of a foreign company; they are not considered as a separate legal entity. They are considered as Russian non-resident entities for currency control purposes.
  
@@ -146,11 +152,17 @@ Representative Offices and Branches may be accredited at several state bodies, s
 For both the Representative Offices and Branches an executive body (Head of RO or Branch) should be appointed by the foreign legal entity. Such executive body acts pursuant to the Power of Attorney issued by the foreign legal entity.
 
 Stages of accreditation:
+
 *1. Accreditation with the accreditation authority (14-21 working days)*
+
 *2. Producing the seal (2-5 working days)*
+
 *3. Registration at the State Committee for Statistics (2-5 working days)*
+
 *4. Registration at the State Tax Inspectorate (5-7 working days)*
+
 *5. Registration at non-budgetary funds is done by tax inspectorate*
+
 *6. Opening of a bank account*
 
 **Required documents:**
@@ -177,12 +189,14 @@ Company seals are no longer a legal requirement in Russia following a change in 
 
 ## Sources
 
-[The Civil Code of the Russian Federation](
-https://www.wto.org/english/thewto_e/acc_e/rus_e/WTACCRUS48A5_LEG_119.pdf)
-Federal Law No. 14-FZ of 8 February 1998 “On Limited Liability Companies”
-Federal Law No. 208-FZ "On Joint-Stock Companies"  of 26 December 1995;
-Corporate Governance Code (approved by the decision of the Board of Directors of the Bank of Russia on  21 April 2014).
-[Tax Code of Russia](
-https://www.nalog.ru/eng/tax_legislation/tax_code_of_russia/)
+  - [The Civil Code of the Russian Federation](https://www.wto.org/english/thewto_e/acc_e/rus_e/WTACCRUS48A5_LEG_119.pdf)
+
+  - Federal Law No. 14-FZ of 8 February 1998 “On Limited Liability Companies”
+
+  - Federal Law No. 208-FZ "On Joint-Stock Companies"  of 26 December 1995;
+
+  - Corporate Governance Code (approved by the decision of the Board of Directors of the Bank of Russia on  21 April 2014).
+
+  - [Tax Code of Russia](https://www.nalog.ru/eng/tax_legislation/tax_code_of_russia/)
 
 
