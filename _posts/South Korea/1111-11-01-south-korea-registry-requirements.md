@@ -73,7 +73,6 @@ Every business engaged in supplying of goods or services, whether or not for pro
 Documentation such as identification documents would be required, and may require an initial deposit, as well as the business registration number. 
 
   *5. Establish an Office*
-
 It is not clear whether a branch is legally required to have a physical office in Korea. There appears to be no specific registration requirement of the office location with government authorities. It seems that there is no restriction on using a virtual office as a business address or similar services in Korea.
 
   *6. Register for Social Security Insurances*
@@ -113,7 +112,7 @@ The restriction on sales activities is the main disadvantage of a liaison office
 A  liaison office does not need to formally register,  however a notification must be reported to a designated foreign exchange bank. 
 A financial business must notify the Ministry of Strategy and Finance for permission of establishment of a financial business. 
 
-#*2. Register at Tax Office for Business Registration Certificate*
+*2. Register at Tax Office for Business Registration Certificate*
 
 The liaison office must register at a tax office to obtain a business registration number. This process covers registering for tax such as sales and payroll tax. Foreign employees are required to pay Korean income taxes, which are generally withheld and paid by the employer. Every business engaged in supplying of goods or services, whether or not for profit is required to register for VAT purposes by applying for a business registration certificate. The forms can be downloaded from the national tax office’s website and must be submitted to it, or to a district tax office.
 
