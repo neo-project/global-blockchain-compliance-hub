@@ -38,6 +38,7 @@ The following documents must be registered no later than three months from the m
 All NPO must have an autonomous balance sheet, a bank account, be on the books of the tax and other public bodies of accounting and control (more info on Federal Tax Service Website).
 
 
+
 For more information please check: 
 [The Federal Law No.82- on Public Associations (1995, amended 2004) (in English)](http://legislationline.org/documents/action/popup/id/4374)
 
@@ -61,18 +62,21 @@ The other way is to register a **representative office** or **branch office of a
 Limited Liablility Company (LLC) and Public/Private Joint Stock Companies (PJSC) are Russian legal entities. They may conduct any form of commercial activity, provided it is not prohibited by the Russian legislation. For conducting any licensed type of activity it is necessary to obtain license.
 
 
-Partnership is a form of legal entity similar to limited liability company. A full partnership is similar to the American general partnership, in which the partners bear (full) joint and some liability for the partnership’s obligations. A participant in a full partnership may not be a full partner in any other partnership. A limited partnership, which is closer to the European kommandit type of partnership, has both full partners and partners whose liability is limited to their contributions. A full partner in a limited partnership may not be a full partner in another partnership, and their liability is the same as for full partners as described above. Partnerships under Russian law are generally regarded as legal entities and taxed accordingly. Please refer to Limited Liability Company requirements and procedures.
+Partnership is a form of legal entity similar to limited liability company. A full partnership is similar to the American general partnership, in which the partners bear (full) joint and some liability for the partnership’s obligations. A participant in a full partnership may not be a full partner in any other partnership. A limited partnership, which is closer to the European kommandit type of partnership, has both full partners and partners whose liability is limited to their contributions. A full partner in a limited partnership may not be a full partner in another partnership, and their liability is the same as for full partners as described above. Partnerships under Russian law are generally regarded as legal entities and taxed accordingly. 
+Please refer to Limited Liability Company requirements and procedures.
+
 Registration is done by the Tax authorities, which keep the United State Register.
+
 Company also shall be registered with State Committee for Statistics and three non-budgetary funds (Pension fund, Obligatory Medical Security Fund and Social Security Fund).
-Registration duty is 2000 rubles (~34 USD).
-Minimum authorized capital for LLC and PJSC is 10,000 rubles (~US$170). Authorized capital is divided into shares/units which represent rights and obligations of a shareholder/participant in accordance with their participations in the authorized capital.
+
+- Registration duty is 2000 rubles (~34 USD).
+- Minimum authorized capital for LLC and PJSC is 10,000 rubles (~US$170). Authorized capital is divided into shares/units which represent rights and obligations of a shareholder/participant in accordance with their participations in the authorized capital.
 The number of shareholders/participants in PJSC/LLC can not exceed 50. Any Russian and foreign companies and persons may be founders and shareholder in any number of Russian companies. The company may be established by a single founder, as long as the founder is not a company owned by a single legal entity or individual.
-Registration at State Committee for Statistics, which amount in general to no more than ~80 USD.
-There are also charges for registration of company’s seal; however, company seals are no longer a legal requirement in Russia following a change in the law in 2015, but many Russian businesses still have seals. The cost for producing one is R500 (US$9). 
+- Registration at State Committee for Statistics, which amount in general to no more than ~80 USD.
+- There are also charges for registration of company’s seal; however, company seals are no longer a legal requirement in Russia following a change in the law in 2015, but many Russian businesses still have seals. The cost for producing one is R500 (US$9). 
 
 
-Limited Liability Company or Private Joint Stock Company can be founded by an individual (Russian or foreign) or by a legal entity; such cases are called Sole ownership. The founding document at Sole ownership company is a Charter. Such company doesn’t have some management bodies such as General Meeting of the Founders. There is no Board of Directors. All the decisions are taken by the sole founder. Legislative requirements on calling of the general meetings, and other procedural requirements do not apply to such company. The management of the company is done by issue of written decisions of the founder. If the founder is also a General Director in the company, the decisions are made by issuance of orders.
-At the same time such company is a separate legal entity, its assets are legally isolated from the assets of the founder.
+Limited Liability Company or Private Joint Stock Company can be founded by an individual (Russian or foreign) or by a legal entity; such cases are called Sole ownership. The founding document at Sole ownership company is a Charter. Such company doesn’t have some management bodies such as General Meeting of the Founders. There is no Board of Directors. All the decisions are taken by the sole founder. Legislative requirements on calling of the general meetings, and other procedural requirements do not apply to such company. The management of the company is done by issue of written decisions of the founder. If the founder is also a General Director in the company, the decisions are made by issuance of orders. At the same time such company is a separate legal entity, its assets are legally isolated from the assets of the founder.
  
  
 Stages of registration of a Russian legal entity (Limited Liability Company, Public/Private Joint Stock Company, Partnership):
@@ -87,6 +91,7 @@ Once the company documents have been drawn up, a founder need to incorporate the
  
  
 Once these documents have been sent, the Federal Tax Service will make a decision within 5 working days and will either approve business to the State Register or refuse the registration. A list of grounds for refusal can be found in article 23 of the Federal Law no. 129-FZ. If  the business in Russia is accepted, this process also registers the business for tax purposes. The founder will receive the following documents within 7 days of the submission of application:
+
 •     the Incorporation Certificate (or Certificate of State Registration) and Tax Certificate from the FTS
 •     Tax Identification Number for the business
 •     copy of foundation documents with the mark of registering authority
@@ -99,7 +104,6 @@ Russian business license (if applicable for your business
 3. Making of the seal of the Company. (2-5 working days)
 4. Registration at non-budgetary funds (Pension Fund, Social Security Fund, Obligatory Medical Security Fund) is done by Tax inspectorate
 5. Opening of the bank account. The procedure of opening accounts and the list of the required documents are defined by the Instruction of the Bank of Russia of 14.09.2006 N28-I.
- 
 6. Registration of the shares issue with the Federal Services for Financial Markets* (24-30 working days). Is applicable only to Private and Public Joint Stock Companies.
  
  
