@@ -43,7 +43,7 @@ There are two systems: the traditional and the simplified system of taxation.
   - Social Security and Welfare Taxes:
  
 Annual salaries of all employees are taxed under the following rules :
- 
+
   - Contributions to the Social Insurance Fund: only the first RUB 670,000 is taxed (at a rate of 2.9%);
   - Contributions to the Pension Fund: the first RUB 711,000  is taxed at 22%, and the excess is taxed at 10%;
   - Contributions to the Medical Insurance Fund: a 5.1% rate applies to the total salary.
@@ -104,7 +104,7 @@ According to the Tax Code (art. 23), accounting records as well as taxation docu
  
   - [The Civil code of the Russian Federation, Articles 48-104](http://www.wipo.int/edocs/lexdocs/laws/en/ru/ru083en.pdf)
   
-  - [Federal Laws No. 402-FZ “On Accounting”](http://old.minfin.ru/common/upload/library/2015/10/main/Federal_Law_On_Accounting.docx)
+  - [Federal Laws No. 402-FZ “On Accounting” of December 2011](http://old.minfin.ru/common/upload/library/2015/10/main/Federal_Law_On_Accounting.docx)
 
   - [Federal Law No. 208-FZ "On Consolidated Financial Statements" of 27 July 2010](https://www.wto.org/english/thewto_e/acc_e/rus_e/WTACCRUS48A5_LEG_119.pdf)
   
