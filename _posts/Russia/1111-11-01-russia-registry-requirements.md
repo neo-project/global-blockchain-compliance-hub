@@ -40,7 +40,6 @@ The following **documents** must be registered no later than three months from t
 All NPO must have an autonomous balance sheet, a bank account, be on the books of the tax and other public bodies of accounting and control (more info on Federal Tax Service Website).
 
 
-
 For more information please check:
 
 [The Federal Law No.82- on Public Associations (1995, amended 2004) (in English)](http://legislationline.org/documents/action/popup/id/4374)
@@ -62,7 +61,7 @@ The other way is to register a **representative office** or **branch office of a
 
 ** **
 
-### 1.1 Russian Legal Entities: Limited Liability Company, Joint-Stock Company, Partnership
+## 1.1 Russian Legal Entities: Limited Liability Company, Joint-Stock Company, Partnership
 
 Limited Liablility Company (LLC) and Public/Private Joint Stock Companies (PJSC) are Russian legal entities. They may conduct any form of commercial activity, provided it is not prohibited by the Russian legislation. For conducting any licensed type of activity it is necessary to obtain license.
 
