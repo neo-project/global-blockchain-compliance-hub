@@ -39,7 +39,8 @@ All NPO must have an autonomous balance sheet, a bank account, be on the books o
 
 
 
-For more information please check: 
+For more information please check:
+
 [The Federal Law No.82- on Public Associations (1995, amended 2004) (in English)](http://legislationline.org/documents/action/popup/id/4374)
 
 [The Civil Code of The Russian Federation](https://www.wto.org/english/thewto_e/acc_e/rus_e/WTACCRUS48A5_LEG_119.pdf)
@@ -57,7 +58,7 @@ Joint-stock and limited liability companies are governed by separate federal law
 
 The other way is to register a **representative office** or **branch office of a foreign company in Russia**.
 
-### 1.1 Russian Legal entities: Limited Liability Company, Joint-Stock Company, Partnership
+### 1.1 Russian Legal Entities: Limited Liability Company, Joint-Stock Company, Partnership
 
 Limited Liablility Company (LLC) and Public/Private Joint Stock Companies (PJSC) are Russian legal entities. They may conduct any form of commercial activity, provided it is not prohibited by the Russian legislation. For conducting any licensed type of activity it is necessary to obtain license.
 
@@ -92,6 +93,7 @@ Once the company documents have been drawn up, a founder need to incorporate the
  
 Once these documents have been sent, the Federal Tax Service will make a decision within 5 working days and will either approve business to the State Register or refuse the registration. A list of grounds for refusal can be found in article 23 of the Federal Law no. 129-FZ. If  the business in Russia is accepted, this process also registers the business for tax purposes. The founder will receive the following documents within 7 days of the submission of application:
 
+
 •     the Incorporation Certificate (or Certificate of State Registration) and Tax Certificate from the FTS
 •     Tax Identification Number for the business
 •     copy of foundation documents with the mark of registering authority
@@ -99,6 +101,7 @@ Once these documents have been sent, the Federal Tax Service will make a decisio
 notarized copy of the signatures  (cost of R200, US$4 per person) for the account.
 Documents confirming the identity and authority of the signatories of the account
 Russian business license (if applicable for your business
+
 
 2. Registration at the State Committee for Statistics  (2-5 working days)
 3. Making of the seal of the Company. (2-5 working days)
