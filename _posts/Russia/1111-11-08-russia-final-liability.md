@@ -13,7 +13,7 @@ There are three ways to solve a problem:
 
 The most widely used case in Russian legal practice is option 1.
 
-1. The parties will have to negotiate, and the result of their negotiation will determine a law applicable to their legal relations (paragraph 1, article 1210 of the Civil Code of the Russian Federation). In this case, such a choice of applicable law should be either directly expressed in the contract or clearly follow from the terms of the contract (paragraph 2, article 1210 of the Civil Code of the Russian Federation). That is, in order for the court to recognize the validity of such an agreement, the parties must have written confirmation of this agreement. In our case, this record can be displayed in a part with non-operational terms of the contract.
+**1.** The parties will have to negotiate, and the **result of their negotiation will determine a law** applicable to their legal relations (paragraph 1, article 1210 of the Civil Code of the Russian Federation). In this case, such a choice of applicable law should be either directly expressed in the contract or clearly follow from the terms of the contract (paragraph 2, article 1210 of the Civil Code of the Russian Federation). That is, in order for the court to recognize the validity of such an agreement, the parties must have written confirmation of this agreement. In our case, this record can be displayed in a part with non-operational terms of the contract.
 
 The whole **Article 1211, The Law Governing a Contract in the Case of Lack of Parties' Agreement on Applicable Law, describes all possible situations if there is an issue between parties and no agreement on the applicable law**. 
 
@@ -47,7 +47,9 @@ Citing the Article 1211. The Law Governing a Contract in the Case of Lack of Par
 
 ...
 
- 4. The law of the country with which the contract has the closest relation shall be as follows, except as otherwise ensuing from law, the terms or substance of the contract or the complex of circumstances of the case: 
+
+4. The law of the country with which the contract has the closest relation shall be as follows, except as otherwise ensuing from law, the terms or substance of the contract or the complex of circumstances of the case: 
+ 
  
    1) for a contract of independent building contractor work and a contract of independent design and prospecting contractor work - the law of the country where on the whole the results stipulated by the contract are created; 
 
@@ -61,15 +63,19 @@ Citing the Article 1211. The Law Governing a Contract in the Case of Lack of Par
 
 6. If internationally accepted trading terms are used in a contract it shall be deemed, unless there are directions to the contrary in the contract, that the parties have agreed on their application to their relations of business transaction usage designated by relevant trading terms.”
 
+
 Citing the **Article 1212. The Law Governing a Contract with Participation of a Consumer**: 
 
+
 “1. Selection of the law governing a contract whereto a party is a natural person using, acquiring or ordering or intending to use, acquire or order movable things (works, services) for personal, family, household or other purposes and not connected with the pursuance of entrepreneurial activity shall not cause deprivation of the natural person (consumer) of remedies relating to his/her rights which are provided by imperative norms of the law of the country where the consumer has place of residence if any of the below circumstances have occurred: 
+
 
    1) in that country the conclusion of the contract had been preceded by an offer addressed to the consumer or an advertisement and the consumer has committed in the same country actions required for the purpose of entering into the contract; 
 
    2) a contract partner of the consumer or a representative of such a partner has received an order from the consumer in that country;
 
    3) an order for acquisition of movable things, performance of works or provision of services has been made by the consumer in another country visited on the initiative of a contract partner of the consumer, if such an initiative was aimed at encouraging the consumer to enter into the contract. 
+
 
 
 2. If there is no agreement of the parties as to applicable law and if there are the circumstances specified in Item 1 of the present article the law of the country where the consumer has place of residence shall govern the contract with the participation of a consumer. “
