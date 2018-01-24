@@ -61,7 +61,8 @@ The Russian work visa processing time is around 20 days although the total time 
 
 All foreign entrants to Russia need to register arrival and travels in Russia with the local Russian Directorate of Migratory Affairs (GUVM) office within 7 days. Failure to register with the GUVM can result in a fine and in some cases expulsion from Russia.
   
-Sources:
+## Sources
 
   - [The General Directorate of Migratory Affairs (GUVM)](https://en.guvm.mvd.ru/)
+  
   - [The Federal Law On Foreign Investments in Companies of Strategic Importance for National Defense and Security of the Russian Federation" No. 57-FZ](http://www.wipo.int/wipolex/en/text.jsp?file_id=188843)
