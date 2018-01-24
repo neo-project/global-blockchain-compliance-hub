@@ -21,35 +21,35 @@ Citing the Article 1211. The Law Governing a Contract in the Case of Lack of Par
 
 “1. Where there is no agreement of parties on applicable law, the contract shall be subject to the law of the country with which the contract has the closest relation.
 
- 2. The law of the country with which a contract has the closest relation shall be deemed the law of the country where the party responsible for the performance under the contract of crucial significance for the content of the contract has its place of residence or main place of business, except as otherwise ensuing from the law, the terms or substance of the contract or the group of circumstances of the case in question. 
+2. The law of the country with which a contract has the closest relation shall be deemed the law of the country where the party responsible for the performance under the contract of crucial significance for the content of the contract has its place of residence or main place of business, except as otherwise ensuing from the law, the terms or substance of the contract or the group of circumstances of the case in question. 
  
 3. A party responsible for the performance under a contract of crucial significance for the content of the contract shall be a party which, in particular, is the following, except as otherwise ensuing from law, the terms or substance of the contract or the group of circumstances of the case in question: 
 
-   1) a seller - in a sales contract; 
+    1) a seller - in a sales contract; 
 
 ...
 
-   5) a contractor - in a contract; 
+    5) a contractor - in a contract; 
   
 ...
 
-   7) a forwarding agent - in a forwarding contract; 
+    7) a forwarding agent - in a forwarding contract; 
 
-   8) a lender (a creditor) - in a loan (credit) contract; 
+    8) a lender (a creditor) - in a loan (credit) contract; 
 
-   9) a financial agent - in a case in action assignment financing contract; 
+    9) a financial agent - in a case in action assignment financing contract; 
 
-   10) a bank - in a bank deposit contract and bank account contract; 
+    10) a bank - in a bank deposit contract and bank account contract; 
 
 ...
 
-   12) an insurer - in an insurance policy; 
+    12) an insurer - in an insurance policy; 
  
-   13) an agent - in a contract of agency; 
+    13) an agent - in a contract of agency; 
 
-   14) a commission agent - in a contract of commission agency; 
+    14) a commission agent - in a contract of commission agency; 
 
-   15) an agent - in a contract of agency service; 
+    15) an agent - in a contract of agency service; 
 
 ...
 
@@ -61,7 +61,9 @@ Citing the Article 1211. The Law Governing a Contract in the Case of Lack of Par
 
    3) for a contract concluded by auction, tender or commodity market - the law of the country where the auction, tender is held or the commodity market is situated. 
 
+
 5. A contract that has features of various types of contract shall be subject to the law of the country with which this contract as a whole has the closest relation, except as otherwise ensuing from law, the terms or substance of the contract or the group of circumstances of the case in question. 
+
 
 6. If internationally accepted trading terms are used in a contract it shall be deemed, unless there are directions to the contrary in the contract, that the parties have agreed on their application to their relations of business transaction usage designated by relevant trading terms.”
 
