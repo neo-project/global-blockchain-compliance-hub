@@ -21,6 +21,6 @@ Also, when carrying out computer and technical expertise, a broader range of iss
 
 Taking into consideration an expert’s conclusion, **the court issues a resolution on the claim, nullifies the deal / determines who will compensate the losses, notifies all involved parties and publishes the resolution online** (Articles 10, 13, 146, 198).
 
-## Source
+## Sources
 
 - [the Civil Procedural Code Of The Russian Federation, Articles 10, 13, 55, 79, 146, 150, 198](http://www.wipo.int/edocs/lexdocs/laws/en/ru/ru081en.pdf)
