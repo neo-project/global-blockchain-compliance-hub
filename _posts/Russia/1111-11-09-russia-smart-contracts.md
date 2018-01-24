@@ -37,7 +37,7 @@ e) In the cases of the transfer of assets or money stipulated by the contract wi
 
 These are only theoretical approaches, assuming that the smart contract is an electronic form of contract, or an electronic evidence/a term/amendment  implementing a traditional contract, with or without legal force. 
 
-## Source
+## Sources
 
   - [the Civil Code of the Russian Federation, Articles 329, 431, 434 438](https://www.wto.org/english/thewto_e/acc_e/rus_e/WTACCRUS48A5_LEG_119.pdf)
   
