@@ -25,31 +25,25 @@ Citing the Article 1211. The Law Governing a Contract in the Case of Lack of Par
  
 3. A party responsible for the performance under a contract of crucial significance for the content of the contract shall be a party which, in particular, is the following, except as otherwise ensuing from law, the terms or substance of the contract or the group of circumstances of the case in question: 
 
-    1) a seller - in a sales contract; 
+   1) a seller - in a sales contract; 
 
 ...
 
-    5) a contractor - in a contract; 
+   5) a contractor - in a contract; 
   
 ...
 
-    7) a forwarding agent - in a forwarding contract; 
-
-    8) a lender (a creditor) - in a loan (credit) contract; 
-
-    9) a financial agent - in a case in action assignment financing contract; 
-
-    10) a bank - in a bank deposit contract and bank account contract; 
+   7) a forwarding agent - in a forwarding contract; 
+   8) a lender (a creditor) - in a loan (credit) contract; 
+   9) a financial agent - in a case in action assignment financing contract; 
+   10) a bank - in a bank deposit contract and bank account contract; 
 
 ...
 
-    12) an insurer - in an insurance policy; 
- 
-    13) an agent - in a contract of agency; 
-
-    14) a commission agent - in a contract of commission agency; 
-
-    15) an agent - in a contract of agency service; 
+   12) an insurer - in an insurance policy; 
+   13) an agent - in a contract of agency; 
+   14) a commission agent - in a contract of commission agency; 
+   15) an agent - in a contract of agency service; 
 
 ...
 
@@ -76,6 +70,7 @@ Citing the **Article 1212. The Law Governing a Contract with Participation of a 
    2) a contract partner of the consumer or a representative of such a partner has received an order from the consumer in that country;
 
    3) an order for acquisition of movable things, performance of works or provision of services has been made by the consumer in another country visited on the initiative of a contract partner of the consumer, if such an initiative was aimed at encouraging the consumer to enter into the contract. 
+
 
 2. If there is no agreement of the parties as to applicable law and if there are the circumstances specified in Item 1 of the present article the law of the country where the consumer has place of residence shall govern the contract with the participation of a consumer. “
 
