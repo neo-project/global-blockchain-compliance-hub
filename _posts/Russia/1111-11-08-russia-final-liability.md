@@ -25,41 +25,41 @@ Citing the Article 1211. The Law Governing a Contract in the Case of Lack of Par
  
 3. A party responsible for the performance under a contract of crucial significance for the content of the contract shall be a party which, in particular, is the following, except as otherwise ensuing from law, the terms or substance of the contract or the group of circumstances of the case in question: 
 
-1) a seller - in a sales contract; 
+   1) a seller - in a sales contract; 
 
 ...
 
-5) a contractor - in a contract; 
+   5) a contractor - in a contract; 
+  
+...
+
+   7) a forwarding agent - in a forwarding contract; 
+
+   8) a lender (a creditor) - in a loan (credit) contract; 
+
+   9) a financial agent - in a case in action assignment financing contract; 
+
+   10) a bank - in a bank deposit contract and bank account contract; 
 
 ...
 
-7) a forwarding agent - in a forwarding contract; 
-
-8) a lender (a creditor) - in a loan (credit) contract; 
-
-9) a financial agent - in a case in action assignment financing contract; 
-
-10) a bank - in a bank deposit contract and bank account contract; 
-
-...
-
- 12) an insurer - in an insurance policy; 
+   12) an insurer - in an insurance policy; 
  
-13) an agent - in a contract of agency; 
+   13) an agent - in a contract of agency; 
 
-14) a commission agent - in a contract of commission agency; 
+   14) a commission agent - in a contract of commission agency; 
 
-15) an agent - in a contract of agency service; 
+   15) an agent - in a contract of agency service; 
 
 ...
 
  4. The law of the country with which the contract has the closest relation shall be as follows, except as otherwise ensuing from law, the terms or substance of the contract or the complex of circumstances of the case: 
  
-1) for a contract of independent building contractor work and a contract of independent design and prospecting contractor work - the law of the country where on the whole the results stipulated by the contract are created; 
+   1) for a contract of independent building contractor work and a contract of independent design and prospecting contractor work - the law of the country where on the whole the results stipulated by the contract are created; 
 
-2) for a contract of general partnership - the law of the country where on the whole the activity of the partnership is pursued; 
+   2) for a contract of general partnership - the law of the country where on the whole the activity of the partnership is pursued; 
 
-3) for a contract concluded by auction, tender or commodity market - the law of the country where the auction, tender is held or the commodity market is situated. 
+   3) for a contract concluded by auction, tender or commodity market - the law of the country where the auction, tender is held or the commodity market is situated. 
 
 5. A contract that has features of various types of contract shall be subject to the law of the country with which this contract as a whole has the closest relation, except as otherwise ensuing from law, the terms or substance of the contract or the group of circumstances of the case in question. 
 
@@ -69,11 +69,11 @@ Citing the **Article 1212. The Law Governing a Contract with Participation of a 
 
 “1. Selection of the law governing a contract whereto a party is a natural person using, acquiring or ordering or intending to use, acquire or order movable things (works, services) for personal, family, household or other purposes and not connected with the pursuance of entrepreneurial activity shall not cause deprivation of the natural person (consumer) of remedies relating to his/her rights which are provided by imperative norms of the law of the country where the consumer has place of residence if any of the below circumstances have occurred: 
 
-1) in that country the conclusion of the contract had been preceded by an offer addressed to the consumer or an advertisement and the consumer has committed in the same country actions required for the purpose of entering into the contract; 
+   1) in that country the conclusion of the contract had been preceded by an offer addressed to the consumer or an advertisement and the consumer has committed in the same country actions required for the purpose of entering into the contract; 
 
-2) a contract partner of the consumer or a representative of such a partner has received an order from the consumer in that country;
+   2) a contract partner of the consumer or a representative of such a partner has received an order from the consumer in that country;
 
-3) an order for acquisition of movable things, performance of works or provision of services has been made by the consumer in another country visited on the initiative of a contract partner of the consumer, if such an initiative was aimed at encouraging the consumer to enter into the contract. 
+   3) an order for acquisition of movable things, performance of works or provision of services has been made by the consumer in another country visited on the initiative of a contract partner of the consumer, if such an initiative was aimed at encouraging the consumer to enter into the contract. 
 
 2. If there is no agreement of the parties as to applicable law and if there are the circumstances specified in Item 1 of the present article the law of the country where the consumer has place of residence shall govern the contract with the participation of a consumer. “
 
