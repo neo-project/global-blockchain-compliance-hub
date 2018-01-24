@@ -42,7 +42,7 @@ There are no legal restrictions as to whether the data protection officer should
 
 ## Source
 
-  - [The Constitution of the Russian Federation, Articles 23, 24](http://www.constitution.ru/en/10003000-03.htm)
+  - [the Constitution of the Russian Federation, Articles 23, 24](http://www.constitution.ru/en/10003000-03.htm)
   
   - [the Federal Service for the Supervision of Communications, Information Technology and Mass Media (Roscomnadzor)](http://eng.rkn.gov.ru/)
   
