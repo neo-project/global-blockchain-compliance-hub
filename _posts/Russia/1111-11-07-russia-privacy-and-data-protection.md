@@ -40,7 +40,7 @@ If the data controller is a legal entity, it is required to appoint a data prote
 There are no legal restrictions as to whether the data protection officer should be a citizen or resident of the Russian Federation, however, it is advisable that the data protection officer is available in case there is an inspection or other communication from the authorities.
 
 
-## Source
+## Sources
 
   - [the Constitution of the Russian Federation, Articles 23, 24](http://www.constitution.ru/en/10003000-03.htm)
   
