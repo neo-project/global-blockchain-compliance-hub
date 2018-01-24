@@ -32,15 +32,22 @@ Citing the Article 1211. The Law Governing a Contract in the Case of Lack of Par
   
 *...*
 
-*7) a forwarding agent - in a forwarding contract;   8) a lender (a creditor) - in a loan (credit) contract;* 
+*7) a forwarding agent - in a forwarding contract;  
+
+*8) a lender (a creditor) - in a loan (credit) contract;* 
+
 *9) a financial agent - in a case in action assignment financing contract;*
+
 *10) a bank - in a bank deposit contract and bank account contract;* 
 
 *...*
 
 *12) an insurer - in an insurance policy;*
+
 *13) an agent - in a contract of agency;*
+
 *14) a commission agent - in a contract of commission agency;*
+
 *15) an agent - in a contract of agency service;*
 
 *...*
@@ -74,14 +81,16 @@ Citing the **Article 1212. The Law Governing a Contract with Participation of a 
   - an order for acquisition of movable things, performance of works or provision of services has been made by the consumer in another country visited on the initiative of a contract partner of the consumer, if such an initiative was aimed at encouraging the consumer to enter into the contract. 
 
 
+2. If there is no agreement of the parties as to applicable law and if there are the circumstances specified in Item 1 of the present article the law of the country where the consumer has place of residence shall govern the contract with the participation of a consumer."
 
-**2.** "If there is no agreement of the parties as to applicable law and if there are the circumstances specified in Item 1 of the present article the law of the country where the consumer has place of residence shall govern the contract with the participation of a consumer."
+According to the Article 1214, The Law Governing Contracts for the Formation of a Legal Entity with Foreign Interest, 
 
-According to the Article 1214, The Law Governing Contracts for the Formation of a Legal Entity with Foreign Interest, “A contract for the formation of a legal entity with foreign interest shall be subject to the law of the country in which the legal entity is to be founded.”
+“A contract for the formation of a legal entity with foreign interest shall be subject to the law of the country in which the legal entity is to be founded.”
+
+** **
 
 Therefore, the second option to answer this question is that **the parties will not themselves determine the applicable law, but for them it will be done by a computer network, which, depending on their provisions (by IP address), will be found an applicable law**. Such legal relations will comply with the rules of **international law (including international treaties)**, but there is an obstacle related with VPN and IP address different to the real location of computer/user. 
 
-** **
 
 The third option for solving the issue may be **using the registered online platforms for concluding smart contracts. At the same time on these online platforms/online sites, the terms of smart contracts will be checked automatically for compliance with the rules of trade**. Also, these rules can be unified at the international level. However, there are no regulations in Russian legal systems yet.
 
