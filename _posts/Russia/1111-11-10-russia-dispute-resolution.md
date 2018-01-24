@@ -22,6 +22,6 @@ If the program/system incorrectly determine the initial intentions of the partie
 
 Please check Article 1210 and 1211 of the Civil Code of the Russian Federation, or Section *“Who bears final responsibility/liability in case something goes wrong? The party using the smart contract? The party that wrote the smart contract? Or the blockchain platform?”* above.  
 
-## Source
+## Sources
 
  - [the Civil Code of the Russian Federation, Articles 1210 and 1211](https://www.wto.org/english/thewto_e/acc_e/rus_e/WTACCRUS48A5_LEG_119.pdf)
