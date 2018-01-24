@@ -13,11 +13,11 @@ Fundamental provisions of data protection law in Russia can be found in
 
   - the Strasbourg Convention for the Protection of Individuals with regard to Automatic Processing of Personal Data (Convention) (ratified by Russia in 2006).  
 
-The principles and requirements in the domain of data privacy and data protection are contained in 
+The **principles and requirements in the domain of data privacy and data protection** are contained in 
 
-  - the Federal Law No. 149 FZ dated 27 July 2006 On Information, Informational Technologies and the Protection of Information (hereinafter - the “Information Protection Act”), 
+  - the Federal Law No. 149 FZ dated 27 July 2006 On Information, Informational Technologies and the Protection of Information (hereinafter - the “**Information Protection Act**”), 
 
-  - the Federal Law No. 152-FZ dated 27 July 2006 on Personal Data (hereinafter the “Personal Data Act). 
+  - the Federal Law No. 152-FZ dated 27 July 2006 on Personal Data (hereinafter the "**Personal Data Act**"). 
 
 Most rules are found in specific legislation, particularly and various regulatory acts adopted to implement the Data Protection Laws, as well as other laws, including the establishing basic rules as to the information in general and its protection. 
 
