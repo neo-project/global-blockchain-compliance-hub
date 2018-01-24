@@ -190,11 +190,11 @@ Company seals are no longer a legal requirement in Russia following a change in 
 
   - [The Civil Code of the Russian Federation](https://www.wto.org/english/thewto_e/acc_e/rus_e/WTACCRUS48A5_LEG_119.pdf)
 
-  - Federal Law No. 14-FZ of 8 February 1998 “On Limited Liability Companies”
+  - [Federal Law No. 14-FZ of 8 February 1998 “On Limited Liability Companies”](https://www.wto.org/english/thewto_e/acc_e/rus_e/WTACCRUS58_LEG_371.pdf)
 
-  - Federal Law No. 208-FZ "On Joint-Stock Companies"  of 26 December 1995;
+  - [Federal Law No. 208-FZ "On Joint-Stock Companies"  of 26 December 1995](https://www.wto.org/english/thewto_e/acc_e/rus_e/WTACCRUS58_LEG_394.pdf)
 
-  - Corporate Governance Code (approved by the decision of the Board of Directors of the Bank of Russia on  21 April 2014).
+  - [Corporate Governance Code (approved by the decision of the Board of Directors of the Bank of Russia on  21 April 2014)](http://cbr.ru/Eng/sbrfr/files/Corporate_Governance_Code.pdf)
 
   - [Tax Code of Russia](https://www.nalog.ru/eng/tax_legislation/tax_code_of_russia/)
 
