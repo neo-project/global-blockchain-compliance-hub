@@ -32,7 +32,7 @@ Since it is often impossible to digitize a certain asset, work or a service, the
 *d) As evidence proving the actual intentions of the parties, which could not be set up in the text of the main contract*, 
 if this contract was on paper (paragraph 2 of Article 431 of the Civil Code of the Russian Federation).
 
-e) In the cases of the transfer of assets or money stipulated by the contract with the use of smart contracts, it can be considered as *acceptance of an offer by conclusive actions* (clause 3 of Article 438 of the Civil Code of the Russian Federation)
+*e)* In the cases of the transfer of assets or money stipulated by the contract with the use of smart contracts, it can be considered as *acceptance of an offer by conclusive actions* (clause 3 of Article 438 of the Civil Code of the Russian Federation)
 
 
 These are only theoretical approaches, assuming that the smart contract is an electronic form of contract, or an electronic evidence/a term/amendment  implementing a traditional contract, with or without legal force. 
