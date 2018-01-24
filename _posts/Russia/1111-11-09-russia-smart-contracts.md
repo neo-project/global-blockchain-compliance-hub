@@ -29,7 +29,7 @@ If the above conditions are presumed, the smart contract will correspond to the 
 A smart contract can also be viewed as a way of fulfilling obligations. However, only in cases where the transfer of an asset occurs in a virtual rather than a fiat (real) world.
 Since it is often impossible to digitize a certain asset, work or a service, the smart contract itself may be treated as some kind of guarantee of the basic obligation.
 
-*d) as evidence proving the actual intentions of the parties, which could not be set up in the text of the main contract*, 
+*d) As evidence proving the actual intentions of the parties, which could not be set up in the text of the main contract*, 
 if this contract was on paper (paragraph 2 of Article 431 of the Civil Code of the Russian Federation).
 
 e) In the cases of the transfer of assets or money stipulated by the contract with the use of smart contracts, it can be considered as *acceptance of an offer by conclusive actions* (clause 3 of Article 438 of the Civil Code of the Russian Federation)
