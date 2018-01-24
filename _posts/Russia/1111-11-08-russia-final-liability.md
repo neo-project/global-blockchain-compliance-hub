@@ -25,25 +25,25 @@ Citing the Article 1211. The Law Governing a Contract in the Case of Lack of Par
  
 3. A party responsible for the performance under a contract of crucial significance for the content of the contract shall be a party which, in particular, is the following, except as otherwise ensuing from law, the terms or substance of the contract or the group of circumstances of the case in question: 
 
-   1) a seller - in a sales contract; 
+  1) a seller - in a sales contract; 
 
 ...
 
-   5) a contractor - in a contract; 
+  5) a contractor - in a contract; 
   
 ...
 
-   7) a forwarding agent - in a forwarding contract; 
-   8) a lender (a creditor) - in a loan (credit) contract; 
-   9) a financial agent - in a case in action assignment financing contract; 
-   10) a bank - in a bank deposit contract and bank account contract; 
+  7) a forwarding agent - in a forwarding contract; 
+  8) a lender (a creditor) - in a loan (credit) contract; 
+  9) a financial agent - in a case in action assignment financing contract; 
+  10) a bank - in a bank deposit contract and bank account contract; 
 
 ...
 
-   12) an insurer - in an insurance policy; 
-   13) an agent - in a contract of agency; 
-   14) a commission agent - in a contract of commission agency; 
-   15) an agent - in a contract of agency service; 
+  12) an insurer - in an insurance policy; 
+  13) an agent - in a contract of agency; 
+  14) a commission agent - in a contract of commission agency; 
+  15) an agent - in a contract of agency service; 
 
 ...
 
@@ -51,11 +51,11 @@ Citing the Article 1211. The Law Governing a Contract in the Case of Lack of Par
 4. The law of the country with which the contract has the closest relation shall be as follows, except as otherwise ensuing from law, the terms or substance of the contract or the complex of circumstances of the case: 
  
  
-   1) for a contract of independent building contractor work and a contract of independent design and prospecting contractor work - the law of the country where on the whole the results stipulated by the contract are created; 
+  1) for a contract of independent building contractor work and a contract of independent design and prospecting contractor work - the law of the country where on the whole the results stipulated by the contract are created; 
 
-   2) for a contract of general partnership - the law of the country where on the whole the activity of the partnership is pursued; 
+  2) for a contract of general partnership - the law of the country where on the whole the activity of the partnership is pursued; 
 
-   3) for a contract concluded by auction, tender or commodity market - the law of the country where the auction, tender is held or the commodity market is situated. 
+  3) for a contract concluded by auction, tender or commodity market - the law of the country where the auction, tender is held or the commodity market is situated. 
 
 
 5. A contract that has features of various types of contract shall be subject to the law of the country with which this contract as a whole has the closest relation, except as otherwise ensuing from law, the terms or substance of the contract or the group of circumstances of the case in question. 
@@ -78,14 +78,11 @@ Citing the **Article 1212. The Law Governing a Contract with Participation of a 
 
 
 
-2. If there is no agreement of the parties as to applicable law and if there are the circumstances specified in Item 1 of the present article the law of the country where the consumer has place of residence shall govern the contract with the participation of a consumer. “
-
+**2.** "If there is no agreement of the parties as to applicable law and if there are the circumstances specified in Item 1 of the present article the law of the country where the consumer has place of residence shall govern the contract with the participation of a consumer."
 
 According to the Article 1214, The Law Governing Contracts for the Formation of a Legal Entity with Foreign Interest, “A contract for the formation of a legal entity with foreign interest shall be subject to the law of the country in which the legal entity is to be founded.”
 
-** **
-
-The second option to answer this question is that **the parties will not themselves determine the applicable law, but for them it will be done by a computer network, which, depending on their provisions (by IP address), will be found an applicable law**. Such legal relations will comply with the rules of **international law (including international treaties)**, but there is an obstacle related with VPN and IP address different to the real location of computer/user. 
+Therefore, the second option to answer this question is that **the parties will not themselves determine the applicable law, but for them it will be done by a computer network, which, depending on their provisions (by IP address), will be found an applicable law**. Such legal relations will comply with the rules of **international law (including international treaties)**, but there is an obstacle related with VPN and IP address different to the real location of computer/user. 
 
 ** **
 
