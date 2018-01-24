@@ -32,7 +32,7 @@ Citing the Article 1211. The Law Governing a Contract in the Case of Lack of Par
   
 *...*
 
-*7) a forwarding agent - in a forwarding contract;  
+*7) a forwarding agent - in a forwarding contract;*  
 
 *8) a lender (a creditor) - in a loan (credit) contract;* 
 
@@ -57,8 +57,10 @@ Also,
 4. The law of the country with which the contract has the closest relation shall be as follows, except as otherwise ensuing from law, the terms or substance of the contract or the complex of circumstances of the case: 
  
  
-  - for a contract of independent building contractor work and a contract of independent design and prospecting contractor work - the law of the country where on the whole the results stipulated by the contract are created; 
+  - for a contract of independent building contractor work and a contract of independent design and prospecting contractor work - the law of the country where on the whole the results stipulated by the contract are created;
+  
   - for a contract of general partnership - the law of the country where on the whole the activity of the partnership is pursued; 
+  
   - for a contract concluded by auction, tender or commodity market - the law of the country where the auction, tender is held or the commodity market is situated. 
 
 
