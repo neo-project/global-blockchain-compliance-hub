@@ -13,3 +13,6 @@ Adapted from resources [here](https://www.acra.gov.sg/components/wireframes/howT
    * Foreigners will need a Singapore visa to live in Singapore, but can come to Singapore on a visitor visa if operating the company remotely. If operating the company remotely, a local director for the company based in Singapore is still required. 
    * Foreigners will need to apply for an Employment Pass or an Entrepreneur Pass if they wish to operate the company from Singapore. 
 
+### Sources
+   * [Guide to Register Singapore Company Registration (Scroll down to 'Considerations for Foreigners on how to register company in Singapore')](https://www.3ecpa.com.sg/incorporation/guide-to-singapore-company-registration/)
+   * [Requirements for Foreigners Setting up a Company in Singapore](https://www.acra.gov.sg/components/wireframes/howToGuidesChapters.aspx?pageid=1241#1246)
