@@ -9,7 +9,7 @@ comments: true
 
 
 
-Singapore is an attractive location for new technology enterprises because of its closeness to Asian markets, its ease of doing business, and its supportive policies of entrepreneurship and technological development. The World Bank has ranked Singapore for ten years in a row as the easiest place to do business in the world. In addition, INSEAD and the World Economic Forum have named Singapore the most “technology-ready” nation in 2015.
+Singapore is an attractive location for new technology enterprises because of its closeness to Asian markets, its ease of doing business, and its supportive policies of entrepreneurship and technological development. The World Bank has ranked Singapore for ten years in a row as the easiest place to do business in the world. In addition, INSEAD and the World Economic Forum have named Singapore the most “technology-ready” nation in 2015 ([source](http://www.todayonline.com/business/singapore-still-easiest-city-do-business-world-bank, http://knowledge.insead.edu/entrepreneurship-innovation/the-worlds-most-tech-ready-countries-2015-3953)).
 
 Below are some resources for individuals hoping to set up companies in Singapore.
 See a detailed summary of company registry requirements [here](https://www.guidemesingapore.com/business-guides/incorporation-guides/introduction-to-incorporation/singapore-company-registration-guide).
@@ -28,7 +28,7 @@ After getting an overview of Singapore company incorporation, read the Incorpora
       * Fees listed [here](https://www.acra.gov.sg/Company-Related_fees/). 
    * [Foreign Companies](https://www.acra.gov.sg/Foreign_Companies/) 
       * Fees listed [here](https://www.acra.gov.sg/Company-Related_fees/).	 
-   * Registration is online at [https://www.bizfile.gov.sg](https://www.bizfile.gov.sg/).The application will take 14 days - 2 months to process.  
+   * Registration is online at [https://www.bizfile.gov.sg](https://www.bizfile.gov.sg/). According to this [source](https://www.acra.gov.sg/components/wireframes/howToGuidesSummary.aspx?pageid=1859), the application will take 14 days - 2 months to process.  
 ### Non-profit: 
    * See [this guide](https://www.guidemesingapore.com/business-guides/incorporation-guides/other-business-entity-types/setting-up-a-non-profit-entity-in-singapore---part-1) to setting up a non-profit in Singapore. 
 
