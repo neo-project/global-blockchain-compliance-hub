@@ -68,7 +68,9 @@ Sources
 - [IRS Tax Information for Corporations Page](https://www.irs.gov/corporations)
 - [Small Business Administration](https://www.sba.gov/business-guide/launch/choose-business-structure-types-chart)
 - [IRS Form W-7](https://www.irs.gov/pub/irs-pdf/iw7.pdf)
+- [US Crypto Tax Guide](https://drive.google.com/file/d/1ewnxdMBeqr2QW6cM0mAXMhn5-rgvk_bB/view)
 
 
 | **[Previous Section](https://mimush.github.io/CryptoWikiTest.github.io//united-states-of-america/USA-team-member-requirements.html)** | **[Next Section](https://mimush.github.io/CryptoWikiTest.github.io//united-states-of-america/USA-governing-by-law.html)** |
 
+[Link Test]({{ site.url }}/CryptoWikiTest.github.io/_posts/United States of America/1111-11-02-USA-team-member-requirements.md)
