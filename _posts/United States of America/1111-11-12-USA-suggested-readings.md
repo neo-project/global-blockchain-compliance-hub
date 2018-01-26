@@ -27,6 +27,7 @@ comments: true
 - [IRS Small Business and Self-Employed Tax Center](https://www.irs.gov/businesses/small-business-and-self-employed-tax-center)
 - [IRS Tax Information for Corporations](https://www.irs.gov/corporations)
 - [IRS Business Structures and Tax Information](https://www.irs.gov/businesses/small-businesses-self-employed/business-structures)
+- [US Crypto Tax Guide](https://drive.google.com/file/d/1ewnxdMBeqr2QW6cM0mAXMhn5-rgvk_bB/view)
 
 **Government Laws/Bylaws**
 
