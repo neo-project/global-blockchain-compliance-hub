@@ -73,4 +73,3 @@ Sources
 
 | **[Previous Section](https://mimush.github.io/CryptoWikiTest.github.io//united-states-of-america/USA-team-member-requirements.html)** | **[Next Section](https://mimush.github.io/CryptoWikiTest.github.io//united-states-of-america/USA-governing-by-law.html)** |
 
-[Link Test]({{ site.url }}/CryptoWikiTest.github.io/_posts/United States of America/1111-11-02-USA-team-member-requirements.md)
