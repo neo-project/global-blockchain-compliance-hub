@@ -32,4 +32,7 @@ After getting an overview of Singapore company incorporation, read the Incorpora
 ### Non-profit: 
    * See [this guide](https://www.guidemesingapore.com/business-guides/incorporation-guides/other-business-entity-types/setting-up-a-non-profit-entity-in-singapore---part-1) to setting up a non-profit in Singapore. 
 
+### Sources:
+   * [Singapore Bizfile (Guides for Registering a Business)](https://www.bizfile.gov.sg/)
+   * [Singapore Accounting and Corporate Regulatory Authority (ACRA)](https://www.acra.gov.sg/)
 
