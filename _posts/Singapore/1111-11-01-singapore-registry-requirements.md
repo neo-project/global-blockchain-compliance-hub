@@ -9,7 +9,7 @@ comments: true
 
 
 
-Singapore is an attractive location for new technology enterprises because of its closeness to Asian markets, its ease of doing business, and its supportive policies of entrepreneurship and technological development. The World Bank has ranked Singapore for ten years in a row as the easiest place to do business in the world. In addition, INSEAD and the World Economic Forum have named Singapore the most “technology-ready” nation in 2015 ([source](http://www.todayonline.com/business/singapore-still-easiest-city-do-business-world-bank, http://knowledge.insead.edu/entrepreneurship-innovation/the-worlds-most-tech-ready-countries-2015-3953)).
+Singapore is an attractive location for new technology enterprises because of its closeness to Asian markets, its ease of doing business, and its supportive policies of entrepreneurship and technological development. The World Bank has ranked Singapore for ten years in a row as the easiest place to do business in the world. In addition, INSEAD and the World Economic Forum have named Singapore the most “technology-ready” nation in 2015 ([source](http://knowledge.insead.edu/entrepreneurship-innovation/the-worlds-most-tech-ready-countries-2015-3953)).
 
 Below are some resources for individuals hoping to set up companies in Singapore.
 See a detailed summary of company registry requirements [here](https://www.guidemesingapore.com/business-guides/incorporation-guides/introduction-to-incorporation/singapore-company-registration-guide).
