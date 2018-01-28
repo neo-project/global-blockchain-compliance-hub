@@ -1,3 +1,4 @@
+
 ---
 layout: post
 date: 0010-11-01
@@ -56,6 +57,14 @@ The Visa Application procedures, such as submission of application, reception an
 All Employees’ work is regulated by the [Labor Standards Act](http://ilo.org/dyn/natlex/docs/WEBTEXT/46401/65062/E97KOR01.htm).
 
 **  **
+
+**IMPORTANT**
+
+Financial Services Commission vice chairman Kim Yong-beom announced measures to ban anonymous trading on domestic exchanges, while foreigners and minors would be completely banned from trading through cryptocurrency accounts. Both measures go into effect Jan. 30. 2018. All foreigners, including residents, nonresidents and “kyopo” ethnic Koreans with foreign citizenship, will be banned from trading cryptocurrencies in Korea, the FSC’s foreign media department said by email.
+
+The system aims to tackle money laundering and related crimes, along with speculation-driven overheating in the market, Kang Young-soo, head of the FSC’s cryptocurrency response team, said by phone after the announcement. 
+
+“The government is concerned about manipulation of market conditions and injection of illegal funds while market funds are leaked into speculative investments,” he added. “We view that foreigners’ and minors’ investments contribute to our areas of concern.”
 
 # Sources: 
 - [Ministry of Justice, Korea Visa Portal](https://www.visa.go.kr)
