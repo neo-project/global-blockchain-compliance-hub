@@ -39,6 +39,11 @@ The legal framework of privacy in South Korea consists of:
 
 MOI and PIPC are responsible for the affairs concerning general data protection issues KCC is responsible for the affairs between online services providers and users under IT Network Act. FSC is responsible for the affairs relating to financial services under the Credit Information Act.
 
+
+All cryptocurrency investors need to establish an account under their legal name at one of six banks rather than anonymous cryptocurrency accounts to trade on a domestic cryptocurrency exchange. The so-called real-name system is part of efforts to establish measures similar to the Know Your Customer (KYC) verification system in the U.S. The Korea Blockchain Association’s member exchanges had already self-imposed an ID verification system for users who create new accounts as of Jan. 1, but this will be replaced by the government’s regulation.
+
+Cryptocurrency exchanges will be required to share users' transaction data with banks, and regulators will monitor whether banks halt anonymous transactions if exchanges refuse to provide that information.
+
 ## Sources
 
 - [Electronic Financial Transactions Act](http://www.law.go.kr/engLsSc.do?menuId=0&subMenu=5&query=%EC%A0%84%EC%9E%90%EA%B8%88%EC%9C%B5%EA%B1%B0%EB%9E%98%EB%B2%95#liBgcolor0)
