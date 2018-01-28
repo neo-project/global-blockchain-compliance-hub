@@ -72,3 +72,5 @@ The system aims to tackle money laundering and related crimes, along with specul
 - [InvestKorea](https://www.investkorea.org)
 - [Special Requirements for obtaining E-7 visa](http://www.hikorea.go.kr/pt/en/info/popup/icis/e_7_pop_en.html)
 
+- [News: South Korea is banning all foreigners from trading cryptocurrencies](https://www.forbes.com/sites/elaineramirez/2018/01/23/why-south-korea-is-banning-all-foreigners-from-trading-cryptocurrency/#400dad6d7345)
+
