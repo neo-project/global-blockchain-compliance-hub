@@ -7,4 +7,4 @@ category: belgium
 comments: true
 ---
 
-Nullifying a smart contract in Belgium...
+### Page in progress, stay tuned!
