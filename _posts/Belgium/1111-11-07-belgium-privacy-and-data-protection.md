@@ -7,4 +7,4 @@ category: belgium
 comments: true
 ---
 
-Privacy laws in Belgium mandate that:
+### Page in progress, stay tuned!
