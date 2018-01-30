@@ -7,4 +7,4 @@ category: germany
 comments: true
 ---
 
-Dispute Resolution in Germany is integrated by...
+### Page in progress, stay tuned!
