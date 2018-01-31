@@ -26,3 +26,6 @@ Currently electronic contracts between people or between people and machines act
 ### Sources:
    * [Federal E-Sign Act](https://www.lexology.com/library/detail.aspx?g=25a03fad-60f4-4e2d-b25e-8e2185d68cee)
    * [Uniform Electronic Transactions Act](http://www.uniformlaws.org/shared/docs/electronic%20transactions/ueta_final_99.pdf)
+   
+ 
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//california/california-final-liability.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//california/california-dispute-resolution.html)** |
