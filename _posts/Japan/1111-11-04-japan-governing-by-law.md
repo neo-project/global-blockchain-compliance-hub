@@ -10,9 +10,9 @@ comments: true
 As per article 94 of the Constitution of Japan, ‘Local public entities shall have the right to manage their property, affairs and administration and to enact their own regulations within law.” ([source](http://japan.kantei.go.jp/constitution_and_government_of_japan/constitution_e.html)) Local administrative units are given a considerable amount of autonomy in legislating for business and commerce. Fortunately, it is possible to search for these laws online. 
 
 **Key sources**
+- [Guide to searching online for Japanese laws and regulations](https://blogs.loc.gov/law/2014/05/searching-for-current-japanese-laws-and-regulations)
+- [Additional information on searching for jurisdictional Japanese regulations](http://www.japaneselawtranslation.go.jp/help/?re=02)
+- [Database used to search for laws](http://www.japaneselawtranslation.go.jp/law/?re=02)
 
-[Guide to searching online for Japanese laws and regulations](https://blogs.loc.gov/law/2014/05/searching-for-current-japanese-laws-and-regulations)
 
-[Additional information on searching for jurisdictional Japanese regulations](http://www.japaneselawtranslation.go.jp/help/?re=02)
-
-[Database used to search for laws](http://www.japaneselawtranslation.go.jp/law/?re=02)
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//japan/japan-tax-and-auditing-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//japan/japan-laws-token-sales.html)** |
