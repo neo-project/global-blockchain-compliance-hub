@@ -92,3 +92,4 @@ According to [Nolo.com](https://www.nolo.com/legal-encyclopedia/how-form-limited
 * [Tax Form 1023 For Non-Profits](https://www.irs.gov/forms-pubs/about-form-1023)
 
 
+| **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//california/california-team-member-requirements.html)** |
