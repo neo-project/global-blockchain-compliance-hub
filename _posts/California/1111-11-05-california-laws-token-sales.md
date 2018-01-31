@@ -54,3 +54,6 @@ Status - Passed and active from Jan 1, 2018.
 (SB741, Mendoza)
 
    Feb 2017 proposed amendment to the California Penal Code. Proposed that regarding raffle tickets in California, “ A raffle ticket shall not be sold in exchange for Bitcoin or any other cryptocurrency.” It did not pass.
+
+
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//california/california-governing-by-law.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//california/california-securities-related-laws.html)** |
