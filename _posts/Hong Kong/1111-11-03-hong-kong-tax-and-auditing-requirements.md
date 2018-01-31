@@ -42,3 +42,5 @@ Sources and Further Reading
 - [Profit Tax: The scope of the charge, the basis period, exemptions, deductions](http://www.ird.gov.hk/eng/tax/bus_pft.htm)
 - [Frequently Asked Questions: Tax reporting for sole proprietorship, partnership](http://www.ird.gov.hk/eng/tax/ind_sp.htm#a04)
 
+
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//hong-kong/hong-kong-team-member-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//hong-kong/hong-kong-governing-by-law.html)** |
