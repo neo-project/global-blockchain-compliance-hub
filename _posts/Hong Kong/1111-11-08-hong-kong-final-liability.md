@@ -25,3 +25,6 @@ Sources
 
 - [Whitepaper 2.0 on Distributed Ledger Technology, Hong Kong Monetary Authority](http://www.hkma.gov.hk/media/eng/doc/key-functions/finanical-infrastructure/infrastructure/20171025e1a1.pdf)
 
+
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//hong-kong/hong-kong-privacy-and-data-protection.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//hong-kong/hong-kong-smart-contracts.html)** |
+
