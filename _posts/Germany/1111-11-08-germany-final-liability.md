@@ -7,4 +7,4 @@ category: germany
 comments: true
 ---
 
-##Final liability in case anything goes wrong in Germany falls on...
+### Page in progress, stay tuned!

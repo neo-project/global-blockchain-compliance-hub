@@ -7,4 +7,4 @@ category: belgium
 comments: true
 ---
 
-Who bears final responsibliity / liability in Belgium in case something goes wrong?
+### Page in progress, stay tuned!

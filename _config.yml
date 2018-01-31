@@ -3,7 +3,7 @@ title: Global Blockchain Compliance Hub
 email: miryam.amsili@gmail.com
 description: The repository for global blockchain compliance
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://mimush.github.io/CryptoWikiTest.github.io/" # the base hostname & protocol for your site
+url: "https://neo-project.github.io/global-blockchain-compliance-hub/" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
