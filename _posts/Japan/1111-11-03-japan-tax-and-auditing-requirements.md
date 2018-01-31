@@ -26,9 +26,8 @@ It is typical for the National Tax Agency to audit Japanese firms within 3-5 yea
 * All VCESPs must regularly undergo an audit of the status of the segregated management by a public certified accountant or audit firm at least once a year.
 
 **Key sources**
-
-[AMT Bulletin covering recent changes to Japanese virtual currency exchange service providers](https://www.amt-law.com/pdf/bulletins2_pdf/170207.pdf)
-
-[Information on taxation and auditing for companies in Japan](http://www.venturejapan.com/business-in-japan/doing-business-in-japan/how-to-manage-japanese-corporate-tax/japanese-business-tax-audit)
+- [AMT Bulletin covering recent changes to Japanese virtual currency exchange service providers](https://www.amt-law.com/pdf/bulletins2_pdf/170207.pdf)
+- [Information on taxation and auditing for companies in Japan](http://www.venturejapan.com/business-in-japan/doing-business-in-japan/how-to-manage-japanese-corporate-tax/japanese-business-tax-audit)
 
 
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//japan/japan-team-member-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//japan/japan-governing-by-law.html)** |
