@@ -19,8 +19,20 @@ All companies need to submit two corporate income tax forms to Inland Revenue Au
 ### Example of Effective Tax Rates
 New startups can take advantage of tax rebate programs and obtain lower effective tax rates. As an example of lower effective tax rates, effective tax rates in Singapore according to the Start-up tax Exemption Law (SUTE) as of 2017 is as follows:
 
-Effective Corporate Tax Rate for New Start-up Companies in FY2017
-*@#$!@#$ TABLE GOES HERE @#!%@%!$#%*
+### Effective Corporate Tax Rate for New Start-up Companies in FY2017 ([source](https://www.singaporecompanyincorporation.sg/how-to/taxation/singapore-corporate-tax-guide/))
+
+CHARGEABLE INCOME ($) | ESTIMATED TAX (S$) | EFFECTIVE TAX RATE
+---|----|---
+100,000 | 0 | 0%
+200,000 | 6,800 | 3.40%
+300,000 | 13,600 | 4.53%
+400,000 | 27,200 | 6.80%
+500,000 | 41,000 | 8.20%
+1,000,000 | 126,000 | 12.60%
+2,000,000 | 296,000 | 14.80%
+3,000,000 | 466,000 | 15.53%
+5,000,000 | 806,000 | 16.12%
+10,000,000 | 1,656,000 | 16.56%
 
 
 ### Taxes Specific to Virtual Currencies 
