@@ -13,7 +13,7 @@ Sources
 ------
 - [Recognition of Smart Contracts](https://www.pillsburylaw.com/en/news-and-insights/recognition-of-smart-contracts.html)
 
-| **[Previous Section](https://mimush.github.io/CryptoWikiTest.github.io//new-york/new-york-dispute-resolution.html)** | **[Next Section](https://mimush.github.io/CryptoWikiTest.github.io//new-york/new-york-suggested-readings.html)** |
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//new-york/new-york-dispute-resolution.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//new-york/new-york-suggested-readings.html)** |
 
 
 
