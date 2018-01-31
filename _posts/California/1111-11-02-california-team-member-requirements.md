@@ -34,3 +34,6 @@ See guides and lists of common pitfalls for foreigners to set up firms in the U.
   * [What Non-residents Need To Consider When Forming a Company Here in the US](https://www.business.com/articles/what-non-residents-need-to-consider-when-forming-a-company-here-in-the-us/)
   * [Start US Business for non-US Foreign Resident](https://mollaeilaw.com/start-us-business-for-non-us-foreign-resident/)
   * [Starting your own US Company as a Foreigner](http://www.hightechstartupworld.com/2012/09/starting-your-own-us-company-as.html)
+  
+  
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//california/california-registry-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//california/california-tax-and-auditing-requirements.html)** |
