@@ -7,4 +7,4 @@ category: belgium
 comments: true
 ---
 
-Tax and auditing requirements
+### Page in progress, stay tuned!

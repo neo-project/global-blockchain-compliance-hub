@@ -7,4 +7,4 @@ category: germany
 comments: true
 ---
 
-Token sales in Germany must...
+### Page in progress, stay tuned!

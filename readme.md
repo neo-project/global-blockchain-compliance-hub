@@ -2,18 +2,18 @@
 
 ## Long Story Short ##
 
-GitHub Pages is a feature of GitHub that automatically turns certain repositories into websites. Importantly for our purposes, it uses [Jekyll](https://help.github.com/articles/using-jekyll-with-pages/) software to allow for easy creation of static sites from Markdown files. Thus, all we have to worry about is the `_posts` folder that contains all of the content for our site/Handbook; hosting and site-generation are automatically taken care of.
+GitHub Pages is a feature of GitHub that automatically turns certain repositories into websites. Importantly for our purposes, it uses [Jekyll](https://help.github.com/articles/using-jekyll-with-pages/) software to allow for easy creation of static sites from Markdown files. Thus, all we have to worry about is the `_posts` folder that contains all of the content for our hub; hosting and site-generation are automatically taken care of.
 
-To access the Handbook, visit [https://mimush.github.io/CryptoWikiTest.github.io/](https://mimush.github.io/CryptoWikiTest.github.io/).
+To access the Hub, visit [https://neo-project.github.io/global-blockchain-compliance-hub/](https://neo-project.github.io/global-blockchain-compliance-hub/).
 
 ## Editing ##
 
 The process for editing a page is the same regardless of the particular page you want to edit. The following are the pages you'll care about:
 
 - The landing page (i.e. the one that says "Welcome to NEO's Global Blockchain Compliance Hub!!" at the top), which is called `index.html`
-- All of the content pages of the Handbook, which are Markdown files (i.e. they end in `.md`) contained in the `_posts` folder
+- All of the content pages of the Hub, which are Markdown files (i.e. they end in `.md`) contained in the `_posts` folder
 
-To edit a page, first click on it's name. You should then see a rendered version of the page (if it's a Markdown file) or the actual code (if it's `index.html`). Next, click on the pencil-like icon on the top right of the box containing the content. (It should be to the right of the words "Raw," "Blame," and "Histroy.") Now you'll be in the editor...go crazy!
+To edit a page, first click on it's name. You should then see a rendered version of the page (if it's a Markdown file) or the actual code (if it's `index.html`). Next, click on the pencil-like icon on the top right of the box containing the content. (It should be to the right of the words "Raw," "Blame," and "History.") Now you'll be in the editor...go crazy!
 
 To delete a page, simply delete the .md file that contains it.
 
@@ -23,7 +23,7 @@ Here are a few notes:
 - Ignore the stuff at the top of the Markdown files (that renders as a table) since it's only necessary for Jekyll to work correctly.
 - Browse through different files to get a sense of how links are created, pictures are inserted, etc. It's probably best to maintain consistency in terms of formatting and style.
 
-When you're done editing, simply hit the big "Commit changes" button at the bottom of the page. Include a short description of your changes in the box provided. Your changes will be rendered instantly at [https://mimush.github.io/CryptoWikiTest.github.io/](https://mimush.github.io/CryptoWikiTest.github.io/).
+When you're done editing, simply hit the big "Commit changes" button at the bottom of the page. Include a short description of your changes in the box provided. You will need to submit a pull request to render your changes at [https://neo-project.github.io/global-blockchain-compliance-hub/](https://neo-project.github.io/global-blockchain-compliance-hub/).
 
 ## Re-Ordering ##
 
@@ -65,6 +65,6 @@ The `date` field is used to order the sections as well as the posts within each 
 | turkey                  | 0017  |
 
 
-P.S. Please edit the above table if you change the order of the sections.
+Please edit the above table if you change the order of the sections.
 
-## Please help us grow the community and continue to grow and update knowledge as regulations change!
+## Please help us grow the community and continue to grow and update our Hub as regulations change!

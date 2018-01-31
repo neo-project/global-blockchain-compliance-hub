@@ -7,4 +7,4 @@ category: belgium
 comments: true
 ---
 
-Managing a business in Belgium requires:
+### Page in progress, stay tuned!
