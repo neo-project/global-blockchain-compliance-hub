@@ -35,7 +35,7 @@ Sources
 - [New York International - US Visa and US Work Permit Guide](http://nyintl.net/us-visa-and-us-work-permit-guide/
 - [United States Citizenship and Immigration Services](https://www.uscis.gov/)
 
-| **[Previous Section](https://mimush.github.io/CryptoWikiTest.github.io//new-york/new-york-registry-requirements.html)** | **[Next Section](https://mimush.github.io/CryptoWikiTest.github.io//new-york/new-york-tax-and-auditing-requirements.html)** |
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//new-york/new-york-registry-requirements.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//new-york/new-york-tax-and-auditing-requirements.html)** |
 
 
 
