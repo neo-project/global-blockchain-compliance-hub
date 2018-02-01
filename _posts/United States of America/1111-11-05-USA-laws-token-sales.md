@@ -23,6 +23,6 @@ Sources
 - [Comparison of State Digital Currency Regulatory Initiatives (Regulation Tracker) : Legislation or Guidance](https://docs.google.com/spreadsheets/d/e/2PACX-1vRcG58P8grE68J4vX45yPCmZZccnVRY0bGF0wuaiJMAdS8ko5D18-_Xse1oVL2SJNeVB3HV8Fu0ZzRv/pubhtml?gid=0&single=true)
 
 
-| **[Previous Section](https://mimush.github.io/CryptoWikiTest.github.io//united-states-of-america/USA-governing-by-law.html)** | **[Next Section](https://mimush.github.io/CryptoWikiTest.github.io//united-states-of-america/USA-securities-related-laws.html)** |
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//united-states-of-america/USA-governing-by-law.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//united-states-of-america/USA-securities-related-laws.html)** |
 
 
