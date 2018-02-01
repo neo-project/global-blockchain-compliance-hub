@@ -17,7 +17,7 @@ Sources
 -	[When is a Smart Contract Actually a Contract](https://www.coindesk.com/when-is-a-smart-contract-actually-a-contract/
 - [Smart Contracts: Navigating Legal Regulatory and Consumer Protection Issues](http://media.straffordpub.com/products/smart-contracts-navigating-legal-regulatory-and-consumer-protection-issues-2017-08-30/reference-materials.pdf)
 
-| **[Previous Section](https://mimush.github.io/CryptoWikiTest.github.io//new-york/new-york-final-liability.html)** | **[Next Section](https://mimush.github.io/CryptoWikiTest.github.io//new-york/new-york-dispute-resolution.html)** |
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//new-york/new-york-final-liability.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//new-york/new-york-dispute-resolution.html)** |
 
 
 
