@@ -23,7 +23,7 @@ Sources
 - [How to Set up a US Company as a Foreign National](http://mashable.com/2014/09/26/incorporating-in-the-us/#oL_XywWRvZq7)
 
 
-| **[Next Section](https://mimush.github.io/CryptoWikiTest.github.io//united-states-of-america/USA-team-member-requirements.html)** |
+| **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//united-states-of-america/USA-team-member-requirements.html)** |
 
 
 
