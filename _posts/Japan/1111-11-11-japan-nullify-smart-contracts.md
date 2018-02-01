@@ -8,3 +8,6 @@ comments: true
 ---
 
 The workings of smart contracts have not yet been written into Japanese law, where there is no legal definition provided. Legal liability is currently an untested and unwritten area of Japanese law, and caution should be exercised by firms working with smart contract technologies.
+
+
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//japan/japan-dispute-resolution.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//japan/japan-suggested-readings.html)** |
