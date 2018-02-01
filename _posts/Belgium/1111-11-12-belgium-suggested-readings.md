@@ -7,4 +7,4 @@ category: belgium
 comments: true
 ---
 
-To learn more about Belgium's laws we recommend the following readings: 
+### Page in progress, stay tuned!

@@ -6,3 +6,5 @@ title: "Smart Contracts Definition and Legality"
 category: netherlands
 comments: true
 ---
+
+### Page in progress, stay tuned!

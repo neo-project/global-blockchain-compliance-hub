@@ -7,4 +7,4 @@ category: belgium
 comments: true
 ---
 
-Dispute Resolution in Belgium is integrated by...
+### Page in progress, stay tuned!

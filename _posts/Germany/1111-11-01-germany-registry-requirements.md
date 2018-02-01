@@ -7,7 +7,6 @@ category: germany
 comments: true
 ---
 
-The following are the necessary to establish a business in Germany: 
-
+### Page in progress, stay tuned!
 
 

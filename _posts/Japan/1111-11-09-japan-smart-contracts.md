@@ -14,5 +14,7 @@ Despite the legal ambiguity, a memo by Jincor, a regulatory compliant platform c
 It should be noted that https://smartcontract.jp/ is a private company with no relation to the legal status of smart contracts in Japan.
 
 **Key sources**
+- [Information on the issue of smart contracts in Japanese law](http://block-chain.jp/tech/smart-contract)
 
-[Information on the issue of smart contracts in Japanese law](http://block-chain.jp/tech/smart-contract)
+
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//japan/japan-final-liability.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//japan/japan-dispute-resolution.html)** |
