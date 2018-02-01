@@ -7,8 +7,6 @@ category: gibraltar
 comments: true
 ---
 
-**Securities laws in Gibraltar require...**
-
 **Government-Issued Perspective** 
 * The September 22, 2017 statement from the Gibraltar Financial Services Commission on September 2017 indicated several uses for tokens: “In some cases, tokens represent securities, such as shares in a company, and their promotion and sale are regulated as such. More often, tokens serve some cryptocurrency or functional use that is unregulated, such as prepayment for access to a product or service that is to be developed using funds raised in the ICO” [1]
   * Therefore **it is possible that tokens may be registered as securities** but, as noted above, there is no legislation around token sale in Gibraltar as of now
@@ -37,3 +35,6 @@ comments: true
 [4] [Medium.com](https://medium.com/@Gibraltar.Blockchain.Exchange/gibraltar-stock-exchange-plans-to-create-worlds-first-tokenised-stock-exchange-6db0153d5d3b)   
 [5] [itpro.co.uk](http://www.itpro.co.uk/strategy/29979/the-gibraltar-blockchain-exchange-attempts-to-tame-the-ico-wild-west)  
 [6] [Gbx.gi](https://gbx.gi/#1508496269595-2f02501c-bba1)   
+
+
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//gibraltar/gibraltar-laws-token-sales.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//gibraltar/gibraltar-privacy-and-data-protection.html)** |
