@@ -7,8 +7,6 @@ category: gibraltar
 comments: true
 ---
 
-**Final liability in case anything goes wrong in Gibraltar falls on...**
-
 Gibraltar will become the first area in Europe and one of the first in the world to start regulating businesses engaged in Distributed Ledger Technology (DLT), which includes blockchain technology. As of December 15, 2017, The Gibraltar Financial Services Commission (GFSC) have introduced a new regulatory framework, [Distributed Ledger Technology Regulatory Framework (DLT Framework)](http://www.gfsc.gi/dlt), which will be in effect as of January 1st 2018. The framework regulates activities of Gibraltar-based companies that use DLT for virtual currency exchanges, and will be an amendment to the [Gibraltarian Financial Services (Investment and Fiduciary Services) Act 1989](http://www.gibraltarlaws.gov.gi/articles/1989-47o.pdf). It is indicative of a broader movement to promote DLT-based operations and present a safe, well-regulated environment to conduct business in the field, which is consistent with its early moves in 2016 to regulate cryptocurrencies and conduct research on the DLT, to attract investments for a number of crypto-currency affiliated companies like Xapo and Coinsilium [1]. Gibraltar is also considering a complementary regulatory framework which would cover the promotion and sale of tokens, which is aligned with the DLT framework [2].
  
 The Gibraltarian DLT framework applies to individuals and companies who use DLT for business activities engaged in using blockchain for “the transmission or storage of value belonging to others” which are not subject to other existing legal regulations which includes: “centralized virtual currency, administrators, VC wallet providers, trading platforms, VC exchanges, payment service providers, issuers of asset-backed tokens, pre-loaded VC, vouchers and wallets, and peer-to-peer gaming platform operators” [1] and covers ICOs, custodians, and exchanges [3]. These businesses are required to seek authorization from the Gibraltar Financial Services Commission (GFSC) as a DLT provider. Some types of business-related to VC which fall outside the scope of the new regulatory framework, which includes “decentralized VC schemes (like Bitcoin), DLT software developers, users purchasing goods and services with VC, and investment in VC for private purposes.” [1]
@@ -42,3 +40,6 @@ To seek further clarification, one can contact the Gibraltar Financial Services 
 [2] [Fintechlawblog.com](https://www.fintechlawblog.com/2017/10/gibraltar-issues-statement-on-initial-coin-offerings/)  
 [3] [bitlegal.io](https://bitlegal.io/2017/05/09/gibraltar-issues-new-blockchain-regulations/)  
 [4] [GFSC.gi](http://www.gfsc.gi/dlt)  
+
+
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//gibraltar/gibraltar-privacy-and-data-protection.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//gibraltar/gibraltar-smart-contracts.html)** |
