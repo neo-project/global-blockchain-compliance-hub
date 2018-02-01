@@ -25,3 +25,5 @@ To learn more about Hong Kong's laws we recommend the following readings:
 					
 - [Can smart contracts be legally binding contracts? An R3 and Norton Rose Fulbright White Paper](http://www.nortonrosefulbright.com/files/r3-and-norton-rose-fulbright-white-paper-full-report-144581.pdf)
 
+
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//hong-kong/hong-kong-nullify-smart-contracts.html)** |
