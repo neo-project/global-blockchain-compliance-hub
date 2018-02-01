@@ -20,3 +20,6 @@ There are many sites online which have example California bylaw templates that a
    * [California Legal Code](https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=CORP&division=&title=1.&part=&chapter=&article=)
    * [California Legal Code: For-Profit Bylaws](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CORP&sectionNum=212.)
    * [California Legal Code: Non-Profit Bylaws](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CORP&division=2.&title=1.&part=2.&chapter=1.&article=4.)
+
+
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//california/california-tax-and-auditing-requirements.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//california/california-laws-token-sales.html)** |
