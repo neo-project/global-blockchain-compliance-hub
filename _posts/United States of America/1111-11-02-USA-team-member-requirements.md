@@ -11,7 +11,7 @@ See guides and lists of common pitfalls for foreigners to set up firms in the U.
 Foreigners wanting to start a business of any type in the U.S. follow the same procedure required for the US resident. US residency (or citizenship) are not necessary to incorporate in the US. However, non-residents may run into problems in setting up a U.S. business because of visas, or because of opening up a U.S. Bank account.
 
 **Visas**
-In order to work in the United States foreigners need to obtain a US work permit. There is no such thing as a state visa - the system is centralized and US visa types are set by teh federal government. The [US Citizens and Immigration Services](https://www.uscis.gov/) provides resources and information on visa requirements and processes for working in the United States. The USA has roughly six different types of visas:
+In order to work in the United States foreigners need to obtain a US work permit. There is no such thing as a state visa - the system is centralized and US visa types are set by the federal government. The [US Citizens and Immigration Services](https://www.uscis.gov/) provides resources and information on visa requirements and processes for working in the United States. The USA has roughly six different types of visas:
 - Immigrant (permanent, employer-sponsored workers)
 - Family (fiancés, family of current U.S. citizens and green card-holders, family of refugees)
 - Humanitarian (refugees and asylum seekers, victims of trafficking, battered spouses and children, etc.)
@@ -38,7 +38,7 @@ Sources
 - [Starting your own US Company as a Foreigner](http://www.hightechstartupworld.com/2012/09/starting-your-own-us-company-as.html)
 - [How to Start a Business as a Foreigner](https://mollaeilaw.com/start-us-business/)
 
-| **[Previous Section](https://mimush.github.io/CryptoWikiTest.github.io//united-states-of-america/USA-registry-requirements.html)** | **[Next Section](https://mimush.github.io/CryptoWikiTest.github.io//united-states-of-america/USA-tax-and-auditing-requirements.html)** |
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//united-states-of-america/USA-registry-requirements.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//united-states-of-america/USA-tax-and-auditing-requirements.html)** |
 
 
 
