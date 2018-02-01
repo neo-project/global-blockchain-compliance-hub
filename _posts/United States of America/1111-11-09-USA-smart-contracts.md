@@ -71,4 +71,4 @@ Sources
 - [Smart Contracts: Navigating Legal Regulatory and Consumer Protection Issues](http://media.straffordpub.com/products/smart-contracts-navigating-legal-regulatory-and-consumer-protection-issues-2017-08-30/reference-materials.pdf)
 
 
-| **[Previous Section](https://mimush.github.io/CryptoWikiTest.github.io//united-states-of-america/USA-final-liability.html)** | **[Next Section](https://mimush.github.io/CryptoWikiTest.github.io//united-states-of-america/USA-dispute-resolution.html)** |
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//united-states-of-america/USA-final-liability.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//united-states-of-america/USA-dispute-resolution.html)** |
