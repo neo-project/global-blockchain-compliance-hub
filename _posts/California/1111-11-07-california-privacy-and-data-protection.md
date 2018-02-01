@@ -54,3 +54,6 @@ Allows California consumers to request from companies operating in California ho
    * [Electronic Communications Privacy Act](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=1546.&lawCode=PEN)
    * California Security Breach Notification Law: [1](http://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1798.29.) and [2](http://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=1798.82.)
    * [The California Shine the Light Law](http://www.leginfo.ca.gov/cgi-bin/displaycode?section=civ&group=01001-02000&file=1798.80-1798.84)
+
+
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//california/california-securities-related-laws.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//california/california-final-liability.html)** |
