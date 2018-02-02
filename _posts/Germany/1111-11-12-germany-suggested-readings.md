@@ -7,4 +7,4 @@ category: germany
 comments: true
 ---
 
-To learn more about Germany's laws we recommend the following readings: 
+### Page in progress, stay tuned!

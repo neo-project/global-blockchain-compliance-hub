@@ -23,3 +23,6 @@ Sources
 ------ 
 
 - [Companies Registry, Compliance](https://www.cr.gov.hk/en/compliance/requirements.htm)
+
+
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//hong-kong/hong-kong-tax-and-auditing-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//hong-kong/hong-kong-laws-token-sales.html)** |

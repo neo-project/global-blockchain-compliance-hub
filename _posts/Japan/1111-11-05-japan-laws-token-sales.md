@@ -35,9 +35,9 @@ In all cases, it is strongly advised for firms intending to engage in token sell
 Japan [offically recognizes](https://cointelegraph.com/news/japan-officially-recognizes-bitcoin-and-digital-currencies-as-money) bitcoin and digital currencies as money,  and is generally a blockchain-friendly country. Blockchain technology [is increasingly used in the banking industry](https://www.cnbc.com/2017/03/01/japanese-banks-plan-to-adopt-blockchain-for-payments.html), and it would appear unlikely for any disruptive changes in its legal status to occur in the near future. In addition, the government is planning on escalating the use of blockchain technology to facilitate the systems for accepting governmental contract bids - see [here](https://asia.nikkei.com/Politics-Economy/Policy-Politics/Japan-looks-to-blockchains-for-more-secure-e-government-systems) for more information. 
 
 **Key sources**
+- [Financial Services Agency of Japan](http://www.fsa.go.jp/en)
+- [List of firms legally registered to trade VC in Japan](http://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.pdf)
+- [Japan Blockchain Association guide on ICO token sales to Japanese residents](http://jba-web.jp/archives/20171118_guidance-for-ico-token-sales-to-japanese-residents)
 
-[Financial Services Agency of Japan](http://www.fsa.go.jp/en)
 
-[List of firms legally registered to trade VC in Japan](http://www.fsa.go.jp/menkyo/menkyoj/kasoutuka.pdf)
-
-[Japan Blockchain Association guide on ICO token sales to Japanese residents](http://jba-web.jp/archives/20171118_guidance-for-ico-token-sales-to-japanese-residents)
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//japan/japan-governing-by-law.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//japan/japan-securities-related-laws.html)** |

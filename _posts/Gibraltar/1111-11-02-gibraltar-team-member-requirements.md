@@ -34,3 +34,6 @@ comments: true
 [1] [Gibraltar.gov - Employment](https://www.gibraltar.gov.gi/new/employment#ancla7)  
 [2] [Gibraltar.gov - Workforce](https://www.gibraltar.gov.gi/new/workforce)  
 [3] [PWC Doing Business in Gibraltar](https://www.pwc.de/de/internationale-maerkte/assets/doing-business-in-gibraltar.pdf)
+
+
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//gibraltar/gibraltar-registry-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//gibraltar/gibraltar-tax-and-auditing-requirements.html)** |

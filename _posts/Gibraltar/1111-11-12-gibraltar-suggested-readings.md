@@ -28,4 +28,5 @@ comments: true
 **Miscellaneous:**
 * Gibraltar [UK-EU-Brexit](https://www.theguardian.com/world/2017/apr/07/will-the-uk-lose-gibraltar)
 
-| **[Previous Section](CryptoWikiTest.github.io/_posts/Gibraltar/1111-11-11-gibraltar-nullify-smart-contracts.md)**]
+
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//gibraltar/gibraltar-nullify-smart-contracts.html)** |

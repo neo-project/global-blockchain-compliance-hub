@@ -71,5 +71,5 @@ Sources
 - [US Crypto Tax Guide](https://drive.google.com/file/d/1ewnxdMBeqr2QW6cM0mAXMhn5-rgvk_bB/view)
 
 
-| **[Previous Section](https://mimush.github.io/CryptoWikiTest.github.io//united-states-of-america/USA-team-member-requirements.html)** | **[Next Section](https://mimush.github.io/CryptoWikiTest.github.io//united-states-of-america/USA-governing-by-law.html)** |
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//united-states-of-america/USA-team-member-requirements.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//united-states-of-america/USA-governing-by-law.html)** |
 

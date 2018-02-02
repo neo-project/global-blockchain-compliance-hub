@@ -9,5 +9,5 @@ comments: true
 
 There's no current legislation on smart-contract-related dispute resolution. 
 
-| **[Previous Section](https://mimush.github.io/CryptoWikiTest.github.io//new-york/new-york-smart-contracts.html)** | **[Next Section](https://mimush.github.io/CryptoWikiTest.github.io//new-york/new-york-nullify-smart-contracts.html)** |
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//new-york/new-york-smart-contracts.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//new-york/new-york-nullify-smart-contracts.html)** |
 

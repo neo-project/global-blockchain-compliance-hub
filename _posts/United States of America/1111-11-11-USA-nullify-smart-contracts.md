@@ -34,6 +34,6 @@ Sources
 ------ 
 - [Uniform Electronic Transactions Act 1999](http://www.uniformlaws.org/shared/docs/electronic%20transactions/ueta_final_99.pdf)
 
-| **[Previous Section](https://mimush.github.io/CryptoWikiTest.github.io//united-states-of-america/USA-dispute-resolution.html)** | **[Next Section](https://mimush.github.io/CryptoWikiTest.github.io//united-states-of-america/USA-suggested-readings.html)** |
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//united-states-of-america/USA-dispute-resolution.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//united-states-of-america/USA-suggested-readings.html)** |
 
 

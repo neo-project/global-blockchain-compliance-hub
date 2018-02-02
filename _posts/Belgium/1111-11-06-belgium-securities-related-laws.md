@@ -7,4 +7,4 @@ category: belgium
 comments: true
 ---
 
-Securities laws in Belgium require:
+### Page in progress, stay tuned!

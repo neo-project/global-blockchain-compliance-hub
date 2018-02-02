@@ -7,4 +7,4 @@ category: luxembourg
 comments: true
 ---
 
-To learn more about Luxembourg's laws we recommend the following readings: 
+### Page in progress, stay tuned!

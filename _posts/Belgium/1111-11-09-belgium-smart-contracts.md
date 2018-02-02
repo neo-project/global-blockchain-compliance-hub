@@ -7,4 +7,4 @@ category: belgium
 comments: true
 ---
 
-Smart contracts in Belgium are defined as and are/aren't legally binding...
+### Page in progress, stay tuned!

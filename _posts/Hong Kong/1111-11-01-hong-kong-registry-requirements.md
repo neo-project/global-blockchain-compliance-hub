@@ -7,8 +7,6 @@ category: hong-kong
 comments: true
 ---
 
-The following are the necessary to establish a business in Hong Kong: 
-
 Once you have decided to incorporate a limited company and chosen a company name, you can apply for incorporation with the Hong Kong Companies Registry (“CR”). To simplify the process of setting up a limited company, any application for company incorporation includes a simultaneous application for business registration.
 
 You may submit applications for incorporation of local companies online at the 24-hour portal [e-Registry](https://www.eregistry.gov.hk/icris-ext/apps/por01a/index) or via the “CR eFiling” mobile application which can be downloaded free of charge from App Store or Google Play, or deliver the documents in hard copy form to the CR with the correct fees.
@@ -64,5 +62,8 @@ Sources
 - [Companies Registry Website of The Government of the Hong Kong](https://www.cr.gov.hk/en/faq/index.htm)
 - [Company Registration, Frequently Asked Questions](https://www.cr.gov.hk/en/faq/index.htm)
 - [Hong Kong Government, Registration and Licences](https://www.gov.hk/en/business/registration/businesscompany/index.htm)
+
+
+| **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//hong-kong/hong-kong-team-member-requirements.html)** |
  
 

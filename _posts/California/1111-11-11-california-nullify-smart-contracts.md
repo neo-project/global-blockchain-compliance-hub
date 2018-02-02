@@ -23,3 +23,6 @@ The language indicates that even if the blockchain is immutable, the counterpart
 
 ### Source: 
    * [Uniform Electronic Transactions Act](http://www.uniformlaws.org/shared/docs/electronic%20transactions/ueta_final_99.pdf)
+   
+   
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//california/california-dispute-resolution.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//california/california-suggested-readings.html)** |

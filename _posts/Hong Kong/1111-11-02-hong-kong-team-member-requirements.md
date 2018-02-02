@@ -16,3 +16,6 @@ Sources
 ------ 
 
 - [Company Registry, Frequently Asked Questions, Q1](https://www.cr.gov.hk/en/faq/faq01.htm#01)
+
+
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//hong-kong/hong-kong-registry-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//hong-kong/hong-kong-tax-and-auditing-requirements.html)** |

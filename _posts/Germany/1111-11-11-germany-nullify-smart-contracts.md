@@ -7,4 +7,4 @@ category: germany
 comments: true
 ---
 
-Nullifying a smart contract in Germany...
+### Page in progress, stay tuned!

@@ -7,4 +7,4 @@ category: germany
 comments: true
 ---
 
-Tax requirements in Germany are....
+### Page in progress, stay tuned!

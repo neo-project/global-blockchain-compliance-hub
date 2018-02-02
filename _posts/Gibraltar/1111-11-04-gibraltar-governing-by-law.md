@@ -50,3 +50,6 @@ More information on Gibraltar’s governing laws/bylaws requirements and reposit
 [1][PWC Doing Business in Gibraltar](https://www.pwc.de/de/internationale-maerkte/assets/doing-business-in-gibraltar.pdf)     
 [2][PWC TaxFacts](https://www.pwc.gi/publications/assets/TaxFacts16-17v2.pdf)   
 [3][Nomoretax.eu](http://www.nomoretax.eu/gibraltar-legal-framework-cryptocurrency/)  
+
+
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//gibraltar/gibraltar-tax-and-auditing-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//gibraltar/gibraltar-laws-token-sales.html)** |

@@ -47,3 +47,6 @@ Sources
 
 - [Statement on initial coin offerings, Securities and Futures Commission](http://www.sfc.hk/web/EN/news-and-announcements/policy-statements-and-announcements/statement-on-initial-coin-offerings.html)
 - [Hong Kong Monetary Authority releases White Paper on Distributed Ledger Technology, KVM](http://www.kwm.com/en/hk/knowledge/insights/hk-monetary-authority-releases-white-paper-on-dlt-20161207)
+
+
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//hong-kong/hong-kong-governing-by-law.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//hong-kong/hong-kong-securities-related-laws.html)** |

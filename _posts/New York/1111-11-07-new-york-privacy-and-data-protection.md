@@ -55,7 +55,7 @@ Sources
 - [New York Department of Financial Services](http://www.dfs.ny.gov/about/cybersecurity_faqs.htm)
 -	[Regulation of Superintendent of Financial Currencies, Virtual Currencies](http://www.dfs.ny.gov/legal/regulations/adoptions/dfsp200t.pdf)
 
-| **[Previous Section](https://mimush.github.io/CryptoWikiTest.github.io//new-york/new-york-securities-related-laws.html)** | **[Next Section](https://mimush.github.io/CryptoWikiTest.github.io//new-york/new-york-final-liability.html)** |
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//new-york/new-york-securities-related-laws.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//new-york/new-york-final-liability.html)** |
 
 
 

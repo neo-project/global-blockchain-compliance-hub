@@ -16,9 +16,9 @@ Notable among changes to Japanese data protection laws pertaining to financial s
 In addition, the PIPC upholds that under Japanese law, if a customer requires that details of a financial transaction be kept private, it is the legal obligation of the company or agent facilitating the transaction that anonymization take place. This is an apparent contradiction with the innate requirements of blockchain technology. However, Japanese privacy and data protection laws do coexist with blockchain technology, as described in this article [here](https://www.nikkei.com/article/DGXMZO21027660S7A910C1000000/).
 
 **Key sources**
+- [Information on Japanese data protection laws](http://www.mondaq.com/x/231450/data+protection/Data+Protection+Laws+of+the+World+Handbook+Second+Edition+Japan)
+- [Information on data protection requirements for Japanese firms](https://www.whitecase.com/publications/article/transfer-personal-data-under-japans-amended-personal-information-protection-act)
+- [The PIPC website](https://www.ppc.go.jp/en/legal)
 
-[Information on Japanese data protection laws](http://www.mondaq.com/x/231450/data+protection/Data+Protection+Laws+of+the+World+Handbook+Second+Edition+Japan)
 
-[Information on data protection requirements for Japanese firms](https://www.whitecase.com/publications/article/transfer-personal-data-under-japans-amended-personal-information-protection-act)
-
-[The PIPC website](https://www.ppc.go.jp/en/legal)
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//japan/japan-securities-related-laws.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//japan/japan-final-liability.html)** |
