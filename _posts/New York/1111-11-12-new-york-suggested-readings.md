@@ -45,4 +45,4 @@ comments: true
 - [http://media.straffordpub.com/products/smart-contracts-navigating-legal-regulatory-and-consumer-protection-issues-2017-08-30/reference-materials.pdf](Smart Contracts: Navigating Legal Regulatory Consumer Protection Issues)
 - [Recognition of Smart Contracts](https://www.pillsburylaw.com/en/news-and-insights/recognition-of-smart-contracts.html)
 
-| **[Previous Section](https://mimush.github.io/CryptoWikiTest.github.io//new-york/new-york-nullify-smart-contracts.html)** |
+| **[Previous Section](https://https://neo-project.github.io/global-blockchain-compliance-hub//new-york/new-york-nullify-smart-contracts.html)** |

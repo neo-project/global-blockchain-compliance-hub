@@ -54,7 +54,7 @@ comments: true
 - [Smart Contracts Navigating Legal Regulatory and Consumer Protection Issues](http://media.straffordpub.com/products/smart-contracts-navigating-legal-regulatory-and-consumer-protection-issues-2017-08-30/reference-materials.pdf)
 - [Smart After All: Blockchain, Smart Contracts, Parametric Insurance, and Smart Energy Grids](https://www.georgetownlawtechreview.org/smart-after-all-blockchain-smart-contracts-parametric-insurance-and-smart-energy-grids/GLTR-04-2017/)
 
-| **[Previous Section](https://mimush.github.io/CryptoWikiTest.github.io//united-states-of-america/USA-nullify-smart-contracts.html)** | 
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//united-states-of-america/USA-nullify-smart-contracts.html)** | 
 
 
 

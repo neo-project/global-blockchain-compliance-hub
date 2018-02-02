@@ -35,7 +35,7 @@ Sources
 ------ 
 - [Title 23, Chapter 1, Part 200, Regulations of the Superintendent of Financial Services, Virtual Currencies](http://www.dfs.ny.gov/legal/regulations/adoptions/dfsp200t.pdf)
 
-| **[Previous Section](https://mimush.github.io/CryptoWikiTest.github.io//new-york/new-york-privacy-and-data-protection.html)** | **[Next Section](https://mimush.github.io/CryptoWikiTest.github.io//new-york/new-york-smart-contracts.html)** |
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//new-york/new-york-privacy-and-data-protection.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//new-york/new-york-smart-contracts.html)** |
 
 
 

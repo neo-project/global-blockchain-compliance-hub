@@ -35,3 +35,6 @@ As per this [source](http://smallbusiness.chron.com/companies-make-audited-finan
    * [Tax Rates for California Corporatios](https://www.ftb.ca.gov/businesses/Structures/C-Corporation.shtml)
    * [Tax Rates for California LLCs](http://www.incorporatecalifornia.com/callctax.html)
    * [California Personal Income Tax](https://www.ftb.ca.gov/forms/2017-California-Tax-Rates-and-Exemptions.shtml)
+   
+
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//california/california-team-member-requirements.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//california/california-governing-by-law.html)** |

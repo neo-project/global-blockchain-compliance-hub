@@ -57,7 +57,7 @@ Sources
 ------ 
 - [New York State Department of Taxation and Finance website](https://www.tax.ny.gov/default.htm)
 
-| **[Previous Section](https://mimush.github.io/CryptoWikiTest.github.io//new-york/new-york-team-member-requirements.html)** | **[Next Section](https://mimush.github.io/CryptoWikiTest.github.io//new-york/new-york-governing-by-law.html )** |
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//new-york/new-york-team-member-requirements.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//new-york/new-york-governing-by-law.html )** |
 
 
 

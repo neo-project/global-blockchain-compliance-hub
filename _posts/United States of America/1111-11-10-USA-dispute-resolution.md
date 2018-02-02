@@ -10,4 +10,4 @@ comments: true
 The United States has not yet put out legislation for dispute resolution and not much information is available on this topic yet. 
 
 
-| **[Previous Section](https://mimush.github.io/CryptoWikiTest.github.io//united-states-of-america/USA-smart-contracts.html)** | **[Next Section](https://mimush.github.io/CryptoWikiTest.github.io//united-states-of-america/USA-nullify-smart-contracts.html)** |
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//united-states-of-america/USA-smart-contracts.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//united-states-of-america/USA-nullify-smart-contracts.html)** |

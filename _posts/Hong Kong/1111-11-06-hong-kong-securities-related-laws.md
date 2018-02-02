@@ -26,3 +26,6 @@ Sources
 - [Statement on initial coin offerings, Securities and Futures Commission](http://www.sfc.hk/web/EN/news-and-announcements/policy-statements-and-announcements/statement-on-initial-coin-offerings.html)
 - [Securities and Futures Ordinance of Hong Kong]( http://www.sfc.hk/web/EN/pdf/laws/sfo/1/Ordinance/5%20of%202002.pdf
 )
+
+
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//hong-kong/hong-kong-laws-token-sales.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//hong-kong/hong-kong-privacy-and-data-protection.html)** |

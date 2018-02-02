@@ -45,7 +45,7 @@ Sources
 - [DFS Virtual Currency Licensing](http://www.dfs.ny.gov/banking/virtualcurrency.htm)
 - [Application and Procedure for the Organization of a Trust Company for the Limited Purpose of Exercising Fiduciary Powers](http://www.dfs.ny.gov/banking/iaus1b.htm)
 
-| **[Previous Section](https://mimush.github.io/CryptoWikiTest.github.io//new-york/new-york-governing-by-law.html)** | **[Next Section](https://mimush.github.io/CryptoWikiTest.github.io//new-york/new-york-securities-related-laws.html )** |
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//new-york/new-york-governing-by-law.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//new-york/new-york-securities-related-laws.html )** |
 
 
 

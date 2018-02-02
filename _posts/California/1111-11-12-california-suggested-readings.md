@@ -68,3 +68,7 @@ To learn more about Claifornia's laws we recommend the following readings:
    * [California Corporations Code - Bylaws 2](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=CORP&division=2.&title=1.&part=2.&chapter=1.&article=4)
 
    * [Legal Speculation on the Status of Smart Contracts](https://www.lexology.com/library/detail.aspx?g=25a03fad-60f4-4e2d-b25e-8e2185d68cee)
+
+
+
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//california/california-nullify-smart-contracts.html)** |

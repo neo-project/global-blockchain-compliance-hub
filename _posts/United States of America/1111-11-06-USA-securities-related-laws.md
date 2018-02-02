@@ -78,6 +78,6 @@ Sources
 - [SEC Public Statement on Cryptocurrencies and Initial Coin Offerings](https://www.sec.gov/news/public-statement/statement-clayton-2017-12-11)
 - [Bitcoin Futures Trading Commences; Implications for Funds and Registered CPOs and CTAs](https://info.dechert.com/10/9815/december-2017/bitcoin-futures-trading-commences--implications-for-funds-and-registered-cpos-and-ctas.asp?sid=6fd46596-a392-42c0-bb3e-30a2e351887a)
 
-| **[Previous Section](https://mimush.github.io/CryptoWikiTest.github.io//united-states-of-america/USA-laws-token-sales.html)** | **[Next Section](https://mimush.github.io/CryptoWikiTest.github.io//united-states-of-america/USA-privacy-and-data-protection.html)** |
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//united-states-of-america/USA-laws-token-sales.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//united-states-of-america/USA-privacy-and-data-protection.html)** |
 
 
