@@ -97,3 +97,6 @@ Companies are required to file returns and calculate their tax liability for the
 **SOURCES**  
 [1] [PWC Doing Business in Gibraltar](https://www.pwc.de/de/internationale-maerkte/assets/doing-business-in-gibraltar.pdf)  
 [2] [PWC Tax Facts](https://www.pwc.gi/publications/assets/TaxFacts16-17v2.pdf)  
+
+
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//gibraltar/gibraltar-team-member-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//gibraltar/gibraltar-governing-by-law.html)** |

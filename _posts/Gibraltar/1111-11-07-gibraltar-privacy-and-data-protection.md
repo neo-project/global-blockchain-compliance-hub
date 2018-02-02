@@ -7,8 +7,6 @@ category: gibraltar
 comments: true
 ---
 
-**Privacy laws in Gibraltar require**...
-
 **Current Gibraltar Privacy and Data Protection-Related Laws** [1]
 * Data Protection Act 2004 is the law that governs how organisations (both private and public) should use information about individuals
   * This Data Protection Act 2004 can be found [here](http://www.gra.gi/data-protection/acts) and applies whenever an organisation processes (e.g. stores, collects, transmits, uses etc.) information that relates to a person such as a person’s name, DOB, their hobbies, comments about their performance, location, etc
@@ -41,3 +39,5 @@ comments: true
   [2] [Gra.gi General Protection Regulation](http://www.gra.gi/data-protection/general-data-protection-regulation/gdpr-1)  
   [3] [Medium.com](https://medium.com/learning-machine-blog/the-eu-general-data-protection-regulation-and-the-blockchain-1f1d20d24951)
 
+
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//gibraltar/gibraltar-securities-related-laws.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//gibraltar/gibraltar-final-liability.html)** |

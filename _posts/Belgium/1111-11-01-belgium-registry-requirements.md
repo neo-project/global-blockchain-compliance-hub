@@ -7,4 +7,6 @@ category: belgium
 comments: true
 ---
 
-# HELLO WELCOME TO BELGIUM
+
+### Page in progress, stay tuned!
+

@@ -46,3 +46,8 @@ comments: true
 [2] [GFSC Statement](http://www.gfsc.gi/news/statement-on-initial-coin-offerings-250)  
 [3] [Coindesk.com](https://www.coindesk.com/gibraltar-publishes-draft-regulations-for-blockchain-firms/)  
 [4] [Fourtune.com](http://fortune.com/2017/09/26/tax-havens-initial-coin-offerings/)
+
+
+
+
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//gibraltar/gibraltar-governing-by-law.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//gibraltar/gibraltar-securities-related-laws.html)** |

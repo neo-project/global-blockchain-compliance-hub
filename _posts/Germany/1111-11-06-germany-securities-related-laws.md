@@ -7,4 +7,4 @@ category: germany
 comments: true
 ---
 
-Securities laws in Germany require...
+### Page in progress, stay tuned!

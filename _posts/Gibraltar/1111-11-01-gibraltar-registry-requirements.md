@@ -109,3 +109,7 @@ comments: true
 [3] [Gibraltarlaws.gov.gi](http://www.gibraltarlaws.gov.gi/articles/1927-07o.pdf) 
 [4] [Gibraltarlaws.gov.gi](http://www.gibraltarlaws.gov.gi/articles/2009-06o.pdf)  
 [5] [Gibraltarlaws.gov.gi](http://www.gibraltarlaws.gov.gi/articles/2014-19o.pdf)  
+
+
+
+| **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//gibraltar/gibraltar-team-member-requirements.html)** |

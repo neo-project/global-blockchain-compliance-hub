@@ -86,3 +86,6 @@ Sources
 - [Statement on initial coin offerings, Securities and Futures Commission](http://www.sfc.hk/web/EN/news-and-announcements/policy-statements-and-announcements/statement-on-initial-coin-offerings.html)
 - [AML/CTF Seminar, Securities and Futures Commission](http://www.sfc.hk/web/EN/files/IS/AML/SFC%20AML%20Seminar%202017_eng_web_final.pdf)
 - [Money Laundering and Terrorist Financing Risks Associated with Virtual Commodities, Securities and Futures Commission](http://www.sfc.hk/edistributionWeb/gateway/EN/circular/aml/aml-regulations/doc?refNo=14EC2)
+
+
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//hong-kong/hong-kong-securities-related-laws.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//hong-kong/hong-kong-final-liability.html)** |

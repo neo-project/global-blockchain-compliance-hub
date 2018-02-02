@@ -71,7 +71,7 @@ Sources
 -	[Bizfilings.com New York LLC Requirements](https://www.bizfilings.com/toolkit/state-guides/new-york/ongoing-llc-requirements)
 
 
-| **[Previous Section](https://mimush.github.io/CryptoWikiTest.github.io//new-york/new-york-tax-and-auditing-requirements.html)** | **[Next Section](https://mimush.github.io/CryptoWikiTest.github.io//new-york/new-york-laws-token-sales.html )** |
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//new-york/new-york-tax-and-auditing-requirements.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//new-york/new-york-laws-token-sales.html )** |
 
 
 

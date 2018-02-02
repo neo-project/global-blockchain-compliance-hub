@@ -29,4 +29,4 @@ Sources
 ------ 
 - [LawDepot Free Corporate Bylaws](https://www.lawdepot.com/contracts/corporate-bylaws/?loc=US)
 
-| **[Previous Section](https://mimush.github.io/CryptoWikiTest.github.io//united-states-of-america/USA-tax-and-auditing-requirements.html)** | **[Next Section](https://mimush.github.io/CryptoWikiTest.github.io//united-states-of-america/USA-laws-token-sales.html)** |
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//united-states-of-america/USA-tax-and-auditing-requirements.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//united-states-of-america/USA-laws-token-sales.html)** |

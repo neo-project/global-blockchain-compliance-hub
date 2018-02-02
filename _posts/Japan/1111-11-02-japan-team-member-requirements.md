@@ -14,7 +14,7 @@ Incorporation and startup requirements are generally stricter for aliens as comp
 For a pre-existing company, such as a KK or a GK whose incorporation process has already been successfully completed (and thus on whose team there already exists a Japanese resident or national) the process of obtaining work visas is relatively simple.
 
 **Key sources**
+ - [Governmental information on visas to Japan](http://www.mofa.go.jp/j_info/visit/visa)
+ - [More on working visas to Japan](http://www.mofa.go.jp/j_info/visit/visa/long/index.html)
  
-[Governmental information on visas to Japan](http://www.mofa.go.jp/j_info/visit/visa)
- 
-[More on working visas to Japan](http://www.mofa.go.jp/j_info/visit/visa/long/index.html)
+ | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//japan/japan-registry-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//japan/japan-tax-and-auditing-requirements.html)** |

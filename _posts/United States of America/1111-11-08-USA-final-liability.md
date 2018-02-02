@@ -16,4 +16,4 @@ Sources
 ------ 
 - [New-Wave Legal Challenges for Bitcoin and other Cryptocurrencies](https://www.law.com/sites/almstaff/2017/11/07/new-wave-legal-challenges-for-bitcoin-and-other-cryptocurrencies/)
 
-| **[Previous Section](https://mimush.github.io/CryptoWikiTest.github.io//united-states-of-america/USA-privacy-and-data-protection.html)** | **[Next Section](https://mimush.github.io/CryptoWikiTest.github.io//united-states-of-america/USA-smart-contracts.html)** |
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//united-states-of-america/USA-privacy-and-data-protection.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//united-states-of-america/USA-smart-contracts.html)** |
