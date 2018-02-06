@@ -13,7 +13,7 @@ The process for editing a page is the same regardless of the particular page you
 - The landing page (i.e. the one that says "Welcome to NEO's Global Blockchain Compliance Hub!!" at the top), which is called `index.html`
 - All of the content pages of the Hub, which are Markdown files (i.e. they end in `.md`) contained in the `_posts` folder
 
-To edit a page, first click on it's name. You should then see a rendered version of the page (if it's a Markdown file) or the actual code (if it's `index.html`). Next, click on the pencil-like icon on the top right of the box containing the content. (It should be to the right of the words "Raw," "Blame," and "History.") Now you'll be in the editor...go crazy!
+To edit a page, first click on it's name. You should then see a rendered version of the page (if it's a Markdown file) or the actual code (if it's `index.html`). Next, click on the pencil-like icon on the top right of the box containing the content. (It should be to the right of the words "Raw," "Blame," and "History.") Now you'll be in the editor and can add the desired content. Once finished, scroll below the editor where it will say "Propose file change". Enter a descreption of your proposed changes and click the green button at the bottom that says "Propose file change". You will be led to a page called "Comparing Changes" that compares your branch to the master branch. If it all looks good, select "Create pull request", another edit box will pop up below, and then select "Create pull request" again below the box to confirm. The NEO Admin project owners will need to approve your changes for them to appear on the site. 
 
 To delete a page, simply delete the .md file that contains it.
 
