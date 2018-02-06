@@ -13,7 +13,9 @@ The process for editing a page is the same regardless of the particular page you
 - The landing page (i.e. the one that says "Welcome to NEO's Global Blockchain Compliance Hub!!" at the top), which is called `index.html`
 - All of the content pages of the Hub, which are Markdown files (i.e. they end in `.md`) contained in the `_posts` folder
 
-To edit a page, first click on it's name. You should then see a rendered version of the page (if it's a Markdown file) or the actual code (if it's `index.html`). Next, click on the pencil-like icon on the top right of the box containing the content. (It should be to the right of the words "Raw," "Blame," and "History.") Now you'll be in the editor and can add the desired content. Once finished, scroll below the editor where it will say "Propose file change". Enter a descreption of your proposed changes and click the green button at the bottom that says "Propose file change". You will be led to a page called "Comparing Changes" that compares your branch to the master branch. If it all looks good, select "Create pull request", another edit box will pop up below, and then select "Create pull request" again below the box to confirm. The NEO Admin project owners will need to approve your changes for them to appear on the site. 
+To edit a page, first click on it's name. You should then see a rendered version of the page (if it's a Markdown file) or the actual code (if it's `index.html`). Next, click on the pencil-like icon on the top right of the box containing the content. (It should be to the right of the words "Raw," "Blame," and "History.") Now you'll be in the editor and can add the desired content. 
+
+When you're done editing, simply hit the big "propose file change" button at the bottom of the page. Include a short description of your changes in the box provided. You will be led to a page titled "Comparing Changes" that compares your branch to the master branch. You will need to submit a pull request to render your changes to the live site at [https://neo-project.github.io/global-blockchain-compliance-hub/](https://neo-project.github.io/global-blockchain-compliance-hub/). If all looks good, click "Create pull request," another edit box will pop up below, and then click "Create pull request" again below the box to confirm. The NEO Admin project owners will need to approve your changes for them to appear on the site. 
 
 To delete a page, simply delete the .md file that contains it.
 
@@ -23,11 +25,9 @@ Here are a few notes:
 - Ignore the stuff at the top of the Markdown files (that renders as a table) since it's only necessary for Jekyll to work correctly.
 - Browse through different files to get a sense of how links are created, pictures are inserted, etc. It's probably best to maintain consistency in terms of formatting and style.
 
-When you're done editing, simply hit the big "Commit changes" button at the bottom of the page. Include a short description of your changes in the box provided. You will need to submit a pull request to render your changes at [https://neo-project.github.io/global-blockchain-compliance-hub/](https://neo-project.github.io/global-blockchain-compliance-hub/).
-
 ## Re-Ordering ##
 
-Remeber that stuff you were just told to ignore? Well now it's your new best friend! When editing a post, that stuff won't look like a table but rather like the below:
+Remember that stuff you were just told to ignore? Well now it's your new best friend! When editing a post, that stuff won't look like a table but rather like the below:
 ```
 ---
 layout: post
