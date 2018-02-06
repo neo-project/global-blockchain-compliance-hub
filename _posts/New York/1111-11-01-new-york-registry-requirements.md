@@ -8,7 +8,7 @@ comments: true
 ---
 
 New York recognizes many business forms including corporations, limited liability companies, limited partnerships, sole proprietorships and general partnerships. Each has its own advantages and disadvantages. For any particular venture, personal and business circumstances will dictate the business form of choice. The following items are needed to register in the state of New York: 
-- Choose a name that follows New York's regulations and has not been registered by another organization.
+- Choose a name that follows New York's regulations and has not been registered by another organization. 
 - File for your certificate of incorporation with the New York Department of State.
 - Hold an organizational meeting to create bylaws.
 - Request a Federal Employer Identification Number from the IRS.
