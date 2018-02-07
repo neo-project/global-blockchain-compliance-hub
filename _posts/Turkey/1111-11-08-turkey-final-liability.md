@@ -7,4 +7,6 @@ category: turkey
 comments: true
 ---
 
+Turkey has not yet defined who bears final responsibility and liability 
 
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//turkey/turkey-privacy-and-data-protection.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//turkey/turkey-smart-contracts.html)** |
