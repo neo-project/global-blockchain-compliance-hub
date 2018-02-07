@@ -7,7 +7,6 @@ category: south-korea
 comments: true
 ---
 
-## Non-profit/For-profit Company Registry Requirements
 
 Registration of both for profit and not-for profit organizations requires the submission of numerous documents including articles of incorporation. Registration of for profit organizations is more streamlined and straightforward. There is no centralized system for registration of not-for profits and information on procedures for incorporation and registration are difficult to find.
 
