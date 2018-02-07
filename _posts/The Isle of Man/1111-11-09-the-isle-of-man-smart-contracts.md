@@ -26,3 +26,7 @@ Sources
 ------ 
 
 - [AML/CFT Guidance for Virtual Currencies](https://www.gov.im/media/1356960/aml-guidance-notes-virtual-currencies.pdf)
+
+
+
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//the-isle-of-man/the-isle-of-man-final-liability.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//the-isle-of-man/the-isle-of-man-dispute-resolution.html)** |
