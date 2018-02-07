@@ -1,12 +1,12 @@
-
 ---
 layout: post
 date: 0010-11-01
 name: team-member-nationality-requirements
-title: "Team Member Nationality Requirements"
+title: "South Korea: Team Member Nationality Requirements"
 category: south-korea
 comments: true
 ---
+
 ## Team Member Nationality Requirements
 
 Foreigners should obtain a visa at a diplomatic mission abroad in advance in order to enter South Korea.
@@ -74,3 +74,5 @@ The system aims to tackle money laundering and related crimes, along with specul
 
 - [News: South Korea is banning all foreigners from trading cryptocurrencies](https://www.forbes.com/sites/elaineramirez/2018/01/23/why-south-korea-is-banning-all-foreigners-from-trading-cryptocurrency/#400dad6d7345)
 
+
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//south-korea/south-korea-registry-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//south-korea/south-korea-tax-and-auditing-requirements.html)** |
