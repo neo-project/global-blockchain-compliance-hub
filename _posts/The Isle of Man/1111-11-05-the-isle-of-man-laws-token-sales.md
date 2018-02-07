@@ -47,3 +47,6 @@ Sources
 ------ 
 
 - [Q&A in respect of persons seeking to launch an ICO in and from the island](https://www.iomfsa.im/media/2365/icoguidanceforapplicants.pdf)
+
+
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//the-isle-of-man/the-isle-of-man-governing-by-law.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//the-isle-of-man/the-isle-of-man-securities-related-laws.html)** |
