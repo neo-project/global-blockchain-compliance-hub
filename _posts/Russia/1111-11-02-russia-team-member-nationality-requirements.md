@@ -66,3 +66,6 @@ All foreign entrants to Russia need to register arrival and travels in Russia wi
   - [The General Directorate of Migratory Affairs (GUVM)](https://en.guvm.mvd.ru/)
   
   - [The Federal Law On Foreign Investments in Companies of Strategic Importance for National Defense and Security of the Russian Federation" No. 57-FZ](http://www.wipo.int/wipolex/en/text.jsp?file_id=188843)
+  
+  
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//russia/russia-registry-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//russia/russia-tax-and-auditing-requirements.html)** |
