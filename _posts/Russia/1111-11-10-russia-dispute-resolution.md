@@ -1,4 +1,4 @@
-the Civil Code of the Russian Federation---
+---
 layout: post
 date: 0016-03-01
 name: how-is-dispute-resolution-integrated
@@ -25,3 +25,6 @@ Please check Article 1210 and 1211 of the Civil Code of the Russian Federation, 
 ## Sources
 
  - [the Civil Code of the Russian Federation, Articles 1210 and 1211](https://www.wto.org/english/thewto_e/acc_e/rus_e/WTACCRUS48A5_LEG_119.pdf)
+ 
+ 
+ | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//russia/russia-smart-contracts.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//russia/russia-nullify-smart-contracts.html)** |
