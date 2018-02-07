@@ -15,3 +15,6 @@ There has been no regulation explicitly targeting smart contracts in Singapore s
 
 ### Sources:
    * [Electronic Transactions Act](https://sso.agc.gov.sg/Act/ETA2010#P1I-)
+
+
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//singapore/singapore-final-liability.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//singapore/singapore-dispute-resolution.html)** |
