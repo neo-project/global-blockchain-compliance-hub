@@ -27,3 +27,4 @@ A source recommends that if there is any chance that the token that an organizat
    * [MAS Clarifies Regulatory Position on the Offer of Digital Tokens in Singapore (Article)](http://www.mas.gov.sg/News-and-Publications/Media-Releases/2017/MAS-clarifies-regulatory-position-on-the-offer-of-digital-tokens-in-Singapore.aspx)
 
 
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//singapore/singapore-governing-by-law.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//singapore/singapore-securities-related-laws.html)** |
