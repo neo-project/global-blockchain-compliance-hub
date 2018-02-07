@@ -16,3 +16,6 @@ However,  the Ministry of Finance jointly with the Bank of Russia are working on
 ## Sources
 
   - [the Federal Law No. 39-FZ "On the Securities Market"  of 22 April 1996](http://aecsd.org/upload/files/Legal%20Framework/39_FZ.pdf)
+
+
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//russia/russia-laws-token-sales.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//russia/russia-privacy-and-data-protection.html)** |
