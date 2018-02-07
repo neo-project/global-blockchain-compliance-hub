@@ -2,7 +2,7 @@
 layout: post
 date: 0010-07-01
 name: securities-related-laws
-title: "Securities-Related Laws"
+title: "South Korea: Securities-Related Laws"
 category: south-korea
 comments: true
 ---
@@ -20,3 +20,4 @@ Electronic Financial Transactions Act, Article 16  (Issuance, Use and Exchange o
 (5) The methods and procedures for the issuance and exchange of electronic currency under paragraphs (1) through (4) shall be prescribed by Presidential Decree.”
 
 
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//south-korea/south-korea-laws-token-sales.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//south-korea/south-korea-privacy-and-data-protection.html)** |
