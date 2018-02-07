@@ -24,3 +24,6 @@ Taking into consideration an expert’s conclusion, **the court issues a resolut
 ## Sources
 
 - [the Civil Procedural Code Of The Russian Federation, Articles 10, 13, 55, 79, 146, 150, 198](http://www.wipo.int/edocs/lexdocs/laws/en/ru/ru081en.pdf)
+
+
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//russia/russia-dispute-resolution.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//russia/russia-suggested-readings.html)** |
