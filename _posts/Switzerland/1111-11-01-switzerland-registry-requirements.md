@@ -79,5 +79,5 @@ Irrespective of the corporate form chosen, a recharacterisation by the courts ca
 
 [5] [Wenger & Vieli](http://www.wengervieli.ch/getattachment/3237d5af-0a8a-4b54-b7ef-cace021e9b22/Initial-Coin-Offering-(ICO)-Co-–-A-Swiss-Law-Persp.aspx)
 
-**[Next Section](CryptoWikiTest.github.io/_posts/Switzerland/1111-11-02-switzerland-team-member-requirements.md)**
+| **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//switzerland/switzerland-team-member-requirements.html)** |
 
