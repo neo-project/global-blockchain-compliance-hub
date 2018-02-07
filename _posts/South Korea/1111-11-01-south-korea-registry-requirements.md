@@ -2,7 +2,7 @@
 layout: post
 date: 0010-12-01
 name: company-registry-requirements
-title: "Non-profit/For-profit Company Registry Requirements"
+title: "South Korea: Non-profit/For-profit Company Registry Requirements"
 category: south-korea
 comments: true
 ---
@@ -224,4 +224,4 @@ If a company has 10 or more employees in Korea its working conditions need to be
 - [Ministry of Government Legislation](http://www.moleg.go.kr/english/)
 
 
-| **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//south-korea/south-korea-team-member-requirements.html)** |
+| **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//south-korea/south-korea-team-member-requirements.html )** |
