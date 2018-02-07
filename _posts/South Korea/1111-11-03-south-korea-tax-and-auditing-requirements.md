@@ -124,3 +124,6 @@ For more information, consult the Regulation on External Audit and Accounting on
 - [National Tax Service Website](http://www.nts.go.kr/eng/)
 - [Financial Supervisory Service](http://www.english.fss.or.kr/fss/en/main.jsp)
 - [Korea Accounting Standards Board website](http://www.eng.kasb.or.kr/fe/cms/standard/NR_asnpe/NR_index.do)
+
+
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//south-korea/south-korea-team-member-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//south-korea/south-korea-governing-by-law.html)** |
