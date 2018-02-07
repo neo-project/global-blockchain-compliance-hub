@@ -2,7 +2,7 @@
 layout: post
 date: 0011-01-01
 name: suggested-readings
-title: "Suggested Readings"
+title: "Switzerland: Suggested Readings"
 category: switzerland
 comments: true
 ---
@@ -30,3 +30,6 @@ To learn more about Switzerland's laws we recommend the following readings:
 
 #### State of Blockchain in Switzerland
 [Deloitte White Paper on Blockchain in Switzerland](https://www2.deloitte.com/content/dam/Deloitte/ch/Documents/innovation/ch-en-innovation-blockchain-revolution.pdf)
+
+
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//switzerland/switzerland-nullify-smart-contracts.html)** |
