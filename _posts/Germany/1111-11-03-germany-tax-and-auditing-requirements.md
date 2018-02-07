@@ -11,4 +11,4 @@ comments: true
 
 
 
-| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//germany/germany-registry-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//germany/germany-tax-and-auditing-requirements.html)** |
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//germany/germany-team-member-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//germany/germany-governing-by-law.html)** |
