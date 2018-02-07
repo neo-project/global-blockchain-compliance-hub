@@ -109,4 +109,4 @@ According to the Tax Code (art. 23), accounting records as well as taxation docu
   - [Federal Law No. 208-FZ "On Consolidated Financial Statements" of 27 July 2010](https://www.wto.org/english/thewto_e/acc_e/rus_e/WTACCRUS48A5_LEG_119.pdf)
   
 
-| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//russia/russia-team-member-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//russia/russia-governing-by-law.html)** |
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//russia/russia-team-member-nationality-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//russia/russia-governing-by-law.html)** |
