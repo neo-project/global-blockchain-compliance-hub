@@ -2,7 +2,7 @@
 layout: post
 date: 0010-01-01
 name: suggested-readings
-title: "Suggested Readings"
+title: "South Korea: Suggested Readings"
 category: south-korea
 comments: true
 ---
@@ -24,3 +24,4 @@ In essence, the service will enable customers to use the share their blockchain-
 [Read news](https://www.cnbc.com/2017/12/14/bitcoin-south-korea-bitthumb-plans-cryptocurrency-trading-changes.html)
 
 
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//south-korea/south-korea-nullify-smart-contracts.html)** |
