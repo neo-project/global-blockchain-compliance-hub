@@ -14,3 +14,6 @@ Sources
 ---
 
 - [Dispute Resolution in Turkey, Getting the Deal Through](https://gettingthedealthrough.com/area/9/jurisdiction/54/dispute-resolution-2017-turkey/)
+
+
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//turkey/turkey-smart-contracts.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//turkey/turkey-nullify-smart-contracts.html)** |
