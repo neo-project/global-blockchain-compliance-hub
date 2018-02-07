@@ -2,7 +2,7 @@
 layout: post
 date: 0010-02-01
 name: can-smart-contracts-be-nullified
-title: "Can Smart Contracts be Nullified?"
+title: "South Korea: Can Smart Contracts be Nullified?"
 category: south-korea
 comments: true
 ---
@@ -30,3 +30,4 @@ Articles 12 and 14 of The Electronic Financial Transactions Act determine the te
 - [The Electronic Financial Transactions Act](http://www.law.go.kr/engLsSc.do?menuId=0&subMenu=5&query=%EC%A0%84%EC%9E%90%EA%B8%88%EC%9C%B5%EA%B1%B0%EB%9E%98%EB%B2%95#liBgcolor0)
 
 
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//south-korea/south-korea-dispute-resolution.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//south-korea/south-korea-suggested-readings.html)** |
