@@ -16,3 +16,6 @@ Adapted from resources [here](https://www.acra.gov.sg/components/wireframes/howT
 ### Sources
    * [Guide to Register Singapore Company Registration (Scroll down to 'Considerations for Foreigners on how to register company in Singapore')](https://www.3ecpa.com.sg/incorporation/guide-to-singapore-company-registration/)
    * [Requirements for Foreigners Setting up a Company in Singapore](https://www.acra.gov.sg/components/wireframes/howToGuidesChapters.aspx?pageid=1241#1246)
+
+
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//singapore/singapore-registry-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//singapore/singapore-tax-and-auditing-requirements.html)** |
