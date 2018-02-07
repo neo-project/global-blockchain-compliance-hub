@@ -24,3 +24,6 @@ Sources
 
 - [How will Turkey regulate the digital currencies?, KPMG](https://home.kpmg.com/tr/tr/home/media/press-releases/2017/12/turkiye-dijital-cagin-parasini-nasil-vergilendirecek.html)
 - [Securities, Capital Market Boards of Turkey](http://www.cmb.gov.tr/Sayfa/Index/5/1)
+
+
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//turkey/turkey-laws-token-sales.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//turkey/turkey-privacy-and-data-protection.html)** |
