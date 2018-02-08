@@ -76,3 +76,4 @@ Sources
 
 
 
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//turkey/turkey-tax-and-auditing-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//turkey/turkey-laws-token-sales.html)** |

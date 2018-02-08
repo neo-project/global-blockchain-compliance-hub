@@ -64,3 +64,5 @@ Additionally to the articles of association, Swiss shareholders may also conclud
 
 [2] Information quoted from [Lawyersswitzerland](https://www.lawyersswitzerland.com/articles-of-associationbylaws-in-switzerland)
 
+
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//switzerland/switzerland-tax-and-auditing-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//switzerland/switzerland-laws-token-sales.html)** |

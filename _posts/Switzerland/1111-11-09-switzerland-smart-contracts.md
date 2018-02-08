@@ -2,7 +2,7 @@
 layout: post
 date: 0011-04-01
 name: smart-contracts-definition
-title: "Smart Contracts Definition and Legality"
+title: "Switzerland: Smart Contracts Definition and Legality"
 category: switzerland
 comments: true
 ---
@@ -28,3 +28,6 @@ More information on contract law can be found on [Eugen Bucher’s website](http
 
 #### SOURCES 
 Information quoted from [Thomson Reuters website page for digital business in Switzerland](https://uk.practicallaw.thomsonreuters.com/6-618-4863)
+
+
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//switzerland/switzerland-final-liability.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//switzerland/switzerland-dispute-resolution.html)** |

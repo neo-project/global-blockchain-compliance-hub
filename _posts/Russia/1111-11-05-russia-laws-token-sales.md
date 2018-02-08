@@ -33,6 +33,7 @@ Previously, cryptocurrencies were referred to money surrogates, although this co
   
   - [The Constitution of the Russian Federation](http://www.constitution.ru/en/10003000-04.htm)
   
-  News: 
-  
-https://promining.net/ru/zakon-o-regulirovanii-kriptovalyut-i-ico/
+  - News: https://promining.net/ru/zakon-o-regulirovanii-kriptovalyut-i-ico/
+
+
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//russia/russia-governing-by-law.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//russia/russia-securities-related-laws.html)** |

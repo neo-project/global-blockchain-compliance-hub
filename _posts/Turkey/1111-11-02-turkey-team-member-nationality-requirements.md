@@ -14,3 +14,6 @@ Source
 ---
 
 - [Establishing a Business in Turkey, Investment Support and Promotion Agency of Turkey](http://www.invest.gov.tr/en-US/investmentguide/investorsguide/Pages/EstablishingABusinessInTR.aspx)
+
+
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//turkey/turkey-registry-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//turkey/turkey-tax-and-auditing-requirements.html)** |

@@ -13,3 +13,6 @@ Sources
 ---
 
 - [Press release related to Bitcoin, Banking Regulation and Supervision Agency of Turkey](https://www.bddk.org.tr/websitesi/english/announcements/press_releases/12585bitcoin_press_release_eng_3.pdf)
+
+
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//turkey/turkey-governing-by-law.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//turkey/turkey-securities-related-laws.html)** |

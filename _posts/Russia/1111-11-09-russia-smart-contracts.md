@@ -47,3 +47,5 @@ These are only theoretical approaches, assuming that the smart contract is an el
 
 
 
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//russia/russia-final-liability.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//russia/russia-dispute-resolution.html)** |
+

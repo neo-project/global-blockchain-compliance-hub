@@ -88,3 +88,6 @@ AG/SA and LLCs may also “opt out” of appointing an auditor if they meet all 
 [3] Information quoted from [Switzerland Global Enterprise Handbook for Investors](https://www.s-ge.com/en/publication/handbook-investors/handbook-investors)
 
 [4] Information quoted from [Deloitte-Taxation and Investment in Switzerland 2015](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Tax/dttl-tax-switzerlandguide-2015.pdf)
+
+
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//switzerland/switzerland-team-member-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//switzerland/switzerland-governing-by-law.html)** |

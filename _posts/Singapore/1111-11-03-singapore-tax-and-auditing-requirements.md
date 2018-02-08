@@ -60,3 +60,6 @@ Large companies (who do not qualify or have been disqualified from the ‘small 
    * [Singapore Corporate Tax Guide](https://www.singaporecompanyincorporation.sg/how-to/taxation/singapore-corporate-tax-guide/)
    * [Government Source for Singapore Corporate Tax](https://www.iras.gov.sg/irashome/Businesses/Companies/Learning-the-basics-of-Corporate-Income-Tax/Overview-of-Corporate-Income-Tax/)
    * [Taxes Specific to Virtual Currencies](https://www.iras.gov.sg/irashome/Businesses/Companies/Working-out-Corporate-Income-Taxes/Specific-topics/Income-Tax-Treatment-of-Virtual-Currencies/)
+
+
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//singapore/singapore-team-member-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//singapore/singapore-governing-by-law.html)** |

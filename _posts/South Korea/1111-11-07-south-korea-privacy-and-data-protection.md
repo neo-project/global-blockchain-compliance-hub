@@ -2,7 +2,7 @@
 layout: post
 date: 0010-06-01
 name: privacy-and-data-protection-related-laws
-title: "Privacy and Data Protection-related Laws"
+title: "South Korea: Privacy and Data Protection-related Laws"
 category: south-korea
 comments: true
 ---
@@ -72,6 +72,7 @@ Cryptocurrency exchanges will be required to share users' transaction data with 
 - [Korea Internet & Security Agency](http://www.kisa.or.kr/eng/main.jsp)
 
 
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//south-korea/south-korea-securities-related-laws.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//south-korea/south-korea-final-liability.html)** |
 
 
 

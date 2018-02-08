@@ -2,12 +2,11 @@
 layout: post
 date: 0010-12-01
 name: company-registry-requirements
-title: "Non-profit/For-profit Company Registry Requirements"
+title: "South Korea: Non-profit/For-profit Company Registry Requirements"
 category: south-korea
 comments: true
 ---
 
-## Non-profit/For-profit Company Registry Requirements
 
 Registration of both for profit and not-for profit organizations requires the submission of numerous documents including articles of incorporation. Registration of for profit organizations is more streamlined and straightforward. There is no centralized system for registration of not-for profits and information on procedures for incorporation and registration are difficult to find.
 
@@ -222,3 +221,6 @@ If a company has 10 or more employees in Korea its working conditions need to be
 - [InvestKorea](http://www.investkorea.org/en/foreigner/corporation.do)
 - [Civil Act of South Korea](http://www.law.go.kr/eng/engLsSc.do?menuId=1&query=civil+act&x=37&y=30#liBgcolor22)
 - [Ministry of Government Legislation](http://www.moleg.go.kr/english/)
+
+
+| **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//south-korea/south-korea-team-member-requirements.html )** |

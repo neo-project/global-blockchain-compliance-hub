@@ -99,4 +99,7 @@ The third option for solving the issue may be **using the registered online plat
 ## Sources
 
   - [The Civil Code of the the Russian Federation, Articles 1210, 1211, 1212, 1214](https://www.wto.org/english/thewto_e/acc_e/rus_e/WTACCRUS48A5_LEG_119.pdf)
+  
+  
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//russia/russia-privacy-and-data-protection.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//russia/russia-smart-contracts.html)** |
 

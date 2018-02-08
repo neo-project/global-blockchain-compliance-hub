@@ -19,3 +19,5 @@ For reference, it is worth referring to current Singapore laws regarding breach 
 ### Sources:
    * [Electronic Transactions Act](https://sso.agc.gov.sg/Act/ETA2010#P1I-)
 
+
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//singapore/singapore-privacy-and-data-protection.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//singapore/singapore-smart-contracts.html)** |

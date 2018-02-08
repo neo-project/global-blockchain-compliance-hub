@@ -17,3 +17,5 @@ https://ria.ru/economy/20171228/1511928676.html
 
 https://cryptorussia.ru/news/v-rossii
 
+
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//russia/russia-nullify-smart-contracts.html)** |

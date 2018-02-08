@@ -40,3 +40,5 @@ To learn more about the Isle of Man's laws we recommend the following readings:
 
 - [Virtual Currency Business, Sector Specific AML/CFT Guidance Notes, October 2016](https://www.iomfsa.im/media/1606/virtualcurrencyguidance.pdf)
 
+
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//the-isle-of-man/the-isle-of-man-nullify-smart-contracts.html)** |

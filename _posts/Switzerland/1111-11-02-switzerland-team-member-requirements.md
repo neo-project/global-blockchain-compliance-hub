@@ -56,4 +56,7 @@ Details of work permit requirements can be found on [ch.ch](https://www.ch.ch/en
 
 
 
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//switzerland/switzerland-registry-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//switzerland/switzerland-tax-and-auditing-requirements.html)** |
+
+
 

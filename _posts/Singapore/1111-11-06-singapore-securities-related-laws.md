@@ -22,3 +22,6 @@ A list of all the licenses that may be required of a fintech startup in Singapor
    * [Prospectus Registration Requirements](https://sso.agc.gov.sg/Act/SFA2001#pr243-)
    * [Licenses Required for Fintech Startup in Singapore](http://learn.asialawnetwork.com/2016/10/24/fintech-regulations-in-singapore-what-you-need-to-know-simplified/)
    * [Singapore to Regulate Cryptocurrency-based Businesses, not Cryptocurrency Itself (Article)](https://news.bitcoin.com/singapore-to-regulate-cryptocurrency-based-businesses-not-cryptocurrency-itself/)
+
+
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//singapore/singapore-laws-token-sales.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//singapore/singapore-privacy-and-data-protection.html)** |

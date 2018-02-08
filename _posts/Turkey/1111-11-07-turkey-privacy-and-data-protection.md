@@ -14,3 +14,6 @@ Sources
 ---
 
 - [Turkey’s Data Protection and Privacy Law, Ceelegalmatters](http://ceelegalmatters.com/index.php/turkey/6290-turkey-s-data-protection-and-privacy-law)
+
+
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//turkey/turkey-securities-related-laws.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//turkey/turkey-final-liability.html)** |
