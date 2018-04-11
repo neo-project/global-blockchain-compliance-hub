@@ -1,4 +1,3 @@
-1111-11-01-canada-registry-requirements.md
 ---
 layout: post
 date: 0020-12-01
@@ -7,6 +6,8 @@ title: "Canada: Non-profit/For-profit Company Registry Requirements"
 category: canada
 comments: true
 ---
+
+# Page in progress, stay tuned!
 
 Sources
 ---
