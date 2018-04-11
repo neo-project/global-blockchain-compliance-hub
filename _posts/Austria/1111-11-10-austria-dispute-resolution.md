@@ -2,7 +2,7 @@
 layout: post
 date: 0018-03-01
 name: how-is-dispute-resolution-integrated
-title: "Austria: How is Dispture Resolution Integrated"
+title: "Austria: How is Dispute Resolution Integrated"
 category: austria
 comments: true
 ---
