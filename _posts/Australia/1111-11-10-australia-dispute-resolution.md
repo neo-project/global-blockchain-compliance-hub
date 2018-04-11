@@ -2,7 +2,7 @@
 layout: post
 date: 0019-03-01
 name: how-is-dispute-resolution-integrated
-title: "Australia: How is Dispture Resolution Integrated"
+title: "Australia: How is Dispute Resolution Integrated"
 category: australia
 comments: true
 ---
