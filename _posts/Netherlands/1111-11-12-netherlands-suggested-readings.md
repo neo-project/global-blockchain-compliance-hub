@@ -7,7 +7,9 @@ category: netherlands
 comments: true
 ---
 
-### Page in progress, stay tuned!
+### Legal exploration smart contracts (Dutch)
+https://www.dutchdigitaldelta.nl/uploads/pdf/Smart-contract-rapport-DBC.pdf
+
 
 
 
