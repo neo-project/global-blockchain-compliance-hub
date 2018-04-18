@@ -8,7 +8,8 @@ comments: true
 ---
 
 
-### Foundation (stichting)
+
+### Foundation (Stichting)
 At this stage, Belgian law contains two kinds of foundations:
 - Public utility foundations
 - Private foundations
@@ -35,12 +36,14 @@ Other requirements
 -	Dissolving a foundation can only be done after intervention by a judge
 -	A foundation can be used for commercial purposes. Note that any profits cannot be distributed to the founders, board members or other third parties and shall be allocated to achieving the goal of the foundation.
 -	In case a foundation makes profit, it is subject to enterprise income tax (EIT) and VAT:
+
   o	EIT: 33.99%
   o	Lower tariff applies in case the profits are < €322,500
     ♣	€0 – 25,000: 24.25%
     ♣	€25,000 – 90,000: 31%
     ♣	€90,000 – 322,500: 34.5%
   o	VAT: 21%
+
 
 ### B. Limited liability company (Besloten vennootschap met beperkte aansprakelijkheid, BVBA)
 A limited is formed by means of a notarial deed that includes the AoA and the following information:
@@ -61,6 +64,7 @@ A limited is formed by means of a notarial deed that includes the AoA and the fo
 -	Besides the EIT as mentioned before, a limited is also subject to 15% dividend tax in case profits are being distributed to shareholders (natural persons). The tariff is 0% in case the profits are distributed to a legal entity that holds at least 25% of the shares and is located in the European Union
 -	The board has the duty to maintain financial records and keep an administration. The financial statements shall be filed within 30 days after approval of the shareholders meeting and within 7 months from the end of the financial year.
 -	The timeframe for setting up a limited is roughly two weeks
+
 
 
 | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//belgium/belgium-team-member-nationality-requirements.html)** |
