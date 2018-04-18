@@ -8,6 +8,7 @@ comments: true
 ---
 
 
+
 ### Foundation (Stichting)
 At this stage, Belgian law contains two kinds of foundations:
 - Public utility foundations
@@ -35,12 +36,14 @@ Other requirements
 -	Dissolving a foundation can only be done after intervention by a judge
 -	A foundation can be used for commercial purposes. Note that any profits cannot be distributed to the founders, board members or other third parties and shall be allocated to achieving the goal of the foundation.
 -	In case a foundation makes profit, it is subject to enterprise income tax (EIT) and VAT:
-o	EIT: 33.99%
-o	Lower tariff applies in case the profits are < €322,500
-♣	€0 – 25,000: 24.25%
-♣	€25,000 – 90,000: 31%
-♣	€90,000 – 322,500: 34.5%
-o	VAT: 21%
+
+  o	EIT: 33.99%
+  o	Lower tariff applies in case the profits are < €322,500
+    ♣	€0 – 25,000: 24.25%
+    ♣	€25,000 – 90,000: 31%
+    ♣	€90,000 – 322,500: 34.5%
+  o	VAT: 21%
+
 
 ### B. Limited liability company (Besloten vennootschap met beperkte aansprakelijkheid, BVBA)
 A limited is formed by means of a notarial deed that includes the AoA and the following information:
