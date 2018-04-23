@@ -6,6 +6,7 @@ title: "Canada: Tax & Auditing Requirements"
 category: canada
 comments: true
 ---
+
 #### Tax Requirements
 See [this detailed guide](http://taxsummaries.pwc.com/ID/Canada-Corporate-Taxes-on-corporate-income) to taxation in Canada.
 
@@ -26,6 +27,7 @@ According to the [Canadian Government Website](https://www.canada.ca/en/financia
 - [Detailed Guide to Taxation in Canada](http://taxsummaries.pwc.com/ID/Canada-Corporate-Taxes-on-corporate-income)
 - [Canadian Government Website Corporate Tax Rates](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/corporations/corporation-tax-rates.html)
 - [Canada Audit Requirements](https://www.ic.gc.ca/eic/site/cd-dgc.nsf/eng/cs05010.html)
----
+
+
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//canada/canada-team-member-nationality-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//canada/canada-governing-by-law.html)** |
