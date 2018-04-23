@@ -27,7 +27,9 @@ Afterwards, parepare the incorporation documents below:
 - Notice of Directors (if incorporating federally)
 - Possibly other forms on the online portal (if incorporating provincially)
 
+
 You may also need to apply for certain operating permits. You can get a personalized list of required permits on the [BizPal website](http://www.cloudacl.com/blockpage/?app=chrome_antiporn&ver=0.19.8.0&url=bizpal.ca&cid=2&nv=true&lang=en-US&raw=http%3A%2F%2Fwww.bizpal.ca%2Fen%2F).
+
 
 
 #### Non-profit
@@ -35,21 +37,15 @@ A guide for incorporating a Canada non-profit is [here](https://www.ic.gc.ca/eic
 To incorporate a Canada non-profit, you must fill out the Form 4001 and the Form 4002 (see [Federal Incorporation Forms](https://www.ic.gc.ca/eic/site/cd-dgc.nsf/eng/cs05260.html) for the details). Examples of filled out versions of the forms are available [here](https://www.ic.gc.ca/eic/site/cd-dgc.nsf/eng/cs05016.html).
 If your organization wants to issue official donation receipts and be exempt from taxation, you also must register your non-profit as a registered charity. See [this resource](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/applying-registration.html) for information about how to register as a charity.
 
+
 #### Sources: 
 - [Canada Business Incorporation Online Portal](https://www.ic.gc.ca/app/scr/cc/CorporationsCanada/hm.html?locale=en_CA)
 - [Quick Guide to Incorporation in Canada](https://www.thebalance.com/how-to-incorporate-your-business-in-canada-2948225)
 - [Official Guide to Incorporation in Canada](https://www.ic.gc.ca/eic/site/cd-dgc.nsf/eng/cs06642.html)
 - [For Legal Details, Consult the Canada Business Corporations Act](https://www.canlii.org/en/ca/laws/stat/rsc-1985-c-c-44/latest/rsc-1985-c-c-44.html)
 - [Information on how to register as a charity](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/applying-registration.html)
----
+
+
 | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//canada/canada-team-member-nationality-requirements.html)** |
 
 
-
-Team member nationality requirements
-
-For non-Canadian residents, options to incorporate a business in Canada are limited. You can form a partnership with a Canadian resident of Canada, or you can form a corporation. If you form a corporation, there is a quota of Canadian citizens on your company board of directors, different depending on province. Ordinarily, at least 25 percent of the directors of a corporation must be resident Canadians. Corporations incorporated outside of Canada can operate in Canada by either opening a branch office or incorporating a subsidiary in Canada.
-
-#### Source:
-[Non-resident business in Canada](https://www.thebalance.com/nonresident-business-in-canada-2948595)
-[Director requirements](https://www.ic.gc.ca/eic/site/cd-dgc.nsf/eng/cs06643.html#toc-01.01)
