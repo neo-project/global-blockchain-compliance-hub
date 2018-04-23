@@ -7,10 +7,11 @@ category: canada
 comments: true
 ---
 
-# Page in progress, stay tuned!
+Smart contracts are still not well-defined in Canadian law, so the answer to this question is unclear.
+#### Source: 
+- [Article: Ontario Lays a Foundation for Enforceable Smart Contracts](http://www.slaw.ca/2017/11/27/beyond-the-bitcoin-crash-ontario-law-lays-a-foundation-for-enforceable-smart-contracts/)
 
-Sources
--- 
-- 
+--- 
+
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//canada/canada-privacy-and-data-protection.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//canada/canada-smart-contracts.html)** |
