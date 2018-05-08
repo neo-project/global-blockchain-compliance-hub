@@ -17,10 +17,9 @@ Any person that is negligent in using reasonable security practices and procedur
 Under the Indian legal framework, the requirement for consent from the individual citizen is vague enough to allow for implied consent. 
 
 Sources: 
-
-[Westlaw](https://content.next.westlaw.com/Document/I02064fb41cb611e38578f7ccc38dcbee/View/FullText.html?contextData=(sc.Default)&transitionType=Default&firstPage=true&bhcp=1)
-
-[Lexology](https://www.lexology.com/library/detail.aspx?g=818a8528-f387-4ccd-b42f-080ea58ffe34)
+---
+- [Westlaw](https://content.next.westlaw.com/Document/I02064fb41cb611e38578f7ccc38dcbee/View/FullText.html?contextData=(sc.Default)&transitionType=Default&firstPage=true&bhcp=1)
+- [Lexology](https://www.lexology.com/library/detail.aspx?g=818a8528-f387-4ccd-b42f-080ea58ffe34)
 
 
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//india/india-securities-related-laws.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//india/india-final-liability.html)** |
