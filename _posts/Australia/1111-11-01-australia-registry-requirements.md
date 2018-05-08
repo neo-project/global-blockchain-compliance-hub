@@ -48,10 +48,9 @@ A [checklist for registering a company](http://asic.gov.au/for-business/register
 A not for profit company is registered in the same way. However, in Australia, not for profit entities can be registered as a company, incorporated association, or as an Australian registered body. [More details about these structures can be found on the ASIC website](http://asic.gov.au/for-business/registering-a-company/steps-to-register-a-company/registering-not-for-profit-or-charitable-organisations/#registeringcompany). 
 
 Sources:
-
-[Australian Securities and Investment Commission (ASIC)](http://asic.gov.au/) 
-
-[Australian government’s Department of Industry, Innovation and Science website](https://www.business.gov.au/)
+---
+- [Australian Securities and Investment Commission (ASIC)](http://asic.gov.au/) 
+- [Australian government’s Department of Industry, Innovation and Science website](https://www.business.gov.au/)
 
 
 | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//australia/australia-team-member-nationality-requirements.html)** |
