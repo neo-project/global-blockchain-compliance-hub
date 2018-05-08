@@ -32,8 +32,9 @@ Replaceable rules do not apply to a proprietary company if the same person is th
 [Replaceable rules outlined](asic.gov.au/for-business/registering-a-company/steps-to-register-a-company/constitution-and-replaceable-rules/replaceable-rules-outlined/) details the rules outlined in the Corporations Act and which section they're in. The content in each of those sections applies as the replaceable rule. 
 If a company wants to change or remove a replaceable rule, they will need to have a constitution that outlines the changes.
 
-Source: 
-[Australian Securities and Investment Commission (ASIC)](http://asic.gov.au/for-business/registering-a-company/steps-to-register-a-company/constitution-and-replaceable-rules/) 
+Sources:
+---
+- [Australian Securities and Investment Commission (ASIC)](http://asic.gov.au/for-business/registering-a-company/steps-to-register-a-company/constitution-and-replaceable-rules/) 
 
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//australia/australia-tax-and-auditing-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//australia/australia-laws-token-sales.html)** |
