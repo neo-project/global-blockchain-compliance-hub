@@ -8,12 +8,10 @@ comments: true
 ---
 
 
-# Page in progress, stay tuned!
+A legally enforceable smart contract must still meet all the traditional elements of a binding contract. Exhaustive information on contract law in Australia can be found on the [Monash University website](http://guides.lib.monash.edu/commercial-law/contract-law).
+Any duress, undue influence or unconscionable dealings could render a smart contract void at law. Smart contracts are thus legally binding, but do not have a special definition in Australian law.
 
-
-Sources
--- 
-- 
+Source: [Piper Alderman](https://www.piperalderman.com.au/publications/ip-technology-telecommunications/article/28836)
 
 
 
