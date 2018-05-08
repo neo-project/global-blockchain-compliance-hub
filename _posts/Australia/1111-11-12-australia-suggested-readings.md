@@ -13,7 +13,7 @@ comments: true
 [Steps to register a company provided by the  Australian Securities and Investments Commission](http://asic.gov.au/for-business/registering-a-company/steps-to-register-a-company/#after-registered) 
 
 #### Tax & auditing requirements
-[Australian tax Office’s guide to starting a business and tax related issues] (https://www.ato.gov.au/Business/Starting-your-own-business/](https://www.ato.gov.au/Business/Starting-your-own-business/Before-you-get-started/Choosing-your-business-structure/)
+[Australian tax Office’s guide to starting a business and tax related issues](https://www.ato.gov.au/Business/Starting-your-own-business/](https://www.ato.gov.au/Business/Starting-your-own-business/Before-you-get-started/Choosing-your-business-structure/)
 [The government of Queensland’s guide on tax for businesses](https://www.business.qld.gov.au/running-business/finances-cash-flow/managing-money/tax-basics) 
 
 #### Laws related to token sales, blockchain, and digital proof
