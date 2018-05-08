@@ -19,8 +19,9 @@ A foreign national or entity can hold shares to an Indian company, but this is s
 Incorporating a company with a non Indian citizen, or a foreign entity is similar to the incorporation process for a company with Indian directors and shareholders. The Foreign national or entity, during incorporation, must present additional notarised documents as a verification of identity. 
 
 Sources: 
-[India Filings “How to register a Company”](https://www.indiafilings.com/learn/indian-company-registration/)
-[India Filings “Registration process 2018 version](https://www.indiafilings.com/learn/company-registration-process-2018-version/)
+---
+- [India Filings “How to register a Company”](https://www.indiafilings.com/learn/indian-company-registration/)
+- [India Filings “Registration process 2018 version](https://www.indiafilings.com/learn/company-registration-process-2018-version/)
 
 
 
