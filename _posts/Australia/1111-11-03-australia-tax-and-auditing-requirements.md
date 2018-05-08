@@ -49,7 +49,9 @@ Complete information on the tax returns needed to be filed by business entities 
 
 Detailed information on how to report pay tax can be found on the [Australian Taxation Office website](https://www.ato.gov.au/Business/Starting-your-own-business/Reporting-and-paying-tax/)
 
-Source: [Australian Taxation Office website](https://www.ato.gov.au/)
+Sources:
+---
+- [Australian Taxation Office website](https://www.ato.gov.au/)
 
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//australia/australia-team-member-nationality-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//australia/australia-governing-by-law.html)** |
