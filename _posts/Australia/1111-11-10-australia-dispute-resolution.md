@@ -13,8 +13,9 @@ Second, the terms of use surrounding the automated parts of a smart contract are
 Third when the smart contract involves a new form of organisation called a ‘Decentralised Autonomous Organisation’ (DAO), there are further identity issues as the very nature of these new organisations is that those involved do not need to identify themselves. The relationship between these individuals within the DAO is also uncertain. While there has been no judicial consideration of just what a DAO is, it may be considered a partnership or joint venture.
 Inevitably, the authors of a smart contract, usually developers and/or lawyers, will be potential targets for claims if a smart contract executes in an unexpected way or contains a bug which is exploited.
 
-Source: 
-[Piper Alderman](https://www.piperalderman.com.au/publications/ip-technology-telecommunications/article/28836)
+Sources: 
+---
+- [Piper Alderman](https://www.piperalderman.com.au/publications/ip-technology-telecommunications/article/28836)
 
 
 
