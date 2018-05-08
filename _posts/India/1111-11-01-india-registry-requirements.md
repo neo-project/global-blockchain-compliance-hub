@@ -14,7 +14,7 @@ Main Company entities in India include:
 - One person companies: A one person company is a combination of a sole proprietorship with limited liability. This kind of corporate set-up has only one member.
 - Section 8 companies: This is a not-for-profit company formed with charitable or social objects to which all of its profits will be applied.
 
-A company can be incorporated through an online process. In order to be incorporated, companies are required to fill in the [SPICe INC-32 form] (http://www.mca.gov.in/MinistryV2/companyformsdownload.html).
+A company can be incorporated through an online process. In order to be incorporated, companies are required to fill in the [SPICe INC-32 form](http://www.mca.gov.in/MinistryV2/companyformsdownload.html).
 
 The following documents must be filed with SPICe Form INC-32 for incorporation of company:
 	- Memorandum of Association – Applicable and mandatory only in case of Section 8 company or company with foreign subscribers not having Directors Identification Number (DIN)
@@ -30,9 +30,11 @@ The following documents must be filed with SPICe Form INC-32 for incorporation o
 
 In addition, The digital signature of a professional (Chartered Accountant Company Secretary/ Cost Accountant/ Advocate) is required to file Form INC-32. The Professional must declare that all information presented in the form is correct and enter his/her membership number and certificate number.
 
-[All forms for incorporation can be found on the Ministry of Corporate affairs website] (http://www.mca.gov.in/MinistryV2/companyformsdownload.html)
-[Ministry of Corporate Affairs page on incorporating a company] (http://www.mca.gov.in/MinistryV2/incorporation_company.html)
-[Ministry of Corporate Affairs FAQs on SPICe forms] (http://www.mca.gov.in/MinistryV2/spicefaq.html)
+[All forms for incorporation can be found on the Ministry of Corporate affairs website](http://www.mca.gov.in/MinistryV2/companyformsdownload.html)
+
+[Ministry of Corporate Affairs page on incorporating a company](http://www.mca.gov.in/MinistryV2/incorporation_company.html)
+
+[Ministry of Corporate Affairs FAQs on SPICe forms](http://www.mca.gov.in/MinistryV2/spicefaq.html)
 
 #### Source: 
 [India Filings](https://www.indiafilings.com/learn/spice-inc-32-simple-form-for-incorporating-company/)
