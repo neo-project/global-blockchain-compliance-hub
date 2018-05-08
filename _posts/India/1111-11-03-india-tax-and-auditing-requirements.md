@@ -25,7 +25,8 @@ The following persons are specifically disqualified from becoming an auditor per
 The auditor is required to prepare the audit report in accordance with the Company Auditor’s Report Order (CARO) 2003. CARO requires an auditor to report on various aspects of the company, such as fixed assets, inventories, internal audit standards, internal controls, statutory dues, among others.
 The audit report must be obtained before holding the AGM, which itself should be held within six months from the end of the financial year.
 
-Source: 
+Sources
+---
 [India Briefing](https://www.india-briefing.com/news/types-audit-audit-reporting-india-6454.html/)
  
 
