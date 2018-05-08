@@ -25,12 +25,10 @@ Where a business holds an AFS Licence, the business is required to register and 
 A range of ICOs and crypto-assets are available in Australia. The laws applicable to a crypto-asset or ICO may differ depending on whether the crypto-asset or ICO is (or is not) a financial product. Detailed information on regulations of ICOs can be found on the [ASIC website](http://asic.gov.au/regulatory-resources/digital-transformation/initial-coin-offerings-and-crypto-currency/#what). 
 
 Sources:
-
-[Sophie Grace](https://sophiegrace.com.au/legal/fintech/blockchain/#pagetitle)
-
-[Australian Transaction Reports and Analysis Centre](www.austrac.gov.au/) 
-
-[Australian Securities and Investments Commission](http://asic.gov.au/)
+---
+- [Sophie Grace](https://sophiegrace.com.au/legal/fintech/blockchain/#pagetitle)
+- [Australian Transaction Reports and Analysis Centre](www.austrac.gov.au/) 
+- [Australian Securities and Investments Commission](http://asic.gov.au/)
 
 
 
