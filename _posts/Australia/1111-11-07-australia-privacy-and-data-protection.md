@@ -15,8 +15,9 @@ A key feature of Australian privacy law since a major round of legislative updat
 The current law, under the Australian Privacy Act, provides a path for the offshoring of data, but requires the transferring entity to ensure that the recipient of the data holds it in accordance with the principles of Australian privacy law. This is commonly achieved through contracts that require recipients to maintain such standards, but this is unlikely to be possible in a public blockchain context. An important consequence under Australian law is that the entity transferring the data out of Australia remains responsible for any breaches by or on behalf of the recipient entity or entities,
 meaning significant potential liability for any Australian node in a public blockchain under current rules.
 
-Source: 
-[Baker McKenzie](https://www.bakermckenzie.com/en/-/media/files/expertise/fig/br_fig_blockchainsandlaws_jul17.pdf)
+Sources:
+---
+- [Baker McKenzie](https://www.bakermckenzie.com/en/-/media/files/expertise/fig/br_fig_blockchainsandlaws_jul17.pdf)
 
 
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//australia/australia-securities-related-laws.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//australia/australia-final-liability.html)** |
