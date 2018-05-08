@@ -6,11 +6,7 @@ title: "India: Smart Contracts Definition and Legality"
 category: india
 comments: true
 ---
-# Page in progress, stay tuned!
-
-Sources
--- 
-- 
+At present, there are no laws regarding the issue of liability in the context of smart contracts in India. There is no governmental definition for the terms ‘blockchain’ and ‘smart contract’.
 
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//india/india-final-liability.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//india/india-dispute-resolution.html)** |
