@@ -7,11 +7,7 @@ category: india
 comments: true
 ---
 
-# Page in progress, stay tuned!
-
-Sources 
--- 
-- 
+Dispute resolution in the context of smart contracts has not yet been written into Indian law.
 
 
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//india/india-smart-contracts.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//india/india-nullify-smart-contracts.html)** |
