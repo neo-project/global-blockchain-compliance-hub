@@ -22,11 +22,10 @@ For listed companies, the Security Exchange Board of India (SEBI) has the follow
 A report with SEBI recommendations for corporate governance can be found on the [SEBI website](https://www.sebi.gov.in/reports/reports/oct-2017/report-of-the-committee-on-corporate-governance-for-public-comments_36178.html) 
 
 
-Source: 
-
-[UK Practical Law](https://uk.practicallaw.thomsonreuters.com/0-506-6482?transitionType=Default&contextData=(sc.Default)&firstPage=true&bhcp=1)
-
-[Mondaq](http://www.mondaq.com/india/x/456460/Shareholders/Corporate+Governance+Framework+In+India)
+Sources:
+---
+- [UK Practical Law](https://uk.practicallaw.thomsonreuters.com/0-506-6482?transitionType=Default&contextData=(sc.Default)&firstPage=true&bhcp=1)
+- [Mondaq](http://www.mondaq.com/india/x/456460/Shareholders/Corporate+Governance+Framework+In+India)
 
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//india/india-tax-and-auditing-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//india/india-laws-token-sales.html)** |
