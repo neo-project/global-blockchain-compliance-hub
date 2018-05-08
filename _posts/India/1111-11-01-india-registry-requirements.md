@@ -36,7 +36,8 @@ In addition, The digital signature of a professional (Chartered Accountant Compa
 
 [Ministry of Corporate Affairs FAQs on SPICe forms](http://www.mca.gov.in/MinistryV2/spicefaq.html)
 
-#### Source: 
+Sources: 
+---
 [India Filings](https://www.indiafilings.com/learn/spice-inc-32-simple-form-for-incorporating-company/)
  
 
