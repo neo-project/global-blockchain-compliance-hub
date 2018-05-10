@@ -44,7 +44,7 @@ Establishing a foundation requires some level of starting capital (minimum amoun
 
 ## Endowments
 **Endowments** are defined in the *French Act for the Modernization of the Economy of 4 August 2008* as:
->“a non-profit-making legal entity under private law that receives and manages, through capitalization, assets and rights of any kind >that are contributed to it free of charge and irrevocably, and uses the income from the capitalization in order to carry out work or a >mission of general interest, or redistributes this income to assist a non-profit-making legal entity in the performance of its work and >missions of general interest.” 
+>“a non-profit-making legal entity under private law that receives and manages, through capitalization, assets and rights of any kind that are contributed to it free of charge and irrevocably, and uses the income from the capitalization in order to carry out work or a mission of general interest, or redistributes this income to assist a non-profit-making legal entity in the performance of its work and missions of general interest.” 
 
 A fairly new type of not-for-profit entity in France, they have the legal status and tax benefits of foundations, but with the flexibility and simplicity of associations. Endowments can be created by registering articles with the Prefecture and declaring in the Journal Officiel. Management rules are very flexible. The only requirement is that the endowment have a managing board of directors with at least three members.  
 
