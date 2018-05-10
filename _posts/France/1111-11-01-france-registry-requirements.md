@@ -48,10 +48,10 @@ There are over a dozen different kinds of business entities in France. Each inco
 - Copy of the company formation announcement of company formation from the appropriate journal (e.g., Le Figaro, Le Monde), or a copy of the publication request made to said journal, along with its confirmation of acceptance
 - At least two copies of the articles of incorporation (aka by-laws) signed by all shareholders; these must be in French for certain types of business entities (e.g., limited companies).
 - Regarding directors and corporate officers:
--- Written nomination of the managing director (“MD”) (can be submitted as part of the articles of incorporation)
--- Passport copies
--- Signed declarations affirming the absence of criminal convictions
--- Affidavit stating name of parents
+⋅⋅- Written nomination of the managing director (“MD”) (can be submitted as part of the articles of incorporation)
+⋅⋅- Passport copies
+⋅⋅- Signed declarations affirming the absence of criminal convictions
+⋅⋅- Affidavit stating name of parents
 - Company address and proof (e.g. a copy of a lease or recent utility bill)
 - Written statement from the MD if the company is to be set up in his residence for the first two years, and proof of his residence.
 - Certificate from bank ascertaining that the amount of initial share capital has been paid by shareholders
@@ -59,17 +59,14 @@ There are over a dozen different kinds of business entities in France. Each inco
 
 Sources
 ---
-- Philanthropy Impact | [France: Charity Formation and Legal Framework] (http://www.philanthropy-impact.org/sites/default/files/downloads/France.pdf)
+- Philanthropy Impact | [France: Charity Formation and Legal Framework](http://www.philanthropy-impact.org/sites/default/files/downloads/France.pdf)
 - French Law of Associations (1901), Art. 1
-- Smart Expats | [Creating and Running a Non-Profit Association in France] (https://smartexpat.com/france/how-to-guides/work/non-profit-associations)
-- Service-public.fr (French) | [Declaring an Association (official forms)] (https://www.service-public.fr/associations/vosdroits/F1119)
-- Fondation de France | [Create a Foundation] (https://www.fondationdefrance.org/en/create-foundation) 
+- Smart Expats | [Creating and Running a Non-Profit Association in France](https://smartexpat.com/france/how-to-guides/work/non-profit-associations)
+- Service-public.fr (French) | [Declaring an Association (official forms)](https://www.service-public.fr/associations/vosdroits/F1119)
+- Fondation de France | [Create a Foundation](https://www.fondationdefrance.org/en/create-foundation) 
 - French Act for the Modernization of the Economy of 4 August 2008, Art. 140
-- International Journal of Not-for-Profit Law | [Endowment Funds: A New Development in the World of Philanthropy In France] (http://www.icnl.org/research/journal/vol12iss1/art_3.htm)
-- EuroStartEnterprises.com | [Guide on How to Open a Business in France] (http://www.eurostartentreprises.com/images/Eurostart_Brochure_PDF.pdf)
-- JustLanded.com | [How to Register a Business in France] (https://www.justlanded.com/english/France/France-Guide/Business/Paperwork) 
-
-- 
-
+- International Journal of Not-for-Profit Law | [Endowment Funds: A New Development in the World of Philanthropy In France](http://www.icnl.org/research/journal/vol12iss1/art_3.htm)
+- EuroStartEnterprises.com | [Guide on How to Open a Business in France](http://www.eurostartentreprises.com/images/Eurostart_Brochure_PDF.pdf)
+- JustLanded.com | [How to Register a Business in France](https://www.justlanded.com/english/France/France-Guide/Business/Paperwork) 
 
 | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//france/france-team-member-nationality-requirements.html)** |
