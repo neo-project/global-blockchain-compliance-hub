@@ -17,7 +17,7 @@ For more information on the French tax system, please refer to this [unofficial 
 
 Corporation tax is levied on all profits generated in France by companies and other legal entities. All EU countries except France tax worldwide profits. For foreign and French companies alike, only profits made in-country are subject to corporation tax. Conversely, companies may not claim tax deductions or exemptions for activities that do not take place in France. 
 
-(The following is an excerpt from the unofficial guide to the French tax system by the Public Finances Directorate General.) 
+*(The following is an excerpt from the unofficial guide to the French tax system by the Public Finances Directorate General.)* 
 
 “Legal entities may be liable to corporation tax:
 
