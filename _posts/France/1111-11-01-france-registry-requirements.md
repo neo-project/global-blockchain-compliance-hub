@@ -69,11 +69,11 @@ There are over a dozen different kinds of business entities in France. Each inco
 Sources
 ---
 - Philanthropy Impact | [France: Charity Formation and Legal Framework](http://www.philanthropy-impact.org/sites/default/files/downloads/France.pdf)
-- French Law of Associations (1901), Art. 1
+- *French Law of Associations (1901)*, Art. 1
 - Smart Expats | [Creating and Running a Non-Profit Association in France](https://smartexpat.com/france/how-to-guides/work/non-profit-associations)
 - Service-public.fr (French) | [Declaring an Association (official forms)](https://www.service-public.fr/associations/vosdroits/F1119)
 - Fondation de France | [Create a Foundation](https://www.fondationdefrance.org/en/create-foundation) 
-- French Act for the Modernization of the Economy of 4 August 2008, Art. 140
+- *French Act for the Modernization of the Economy of 4 August 2008*, Art. 140
 - International Journal of Not-for-Profit Law | [Endowment Funds: A New Development in the World of Philanthropy In France](http://www.icnl.org/research/journal/vol12iss1/art_3.htm)
 - EuroStartEnterprises.com | [Guide on How to Open a Business in France](http://www.eurostartentreprises.com/images/Eurostart_Brochure_PDF.pdf)
 - JustLanded.com | [How to Register a Business in France](https://www.justlanded.com/english/France/France-Guide/Business/Paperwork) 
