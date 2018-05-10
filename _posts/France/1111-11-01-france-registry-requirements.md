@@ -7,16 +7,16 @@ category: france
 comments: true
 ---
 
-# H1Non-profits
+# Non-profits
 French law recognizes three types of not-for-profit (“NPO”) organizations: associations, foundations, and endowment funds. Each have their own legal framework. 
 
-## H2 Associations
-Associations can be registered by any two persons for any purpose except for the “sharing of profits.” Founders register an association by declaring in the Journal Officiel, a daily government paper containing official declarations and information regarding new associations. Declarations may be done at the Préfecture or Sous-Préfecture levels, respective to where the association is to be located, or done [online] (https://www.service-public.fr/associations/vosdroits/F1119). Note that an non-profit association can operate undeclared in France. However, only declared associations may collect membership fees, fundraise, have an official bank account, etc.
+## Associations
+**Associations** can be registered by any two persons for any purpose except for the “sharing of profits.” Founders register an association by declaring in the Journal Officiel, a daily government paper containing official declarations and information regarding new associations. Declarations may be done at the Préfecture or Sous-Préfecture levels, respective to where the association is to be located, or done [online] (https://www.service-public.fr/associations/vosdroits/F1119). Note that an non-profit association can operate undeclared in France. However, only declared associations may collect membership fees, fundraise, have an official bank account, etc.
  
 To declare a new association, founders must provide: 
 - Name of the association (as well as any official abbreviation/acronym)
 - Purpose of the association (to be published)
-- Address of the main office [as well as that of the management office, if different (has to be physical address, not to be a P.O. box)]
+- Address of the main office, as well as that of the management office, if different **(has to be physical address, not to be a P.O. box)**
 - Copy of the minutes of the meeting at which the association was established
 - Copy of association’s statutes signed by at least two people (one administrator and one other signatory)
 
@@ -27,22 +27,22 @@ Declaration requirements and procedure are different for associations registerin
 -Associations can be profit-making as long as they are not in direct competition with a business
 -Profit making associations may be be subject to business taxes
 
-## H2Foundations
-Foundations are created to manage the collection and irrevocable assignment of goods, rights, or resources to serving the “public interest,” which in France may refer to projects that involve philanthropy, education, science, social, humanitarian, sports, family, culture, art or environment; work towards the common good (in opposition to a limited sphere of private interests); and do not seek profit.
+## Foundations
+**Foundations** are created to manage the collection and irrevocable assignment of goods, rights, or resources to serving the “public interest,” which in France may refer to projects that involve philanthropy, education, science, social, humanitarian, sports, family, culture, art or environment; work towards the common good (in opposition to a limited sphere of private interests); and do not seek profit.
 
 There are eight types of foundations: Public utility foundations (“PUF”), Corporate foundations (“CF”), Sheltered foundations (“SF”), Scientific cooperation foundations (“SCF”), University foundations (“UF”), Partnership foundations (“PF”), Endowment funds (“EF”), and Hospital foundations (“HF”). 
 
 Establishing a foundation requires some level of starting capital (minimum amount conditional upon which type of foundation is being established), and a clear purpose that serves the public interest. 
 
-## H2Endowments
-Endowments are defined in the *French Act for the Modernization of the Economy of 4 August 2008* as “a non-profit-making legal entity under private law that receives and manages, through capitalization, assets and rights of any kind that are contributed to it free of charge and irrevocably, and uses the income from the capitalization in order to carry out work or a mission of general interest, or redistributes this income to assist a non-profit-making legal entity in the performance of its work and missions of general interest.” 
+## Endowments
+**Endowments** are defined in the *French Act for the Modernization of the Economy of 4 August 2008* as “a non-profit-making legal entity under private law that receives and manages, through capitalization, assets and rights of any kind that are contributed to it free of charge and irrevocably, and uses the income from the capitalization in order to carry out work or a mission of general interest, or redistributes this income to assist a non-profit-making legal entity in the performance of its work and missions of general interest.” 
 
 A fairly new type of not-for-profit entity in France, they have the legal status and tax benefits of foundations, but with the flexibility and simplicity of associations. Endowments can be created by registering articles with the Prefecture and declaring in the Journal Officiel. Management rules are very flexible. The only requirement is that the endowment have a managing board of directors with at least three members.  
 
-# H1For-profits
-There are over a dozen different kinds of business entities in France. Each incorporation type has its benefits, liability exposure, and starting requirements. The three most common types are SARL (similar to LLC), SAS (similar to joint stock company), and SA. To register, submit an M0 form with relevant documentation to the appropriate government agencies *(A registered agent or lawyer may be helpful in this stage).* 
+# For-profits
+There are over a dozen different kinds of business entities in France. Each incorporation type has its benefits, liability exposure, and starting requirements. The three most common types are SARL (similar to LLC), SAS (similar to joint stock company), and SA. To register, submit an M0 form with relevant documentation to the appropriate government agencies *(a registered agent or lawyer may be helpful at this stage).* 
 
-General documentation requirements:
+**General documentation requirements:**
 - Unique name (not already trademarked by someone else)
 - Purpose of the company
 - Copy of the company formation announcement of company formation from the appropriate journal (e.g., Le Figaro, Le Monde), or a copy of the publication request made to said journal, along with its confirmation of acceptance
