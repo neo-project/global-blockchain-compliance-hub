@@ -30,12 +30,21 @@ Declaration requirements and procedure are different for associations registerin
 ## Foundations
 **Foundations** are created to manage the collection and irrevocable assignment of goods, rights, or resources to serving the “public interest,” which in France may refer to projects that involve philanthropy, education, science, social, humanitarian, sports, family, culture, art or environment; work towards the common good (in opposition to a limited sphere of private interests); and do not seek profit.
 
-There are eight types of foundations: Public utility foundations (“PUF”), Corporate foundations (“CF”), Sheltered foundations (“SF”), Scientific cooperation foundations (“SCF”), University foundations (“UF”), Partnership foundations (“PF”), Endowment funds (“EF”), and Hospital foundations (“HF”). 
+There are eight types of foundations: 
+- Public utility foundations
+- Corporate foundations
+- Sheltered foundations
+- Scientific cooperation foundations 
+- University foundations 
+- Partnership foundations 
+- Endowment funds *(see below)* 
+- Hospital foundations  
 
 Establishing a foundation requires some level of starting capital (minimum amount conditional upon which type of foundation is being established), and a clear purpose that serves the public interest. 
 
 ## Endowments
-**Endowments** are defined in the *French Act for the Modernization of the Economy of 4 August 2008* as “a non-profit-making legal entity under private law that receives and manages, through capitalization, assets and rights of any kind that are contributed to it free of charge and irrevocably, and uses the income from the capitalization in order to carry out work or a mission of general interest, or redistributes this income to assist a non-profit-making legal entity in the performance of its work and missions of general interest.” 
+**Endowments** are defined in the *French Act for the Modernization of the Economy of 4 August 2008* as:
+>“a non-profit-making legal entity under private law that receives and manages, through capitalization, assets and rights of any kind >that are contributed to it free of charge and irrevocably, and uses the income from the capitalization in order to carry out work or a >mission of general interest, or redistributes this income to assist a non-profit-making legal entity in the performance of its work and >missions of general interest.” 
 
 A fairly new type of not-for-profit entity in France, they have the legal status and tax benefits of foundations, but with the flexibility and simplicity of associations. Endowments can be created by registering articles with the Prefecture and declaring in the Journal Officiel. Management rules are very flexible. The only requirement is that the endowment have a managing board of directors with at least three members.  
 
