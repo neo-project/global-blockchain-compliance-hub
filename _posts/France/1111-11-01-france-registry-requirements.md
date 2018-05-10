@@ -11,7 +11,7 @@ comments: true
 French law recognizes three types of not-for-profit (“NPO”) organizations: associations, foundations, and endowment funds. Each have their own legal framework. 
 
 ## Associations
-**Associations** can be registered by any two persons for any purpose except for the “sharing of profits.” Founders register an association by declaring in the Journal Officiel, a daily government paper containing official declarations and information regarding new associations. Declarations may be done at the Préfecture or Sous-Préfecture levels, respective to where the association is to be located, or done [online] (https://www.service-public.fr/associations/vosdroits/F1119). Note that an non-profit association can operate undeclared in France. However, only declared associations may collect membership fees, fundraise, have an official bank account, etc.
+**Associations** can be registered by any two persons for any purpose except for the “sharing of profits.” Founders register an association by declaring in the Journal Officiel, a daily government paper containing official declarations and information regarding new associations. Declarations may be done at the Préfecture or Sous-Préfecture levels, respective to where the association is to be located, or done [online](https://www.service-public.fr/associations/vosdroits/F1119). Note that an non-profit association can operate undeclared in France. However, only declared associations may collect membership fees, fundraise, have an official bank account, etc.
  
 To declare a new association, founders must provide: 
 - Name of the association (as well as any official abbreviation/acronym)
@@ -23,9 +23,9 @@ To declare a new association, founders must provide:
 Other information required may include the: names, professions, addresses, and citizenships of its administrative team; website address, or a full list of association members (applicable to unions or federations).
 
 Declaration requirements and procedure are different for associations registering in Alsace-Moselle, which does not fall under the 1901 Law of Associations. Associations with a head office in the Bas-Rhin, Haut-Rhin, or Moselle should send their declaration form to the magistrate's court. Instead of publishing in the Journal Officiel, they should declare in a newspaper of legal advertisements. Other differences include:
--7 people are needed to create an association
--Associations can be profit-making as long as they are not in direct competition with a business
--Profit making associations may be be subject to business taxes
+⋅⋅7 people are needed to create an association
+⋅⋅Associations can be profit-making as long as they are not in direct competition with a business
+⋅⋅Profit making associations may be be subject to business taxes
 
 ## Foundations
 **Foundations** are created to manage the collection and irrevocable assignment of goods, rights, or resources to serving the “public interest,” which in France may refer to projects that involve philanthropy, education, science, social, humanitarian, sports, family, culture, art or environment; work towards the common good (in opposition to a limited sphere of private interests); and do not seek profit.
@@ -48,10 +48,10 @@ There are over a dozen different kinds of business entities in France. Each inco
 - Copy of the company formation announcement of company formation from the appropriate journal (e.g., Le Figaro, Le Monde), or a copy of the publication request made to said journal, along with its confirmation of acceptance
 - At least two copies of the articles of incorporation (aka by-laws) signed by all shareholders; these must be in French for certain types of business entities (e.g., limited companies).
 - Regarding directors and corporate officers:
-⋅⋅- Written nomination of the managing director (“MD”) (can be submitted as part of the articles of incorporation)
-⋅⋅- Passport copies
-⋅⋅- Signed declarations affirming the absence of criminal convictions
-⋅⋅- Affidavit stating name of parents
+⋅⋅Written nomination of the managing director (“MD”) (can be submitted as part of the articles of incorporation)
+⋅⋅Passport copies
+⋅⋅Signed declarations affirming the absence of criminal convictions
+⋅⋅Affidavit stating name of parents
 - Company address and proof (e.g. a copy of a lease or recent utility bill)
 - Written statement from the MD if the company is to be set up in his residence for the first two years, and proof of his residence.
 - Certificate from bank ascertaining that the amount of initial share capital has been paid by shareholders
