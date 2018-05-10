@@ -6,6 +6,7 @@ title: "France: Team Member Nationality Requirements"
 category: france
 comments: true
 ---
+# Team Member Nationality Requirements
 
 Citizens of EU/EEA countries (e.g., EU countries, Iceland, Liechtenstein, Norway, etc.) do not need a visa to work in France. For all other citizenships, a work permit or residency permit is needed. 
 
