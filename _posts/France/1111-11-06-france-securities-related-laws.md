@@ -2,11 +2,11 @@
 layout: post
 date: 0022-07-01
 name: securities-related-laws
-title: "France: Securities-Related Laws"
+title: "France: Securities-related Laws"
 category: france
 comments: true
 ---
-# Securities-Related Laws
+# Securities-related Laws
 The French Treasury’s proposed ICO legislation specifies that tokens that *“share the same characteristics as financial instruments would instead need to comply with regulations for public offerings of securities.”* In a [recent consultation](https://f.datasrvr.com/fr1/118/68180/Summary_of_replies_to_the_public_consultation_on_Initial_Coin_Offerings.pdf) with members of the public, AMF appeared to take a similar view, claiming that tokens could potentially be considered equity securities assuming that they provided to token holders the rights typically afforded shareholders of a traditional security. This would require an investigation, and **AMF suggested that token sales issuers attempting to operate in France reach out to secure its approval pre-ICO.** 
 
 France has two main regulated marketplaces for IPOs: Alternext and Euronext. For more information on pre-IPO requirements, please see AMF’s guidance [here](http://www.amf-france.org/en_US/Acteurs-et-produits/Societes-cotees-et-operations-financieres/Introduction-en-bourse).
