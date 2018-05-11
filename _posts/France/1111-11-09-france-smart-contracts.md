@@ -7,8 +7,8 @@ category: france
 comments: true
 ---
 
-# Page in progress, stay tuned!
-
+# Smart Contracts Definition and Legality
+France currently does not have any laws or regulations regarding smart contract technology.
 
 Sources
 -- 
