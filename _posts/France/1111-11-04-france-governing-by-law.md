@@ -6,12 +6,12 @@ title: "France: Governing Laws/Bylaw Requirements"
 category: france
 comments: true
 ---
-# Non-profit
+# Non-profits
 Governance and bylaw requirements vary depending on incorporation type. For associations, the simplest incorporation type, there are no requirements for internal management except that all members must be invited to an Annual General Meeting organized by the association’s management. 
 
 For foundations and endowment funds, it’s advised that you seek legal counsel for more in-depth guidance.
 
-# For-Profit
+# For-Profits
 Company governance requirements depend on the incorporation type. For example, SARL companies may have two directors, whereas SAS companies may only have one. SAS companies are also more flexible in the composition of their internal structure, whereas SA companies have a very rigid internal structure defined by French law. 
 
 The bylaws (also referred to as the “articles of association”) are binding on all directors and shareholders. Company bylaws are generally required to include the following:
