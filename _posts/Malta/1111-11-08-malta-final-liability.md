@@ -7,10 +7,7 @@ category: malta
 comments: true
 ---
 
-# Page in progress, stay tuned!
+Currently, there has been no specific statements made by the Maltese government related to the legal definition of the smart contracts or whether the smart contracts are binding legal contracts between the signing parties. 
 
-Sources
--- 
-- 
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//malta/malta-privacy-and-data-protection.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//malta/malta-smart-contracts.html)** |
