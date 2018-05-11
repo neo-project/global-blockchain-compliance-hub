@@ -6,8 +6,8 @@ title: "France: How is Dispute Resolution Integrated"
 category: france
 comments: true
 ---
-
-# Page in progress, stay tuned!
+# Dispute Resolution
+France currently does not have any laws or regulations regarding smart contract technology. 
 
 Sources 
 -- 

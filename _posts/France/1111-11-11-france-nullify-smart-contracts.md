@@ -7,7 +7,8 @@ category: france
 comments: true
 ---
 
-# Page in progress, stay tuned!
+# Smart Contract Nullification
+France currently does not have any laws or regulations regarding smart contract technology.
 
 Sources
 -- 

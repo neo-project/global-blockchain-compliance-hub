@@ -6,8 +6,9 @@ title: "France: Who Bears Final Responsibility and Liability"
 category: france
 comments: true
 ---
-
-# Page in progress, stay tuned!
+# Smart Contract Liability
+## Who bears final responsibility/liability in case something goes wrong? The party using the smart contract? The party that wrote the smart contract? Or the blockchain platform?
+France currently does not have any laws or regulations regarding smart contract technology. 
 
 Sources
 -- 
