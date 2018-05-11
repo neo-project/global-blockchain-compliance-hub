@@ -20,8 +20,24 @@ Corporation tax is levied on all profits generated in France by companies and ot
 *(The following is an excerpt from the unofficial guide to the French tax system by the Public Finances Directorate General.)* 
 
 “Legal entities may be liable to corporation tax:
-
-[Insert rest of this section after you figure out sub-listing.]
+- At the standard rate of 33⅓% for all their activities. A rate of 28% will apply to: 
+  - Small and medium-sized enterprises (SMEs) for profits up to €75,000 for tax years beginning on or after 1 January 2017. 
+  - All taxpayers for profits up to €500,000 for tax years beginning on or after 1 January 2018. 
+  - All taxpayers, with no cap on profits provided their turnover does not exceed €1 billion, for tax years beginning on or after 1 January 2019.
+  - All taxpayers with no caps on turnover or profits, for tax years beginning on or after 1 January 2020.
+- At the reduced rate of 15% for SMEs on the portion of profits up to €38,120. This reduced rate is reserved for companies with turnover excluding VAT of less than €7,630,000 over the tax year or tax period, reduced where relevant to twelve months. The company's capital must be fully paid-up and at least 75% must be held continuously by individuals or by a company meeting the same conditions (turnover, paying-up and holding capital). For the parent company of a group as stipulated in Article 223 A of the French General Tax Code (Code Général des Impôts, CGI), turnover is the sum of the turnover of each company in the group. 
+For tax years beginning on or after January 1, 2019, this reduced rate of 15% will be extended to SMEs whose turnover is less than €50 million. 
+- Or at the following special rates: 
+  - 0% for long-term capital gains resulting from the disposal of participating interests held for at least two years. 
+  - 0% or 15% for asset allocations or redemptions of securities carried out, under certain conditions, by “tax” venture-capital investment funds and venture-capital companies, and for long-term capital gains resulting from the disposal of units in these venture-capital investment funds and shares in these venture-capital companies, when the seller company has held these units or shares for at least five years. 
+  - 15% for income from granting licences to use patents, patentable inventions or developments thereto, or for certain industrial manufacturing processes and capital gains from the disposal of such items, and, under certain conditions, for income from granting sub-licences to use said items.
+  - 19% for long-term capital gains resulting from the sale of securities of listed companies investing predominantly in property (sociétés à prépondérance immobilière, SPI), when the seller company has held these securities for at least two years. 
+  - 19% for net capital gains booked for the sale of premises used as offices or for commercial purposes, which are scheduled to be reconverted into housing units within four years (arrangements applying to sale transactions for valuable consideration carried out by 31 December 2017). 
+  - 10%, 15% or 24% for the income from assets received by non-profit organisations. 
+- Furthermore, there are three additional corporate surtaxes and levies: 
+  - A one-off and temporary levy, equal to 10.7% of the corporation tax calculated on taxable profits, was introduced by the fourth 2011 Supplementary Budget Act and extended by the first 2014 Supplementary Budget Act. This additional levy is owed by major companies that record turnover excluding VAT of more than €250 million for the financial years ending between 31 December 2011 and 30 December 2016. 
+  - A 3% corporate surtax is owed on amounts that French and foreign companies and organisations liable to corporation tax in France distribute to their partners, shareholders or unit holders.  
+  - In addition, corporation tax payers whose turnover excluding VAT is €7.63 million or more are liable to a social contribution equal to 3.3% of the tax assessed on their taxable profits at the standard rate and at the reduced rates, minus relief that may not exceed €763,000 per twelve month period.” 
 
 ## Cryptocurrency-Related Tax Information
 The French Council of Estate recently ruled that cryptocurrency profits can be considered as capital gains from “movable property,” thus opening the door for treatment under a lower tax rate&mdash;from 45% to 19%. An additional 17.2% generalized social contribution tax would remain in effect.
