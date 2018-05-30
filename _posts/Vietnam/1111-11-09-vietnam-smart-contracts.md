@@ -6,7 +6,7 @@ title: "Vietnam: Smart Contracts Definition and Legality"
 category: vietnam
 comments: true
 ---
-# Page in progress, stay tuned!
+Vietnam has not published any laws defining Smart Contracts, though it has legal framework related to blockchain and cryptocurrencies currently pending, as of spring 2018.
 
 Sources
 -- 
