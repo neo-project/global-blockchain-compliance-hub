@@ -7,11 +7,8 @@ category: malta
 comments: true
 ---
 
-# Page in progress, stay tuned!
+The workings of smart contracts have not yet been written into Maltese law, where there is no legal definition provided. Legal liability is currently an untested and unwritten area of Maltese law, and caution should be exercised by firms working with smart contract technologies.
 
-Sources
--- 
-- 
 
 
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//malta/malta-dispute-resolution.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//malta/malta-suggested-readings.html)** |
