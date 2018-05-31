@@ -20,10 +20,10 @@ What comes to paperwork, the submission of a foreign labor use report and a reas
  
 Foreigners coming to Vietnam must obtain a visa (with certain exceptions under treaties or other reciprocal agreements) from the Vietnamese Immigration Department or Vietnamese embassies/consulate offices in foreign countries. You can apply online [here](https://vietnamvisa.govt.vn/) for a visa, and then pay a stamping fee upon arrival at the airport.
 
-In order to obtain a work permit, foreigners assigned to work in Vietnam are required to show a degree of proprietary knowledge, a special skill or a manager/ executive-level skill not readily available in the domestic labour market. Under the new Labour Code, the maximum duration of a work permit is 24 months (which can however be extended subject to certain conditions more info on page 63 [here](https://www.pwc.com/vn/en/publications/2017/dbg-2017.pdf). Detailed instructions for applying for a work permit can be found [here](https://www.vietnamvisaonline.net/article/vietnam-visa-tips/vietnam-work-permit/).
+In order to obtain a work permit, foreigners assigned to work in Vietnam are required to show a degree of proprietary knowledge, a special skill or a manager/ executive-level skill not readily available in the domestic labour market. Under the new Labour Code, the maximum duration of a work permit is 24 months (which can however be extended subject to certain conditions - more info on page 63 [here](https://www.pwc.com/vn/en/publications/2017/dbg-2017.pdf). Detailed instructions for applying for a work permit can be found [here](https://www.vietnamvisaonline.net/article/vietnam-visa-tips/vietnam-work-permit/).
 
 ### Non Profit
-After being granted with the Certificate of Registration by the competent State agency, foreign staff working for foreign non-governmental organizations shall be required to visit the Department of Labor, War Invalids and Social Affairs in the province where their office is located to register for work permits in accordance with Vietnamese legal regulations. The registration is free-of-charge. Foreign INGO directors/heads are exempt from the Work Permit requirement. Short-term volunteers -- up to three months -- should be able to stay in Vietnam without Work Permits, while long-term volunteers are obliged to follow the same procedure as full-time paid expatriates. ([Decree 12](http://ngocentre.org.vn/pipermail/ingodirectors/attachments/20120612/39ba538b/attachment-0024.pdf))
+After being granted with the Certificate of Registration by the competent State agency, foreign staff working for foreign non-governmental organizations shall be required to visit the Department of Labor, War Invalids and Social Affairs in the province where their office is located to register for work permits in accordance with Vietnamese legal regulations. The registration is free-of-charge. Foreign INGO directors/heads are exempt from the Work Permit requirement. Short-term volunteers -- up to three months -- should be able to stay in Vietnam without Work Permits, while long-term volunteers are obliged to follow the same procedure as full-time paid expatriates.
 
 **For the Heads of Project Office, Head of Representative Office, or persons officially responsible for their INGOs’ activities in Vietnam (whose names are stated in issued Certificate of Registration).**
 1.   A letter of request signed by the authorized person including following information:
@@ -47,10 +47,7 @@ After being granted with the Certificate of Registration by the competent State 
 
 ### For Profit
 Foreign nationals must have a business visa or resident card and work permits in order to work legally in Vietnam.
-
---- | Business Visa | Work Permit | Temporary Residence Card
-Validity | 1-3 months | 24 months | 24 months
-Requirements | -Business partner/employer in Vietnam | -Higher education and 3 years work experience | Possession of a work permit
+![Requirements](https://github.com/jwellsqu/global-blockchain-compliance-hub/blob/master/table1.png?raw=true "Requirements")
 
 **Business visa**
 You don’t have to acquire a work permit if your employment in Vietnam lasts less than 3 months. In that case, holding a business visa is enough. However, you need to have sponsorship or an invitation letter from a business partner in Vietnam. It is a convenient option for staying in Vietnam for a few months.
@@ -84,6 +81,6 @@ All the required certificates that are issued abroad must also be legalized in t
 - [Visa Entry Requirements PPT](http://www.ngocentre.org.vn/webfm_send/11962)
 - [Vietnam NGO Centre](http://www.ngocentre.org.vn/node/69)
 - [EmerHub Employing Foreign Workers in Vietnam](https://emerhub.com/vietnam/employing-foreign-workers-vietnam/)
-
+- [Decree 12 - NGO Regulations](http://ngocentre.org.vn/pipermail/ingodirectors/attachments/20120612/39ba538b/attachment-0024.pdf))
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//vietnam/vietnam-registry-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//vietnam/vietnam-tax-and-auditing-requirements.html)** |
