@@ -7,7 +7,7 @@ category: vietnam
 comments: true
 ---
 
-# Page in progress, stay tuned!
+There is no current legislation on smart-contracts in Vietnam.
 
 Sources
 -- 

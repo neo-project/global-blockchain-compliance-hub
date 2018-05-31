@@ -7,7 +7,7 @@ category: vietnam
 comments: true
 ---
 
-# Page in progress, stay tuned!
+Regarding securities listings, issuing organizations submitting listing dossiers are responsible for the accuracy, truthfulness and completeness of their dossiers. Listing consultancy organizations, accredited audit organizations, persons who sign audit reports and any organizations or individuals certifying listing dossiers are responsible therefor within the relevant scope.
 
 Sources
 -- 
