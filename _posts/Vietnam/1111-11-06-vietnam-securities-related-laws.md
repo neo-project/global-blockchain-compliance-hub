@@ -12,7 +12,7 @@ In 2018, the State Securities Commission (SSC) is tasked with building the revis
 Sources 
 --- 
 - [New Securities Law Aims to Clarify Procedures](http://vietnamnews.vn/economy/422178/new-securities-law-aims-to-clarify-procedures.html#w4VSBS7y22iMsIAq.99)
-- [Vietnam Law on Securities: Public Offering of Securities] (http://moj.gov.vn/vbpq/en/lists/vn%20bn%20php%20lut/view_detail.aspx?itemid=4745)
+- [Vietnam Law on Securities: Public Offering of Securities](http://moj.gov.vn/vbpq/en/lists/vn%20bn%20php%20lut/view_detail.aspx?itemid=4745)
 
 
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//vietnam/vietnam-laws-token-sales.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//vietnam/vietnam-privacy-and-data-protection.html)** |
