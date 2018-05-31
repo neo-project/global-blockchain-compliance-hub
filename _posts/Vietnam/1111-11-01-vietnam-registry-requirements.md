@@ -68,7 +68,7 @@ The application for issuance of a Permit to Operate includes: Application letter
 
 The regulatory time for PACCOM to examine and decide to issue a Permit to Operate, to set up a Project Office, or to establish a Representative Office is 45 working days. In practice, you should expect that it will take longer because PACCOM may assess the activities of the INGO and consult the opinions of the authorities in the province where the office is located or where the projects/programs will take place. The term of a Permit to Operate is three years from the date of issuance. The term of a Permit to set up a Project Office or a Permit to set up a Representative Office is five years from the date of issuance. 
 
-Read more about the INGO Registration Process [here](https://www.linvn.org/images/Resources/Memo_FormsofNPOEstablishmentinVietnam(2016)_EN.pdf).
+Read more about the INGO Registration process [here](https://www.linvn.org/images/Resources/Memo_FormsofNPOEstablishmentinVietnam(2016)_EN.pdf).
 
 From 1 June 2012, foreign NGOs in Vietnam are administered under [Decree 12/2012/ND-CP](http://ngocentre.org.vn/pipermail/ingodirectors/attachments/20120612/39ba538b/attachment-0024.pdf), which replaced the old legislative document Decision 340/TTg from 1996. 
 
