@@ -82,7 +82,7 @@ There are [at least nine](https://www.justlanded.com/english/Spain/Spain-Guide/B
 
 The process for registering a business is extensive, and the steps and requirements may differ depending your incorporation type. A registered agent or lawyer may be helpful during this process.
 
-To register, you must first [check with the Mercantile Registry](http://www.rmc.es/) to find a unique name (one not already trademarked by someone else). The Mercantile Registry will issue a **no-name certificate** guaranteeing that you have a name not already taken by another party.
+To register, you must first [check with the Mercantile Registry](http://www.rmc.es/) to find a unique name (one not already trademarked by someone else). The Mercantile Registry will issue a no-name certificate guaranteeing that you have a name not already taken by another party.
 
 Afterwards, apply for a provisional company tax ID code (“CIF”), and register for VAT. If you are a foreigner setting up a limited company, you may also need to inquire about an NIE tax ID as well. 
 
