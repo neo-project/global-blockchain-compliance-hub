@@ -9,6 +9,7 @@ comments: true
 # Team Member Nationality Requirements
 
 Citizens of EU/EEA countries and Switzerland do not need a visa to work in Spain. For most other people, a work permit is needed. However, certain types of professions (e.g., university professors, foreign journalists, technicians, etc.) are exempt from work visa requirements.  
+
 There are two types of work permits:
 - *Cuenta Ajena*
   - For those with a contact with a specific company
@@ -43,6 +44,7 @@ For the visa application process, they will need:
 - Valid passport or travel document with at least 4 months remaining before expiration
 - Certificate indicating no criminal record for acts considered criminal under Spanish laws, for the past 5 years
 - Copy of the employment contract stamped by the Immigration Office
+
 There is a fee associated with the visa application process. 
 
 If you already hold an EU Blue Card from another country, please refer to the following excerpt from the Ministry of Work and Immigration’s unofficial [guide](https://www.apply.eu/Docs/Spain-tarjeta_azul_eng.pdf) (in English):
@@ -62,14 +64,11 @@ This application can be filed together with the application of the EU blue card 
 
 If the holder of the EU blue card wishes to reunite members of his family, who are not part of the family already established in the previous Member State of residence, they must apply according to the procedure previously stated in the “Family members” paragraph.”
 
-
 Sources
 ---
 - Work Permits for Highly Qualified Foreign Professionals (EU Blue Card) | [Ministry of Work and Immigration](https://www.apply.eu/Docs/Spain-tarjeta_azul_eng.pdf)
 - Work Permits for Spain | [Expat Arrivals](http://www.expatarrivals.com/spain/work-permits-for-spain)
 - Guide to Spanish Visas | [Expatica](https://www.expatica.com/es/visas-and-permits/Work-in-Spain-Guide-to-Spanish-work-visas_103258.html)
 - Guide for EU/EEA/Swiss citizens moving to Spain | [Expatica](https://www.expatica.com/es/visas-and-permits/A-guide-for-EU-EEA-Swiss-citizens-moving-to-Spain_422591.html)  
-
-
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//spain/spain-registry-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//spain/spain-tax-and-auditing-requirements.html)** |
