@@ -6,14 +6,17 @@ title: "Spain: Non-profit/For-profit Company Registry Requirements"
 category: spain
 comments: true
 ---
-# Non-profit/For-profit Company REgistry Requirements
+# Non-profit/For-profit Company Registry Requirements
 
 ## Non-Profits
 
 Spain has three common types of non-profit entities: associations, foundations, and cooperatives. Please note that Catalonia, Basque County, Valencia, and other autonomous zones may have their own legal framework. 
 
 ### Associations
-Associations are the simplest and most flexible entity type. Any three people (or legal persons) can *“make a written agreement in which they undertake to contribute their knowledge, experience, resources and services to the attainment of the objective of the association, as well as approve the Articles of Association governing its administration.”* This document can be made public or kept private. 
+Associations are the simplest and most flexible entity type. Any three people (or legal persons) can:
+>“make a written agreement in which they undertake to contribute their knowledge, experience, resources and services to the attainment of the objective of the association, as well as approve the Articles of Association governing its administration.”* 
+This document can be made public or kept private. 
+
 To declare a new association, founders must submit:
 - Association formation minutes (“Minutes”) *(notarized)*
   - Names, nationalities of the founders of the association (whether natural or legal persons)
@@ -40,8 +43,10 @@ If profit-making (read: commercial) activities are involved, it may also be nece
  
 ### Foundations
 Foundations are formed when some amount of capital, property, or other assets is irrevocably committed toward serving the general interest. In Spain, the “general interest” may include, but is not limited to: 
-“social matters, education, culture, sports, health care, cooperation for development, environment, scientific research or volunteer work or any other public benefit purpose (open clause).” 
+>“social matters, education, culture, sports, health care, cooperation for development, environment, scientific research or volunteer work or any other public benefit purpose (open clause).” 
+
 Individuals and and legal entities may establish a foundation. A least 70% of annual income must be used for the public benefit purposes of the foundation. Foundations also may not pursue a private purpose, such as providing benefits to founders’ immediate family. 
+
 To establish a foundation, founders must have:
 - Starting capital of at least 30,000 euros (typically) 
 - Founding document
@@ -57,6 +62,7 @@ To register, first go to the Protectorate for approval of the foundation’s pur
 
 ### Cooperatives
 Cooperatives are worker-owned entities identified by their democratic governance and joint ownership. There are many types of cooperative (over a dozen), including worker cooperatives, farming cooperatives, housing cooperatives, etc. Cooperatives may be set up for both nonprofit and for-profit causes. 
+
 Cooperatives may offer certain types of benefits to members, including tax deductions, reductions on contributions to social security, etc.  
 
 
