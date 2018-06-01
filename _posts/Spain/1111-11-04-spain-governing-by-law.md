@@ -44,7 +44,7 @@ Management can be given to a single director, several directors acting jointly, 
 Sources
 --- 
 - Lex Universal | [New Right of Association Law in Spain](http://lexuniversal.com/en/articles/909)
-- Foundation
+- *Constitutional Law of 1/2002 of 22nd March, Art. 11*
 - Mariscal & Abogados Asociados | [The New Capital Company Law in Spain](https://www.mariscal-abogados.com/the-new-spanish-capital-company-law/) 
 - TBA Associates | [Incorporating a Foundation in Spain](https://www.tba-associates.com/incorporating-a-foundation-in-spain-legal-and-fiscal-profile)
 - InvestinSpain.org | [Guide to Business in Spain](http://www.investinspain.org/guidetobusiness/en/9/CAP_9_2015.pdf) 
