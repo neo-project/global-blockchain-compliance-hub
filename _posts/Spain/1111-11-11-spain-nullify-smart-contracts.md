@@ -7,7 +7,8 @@ category: spain
 comments: true
 ---
 
-# Page in progress, stay tuned!
+# Can Smart Contracts Be Nullified?
+Spain currently does not have any laws or regulations regarding smart contract technology. 
 
 Sources
 -- 
