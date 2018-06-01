@@ -74,7 +74,7 @@ Individual donors may receive a tax credit of 25%, while corporate donors may se
 Sources 
 ---
 - Coindesk | [Spanish Bitcoin Community Celebrates Bitcoin's VAT Exemption](https://www.coindesk.com/spanish-bitcoin-community-celebrate-bitcoins-vat-exemption/)
-- *Law 49/2002, Of 23 December, Tax Regime Of Non-Profit Entities And Tax Incentives To Sponsorship* [Translation](https://www.global-regulation.com/translation/spain/1450639/law-49-2002%252c-of-23-december%252c-tax-regime-of-non-profit-entities-and-tax-incentives-to-sponsorship.html) 
+- *Law 49/2002, Of 23 December, Tax Regime Of Non-Profit Entities And Tax Incentives To Sponsorship* *([Translated in English](https://www.global-regulation.com/translation/spain/1450639/law-49-2002%252c-of-23-december%252c-tax-regime-of-non-profit-entities-and-tax-incentives-to-sponsorship.html))*  
 - International Center for Not-for-Profit Law | [Spain: Law on New Non-Profit Organization Tax Regime Enters Into Fore](http://www.icnl.org/news/2003/7-Mar.html)
 - [Credit Cooperative Institutions in European Countries](https://books.google.com/books?id=wKgqDAAAQBAJ&pg=PA227&lpg=PA227&dq=spanish+law+20/1990+on+taxation+of+cooperatives&source=bl&ots=uIJVjcA7JB&sig=IYXR4dEsg_mahM5QU7NIKCuGWQQ&hl=en&sa=X&ved=0ahUKEwi8mqOD7KjbAhWMu7wKHSwBCPIQ6AEIPjAF#v=onepage&q=spanish%20law%2020%2F1990%20on%20taxation%20of%20cooperatives&f=false) 
 
