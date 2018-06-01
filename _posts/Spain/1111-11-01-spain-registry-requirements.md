@@ -114,7 +114,7 @@ Sources
 - TSI International | [National report on third sector barriers in Spain](http://thirdsectorimpact.eu/site/assets/uploads/documentations/tsi-national-report-no-8-third-sector-barriers-spain/TSI-National-Report-No-8-Spain-77p-1x-.pdf)
 - Lex Universal | [New Right of Association Law in Spain](http://lexuniversal.com/en/articles/909)
 - TBA Associates | [Incorporating a Foundation in Spain](https://www.tba-associates.com/incorporating-a-foundation-in-spain-legal-and-fiscal-profile)
-- Foundation Act 50/22, 
+- Foundation Act 50/22 
 - Expatica | [Starting a business in Spain](https://www.expatica.com/es/employment/Starting-a-business-in-Spain_101459.html)
 - Justlanded.com | [Spain guide: how to legally incorporate your company](https://www.justlanded.com/english/Spain/Spain-Guide/Business/Incorporation)
 - Welex | [What is the Mercantile Registry?](https://welex.es/mercantile-registry-registro-mercantil-spain-formalities-can-must-done-registry/)
