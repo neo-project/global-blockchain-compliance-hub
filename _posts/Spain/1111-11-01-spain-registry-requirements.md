@@ -13,10 +13,7 @@ comments: true
 Spain has three common types of non-profit entities: associations, foundations, and cooperatives. Please note that Catalonia, Basque County, Valencia, and other autonomous zones may have different and/or additional requirements. 
 
 ### Associations
-Associations are the simplest and most flexible entity type. Any three people (or legal persons) can:
->“make a written agreement in which they undertake to contribute their knowledge, experience, resources and services to the attainment of the objective of the association, as well as approve the Articles of Association governing its administration.”
-
-This document can be made public or kept private. 
+Associations are the simplest and most flexible entity type. Any three people (or legal persons) can create an association.  
 
 To declare a new association, founders must submit:
 - Association formation minutes (“Minutes”) *(notarized)*
@@ -44,14 +41,22 @@ If profit-making (read: commercial) activities are involved, it may also be nece
  
 ### Foundations
 Foundations are formed when some amount of capital, property, or other assets is irrevocably committed toward serving the general interest. In Spain, the “general interest” may include, but is not limited to: 
->“social matters, education, culture, sports, health care, cooperation for development, environment, scientific research or volunteer work or any other public benefit purpose (open clause).” 
+- Social causes
+- Education
+- Culture
+- Sports
+- Healthcare
+- Development
+- Environmental causes
+- Scientific research
+- Other public benefit purposes
 
 Individuals and and legal entities may establish a foundation. A least 70% of annual income must be used for the public benefit purposes of the foundation. Foundations also may not pursue a private purpose, such as providing benefits to founders’ immediate family. 
 
 To establish a foundation, founders must have:
 - Starting capital of at least 30,000 euros (typically) 
 - Founding document
-- Either *inter vivos* (notary deed) or *causa mortis* (will)
+- Either an *inter vivos* (notary deed) or *causa mortis* (will)
 - Name and address of founder
 - Founder purpose
 - Foundation purpose
@@ -77,7 +82,7 @@ There are [at least nine](https://www.justlanded.com/english/Spain/Spain-Guide/B
 
 The process for registering a business is extensive, and the steps and requirements may differ depending your incorporation type. A registered agent or lawyer may be helpful during this process.
 
-To register, you must first check with the Mercantile Registry to find a unique name (one not already trademarked by someone else). The Mercantile Registry will issue a **no-name certificate** guaranteeing that you have a name not already taken by another party. You can also [check by yourself](http://www.rmc.es/). This can take about three days by mail. 
+To register, you must first [check with the Mercantile Registry](http://www.rmc.es/) to find a unique name (one not already trademarked by someone else). The Mercantile Registry will issue a **no-name certificate** guaranteeing that you have a name not already taken by another party.
 
 Afterwards, apply for a provisional company tax ID code (“CIF”), and register for VAT. If you are a foreigner setting up a limited company, you may also need to inquire about an NIE tax ID as well. 
 
@@ -109,9 +114,10 @@ Sources
 - TSI International | [National report on third sector barriers in Spain](http://thirdsectorimpact.eu/site/assets/uploads/documentations/tsi-national-report-no-8-third-sector-barriers-spain/TSI-National-Report-No-8-Spain-77p-1x-.pdf)
 - Lex Universal | [New Right of Association Law in Spain](http://lexuniversal.com/en/articles/909)
 - TBA Associates | [Incorporating a Foundation in Spain](https://www.tba-associates.com/incorporating-a-foundation-in-spain-legal-and-fiscal-profile)
+- Foundation Act 50/22, 
 - Expatica | [Starting a business in Spain](https://www.expatica.com/es/employment/Starting-a-business-in-Spain_101459.html)
 - Justlanded.com | [Spain guide: how to legally incorporate your company](https://www.justlanded.com/english/Spain/Spain-Guide/Business/Incorporation)
 - Welex | [What is the Mercantile Registry?](https://welex.es/mercantile-registry-registro-mercantil-spain-formalities-can-must-done-registry/)
-- [Mercantile Registry](http://www.rmc.es) *(in Spanish)*
+- [Mercantile Registry Website](http://www.rmc.es) *(in Spanish)*
 
 | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//spain/spain-team-member-nationality-requirements.html)** |
