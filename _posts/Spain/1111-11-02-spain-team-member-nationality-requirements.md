@@ -49,7 +49,7 @@ There is a fee associated with the visa application process.
 
 If you already hold an EU Blue Card from another country, please refer to the following excerpt from the Ministry of Work and Immigration’s unofficial [guide](https://www.apply.eu/Docs/Spain-tarjeta_azul_eng.pdf) *(in English):*
 
-“Foreigners who have been holders of a EU blue card issued by another EU Member State for at least 18 months have the right to move to Spain and apply for a EU blue card in Spain. 
+'Foreigners who have been holders of a EU blue card issued by another EU Member State for at least 18 months have the right to move to Spain and apply for a EU blue card in Spain. 
 
 The application can be submitted either by the employer or by the EU blue card holder in person before entering Spain or within a month after entering Spanish territory. Applicants must submit all the documents proving the fulfilment of the requirements for an initial work and residence permit for highly qualified employment, except the visa. 
 
@@ -62,7 +62,7 @@ This application can be filed together with the application of the EU blue card 
 - A copy of the residence permit in the previous Member State, and proof of having resided there as members of the EU blue card holder’s family. 
 - Evidence that the EU blue card holder can provide adequate housing and has means as required for family reunification. 
 
-If the holder of the EU blue card wishes to reunite members of his family, who are not part of the family already established in the previous Member State of residence, they must apply according to the procedure previously stated in the “Family members” paragraph.”
+If the holder of the EU blue card wishes to reunite members of his family, who are not part of the family already established in the previous Member State of residence, they must apply according to the procedure previously stated in the “Family members” paragraph.'
 
 Sources
 ---
