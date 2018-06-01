@@ -6,6 +6,7 @@ title: "Spain: Smart Contracts Definition and Legality"
 category: spain
 comments: true
 ---
+# Smart Contracts Definition and Legality 
 Spain currently does not have any laws or regulations regarding smart contract technology. 
 
 Sources
