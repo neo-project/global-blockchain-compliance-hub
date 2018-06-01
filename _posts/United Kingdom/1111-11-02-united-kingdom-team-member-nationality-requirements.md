@@ -58,12 +58,11 @@ In order to work in the UK, foreigners may need to obtain a visa. The system is 
 
 
 Sources:
+---
   * [Simply Business: Starting a Business in the UK as a Foreign National](https://www.simplybusiness.co.uk/knowledge/articles/2009/02/2009-02-17-starting-a-business-a-guide-for-foreign-nationals-6/)
   * [Check if You Need a UK Visa](https://www.gov.uk/check-uk-visa)
   * [UK Visas and Immigration](https://www.gov.uk/government/organisations/uk-visas-and-immigration)
   * [University of Edinburgh: List of UK Visas](https://www.ed.ac.uk/human-resources/recruitment/eligibility-immigration/recruiters-guidance/uk-visas)
----
-- 
 
 
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//united-kingdom/united-kingdom-registry-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//united-kingdom/united-kingdom-tax-and-auditing-requirements.html)** |
