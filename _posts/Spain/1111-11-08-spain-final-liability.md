@@ -6,7 +6,7 @@ title: "Spain: Who Bears Final Responsibility and Liability"
 category: spain
 comments: true
 ---
-
+# Who Bears Final Responsibility and Liability
 Spain currently does not have any laws or regulations regarding smart contract technology. 
 
 Sources
