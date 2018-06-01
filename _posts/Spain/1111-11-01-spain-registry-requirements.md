@@ -10,11 +10,12 @@ comments: true
 
 ## Non-Profits
 
-Spain has three common types of non-profit entities: associations, foundations, and cooperatives. Please note that Catalonia, Basque County, Valencia, and other autonomous zones may have their own legal framework. 
+Spain has three common types of non-profit entities: associations, foundations, and cooperatives. Please note that Catalonia, Basque County, Valencia, and other autonomous zones may have different and/or additional requirements. 
 
 ### Associations
 Associations are the simplest and most flexible entity type. Any three people (or legal persons) can:
->“make a written agreement in which they undertake to contribute their knowledge, experience, resources and services to the attainment of the objective of the association, as well as approve the Articles of Association governing its administration.”* 
+>“make a written agreement in which they undertake to contribute their knowledge, experience, resources and services to the attainment of the objective of the association, as well as approve the Articles of Association governing its administration.”
+
 This document can be made public or kept private. 
 
 To declare a new association, founders must submit:
@@ -65,11 +66,52 @@ Cooperatives are worker-owned entities identified by their democratic governance
 
 Cooperatives may offer certain types of benefits to members, including tax deductions, reductions on contributions to social security, etc.  
 
+## For-Profits
+
+There are [at least nine](https://www.justlanded.com/english/Spain/Spain-Guide/Business/Business-Entities) different kinds of business entities in Spain. Each incorporation type has its benefits, liability exposure, and starting requirements. Some common and helpful types may be:
+- Sole Trader
+- Limited Liability Company (“LLC”)
+- Sociedad Limitada Nueva Empresa (“SLNE”)
+- Sociedad Anonima (“SA”)
+- Partnership 
+
+The process for registering a business is extensive, and the steps and requirements may differ depending your incorporation type. A registered agent or lawyer may be helpful during this process.
+
+To register, you must first check with the Mercantile Registry to find a unique name (one not already trademarked by someone else). The Mercantile Registry will issue a **no-name certificate** guaranteeing that you have a name not already taken by another party. You can also [check by yourself](http://www.rmc.es/). This can take about three days by mail. 
+
+Afterwards, apply for a provisional company tax ID code (“CIF”), and register for VAT. If you are a foreigner setting up a limited company, you may also need to inquire about an NIE tax ID as well. 
+
+With no-name certificate and tax ID in hand, you may then open a bank account in your company’s name. There is likely a minimum required capital deposit for your incorporation type. You will receive from the bank another document proving that you’ve paid the minimum deposit into your account. This amount may not be withdrawn until the company has been formally incorporated. This certificate will also allow you to obtain your permanent CIF later. 
+
+Next, find a notary to certify your company constitution/deed of incorporation and bylaws. At this point, your company will become legal. The company bylaws must include details such as:
+- Corporate name
+- Business purpose
+- Business address
+- Starting capital amount
+- Number of shareholders
+- Whether administrators or directors are being compensated 
+- Corporate fiscal year 
+
+After signing and notarizing the company deed, you may then activate your corporate bank account and the authorized signatories. You will also have 30 days to register your deed of incorporation with the local tax office. 
+
+Next, register with the Mercantile Registry. You will need your deed of incorporation and no-name certificate. 
+
+Lastly, go back to the tax office to complete the incorporation process. You will need to register for the tax on corporate activities *(Impuesto sobre Actividades Economicas)* and and obtain your permanent CIF. Please bring your provisional CIF certificate, deed of incorporation, and a copy of your Mercantile Registry registration.
+
+Companies will also need to register for the corporation tax *(Impuesto sobre Sociedades).* After your company has been incorporated, go to the tax office and register your company on the Census of Taxpayers. 
+
+Please note that Catalonia, Basque County, Valencia, and other autonomous zones may have different and/or additional requirements.  
 
 
 Sources
 ---
-- 
-
+- Velasco Lawyers | [How to create a nonprofit organization in Spain and its taxation](http://www.velascolawyers.com/en/company-law/100-how-to-create-a-non-profit-organisation-in-spain-and-its-taxation.html)
+- TSI International | [National report on third sector barriers in Spain](http://thirdsectorimpact.eu/site/assets/uploads/documentations/tsi-national-report-no-8-third-sector-barriers-spain/TSI-National-Report-No-8-Spain-77p-1x-.pdf)
+- Lex Universal | [New Right of Association Law in Spain](http://lexuniversal.com/en/articles/909)
+- TBA Associates | [Incorporating a Foundation in Spain](https://www.tba-associates.com/incorporating-a-foundation-in-spain-legal-and-fiscal-profile)
+- Expatica | [Starting a business in Spain](https://www.expatica.com/es/employment/Starting-a-business-in-Spain_101459.html)
+- Justlanded.com | [Spain guide: how to legally incorporate your company](https://www.justlanded.com/english/Spain/Spain-Guide/Business/Incorporation)
+- Welex | [What is the Mercantile Registry?](https://welex.es/mercantile-registry-registro-mercantil-spain-formalities-can-must-done-registry/)
+- [Mercantile Registry](http://www.rmc.es) *(in Spanish)*
 
 | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//spain/spain-team-member-nationality-requirements.html)** |
