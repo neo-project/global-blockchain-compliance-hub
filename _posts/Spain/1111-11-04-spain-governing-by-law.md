@@ -44,7 +44,8 @@ Management can be given to a single director, several directors acting jointly, 
 Sources
 --- 
 - Lex Universal | [New Right of Association Law in Spain](http://lexuniversal.com/en/articles/909)
+- Foundation
 - Mariscal & Abogados Asociados | [The New Capital Company Law in Spain](https://www.mariscal-abogados.com/the-new-spanish-capital-company-law/) 
-- InvestinSpain.org | [Guide to Business in Spain: ](http://www.investinspain.org/guidetobusiness/en/9/CAP_9_2015.pdf) 
+- InvestinSpain.org | [Guide to Business in Spain](http://www.investinspain.org/guidetobusiness/en/9/CAP_9_2015.pdf) 
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//spain/spain-tax-and-auditing-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//spain/spain-laws-token-sales.html)** |
