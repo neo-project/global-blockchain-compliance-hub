@@ -11,7 +11,7 @@ comments: true
 
 The Director-General of the National Securities Market Commission (“CNMV”) [recently announced](http://www.lavanguardia.com/vida/20180510/443474927625/economiafinanzas--la-cnmv-aplicara-la-normativa-de-valores-a-las-criptomonedas-hasta-que-haya-regulacion-europea.html)  that Spain would apply Spanish securities regulation to cryptocurrency until a mature European framework was established.
 
-CNMV also [recently clarified](https://news.bitcoin.com/spanish-regulator-approving-funds-investing-directly-cryptocurrencies/) that Spanish law offered ways by which investors could legally invest directly into cryptocurrencies. Under Law 22/2014, investors could participate in:
+CNMV also [recently clarified](https://news.bitcoin.com/spanish-regulator-approving-funds-investing-directly-cryptocurrencies/) that Spanish law offered ways by which investors could legally invest directly into cryptocurrencies. Under Law 22/2014, investors may participate in:
 - Closed-end investment funds (“FICC”)
 - Closed-end investment companies (“SICC”)
 - Closed-end collective investment entities (“EICC”)
