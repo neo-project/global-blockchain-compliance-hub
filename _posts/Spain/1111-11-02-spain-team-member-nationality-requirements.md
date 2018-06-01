@@ -47,7 +47,7 @@ For the visa application process, they will need:
 
 There is a fee associated with the visa application process. 
 
-If you already hold an EU Blue Card from another country, please refer to the following excerpt from the Ministry of Work and Immigration’s unofficial [guide](https://www.apply.eu/Docs/Spain-tarjeta_azul_eng.pdf) (in English):
+If you already hold an EU Blue Card from another country, please refer to the following excerpt from the Ministry of Work and Immigration’s unofficial [guide](https://www.apply.eu/Docs/Spain-tarjeta_azul_eng.pdf) *(in English):*
 
 “Foreigners who have been holders of a EU blue card issued by another EU Member State for at least 18 months have the right to move to Spain and apply for a EU blue card in Spain. 
 
