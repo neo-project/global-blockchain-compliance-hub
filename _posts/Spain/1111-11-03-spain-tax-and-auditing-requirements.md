@@ -52,7 +52,7 @@ Moreover, external audits are required for foundations that meet any two of the 
 - Total net amount of annual turnover exceeds 2.4 million euros
 
 ## Not-for-Profit Deductions and Exemptions
-Nonprofit organizations (“NPOs”) that satisfy certain conditions (e.g., foundations that spend at least 70% of net income on in pursuit of its general purpose) are eligible to request exemption from certain taxes on income under the Law on Patronage No 49/2002. NPOs may also request exemptions from local taxes from the appropriate tax authority. 
+Nonprofit organizations (“NPOs”) that satisfy certain conditions (e.g., foundations that spend at least 70% of net income in pursuit of its general purpose) are eligible to request exemption from certain taxes on income under the Law on Patronage No 49/2002. NPOs may also request exemptions from local taxes from the appropriate tax authority. 
 
 NPOs are exempt from corporate income tax for:
 - Donations and contributions 
