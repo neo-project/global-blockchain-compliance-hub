@@ -10,6 +10,7 @@ comments: true
 There is currently no legal framework in the UK specifically tailored for blockchain technologies and smart contracts, including their nullification.
 
 Sources:
+---
   * [Selachii: Digital Currency- Smart Contracts](https://www.selachii.co.uk/smart-contacts.html)
 
 
