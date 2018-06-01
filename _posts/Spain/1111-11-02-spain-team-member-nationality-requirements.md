@@ -25,7 +25,7 @@ Generally, you must have a job offer before obtaining a work permit. The employe
 ## EU Blue Card 
 The EU Blue Card is a work and residence permit for *highly qualified professionals,* defined as:
 
-Qualification resulting from higher education training that lasted at least 3 years and provides the degree of qualification necessary to practice a profession that demands a high level of training or to join an advanced research programme.
+>Qualification resulting from higher education training that lasted at least 3 years and provides the degree of qualification necessary to practice a profession that demands a high level of training or to join an advanced research programme.
 
 Employers who wish to apply for an EU Blue Card on behalf of a potential foreign worker can find the application [here](http://extranjeros.mtin.es). 
 
@@ -36,7 +36,7 @@ You will need:
 - Copy of the potential foreign worker’s full passport or travel documentation
 - Documents showing that you have the capital, human resources, and other materials necessary to complete this project for which you are hiring foreign workers
 - Proof of adequate training on the part of the foreign worker to fulfill this professional role
-- *(If necessary)* Certificate from the Public Employment Service indicating that there are no unemployed who could fill this position
+- *(Potentially necessary)* Certificate from the Public Employment Service indicating that there are no unemployed who could fill this position
 
 If the application is successful, the foreign worker must apply in person for a visa at the diplomatic mission or consulate where they live within a month of notification. 
 
@@ -47,7 +47,7 @@ For the visa application process, they will need:
 
 There is a fee associated with the visa application process. 
 
-If you already hold an EU Blue Card from another country, please refer to the following excerpt from the Ministry of Work and Immigration’s unofficial [guide](https://www.apply.eu/Docs/Spain-tarjeta_azul_eng.pdf) *(in English):*
+**If you already hold an EU Blue Card from another country,** please refer to the following excerpt from the Ministry of Work and Immigration’s unofficial [guide](https://www.apply.eu/Docs/Spain-tarjeta_azul_eng.pdf) *(in English):*
 
 'Foreigners who have been holders of a EU blue card issued by another EU Member State for at least 18 months have the right to move to Spain and apply for a EU blue card in Spain. 
 
@@ -66,9 +66,9 @@ If the holder of the EU blue card wishes to reunite members of his family, who a
 
 Sources
 ---
-- Work Permits for Highly Qualified Foreign Professionals (EU Blue Card) | [Ministry of Work and Immigration](https://www.apply.eu/Docs/Spain-tarjeta_azul_eng.pdf)
-- Work Permits for Spain | [Expat Arrivals](http://www.expatarrivals.com/spain/work-permits-for-spain)
-- Guide to Spanish Visas | [Expatica](https://www.expatica.com/es/visas-and-permits/Work-in-Spain-Guide-to-Spanish-work-visas_103258.html)
-- Guide for EU/EEA/Swiss citizens moving to Spain | [Expatica](https://www.expatica.com/es/visas-and-permits/A-guide-for-EU-EEA-Swiss-citizens-moving-to-Spain_422591.html)  
+- Ministry of Work and Immigration | [Work Permits for Highly Qualified Foreign Professionals (EU Blue Card)](https://www.apply.eu/Docs/Spain-tarjeta_azul_eng.pdf)
+- Expat Arrivals | [Work Permits for Spain](http://www.expatarrivals.com/spain/work-permits-for-spain)
+- Expatica | [Guide to Spanish Visas](https://www.expatica.com/es/visas-and-permits/Work-in-Spain-Guide-to-Spanish-work-visas_103258.html)
+- Expatica | [Guide for EU/EEA/Swiss citizens moving to Spain](https://www.expatica.com/es/visas-and-permits/A-guide-for-EU-EEA-Swiss-citizens-moving-to-Spain_422591.html)  
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//spain/spain-registry-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//spain/spain-tax-and-auditing-requirements.html)** |
