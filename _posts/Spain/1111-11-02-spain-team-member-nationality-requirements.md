@@ -6,7 +6,6 @@ title: "Spain: Team Member Nationality Requirements"
 category: spain
 comments: true
 ---
-# Team Member Nationality Requirements
 
 Citizens of EU/EEA countries and Switzerland do not need a visa to work in Spain. For most other people, a work permit is needed. However, certain types of professions (e.g., university professors, foreign journalists, technicians, etc.) are exempt from work visa requirements.  
 
