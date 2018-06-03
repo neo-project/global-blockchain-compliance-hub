@@ -6,7 +6,6 @@ title: "Spain: Tax & Auditing Requirements"
 category: spain
 comments: true
 ---
-# Tax and Auditing Requirements
 
 The following section is written for your general edification. The tax situation for each type of entity will vary dramatically based on factors including: industry, business activities, eligible exemptions, etc. In all cases, you are advised to seek professional tax and auditing services for a comprehensive overview of your individual situation.
 
