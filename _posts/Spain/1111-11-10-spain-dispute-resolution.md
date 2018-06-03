@@ -7,12 +7,10 @@ category: spain
 comments: true
 ---
 
-# Smart Contract Dispute Regulation
+
 Spain currently does not have any laws or regulations regarding smart contract technology. 
 
-Sources 
--- 
-- 
+
 
 
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//spain/spain-smart-contracts.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//spain/spain-nullify-smart-contracts.html)** |
