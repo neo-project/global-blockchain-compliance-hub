@@ -7,7 +7,6 @@ category: spain
 comments: true
 ---
 
-# Securities-Related Laws
 
 The Director-General of the National Securities Market Commission (“CNMV”) [recently announced](http://www.lavanguardia.com/vida/20180510/443474927625/economiafinanzas--la-cnmv-aplicara-la-normativa-de-valores-a-las-criptomonedas-hasta-que-haya-regulacion-europea.html)  that Spain would apply Spanish securities regulation to cryptocurrency until a mature European framework was established.
 
