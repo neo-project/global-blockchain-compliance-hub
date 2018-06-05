@@ -7,11 +7,8 @@ category: austria
 comments: true
 ---
 
-# Page in progress, stay tuned!
+In legal terms, there is no clear definition of “smart contract” in Austria.
 
-Sources
--- 
-- 
 
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//austria/austria-final-liability.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//austria/austria-dispute-resolution.html)** |
