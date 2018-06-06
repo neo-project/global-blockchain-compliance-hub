@@ -7,7 +7,6 @@ category: cayman-islands
 comments: true
 ---
 
-## Privacy & data protection-related laws (especially on public blockchains) ##
 
 Certain data protection rights are protected by: 
 
