@@ -7,7 +7,6 @@ category: cayman-islands
 comments: true
 ---
 
-## Team member nationality requirements ## 
 
 There are no restrictions on number of shareholders, nationality or citizenship in starting and operating a company in Cayman Islands.
 
