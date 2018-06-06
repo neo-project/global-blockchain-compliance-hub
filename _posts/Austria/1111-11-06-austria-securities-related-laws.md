@@ -80,7 +80,7 @@ For more information please check Section “Laws related to token sales, blockc
 
 - [Expert's opinion 2](https://www.bafin.de/DE/Aufsicht/FinTech/VirtualCurrency/virtual_currency_node.html)
  
-- [Coindesk review[(https://www.coindesk.com/austria-cryptocurrency-regulation-icos-gold-derivatives/)
+- [Coindesk review](https://www.coindesk.com/austria-cryptocurrency-regulation-icos-gold-derivatives/)
  
 
 
