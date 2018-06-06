@@ -6,7 +6,6 @@ title: "Cayman Islands: Smart Contracts Definition and Legality"
 category: cayman-islands
 comments: true
 ---
-## Cayman Islands: Smart Contracts Definition and Legality ##
 
 The definition of a ‘smart contract’ and whether a smart contract is legally binding (even if both parties agree to use a smart contract) 
 
@@ -25,7 +24,7 @@ The effect of the Law is that it provides a lot of latitude for new technologies
 
 ### Expert’s comments ### 
 
-https://www.stuartslaw.com/site/resources/publications_legal_updates/latest_news/cryptocurrency_cayman_islands
+- https://www.stuartslaw.com/site/resources/publications_legal_updates/latest_news/cryptocurrency_cayman_islands
 
 
 
