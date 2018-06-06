@@ -7,7 +7,6 @@ category: cayman-islands
 comments: true
 ---
 
-## Can smart contracts be nullified? How does this interact with the blockchain being immutable? ##
 
 In the Cayman Islands, smart contracts are treated the same way as traditional contracts in electronic form.  
 
@@ -49,7 +48,7 @@ where permitted by statute (currently no such statute exists).
 
 For more information please check Section _Who bears final responsibility/liability in case something goes wrong? The party using the smart contract? The party that wrote the smart contract? Or the blockchain platform?_
 
-### Source ###
+### Sources ###
 
 - [The Electronic Transactions Law (2000, 2003 Revision not found) Section 15](http://www.track.unodc.org/LegalLibrary/LegalResources/Cayman%20Islands/Laws/Cayman%20Islands%20Electronic%20Transactions%20Law%202000.pdf)
 
