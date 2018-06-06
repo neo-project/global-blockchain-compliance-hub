@@ -7,7 +7,6 @@ category: cayman-islands
 comments: true
 ---
 
-## Securities-related laws (once a token is registered or identified as a security, what are the consequences for listing the token on crypto exchanges) ##
 
 
 In the Cayman Islands, the definition of a "security" is set out in the Securities Investment Business Law (Revised) (SIBL). Unlike the definition of a security contained in the U.S. Securities Act, SIBL defines "securities" in a list of instruments that are common in today's financial markets. This list does not include an equivalent to the expansive concept of an "investment contract", and therefore one does not need to apply the four part Howey test in order to determine whether a token is a security.
