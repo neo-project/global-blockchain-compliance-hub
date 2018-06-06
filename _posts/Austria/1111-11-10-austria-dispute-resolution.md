@@ -6,7 +6,6 @@ title: "Austria: How is Dispute Resolution Integrated"
 category: austria
 comments: true
 ---
-## Austria: How is Dispute Resolution Integrated ## 
 
 As mentioned in previous section, there is no clear definition of a "smart contract" in Austrian Legal System. 
 However, we can assume that a smart contract is a technical code, implementing a traditional contract.
