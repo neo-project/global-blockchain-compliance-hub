@@ -7,7 +7,6 @@ category: austria
 comments: true
 ---
 
-## Austria: Privacy and Data Protection-related Laws ##
 
 From a legal point of view, many aspects have to be considered when applying effective legal frameworks to rather new technical systems like Blockchain – national legislation as well as EU law have to be taken into account. One of the most recent Acts on EU level creating implementation requirements of great impact for companies is [the Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.119.01.0001.01.ENG), in the following 'GDPR'), which entered into force on 25 May 2018.
 
