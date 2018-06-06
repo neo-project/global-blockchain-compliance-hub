@@ -7,7 +7,6 @@ category: austria
 comments: true
 ---
 
-## Laws related to token sales, blockchain, and digital proof ##
  
 In Austria, the cryptocurrency legislation still hasn’t been defined.
  
