@@ -7,7 +7,6 @@ category: cayman-islands
 comments: true
 ---
  
-## Tax & auditing requirements ##
 
 ### Taxes ###
 
