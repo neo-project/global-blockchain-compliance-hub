@@ -7,7 +7,6 @@ category: austria
 comments: true
 ---
 
-## Austria: Securities-Related Laws ##
 
 Austria has joined the list of countries planning to regulate cryptocurrencies and will use as a model existing rules for the trading of gold and derivatives.
 The following laws may regulate token use:
