@@ -7,7 +7,6 @@ category: cayman-islands
 comments: true
 ---
 
-## Who bears final responsibility/liability in case something goes wrong? The party using the smart contract? The party that wrote the smart contract? Or the blockchain platform? ## 
 
 According to The Cayman Islands Law Reform Commission, “Consumer Protection: Entrenching Consumer Supremacy in Cayman Islands Legislation” paper: 
   
