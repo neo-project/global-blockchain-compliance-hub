@@ -7,7 +7,6 @@ category: cayman-islands
 comments: true
 ---
 
-## Cayman Islands: How is Dispute Resolution Integrated ##
 
 If the case when deciding whether to allow the matter to proceed in the Cayman Islands. The courts usually grant a stay of proceedings commenced in breach of an agreement to refer matters to a foreign court, unless the claimant had a strong case why the proceedings should not be stayed. This requires more than simply showing that the Cayman Islands are the most convenient jurisdiction.
 
