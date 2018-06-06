@@ -6,7 +6,6 @@ title: "Cayman Islands: Laws Related to Token Sales, Blockchain, and Digital Pro
 category: cayman-islands
 comments: true
 ---
-## Laws related to token sales, blockchain, and digital proof ##
 
 The following statutory and regulatory regimes must be considered when structuring an ICO, conducting token sales, founding a token exchange, or founding a finance-related blockchain project in the Cayman Islands:
 
@@ -35,7 +34,7 @@ If the ICO relates to an investment fund or investment fund activity, the propos
 The Electronic Transactions Law (ETL) should be considered when preparing and accepting the terms and conditions or purchase agreement relating to an ICO, smart contracts or any activities related to electronic transactions. As for the smart contracts, the Electronic Transactions Law (2003 Revision) provides that information, documents and contracts (or any provision thereof) shall not be denied legal effector validity solely because it is in electronic form. Similarly, evidence of a contract (or provision thereof) shall not be denied admissibility solely because it is in electronic form and electronic signatures are also expressly permitted. The effect of the Law is that it provides a lot of latitude for new technologies meaning that new legislation should not be necessary to enable new products and services to be developed. ETL also provides a framework for  the use of electronic signatures as a digital proof.
 
 
-### Source ### 
+### Sources ### 
 
 - [The Money Services Law (2010 Revision)](http://www.cima.ky/upimages/commonfiles/1499348940MoneyServicesLaw2010Revision.pdf)
 
