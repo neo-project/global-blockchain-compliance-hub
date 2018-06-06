@@ -7,7 +7,6 @@ category: austria
 comments: true
 ---
 
-## Austria: Tax & Auditing Requirements ##
 
 Under Austrian tax law, each business is required to notify the competent tax office of its commercial or business activities, including cases where such activities are in the form of a branch office or permanent establishment. The entrepreneur will receive a questionnaire that he or she is required to complete and return to the tax office (this is usually dealt with for them by the firm’s legal or tax advisor). However, tax liability for entrepreneurial activities in Austria will arise even where such notification is not made to the Austrian tax office.
 
