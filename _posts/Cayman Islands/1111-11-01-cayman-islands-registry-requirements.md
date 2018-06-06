@@ -7,8 +7,6 @@ category: cayman-islands
 comments: true
 ---
 
-## Non-profit/for-profit company registry requirements  ##
-
 Starting a company in the Cayman Islands involves a number of items; one of them is a choosing an organisation form. There are many types for different kinds of organisational forms for different business activities, some of which are flexible and allow transformation as a business develops or requires structural changes.   
 
 For better understanding, all institutions are separated into three major categories: Companies (which include Non-profit organisations), Partnerships, and Trusts. Each category has subtypes, and organisation forms serving different purposes and periods of time. However, in spite of the complexity of business form regulations, the organisation process is not very difficult; also, there are many licensed certified firms providing registration and managing services.      
@@ -232,7 +230,7 @@ According to the Cayman Islands General Registry schedule, exempted trusts and t
 
 - [Companies Law (2013 Revision)](https://www.cmscayman.com/docs/CompaniesLaw(2013-Revision).pdf)
 
-- [Non-profit Organizations Legislation](https://www.conyersdill.com/publication-files/2017_06_CAY_New_Legislation_for_Non_Profit_Organisations_in_the_Cayman_Islands.pdf
+- [Non-profit Organizations Legislation](https://www.conyersdill.com/publication-files/2017_06_CAY_New_Legislation_for_Non_Profit_Organisations_in_the_Cayman_Islands.pdf)
 
 - [Ogier's summary on foundation a company on Cayman Islands](https://www.ogier.com/publications/foundation-companies-in-the-cayman-islands)
 
