@@ -7,8 +7,6 @@ category: austria
 comments: true
 ---
 
-## Austria: Team Member Nationality Requirements
-
 Any natural person or legal entity (i.e. in particular, incorporated entities), all registered partnership entities (such as OG or KG) and all comparable foreign entities are eligible to become shareholders of a GmbH. It is not required for a shareholder to be an Austrian citizen or to have their domicile or place of residence in Austria. A GmbH may be formed by a single shareholder (one-person formation). That sole shareholder of the GmbH may also act as the GmbH’s (sole) managing director.
 If a GmbH in Austria is formed by foreign entities, then they must provide evidence of their legal existence by acquiring confirmation of this from the competent court or Chamber of Commerce. A certified translation of this must be provided where it is not issued in German.
  
