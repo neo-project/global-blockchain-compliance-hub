@@ -6,7 +6,6 @@ title: "Cayman Islands: Suggested Readings"
 category: cayman-islands
 comments: true
 ---
-## Cayman Islands: Suggested Readings ##
 
 Please check the following links to get some information from the industry experts and lawyers:
 
@@ -20,11 +19,11 @@ Please check the following links to get some information from the industry exper
 
 - [Proshareng](https://www.proshareng.com/news/%20BlockChain%20&%20Cryptos/Structuring-an-ICO-through-the-Cayman-Islands/37141)
 
-- Online Journals: 
+Online Journals: 
 
-http://www.journal.ky/2017/10/10/cayman-vies-to-lead-blockchain-digital-id-innovation/
+- [Cayman Vies to Lead Blockchain Digital ID Innovation](http://www.journal.ky/2017/10/10/cayman-vies-to-lead-blockchain-digital-id-innovation/)
 
-http://www.cayman.finance/2017/10/structuring-ico-cayman-islands/
+- [Structuring ICOs in the Cayman Islands](http://www.cayman.finance/2017/10/structuring-ico-cayman-islands/)
 
 
 
