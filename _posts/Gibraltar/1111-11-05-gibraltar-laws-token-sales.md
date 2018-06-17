@@ -31,6 +31,40 @@ comments: true
 
 **Token Sales** [2]
 
+* In March 2018 Gibraltar’s Finance Centre Council issued a [Token Regulation Policy Document](http://gibraltarfinance.gi/20180309-token-regulation---policy-document-v2.1-final.pdf), setting out the proposed regulatory response for token regulation. 
+The proposed new legislation is set to regulate the following activities conducted from Gibraltar: 
+1) the promotion, sale and distribution of tokens;
+2) operating secondary market platforms trading in tokens; and
+3) providing investment and ancillary services relating to tokens.
+
+It is proposed that GFSC will regulate:
+1) authorised sponsors of public token offerings;
+2) secondary token market operators; and
+3) token investment and ancillary service providers.
+
+It will not regulate:
+1) technology;
+2) tokens, smart contracts or their functioning;
+3) ndividual public token offerings; or
+4) persons involved in the promotion, sale and distribution of tokens.
+
+* The March 2018 [Token Regulation Policy Document](http://gibraltarfinance.gi/20180309-token-regulation---policy-document-v2.1-final.pdf) also proposed regulating the conduct of secondary market platforms, operated in or from Gibraltar, that are used for trading tokens and, to the extent not covered by other regulations, their derivatives. The aim is to ensure such markets are fair, transparent and efficient.
+The proposed regulations are intended to:
+1) ensure organised trading takes place only on regulated platforms;
+2) establish transparency and oversight of secondary token markets;
+3) enhance investor protection;
+4) impose conduct of business rules; and
+5) encourage competition.
+
+The proposed regulations will set out requirements for:
+1) disclosure to the public of data on trading activity;
+2) disclosure of transaction data to GFSC; and
+3) specific supervisory actions concerning tokens and positions on token derivatives.
+The scope of this limb of the proposed regulations will cover secondary market trading of all tokenised digital assets
+including virtual currencies.
+This limb of the regulations will be modelled, so far as is appropriate, proportionate and relevant, on market platform
+provisions under MiFID 2 and MiFIR. Guidance may be issued by GFSC, from time to time, as appropriate.
+
 * A September 22, 2017 statement from the Gibraltar Financial Services Commission (GFSC) on September 2017 highlights the **lack of current regulation of token sales in Gibraltar**
 * This statement also noted the new DLT regulatory framework introduced above and mentioned that Gibraltar is “considering a complementary regulatory framework covering the promotion and sale of tokens, aligned with the DLT framework” 
 * As part of the same statement the GFSC issued a warning to people considering investing in tokens: “understand that tokens and ICOs are unregulated”
