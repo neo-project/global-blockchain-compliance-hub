@@ -7,11 +7,7 @@ category: argentina
 comments: true
 ---
 
-# Page in progress, stay tuned!
-
-Sources 
--- 
-- 
+There does not seem to be any regulation on th resolution of Smart Contracts in Argentina as of June 14, 2018.
 
 
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//argentina/argentina-smart-contracts.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//argentina/argentina-nullify-smart-contracts.html)** |
