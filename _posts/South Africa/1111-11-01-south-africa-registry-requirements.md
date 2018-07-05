@@ -62,7 +62,7 @@ Whether you apply by post or online, you will receive a reference number to trac
 
 If you are successful, you will receive a registration certificate. If your application is unsuccessful, however, you will receive a letter with advice to re-apply. 
 
-#### For Profit:
+### For Profit:
 In terms of the Companies Act, 2008, a company may be registered with or without a company name. When a company is registered without a reserved name, its registration number automatically becomes the company name. This is the quickest way to register a company.
 
 Such a company may transact with a trading (business) name, or may apply to add a reserved name at a later stage. In this case, the company will need to first reserve a name and then apply for a name change, which constitutes a change to its [Memorandum of Incorporation (MOI)](http://www.cipc.co.za/index.php/register-your-business/companies/moi/).
