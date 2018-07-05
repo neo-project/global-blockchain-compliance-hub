@@ -26,9 +26,10 @@ In response to the SBV statement forbidding the use of cryptocurrencies as a pay
 
 Sources 
 --- 
-1. [Vietnam Strengthens Cryptocurrency Legal Framework](http://www.vietnam-briefing.com/news/vietnam-strengthen-cryptocurrency-legal-framework.html/)
-2. [Cryptocurrency laws evolving](http://vietnamlawmagazine.vn/cryptocurrencies-to-be-strictly-managed-6212.html)
-3. [Legality of Cryptocurrency in Vietnam Remains Unclear](http://vietnamlawmagazine.vn/legality-of-cryptocurrencies-in-vietnam-remains-unclear-6170.html)
-4. Read more [here](https://coinlist.me/bitcoin/buy/vietnam)
+- [Vietnam Strengthens Cryptocurrency Legal Framework](http://www.vietnam-briefing.com/news/vietnam-strengthen-cryptocurrency-legal-framework.html/)
+- [Cryptocurrency laws evolving](http://vietnamlawmagazine.vn/cryptocurrencies-to-be-strictly-managed-6212.html)
+- [Legality of Cryptocurrency in Vietnam Remains Unclear](http://vietnamlawmagazine.vn/legality-of-cryptocurrencies-in-vietnam-remains-unclear-6170.html)
+- Read more [here](https://coinlist.me/bitcoin/buy/vietnam)
+
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//vietnam/vietnam-governing-by-law.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//vietnam/vietnam-securities-related-laws.html)** |
