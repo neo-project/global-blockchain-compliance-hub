@@ -6,6 +6,7 @@ title: "Vietnam: Team Member Nationality Requirements"
 category: vietnam
 comments: true
 ---
+
 There are no regulations that specify the ratio of foreign to local employees in companies registered in Vietnam. However, foreigners cannot hold every position.
 
 Employing foreign workers in Vietnam is only available for positions which require specific skills that cannot be found locally. As the need for foreign employees has to be justified, you cannot bring workforce from abroad for positions that locals can fill. 

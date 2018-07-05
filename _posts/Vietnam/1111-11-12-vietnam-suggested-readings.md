@@ -9,6 +9,7 @@ comments: true
 
 
 
+
 - [Vietnam Visa Process](https://vietnamvisa.govt.vn/)
 - Detailed instructions for applying for a work permit can be found [here](https://www.vietnamvisaonline.net/article/vietnam-visa-tips/vietnam-work-permit/)
 

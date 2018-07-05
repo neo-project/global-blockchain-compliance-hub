@@ -31,4 +31,5 @@ Sources
 - [Legality of Cryptocurrency in Vietnam Remains Unclear](http://vietnamlawmagazine.vn/legality-of-cryptocurrencies-in-vietnam-remains-unclear-6170.html)
 - Read more [here](https://coinlist.me/bitcoin/buy/vietnam)
 
+
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//vietnam/vietnam-governing-by-law.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//vietnam/vietnam-securities-related-laws.html)** |
