@@ -50,7 +50,7 @@ Business visa’s are designed for the holder to work in the business. Foreign i
 
 Sources
 ---
-- [Starting a Business as a foreigner in South Africa](https://www.intergate-immigration.com/starting-business-foreigner-south-africa.php).
+- [Starting a Business as a foreigner in South Africa](https://www.intergate-immigration.com/starting-business-foreigner-south-africa.php)
 - [Setting up an NGO in South Africa](https://www.intergate-immigration.com/setting-ngo-south-africa.php)
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//south-africa/south-africa-registry-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//south-africa/south-africa-tax-and-auditing-requirements.html)** |
