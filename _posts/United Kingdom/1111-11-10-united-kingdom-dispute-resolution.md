@@ -7,11 +7,11 @@ category: united-kingdom
 comments: true
 ---
 
-# Page in progress, stay tuned!
+The overall legal status of smart contracts in the UK is not entirely clear. Where a term is disputed, it is unclear how the law will decide whether a smart contract is or is not binding.
 
-Sources 
--- 
-- 
+Sources:
+---
+  * [Selachii: Digital Currency- Smart Contracts](https://www.selachii.co.uk/smart-contacts.html)
 
 
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//united-kingdom/united-kingdom-smart-contracts.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//united-kingdom/united-kingdom-nullify-smart-contracts.html)** |

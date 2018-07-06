@@ -7,7 +7,7 @@ category: austria
 comments: true
 ---
 
-# Page in progress, stay tuned!
+For more information, please check [Austrian Governance Code](http://www.corporate-governance.at/uploads/u/corpgov/files/code/corporate-governance-code-012015.pdf)
 
 
 

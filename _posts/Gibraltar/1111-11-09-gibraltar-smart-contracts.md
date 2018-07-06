@@ -7,9 +7,9 @@ category: gibraltar
 comments: true
 ---
 
-**The definition of a ‘smart contract’ and whether a smart contract is legally binding (even if both parties agree to use a smart contract)**
+Gibraltar's March 2018 [Token Regulation](http://gibraltarfinance.gi/20180309-token-regulation---policy-document-v2.1-final.pdf) does not regulate Smart Contracts or their functioning. 
 
-As discussed previously, Gibraltar’s Distributed Ledger Technology Framework will be in effect as of January 1st 2018, and is part of a larger scheme to present Gibraltar as a sound, safe, and well-regulated place to engage in business in the field. The document stipulates that any DLT providers must be granted authority to operate by the regulatory body. While the framework does not stipulate the exact definition of a smart contract and the degree to which it is legally-binding, and although the exact licensing requirements for DLT businesses are still to be introduced, it does abide by nine regulatory principles, some of which are relevant to this discussion: [1]
+Gibraltar’s Distributed Ledger Technology Framework came in effect as of January 1st 2018, and is part of a larger scheme to present Gibraltar as a sound, safe, and well-regulated place to engage in business in the field. The document stipulates that any DLT providers must be granted authority to operate by the regulatory body. While the framework does not stipulate the exact definition of a smart contract and the degree to which it is legally-binding, and although the exact licensing requirements for DLT businesses are still to be introduced, it does abide by nine regulatory principles, some of which are relevant to this discussion: [1]
 * “A DLT Provider must conduct its business with honesty and integrity” 
 * “A DLT Provider must pay due regard to the interests and needs of each and all its customers and must communicate with them in a way that is fair, clear, and not misleading”
 * “A DLT provider must have effective arrangements in place for the protection of customer assets and money when it is responsible for them”
@@ -25,6 +25,7 @@ Businesses based out of Gibraltar are offering opportunities for smart contracts
  **SOURCE**  
  [1] [GFSC.gi](http://www.gfsc.gi/uploads/DLT%20regulations%20121017%20(2).pdf)  
  [2] [Coindesk.com](https://www.coindesk.com/gibraltar-publishes-draft-regulations-for-blockchain-firms/)
+ [3] [Government of Gibraltar Token Regulations](http://gibraltarfinance.gi/20180309-token-regulation---policy-document-v2.1-final.pdf)
  
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//gibraltar/gibraltar-final-liability.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//gibraltar/gibraltar-dispute-resolution.html)** |

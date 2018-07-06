@@ -11,6 +11,6 @@ Regarding securities listings, issuing organizations submitting listing dossiers
 
 Sources
 -- 
-- 
+- [Vietnam Securities Law](http://www.vietnamlaws.com/freelaws/Lw70na29Jun06SecuritiesPARTIAL26July.pdf)
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//vietnam/vietnam-privacy-and-data-protection.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//vietnam/vietnam-smart-contracts.html)** |
