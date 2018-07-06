@@ -14,9 +14,9 @@ The simple answer is YES. The complicated part would be to ask you: is whatever 
  
 #### Here are some points to note about cryptocurrencies in general from that whitepaper:
 - Cryptocurrencies are not legal tender – according to the SARB’s definition, legal tender is simply the notes and coins that are officially issued by a bank (read section 3.2.3 of the white paper).
- - - Since cryptocurrencies do not exist in physical form, they fall outside the realms of the above definition.
- -- According to the SARB Act, 1989, the Reserve Bank governs and has sole right in the issuance and management of all currency in the form of coins and notes. These are legal tender, unlike cryptocurrency.
- - - Therefore, the use of Bitcoin (and other cryptocurrencies) to make payments is not recognized by law. In addition, a merchant is allowed by law to refuse payment made in Bitcoin.
+- - Since cryptocurrencies do not exist in physical form, they fall outside the realms of the above definition.
+- - According to the SARB Act, 1989, the Reserve Bank governs and has sole right in the issuance and management of all currency in the form of coins and notes. These are legal tender, unlike cryptocurrency.
+- - Therefore, the use of Bitcoin (and other cryptocurrencies) to make payments is not recognized by law. In addition, a merchant is allowed by law to refuse payment made in Bitcoin.
 - The SARB does not have any objection to the use of DCVC’s (cryptocurrencies) – a clause in section 2.1 of the white paper authorizes that DCVCs can be used for the purposes of trading and in exchanges. For a cryptocurrency enthusiast, this means that we are free to trade and exchange bitcoin and other cryptocurrencies in South Africa.
 - When we look at the comments in section 3.1.1 of the white paper, we note that DCVCs are recognized as a store of value. This means that Bitcoin or ETH could be converted to legal tender, just in the same way we use tokens or gift vouchers, but not as a legal form of payment.
 
