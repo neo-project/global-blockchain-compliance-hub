@@ -19,6 +19,7 @@ The UK is currently in the process of implementing a new Data Protection Act, wh
 
 
 Sources:
+---
   * [What is GDPR? The Summary Guide to GDPR Compliance in the UK](http://www.wired.co.uk/article/what-is-gdpr-uk-eu-legislation-compliance-summary-fines-2018)
   * [European Commission: Rules for Business and Organisations](https://ec.europa.eu/info/law/law-topic/data-protection/reform/rules-business-and-organisations_en)
   * [Data Protection Act 1998](http://www.legislation.gov.uk/ukpga/1998/29/contents)
@@ -27,7 +28,6 @@ Sources:
   * [Data Protection Act 2018](http://www.legislation.gov.uk/ukpga/2018/12/pdfs/ukpga_20180012_en.pdf)
   * [GDPR FAQs](https://www.eugdpr.org/gdpr-faqs.html)
   
----
-- 
+
 
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//united-kingdom/united-kingdom-securities-related-laws.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//united-kingdom/united-kingdom-final-liability.html)** |

@@ -7,11 +7,8 @@ category: vietnam
 comments: true
 ---
 
-# Page in progress, stay tuned!
+There is no current legislation on smart-contracts in Vietnam.
 
-Sources
--- 
-- 
 
 
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//vietnam/vietnam-dispute-resolution.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//vietnam/vietnam-suggested-readings.html)** |

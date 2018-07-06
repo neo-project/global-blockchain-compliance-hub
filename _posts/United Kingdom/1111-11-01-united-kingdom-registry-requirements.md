@@ -59,14 +59,13 @@ Instructions and requirements for each type of business entity can be found here
 
 
 Sources:
-
+---
   * [Companies House](https://www.gov.uk/government/organisations/companies-house)
   * [NI Business Info](https://www.nibusinessinfo.co.uk/)
   * [Privy Council Office](https://privycouncil.independent.gov.uk/)
   * [Setting Up a Social Enterprise](https://www.gov.uk/set-up-a-social-enterprise)
----
 
-- 
+
 
 
 | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//united-kingdom/united-kingdom-team-member-nationality-requirements.html)** |

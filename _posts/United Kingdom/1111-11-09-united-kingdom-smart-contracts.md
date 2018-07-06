@@ -16,6 +16,8 @@ Email messages have even been assumed by English courts to be capable of constit
 
 
 Sources:
+---
+
   * [University of Oxford: Law and Autonomous Systems Series: Defining Smart Contracts - The Search for Workable Legal Categories](https://www.law.ox.ac.uk/business-law-blog/blog/2018/05/law-and-autonomous-systems-series-defining-smart-contracts-search)
   * [Norton Rose Fulbright: Can Smart Contracts Be Legally Binding Contracts](http://www.nortonrosefulbright.com/files/r3-and-norton-rose-fulbright-white-paper-full-report-144581.pdf)
 

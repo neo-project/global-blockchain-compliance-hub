@@ -58,6 +58,7 @@ After forming a corporation, a business must undertake certain steps on an ongoi
 
 
 Sources:
+---
   * [TransLegal: A Corporation's Charter and Bylaws](https://www.translegal.com/lesson/2974)
   * [Memorandum and Articles of Association Explained](https://www.informdirect.co.uk/company-records/memorandum-and-articles-of-association-explained/)
   * [Model Articles of Association for Limited Companies](https://www.gov.uk/guidance/model-articles-of-association-for-limited-companies)
@@ -65,7 +66,6 @@ Sources:
   * [PSC Requirements for Companies and Limited Liability Partnerships](https://www.gov.uk/government/publications/guidance-to-the-people-with-significant-control-requirements-for-companies-and-limited-liability-partnerships)
   * [Accounts and Tax Returns for Private Limited Companies](https://www.gov.uk/prepare-file-annual-accounts-for-limited-company)
  
---- 
-- 
+
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//united-kingdom/united-kingdom-tax-and-auditing-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//united-kingdom/united-kingdom-laws-token-sales.html)** |

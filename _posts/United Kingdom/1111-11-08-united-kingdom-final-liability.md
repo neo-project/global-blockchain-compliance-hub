@@ -13,11 +13,10 @@ Given the absence of explicit regulations regarding smart contracts, it is still
 
 
 Sources:
+---
   * [Norton Rose Fulbright: Can Smart Contracts Be Legally Binding Contracts?](http://www.nortonrosefulbright.com/files/r3-and-norton-rose-fulbright-white-paper-full-report-144581.pdf)
   * [Singapore Academy of Law: Chwee Kin Keong and Others v Digilandmall.com Pte Ltd
 [2004] SGHC 71](http://www.singaporelaw.sg/sglaw/laws-of-singapore/case-law/free-law/high-court-judgments/22567-chwee-kin-keong-and-others-v-digilandmall-com-pte-ltd)
 
--- 
-- 
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//united-kingdom/united-kingdom-privacy-and-data-protection.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//united-kingdom/united-kingdom-smart-contracts.html)** |

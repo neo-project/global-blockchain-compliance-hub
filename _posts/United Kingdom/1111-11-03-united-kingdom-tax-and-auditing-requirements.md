@@ -52,7 +52,7 @@ When do you need to register for VAT?
 
 
 Sources:
-
+---
 * [HM Revenue Customs](https://www.gov.uk/government/organisations/hm-revenue-customs)
 * [Informi: What Taxes Do Small Businesses Pay?](https://informi.co.uk/articles/what-taxes-do-small-businesses-pay)
 * [A Guide to UK Taxation](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/183408/A_guide_to_UK_taxation.pdf)
@@ -60,7 +60,6 @@ Sources:
 * [Corporation Tax Rates and Reliefs](https://www.gov.uk/corporation-tax-rates)
 * [Business Rates](https://www.gov.uk/introduction-to-business-rates)
 * [Find and Check Your Business Rates Valuation](https://www.gov.uk/correct-your-business-rates)
----
-- 
+
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//united-kingdom/united-kingdom-team-member-nationality-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//united-kingdom/united-kingdom-governing-by-law.html)** |

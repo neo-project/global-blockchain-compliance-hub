@@ -17,6 +17,7 @@ Most recently, Mark Carney (governor of the Bank of England) has warned that cry
 
 
 Sources:
+---
   * [FCA: Cryptocurrency Derivatives](https://www.fca.org.uk/news/statements/cryptocurrency-derivatives)
   * [CoinTelegraph: How British Financial Regulator Creates A Foundation For UK Cryptocurrency Adoption](https://cointelegraph.com/news/how-british-financial-regulator-creates-a-foundation-for-uk-cryptocurrency-adoption)
   * [FCA Handbook](https://www.handbook.fca.org.uk/)
@@ -24,7 +25,7 @@ Sources:
   * [FCA: Consumer Warning About the Risks of Investing in Cryptocurrency CFDs](https://www.fca.org.uk/news/news-stories/consumer-warning-about-risks-investing-cryptocurrency-cfds)
   * [CoinTelegraph: UK’s Financial Regulator Releases Guidelines For Dealing In Crypto Derivatives](https://cointelegraph.com/news/uks-financial-regulator-releases-guidelines-for-dealing-in-crypto-derivatives)
   * [The Guardian: Bitcoin Faces Regulatory Crackdown, Bank of England Warns](https://www.theguardian.com/business/2018/mar/02/bitcoin-faces-regulatory-crackdown-bank-england-warns)
---- 
-- 
+
+
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//united-kingdom/united-kingdom-governing-by-law.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//united-kingdom/united-kingdom-securities-related-laws.html)** |
