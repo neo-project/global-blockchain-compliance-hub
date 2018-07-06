@@ -17,12 +17,12 @@ Being a registered non-profit organisation (NPO) will not only improve your chan
 An NPO can register with the NPO Directorate in the [National Department of Social Development (DSD)](http://www.dsd.gov.za/npo/index.php?option=com_content&task=view&id=13&Itemid=35). An NPO can be a trust, a company or organisation, which has a public rather than a private purpose. This means that your NPO will not operate for profit but provide services.
 
 #### Types of NPOs include:
--Non-governmental organisations (NGOs)
--Community-based organisations (CBOs)
--Faith-based organisations (FBOs)
--Organisations that have registered as Section 21 Companies under the Company Act 61 of 1973
--Trusts that have registered with Master of the Supreme Court under the Trust Property Control Act 57 of 1988
--Any other voluntary association that is not for profit
+- Non-governmental organisations (NGOs)
+- Community-based organisations (CBOs)
+- Faith-based organisations (FBOs)
+- Organisations that have registered as Section 21 Companies under the Company Act 61 of 1973
+- Trusts that have registered with Master of the Supreme Court under the Trust Property Control Act 57 of 1988
+- Any other voluntary association that is not for profit
 
 
 #### Who is responsible for NPOs?
@@ -34,9 +34,9 @@ As an NPO founder, you are encouraged to raise funds to help your organisation a
 
 _Registering your NPO_
 To register your NPO you’ll need the following documents:
--A [founding document/constitution](http://www.dsd.gov.za/npo/index2.php?option=com_docman&task=doc_view&gid=181&Itemid=39)
--A deed of trust (a written agreement used by trusts)
--The memorandum and articles of association (which set out the mission of your NPO and monitors its growth)
+- A [founding document/constitution](http://www.dsd.gov.za/npo/index2.php?option=com_docman&task=doc_view&gid=181&Itemid=39)
+- A deed of trust (a written agreement used by trusts)
+- The memorandum and articles of association (which set out the mission of your NPO and monitors its growth)
 
 
 _You can apply for registration in two ways:_
@@ -74,12 +74,12 @@ A foreign or external company is a company incorporated outside of South Africa,
 A foreign company is required to register as an “external company” with the [Companies and Intellectual Property Commission (CIPC)](http://www.cipc.co.za/index.php/register-your-business/companies/register-external-foreign-company/) if it conducts or intends to conduct business in South Africa. Section 23 of the Companies Act, 2008, lists a series of activities which will be regarded as conducting business.
 
 This list includes:
--Holding a meeting or meetings of shareholders or board of the foreign company, or otherwise conducting the internal affairs of the company;
--Establishing or maintaining any bank or other financial account;
--Establishing or maintaining offices or agencies for the transfer, exchange or registration of the foreign company’s own securities;
--Creating or acquiring any debts, mortgages, or security interests in any property;
--Acquiring any interest in intellectual property; and
--Entering into contracts of employment.
+- Holding a meeting or meetings of shareholders or board of the foreign company, or otherwise conducting the internal affairs of the company;
+- Establishing or maintaining any bank or other financial account;
+- Establishing or maintaining offices or agencies for the transfer, exchange or registration of the foreign company’s own securities;
+- Creating or acquiring any debts, mortgages, or security interests in any property;
+- Acquiring any interest in intellectual property; and
+- Entering into contracts of employment.
 
 To register an external (foreign) company, follow [these steps](http://www.cipc.co.za/index.php/register-your-business/companies/register-external-foreign-company/register-external-company/).
 
