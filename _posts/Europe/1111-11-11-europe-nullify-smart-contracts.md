@@ -7,9 +7,9 @@ category: europe
 comments: true
 ---
 
-# Page in progress, stay tuned!
+There is currently no explicit regulation governing smart contract nullification. It is most likely decided at the member state level.
 
-Sources
+
 -- 
 - 
 
