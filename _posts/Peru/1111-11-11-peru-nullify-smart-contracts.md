@@ -6,12 +6,6 @@ title: "Peru: Can Smart Contracts be Nullified?"
 category: peru
 comments: true
 ---
-
-# Page in progress, stay tuned!
-
-Sources
--- 
-- 
-
+Peruvian government authorities have not clarified an official position on this issue
 
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//peru/peru-dispute-resolution.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//peru/peru-suggested-readings.html)** |
