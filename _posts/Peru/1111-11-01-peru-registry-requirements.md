@@ -74,6 +74,11 @@ In Peru, non-governmental organization (NGO) is not a separate legal for but a s
 
 For more information on running and registering an NGO in peru please see [here](http://www.icnl.org/research/monitor/peru.html)
 
+**Further Detail**
+- [This website](https://www.healyconsultants.com/peru-company-registration/setup-llc/) includes details of the different types of business entities in Peru
+- [This video](https://www.youtube.com/watch?v=sHo-hUbOOoM)provides an overview of how to incorporate a company in Peru
+- [This link](http://www.expatperu.com/opening-business.php) has a good checklist of general requirements for setting up a business in Peru
+
 Sources
 ---
 [bizlatinhub](https://www.bizlatinhub.com/what-are-different-types-of-company-structures-in-peru/?cn-reloaded=1), [limaeasy](http://www.limaeasy.com/business-guide/how-to-set-up-company-corporation-peru), [healyconsultants](https://www.healyconsultants.com/peru-company-registration/setup-llc/) 
