@@ -76,7 +76,7 @@ For more information on running and registering an NGO in peru please see [here]
 
 Sources
 ---
-[bizlatinhub](https://www.bizlatinhub.com/what-are-different-types-of-company-structures-in-peru/?cn-reloaded=1), [limaeasy](http://www.limaeasy.com/business-guide/how-to-set-up-company-corporation-peru),[healyconsultants](https://www.healyconsultants.com/peru-company-registration/setup-llc/) 
+[bizlatinhub](https://www.bizlatinhub.com/what-are-different-types-of-company-structures-in-peru/?cn-reloaded=1), [limaeasy](http://www.limaeasy.com/business-guide/how-to-set-up-company-corporation-peru), [healyconsultants](https://www.healyconsultants.com/peru-company-registration/setup-llc/) 
 
 
 | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//peru/peru-team-member-nationality-requirements.html)** |
