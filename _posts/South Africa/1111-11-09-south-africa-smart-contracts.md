@@ -27,10 +27,33 @@ In relation to smart contracts, we suggest that the contract might be concluded 
 
 However, the parties might instead first agree terms “off the ledger”, including which parts of the agreement will be coded into self-executing instructions as a smart contract. Nothing in the ECTA prevents parties from entering into agreements that are partly physical and partly electronic, but the parties must ensure that nothing in the contract precludes them from using both methods. 
 
+#### Where a smart contract is coded to only contain the executable obligations of an agreement (while the rest of the agreement may be in physical or other electronic form), South African law allows for it to function as one agreement. 
+
+Contractual capacity – automated transactions: section 20 of the ECTA sets out the requirements when an electronic agent performs some of the actions that are required by law for an agreement to form (for example, accepting an offer). 
+
+Electronic agent is defined widely enough to include the use of distributed ledger technology and smart contracts. It allows for a situation where all the parties to a contract are using an electronic agent. 
+
+A party that chooses to use an electronic agent to form an agreement is presumed to be bound by the terms of that agreement (irrespective of whether a person reviewed the actions of the electronic agent or the terms of the agreement). However, if the terms are not capable of being reviewed by a natural person prior to the agreement forming, a party interacting with an electronic agent is not bound by the terms of this agreement. 
+
+This means that the option to review the terms needs to be available to a natural person before conclusion of a contract. If a party elects not to review the terms, that party will be bound by the terms through the electronic agent. 
+
+There are a few requirements that need to be met when a natural person interacts directly with an electronic agent and makes a material error (this may be unlikely in a smart contract scenario, as all parties should normally be participating through electronic agents rather than as natural persons). No agreement is formed if a natural person made a material error and:
+- the natural person did not have an opportunity to prevent or correct an error 98 “Electronic agent” is defined as a computer program or an electronic or other automated means used independently to initiate an action or respond to data messages or performances in whole or in part, in automated transactions.
+- the natural person notifies the other person of the error as soon as practicable after that person has learned of it
+- the natural person takes reasonable steps to return performance or destroy performance, if instructed to do so
+- the natural person has not used or received any material benefit or value from any performance received from the other person. 
+
+If smart contracts are encoded in a manner that allows for natural persons to interact with the technology, these opportunities to correct a material error made by the natural person will need to be catered for in order for the contract to become legally binding under South African law. 
+
+Formalities – “signed and in writing”: a South African court decision, Spring Forest Trading v Ecowash, potentially allows contracting parties to sign their electronic contracts by way of a data message (which is wide enough to include emails and other communication platforms such as WhatsApp and social media) by typing their name at the end of a message. 
+
+In the case, the contract was subject to a nonvariation clause stating that no variation or consensual cancellation would be valid unless reduced to writing and signed by both parties. An email signed “Greg” was held to be a signed document. In this case, a person’s name at the end of an email satisfied these requirements. It might similarly be easy for a smart contract to meet these ordinary electronic signature requirements too. 
+
+South African law lessons for smart contracts: ECTA provides some welcome clarity for the likely legal status of smart contracts under South African law. The involvement of a natural person in the contracting process does of course complicate matters under the Act and would need to be factored into a smart contract deployment involving South Africa.
 
 Sources
 -- 
-- [Can smart contracts be legally binding contracts?](https://lawsdocbox.com/Legal_Issues/72287181-Can-smart-contracts-be-legally-binding-contracts-an-r3-and-norton-rose-fulbright-white-paper.html)
+- [Can Smart Contracts Be Legally Binding Contracts?](http://www.nortonrosefulbright.com/files/r3-and-norton-rose-fulbright-white-paper-full-report-144581.pdf)
 
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//south-africa/south-africa-final-liability.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//south-africa/south-africa-dispute-resolution.html)** |
