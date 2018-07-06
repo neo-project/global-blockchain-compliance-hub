@@ -19,5 +19,4 @@ Sources:
 [2004] SGHC 71](http://www.singaporelaw.sg/sglaw/laws-of-singapore/case-law/free-law/high-court-judgments/22567-chwee-kin-keong-and-others-v-digilandmall-com-pte-ltd)
 
 
-
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//united-kingdom/united-kingdom-privacy-and-data-protection.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//united-kingdom/united-kingdom-smart-contracts.html)** |

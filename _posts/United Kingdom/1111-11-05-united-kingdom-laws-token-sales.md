@@ -27,4 +27,5 @@ Sources:
   * [The Guardian: Bitcoin Faces Regulatory Crackdown, Bank of England Warns](https://www.theguardian.com/business/2018/mar/02/bitcoin-faces-regulatory-crackdown-bank-england-warns)
 
 
+
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//united-kingdom/united-kingdom-governing-by-law.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//united-kingdom/united-kingdom-securities-related-laws.html)** |
