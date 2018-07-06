@@ -6,7 +6,7 @@ title: "Peru: Smart Contracts Definition and Legality"
 category: peru
 comments: true
 ---
-As mentioned above, Peru does not developed Distributed Ledger Technology laws or laws regarding smart contracts at this time.
+As mentioned above, Peru has not developed Distributed Ledger Technology laws or laws regarding smart contracts at this time.
 
 However, interest in developing smart contracts has been expressed in the past, particularly by Peru Possible a centre-leaning party led by former president Alejando Toledo. Reyes, a policy director for Toledo’s campaign released a [blog post](https://medium.com/competitividad-y-desarrollo/es-posible-revertir-la-desconfianza-9e096aff362c) extolling the merits of smart contracts. In 2015 but no movement to embrace smart contracts has been observed 
 
