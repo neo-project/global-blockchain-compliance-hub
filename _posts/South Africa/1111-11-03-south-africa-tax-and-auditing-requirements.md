@@ -117,7 +117,7 @@ CIT is applicable (but not limited) to the following companies which are liable 
 - Public Benefit Companies.
  
 #### What steps must I take?
--Register as taxpayer
+- Register as taxpayer
 - - Every business liable to taxation, under the Income Tax Act, 1962, is required to register with SARS as a taxpayer.  You can register once for all different tax types using the [client information system](http://www.sars.gov.za/ClientSegments/Pages/Changes-to-Tax-Registration.aspx).
 - - _(Top Tip: You must make sure your business details are up to date before you submit your ITR14. So visit our [keeping my business details up to date](http://www.sars.gov.za/TaxTypes/CIT/Pages/Keeping-my-bank-details-up-to-date.aspx) to find out how to do this._ 
 - Submit annual tax return)
