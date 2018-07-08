@@ -17,7 +17,7 @@ There is no court judgment or official guidance on the EU level that serves as t
 
 
 Sources 
-
+---
   * [Crypto-Securities Regulation: ICOs, Token Sales and Cryptocurrencies under EU Financial Law](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3075820)
   * [Markets in Financial Instruments (MiFID II)](https://ec.europa.eu/info/law/markets-financial-instruments-mifid-ii-directive-2014-65-eu_en)
   * [Prospectus Regulation](https://ec.europa.eu/info/law/prospectus-regulation-eu-2017-1129_en)
@@ -26,8 +26,7 @@ Sources
   * [Dentons: ICOs- The Necessity of a European Regulatory Framework for Tokens](https://www.dentons.com/en/insights/articles/2018/march/1/icos-the-necessity-of-a-european-regulatory-framework-for-tokens)
   * [ICOs in the EU: How Will the 'Slow Giant' Regulate Tokens?](https://www.coindesk.com/icos-eu-will-slow-giant-regulate-tokens/)
  
---- 
-- 
+
 
 
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//europe/europe-laws-token-sales.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//europe/europe-privacy-and-data-protection.html)** |
