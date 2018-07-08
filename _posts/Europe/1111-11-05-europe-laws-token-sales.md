@@ -28,7 +28,7 @@ With regard to blockchain, the European Commission has been supportive and inter
 
 
 Sources 
-
+---
   * [Library of Congress: Regulation of Bitcoin in Selected Jurisdictions](https://www.loc.gov/law/help/bitcoin-survey/#eu)
   * [European Central Bank: Virtual Currency Schemes](http://www.ecb.europa.eu/pub/pdf/other/virtualcurrencyschemes201210en.pdf)
   * [Electronic Money Directive](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:267:0007:0017:EN:PDF)
@@ -44,7 +44,6 @@ Sources
   * [Crypto-Securities Regulation: ICOs, Token Sales and Cryptocurrencies under EU Financial Law](https://www.law.ox.ac.uk/business-law-blog/blog/2018/01/crypto-securities-regulation-icos-token-sales-and-cryptocurrencies)
   * [European Countries Join Blockchain Partnership](https://ec.europa.eu/digital-single-market/en/news/european-countries-join-blockchain-partnership)
 
---- 
-- 
+
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//europe/europe-governing-by-law.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//europe/europe-securities-related-laws.html)** |
