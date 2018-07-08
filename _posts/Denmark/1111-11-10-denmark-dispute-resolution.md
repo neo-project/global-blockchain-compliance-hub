@@ -12,9 +12,7 @@ For EU regulation, please visit [Europe: How is Dispute Resolution Integrated](h
 There is currently no legal framework in Denmark specifically tailored for smart contracts.
 
 
-Sources 
--- 
-- 
+
 
 
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//denmark/denmark-smart-contracts.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//denmark/denmark-nullify-smart-contracts.html)** |
