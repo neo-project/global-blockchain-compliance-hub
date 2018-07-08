@@ -6,6 +6,7 @@ title: "Spain: Tax & Auditing Requirements"
 category: spain
 comments: true
 ---
+# Tax and Auditing Requirements
 
 The following section is written for your general edification. The tax situation for each type of entity will vary dramatically based on factors including: industry, business activities, eligible exemptions, etc. In all cases, you are advised to seek professional tax and auditing services for a comprehensive overview of your individual situation.
 
@@ -68,6 +69,7 @@ For non-exempt income, the taxable base is subject to a reduced corporate income
 
 ## Exemptions and Deductions for Giving Donations
 Individual donors may receive a tax credit of 25%, while corporate donors may see a tax credit of 35%. Increases of up to 5% may be given if the donation aligns with priority activities. 
+
 
 
 Sources 

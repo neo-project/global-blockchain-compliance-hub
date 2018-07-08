@@ -7,6 +7,7 @@ category: spain
 comments: true
 ---
 
+For EU regulations, please visit [EU Laws Related to Token Sales, Blockchain, and Digital Proof](https://neo-project.github.io/global-blockchain-compliance-hub//europe/europe-laws-token-sales.html).
 
 The Director-General of the National Securities Market Commission (“CNMV”) [recently announced](http://www.lavanguardia.com/vida/20180510/443474927625/economiafinanzas--la-cnmv-aplicara-la-normativa-de-valores-a-las-criptomonedas-hasta-que-haya-regulacion-europea.html)  that Spain would apply Spanish securities regulation to cryptocurrency until a mature European framework was established.
 

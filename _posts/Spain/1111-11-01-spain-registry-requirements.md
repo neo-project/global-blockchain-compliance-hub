@@ -6,6 +6,7 @@ title: "Spain: Non-profit/For-profit Company Registry Requirements"
 category: spain
 comments: true
 ---
+# Non-profit/For-profit Company Registry Requirements
 
 ## Non-Profits
 
