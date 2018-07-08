@@ -24,7 +24,7 @@ In April 2018, the European Commission announced that 22 European countries sign
 Overall, Denmark is considered friendly to cryptocurrencies and blockchain, with the Danish Central Bank even thinking about using blockchain to create “E-Krone,” a digital currency. While cryptocurrencies are not permitted in online casinos regulated in Denmark, some Danish political parties even accept bitcoin campaign contributions.
 
 Sources 
-
+--- 
   * [Library of Congress: Regulation of Bitcoin in Selected Jurisdictions-Denmark](https://www.loc.gov/law/help/bitcoin-survey/#denmark)
   * [FSA Statement on Virtual Currencies](https://web.archive.org/web/20131217113641/http://www.finanstilsynet.dk/da/Nyhedscenter/Pressemeddelelser/2013/Advarsel-mod-virtuelle-valutaer-bitcom-mfl-2013.aspx)
   * [FSA Statement on ICOs](https://www.finanstilsynet.dk/Nyheder-og-Presse/Sektornyt/2017/Orientering-om-ICO?sc_lang=en)
@@ -35,7 +35,6 @@ Sources
   * [Denmark's Biggest Bank Bans Trades In Cryptocurrencies](https://www.forbes.com/sites/heatherfarmbrough/2018/03/28/denmarks-biggest-bank-bans-trades-in-cryptocurrencies/#4a141a51611b)
   * [Denmark Joins European Partnership](https://www.blockchain24.co/denmark-joins-european-partnership-coinbase-meets-japan/)
   * [Denmark Joins EU Blockchain Partnership, Plans to Implement Tech in Shipping](https://cointelegraph.com/news/denmark-joins-eu-blockchain-partnership-plans-to-implement-tech-in-shipping)
---- 
-- 
+
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//denmark/denmark-governing-by-law.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//denmark/denmark-securities-related-laws.html)** |
