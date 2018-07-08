@@ -7,11 +7,6 @@ category: poland
 comments: true
 ---
 
-# Page in progress, stay tuned!
-
-Sources 
--- 
-- 
-
+There does not seem to be any regulation on the validity of Smart Contracts in the E.U. or in Poland as of May 31, 2018.
 
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//poland/poland-smart-contracts.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//poland/poland-nullify-smart-contracts.html)** |

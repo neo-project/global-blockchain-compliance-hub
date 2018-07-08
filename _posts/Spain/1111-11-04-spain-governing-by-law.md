@@ -6,7 +6,7 @@ title: "Spain: Governing Laws/Bylaw Requirements"
 category: spain
 comments: true
 ---
-# Governance/Bylaw Requirements
+
 ## Non-Profits
 
 Governance and bylaw requirements vary depending on incorporation type. 

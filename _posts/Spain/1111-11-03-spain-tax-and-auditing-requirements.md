@@ -71,6 +71,7 @@ For non-exempt income, the taxable base is subject to a reduced corporate income
 Individual donors may receive a tax credit of 25%, while corporate donors may see a tax credit of 35%. Increases of up to 5% may be given if the donation aligns with priority activities. 
 
 
+
 Sources 
 ---
 - Coindesk | [Spanish Bitcoin Community Celebrates Bitcoin's VAT Exemption](https://www.coindesk.com/spanish-bitcoin-community-celebrate-bitcoins-vat-exemption/)

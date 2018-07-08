@@ -7,10 +7,7 @@ category: spain
 comments: true
 ---
 
-# Suggested Readings 
 
-Sources 
--- 
 - Velasco Lawyers | [How to create a nonprofit organization in Spain and its taxation](http://www.velascolawyers.com/en/company-law/100-how-to-create-a-non-profit-organisation-in-spain-and-its-taxation.html)
 - TSI International | [National report on third sector barriers in Spain](http://thirdsectorimpact.eu/site/assets/uploads/documentations/tsi-national-report-no-8-third-sector-barriers-spain/TSI-National-Report-No-8-Spain-77p-1x-.pdf)
 - Lex Universal | [New Right of Association Law in Spain](http://lexuniversal.com/en/articles/909)

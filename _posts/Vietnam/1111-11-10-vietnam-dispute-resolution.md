@@ -9,9 +9,7 @@ comments: true
 
 There is no current legislation on smart-contract-related dispute resolution in Vietnam.
 
-Sources 
--- 
-- 
+
 
 
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//vietnam/vietnam-smart-contracts.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//vietnam/vietnam-nullify-smart-contracts.html)** |

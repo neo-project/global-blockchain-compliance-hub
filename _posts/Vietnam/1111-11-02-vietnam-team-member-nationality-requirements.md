@@ -9,6 +9,10 @@ comments: true
 ## Vietnam: Team Member Nationality Requirements
 There are no regulations that specify the ratio of foreign to local employees in companies registered in Vietnam. However, foreigners cannot hold every position.
 
+
+=======
+There are no regulations that specify the ratio of foreign to local employees in companies registered in Vietnam. However, foreigners cannot hold every position.
+
 Employing foreign workers in Vietnam is only available for positions which require specific skills that cannot be found locally. As the need for foreign employees has to be justified, you cannot bring workforce from abroad for positions that locals can fill. 
 
 In reality, it is not difficult to prove the need for a skilled foreign employee. For example, having most of your clients from abroad would already be a sufficient reason for hiring an English-speaking foreigner. Hiring foreign workers is justified if the position has some specific requirements that cannot be found in Vietnam. For example, when you need someone with:
@@ -48,6 +52,7 @@ After being granted with the Certificate of Registration by the competent State 
 ### For Profit
 Foreign nationals must have a business visa or resident card and work permits in order to work legally in Vietnam.
 ![Requirements](https://github.com/jwellsqu/global-blockchain-compliance-hub/blob/master/table1.png?raw=true "Requirements")
+
 
 **Business visa**
 You don’t have to acquire a work permit if your employment in Vietnam lasts less than 3 months. In that case, holding a business visa is enough. However, you need to have sponsorship or an invitation letter from a business partner in Vietnam. It is a convenient option for staying in Vietnam for a few months.

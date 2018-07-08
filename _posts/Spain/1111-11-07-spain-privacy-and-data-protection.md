@@ -7,7 +7,7 @@ category: spain
 comments: true
 ---
 
-# Privacy and Data Protection-related Laws
+For EU’s GDPR regulation, please visit [Europe: Privacy and Data Protection-related Laws](https://neo-project.github.io/global-blockchain-compliance-hub//europe/europe-privacy-and-data-protection.html)
 
 Spain abides by the EU General Data Protection Regulation (“GDPR”), which regulates data protection and privacy for individuals as well as the export of said data outside of the EU. GDPR came into effect in May 2018. Among other requirements, GDPR mandates that businesses operate by the principles of data “protection by design” and “data protection by default,” building data privacy into the design of the business itself through measures such as the anonymization or pseudonymization of user data. Designers of public blockchains should take care to comply with GDPR, which can hold against violators fines of up to 20 million euros or 4% of annual global turnover, whichever is higher. 
 

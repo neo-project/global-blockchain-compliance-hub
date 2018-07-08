@@ -7,12 +7,11 @@ category: spain
 comments: true
 ---
 
-# Can Smart Contracts Be Nullified?
+For EU regulation, please visit [Europe: Can Smart Contracts be Nullified?](https://neo-project.github.io/global-blockchain-compliance-hub//europe/europe-nullify-smart-contracts.html).
+
 Spain currently does not have any laws or regulations regarding smart contract technology. 
 
-Sources
--- 
-- 
+
 
 
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//spain/spain-dispute-resolution.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//spain/spain-suggested-readings.html)** |
