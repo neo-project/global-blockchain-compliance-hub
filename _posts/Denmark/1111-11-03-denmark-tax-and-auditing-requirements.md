@@ -18,12 +18,12 @@ Paying Tax:
   * Official SKAT tax calendar with relevant deadlines—access it [here](https://skat.dk/skat.aspx?oid=2244285&ik_navn=subtree)
 
 Sources 
+---
   * [Baker Tilly International: Doing Business in Denmark](https://taitwalker.co.uk/wp-content/uploads/2014/10/Doing-Business-Guide-Denmark.pdf)
   * [Deloitte: International Tax Denmark Highlights 2018](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Tax/dttl-tax-denmarkhighlights-2018.pdf)
   * [PwC: Denmark-Corporate Tax Administration](http://taxsummaries.pwc.com/ID/Denmark-Corporate-Tax-administration)
   * [SKAT: Guide to e-Tax](https://skat.dk/skat.aspx?oid=2244314&lang=us)
   * [SKAT: Tax Calendar](https://skat.dk/skat.aspx?oid=2244285&ik_navn=subtree)
----
-- 
+
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//denmark/denmark-team-member-nationality-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//denmark/denmark-governing-by-law.html)** |
