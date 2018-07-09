@@ -14,7 +14,7 @@ Securities-Related Laws in Peru and their applicability to crytocurrency [(sourc
   - Peruvian regulator of the securities market (the Superintendencia del Mercado de Valores) has not issued any opinion to this effect nor has it issued any project suggesting any amendments to the cited regulation in order to include ICOs and token sales within the scope of the securities market regulatory framework. Therefore the regulation of token sales is ambiguous 
   - However, Latin American cryptocurrency exchange, Surbtc launched ethereum and bitcoin in Peru in 2017 [(source)]( https://news.bitcoin.com/surbtc-introduces-ethereum-and-bitcoin-trading-in-peru/)
   - [Bitinka](https://www.bitinka.com/pe/bitinka/home) can also be used to trade in Peru 
-  - To date the Peruvian government has not announced that it is developing legislation around the regulation of cryptocurrency
+  - As of July 2018, the Peruvian government has not announced plans to develop legislation around the regulation of cryptocurrency
 
 Sources 
 --- 
