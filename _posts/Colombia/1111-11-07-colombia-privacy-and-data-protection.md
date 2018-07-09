@@ -7,7 +7,7 @@ category: colombia
 comments: true
 ---
 
-**Laws Related to Data Protection and Privacy** [(Source)](https://www.dlapiperdataprotection.com/index.html?t=law&c=CO)
+### Laws Related to Data Protection and Privacy [(Source)](https://www.dlapiperdataprotection.com/index.html?t=law&c=CO)
 - **Article 15**  of the Colombian Constitution sets forth fundamental rights to intimacy, good name or reputation and data protection 
 - **Law “1266”** reviewed by the Colombian Constitutional Court regulates the collection, use and transfer of personal information regarding monetary obligations related to credit, financial and banking services 
   - This law designates two different authorities as data protection authorities: The Superintendency of Industry and Commerce ('SIC') and the Superintendency of Finance ('SFC')
@@ -30,7 +30,7 @@ any processing treatment of personal data in Colombia
     - Liability regarding the processing of personal data through the organisational implementation of the accountability principle.
   - More information [here](http://archive.edrm.net/resources/data-privacy-protection/data-protection-laws-2013/colombia) and [here](https://www.littler.com/publication-press/publication/colombia-adopts-regulations-implement-its-data-protection-laws)
 
-**Privacy and Protection Laws Applicability to Public Blockchains**
+### Privacy and Protection Laws Applicability to Public Blockchains**
 - As the Colombian government is currently discussing the future implementation and regulation of blockchain and cryptocurrencies in the country, it is still unknown how the the laws above will apply to public blockchains 
 - This [article](https://www.coingdp.com/news/colombian-senate-debate-blockchain-could-change-lives) provides an update on the Colombian government’s progress on investigating blockchain
   - As a start the The Third Committee of the Colombian Senate convened on June 6 to discuss the future implementation and regulation of cryptocurrencies and blockchain in the country
@@ -38,6 +38,9 @@ any processing treatment of personal data in Colombia
 
 Sources
 ---
-[Littler](https://www.littler.com/files/press/related-files/DECRETO%201377%20DEL%2027%20DE%20JUNIO%20DE%202013%20(2)%20(2).pdf), [Archive.edrm.net](http://archive.edrm.net/resources/data-privacy-protection/data-protection-laws-2013/colombia), [Coingdp](https://www.coingdp.com/news/colombian-senate-debate-blockchain-could-change-lives), [(Dlapiper Data Protection)](https://www.dlapiperdataprotection.com/index.html?t=law&c=CO)
+- [Littler](https://www.littler.com/files/press/related-files/DECRETO%201377%20DEL%2027%20DE%20JUNIO%20DE%202013%20(2)%20(2).pdf)
+- [Archive.edrm.net](http://archive.edrm.net/resources/data-privacy-protection/data-protection-laws-2013/colombia)
+- [Coingdp](https://www.coingdp.com/news/colombian-senate-debate-blockchain-could-change-lives)
+- [(Dlapiper Data Protection)](https://www.dlapiperdataprotection.com/index.html?t=law&c=CO)
 
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//colombia/colombia-securities-related-laws.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//colombia/colombia-final-liability.html)** |
