@@ -7,7 +7,7 @@ category: peru
 comments: true
 ---
 
-Securities-Related Laws in Peru and their applicability to crytocurrency [(source)](https://www.legalink.ch/xms/files/NEWS/Legalink_ICOS_and_Token_Sales.pdf)
+**Securities-Related Laws in Peru and their applicability to crytocurrency** [(source)](https://www.legalink.ch/xms/files/NEWS/Legalink_ICOS_and_Token_Sales.pdf)
 - As mentioned in the previous section, ICOs and token sales are not explicitly prohibited nor expressly allowed or prohibited under peruvian law
 - No ICOs or token sales have taken place in the domestic market 
 - However, under the [Peruvian Securities Market Law](http://www.smv.gob.pe/uploads/LMV_complete.pdf), there could be an interpretation that may consider cryptocurrency as a “security”, given its broad definition. If this is so, ICOs could be considered to be regulated under this law
