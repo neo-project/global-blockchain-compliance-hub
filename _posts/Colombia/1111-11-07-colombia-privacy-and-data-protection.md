@@ -30,7 +30,7 @@ any processing treatment of personal data in Colombia
     - Liability regarding the processing of personal data through the organisational implementation of the accountability principle.
   - More information [here](http://archive.edrm.net/resources/data-privacy-protection/data-protection-laws-2013/colombia) and [here](https://www.littler.com/publication-press/publication/colombia-adopts-regulations-implement-its-data-protection-laws)
 
-### Privacy and Protection Laws Applicability to Public Blockchains**
+### Privacy and Protection Laws Applicability to Public Blockchains
 - As the Colombian government is currently discussing the future implementation and regulation of blockchain and cryptocurrencies in the country, it is still unknown how the the laws above will apply to public blockchains 
 - This [article](https://www.coingdp.com/news/colombian-senate-debate-blockchain-could-change-lives) provides an update on the Colombian government’s progress on investigating blockchain
   - As a start the The Third Committee of the Colombian Senate convened on June 6 to discuss the future implementation and regulation of cryptocurrencies and blockchain in the country
