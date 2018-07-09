@@ -19,12 +19,12 @@ Israeli data security law is quite comprehensive and in many cases, more stringe
 
 Sources
 ---
-- International Comparative Legal Guides | [Israel: Fintech 2018]
-- Lexology | [GDPR and Israeli Privacy Law - Key Differences]
-- Linklaters | [Data protected - Israel]
-- Knesset | [Basic Law: Human Dignity and Liberty, 5752-1992]
-- WIPO | [Protection of Privacy Act, 5741-1981 (unofficial translation)]
-- Israel Privacy Protection Authority | [Official Website] 
+- International Comparative Legal Guides | [Israel: Fintech 2018](https://iclg.com/practice-areas/fintech-laws-and-regulations/israel#chaptercontent3)
+- Lexology | [GDPR and Israeli Privacy Law - Key Differences](https://www.lexology.com/library/detail.aspx?g=31516628-3856-430f-a7c8-b12c9e23feaf)
+- Linklaters | [Data protected - Israel](https://www.linklaters.com/en-us/insights/data-protected/data-protected---israel)
+- Knesset | [Basic Law: Human Dignity and Liberty, 5752-1992](https://www.knesset.gov.il/laws/special/eng/basic3_eng.htm)
+- WIPO | [Protection of Privacy Act, 5741-1981 (unofficial translation)](http://www.wipo.int/wipolex/en/text.jsp?file_id=347462)
+- Israel Privacy Protection Authority | [Official Website](https://www.gov.il/en/Departments/the_privacy_protection_authority) 
 
 
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//israel/israel-securities-related-laws.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//israel/israel-final-liability.html)** |
