@@ -24,7 +24,8 @@ This is a popular incorporation type. Registration of an association (“amuta�
 - Description of activities (primarily non-profit)
 - Prohibition on distribution of earnings
 - Unique name that is not prejudicial to the public or misleading as to the nature of the organization
-Associations are not allowed to distribute earnings to members, including founders. Furthermore, they are not allowed to negate the existence of Israel or work to subvert its democratic nature. 
+
+Nonprofit associations are not allowed to distribute earnings to members, including founders. 
 
 ## Public Benefit Companies (“PBCs”)
 Public Benefit Companies are companies set up for non-profit purposes. Unlike associations, PBCs’ purpose must aligned with the Companies Law and fit into one of the predetermined categories of public benefit purposes specified by the law. 
