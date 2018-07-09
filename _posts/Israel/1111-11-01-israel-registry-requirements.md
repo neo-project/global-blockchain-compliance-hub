@@ -140,11 +140,11 @@ Next, to register as a local business, submit the following at the local VAT off
 Sources
 ---
 - Council on Foundations | [Israel](https://www.cof.org/content/israel)
-- Israel Nonprofit News | [Guide to Nonprofits][http://www.israelnonprofitnews.com/guide-to-non-profits/] 
-- Thomson Reuters | [Charitable organisations in Israel: overview][https://uk.practicallaw.thomsonreuters.com/5-633-3670?transitionType=Default&contextData=(sc.Default)&firstPage=true&bhcp=1&comp=pluk]
-- Israel Ministry of Justice | [The Registration of a Company][http://www.justice.gov.il/En/Units/IsraeliCorporations/CompaniesRegistrar/Pages/RegistrationOfCompany.aspx]
-- InvestInIsrael.gov | [Doing Business in Israel (2018)][http://investinisrael.gov.il/HowWeHelp/Documents/Doing_Business.pdf]
-- Moshe Kahn Advocates | [Starting a Business in Israel - the Legal Business Entities][http://www.kahn.co.il/Articles-and-Media/starting-a-business-in-israel-the-legal-business-entities.html]
+- Israel Nonprofit News | [Guide to Nonprofits](http://www.israelnonprofitnews.com/guide-to-non-profits/)
+- Thomson Reuters | [Charitable organisations in Israel: overview](https://uk.practicallaw.thomsonreuters.com/5-633-3670?transitionType=Default&contextData=(sc.Default)&firstPage=true&bhcp=1&comp=pluk)
+- Israel Ministry of Justice | [The Registration of a Company](http://www.justice.gov.il/En/Units/IsraeliCorporations/CompaniesRegistrar/Pages/RegistrationOfCompany.aspx)
+- InvestInIsrael.gov | [Doing Business in Israel (2018)](http://investinisrael.gov.il/HowWeHelp/Documents/Doing_Business.pdf)
+- Moshe Kahn Advocates | [Starting a Business in Israel - the Legal Business Entities](http://www.kahn.co.il/Articles-and-Media/starting-a-business-in-israel-the-legal-business-entities.html)
 
 
 
