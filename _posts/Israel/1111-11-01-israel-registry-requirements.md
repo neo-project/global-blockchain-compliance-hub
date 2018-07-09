@@ -20,8 +20,7 @@ Each type has its own formation, governance, membership, and other requirements.
 ## Associations 
 This is a popular incorporation type. Registration of an association (“amuta”) (requires the following (all citations are to the Law of Associations): 
 - Two or more members (either natural persons or legal entities)
-- Purpose(s)
--- Can be any legal non-profit purpose not geared toward profit-making for members
+- Purpose can be any legal non-profit purpose not geared toward profit-making for members
 - Description of activities (primarily non-profit)
 - Prohibition on distribution of earnings
 - Unique name that is not prejudicial to the public or misleading as to the nature of the organization
@@ -33,11 +32,11 @@ Registration of a PBC requires:
 - At least one member
 - Unique name that is not prejudicial to the public or misleading as to the nature of the organization
 - Articles of Association compliant with NPO-related requirements, such as:
--- Company purpose aligned with purposes of a public institution
-- Prohibition on distribution of profits 
-- Definition of share value as non-economic 
-- Prevention of share transfer without court authorization
-- Equal voting rights per share
+  - Company purpose aligned with purposes of a public institution
+  - Prohibition on distribution of profits 
+  - Definition of share value as non-economic 
+  - Prevention of share transfer without court authorization
+  - Equal voting rights per share
 
 ## Public Benefit Foundations (“PBFs”)
 Public Benefit Foundations (“PBFs”) are first incorporated as PBCs. They can then apply for PBF status after meeting certain conditions, such as funding/support one or more of the following entity types:
