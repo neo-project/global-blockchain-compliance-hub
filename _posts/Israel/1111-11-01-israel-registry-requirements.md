@@ -74,20 +74,20 @@ To establish a public endowment:
 
 # For-Profits
 There are at least six main types of for-profit entities in Israel. Each incorporation type has its benefits, liability exposure, and starting requirements. The common types may be:
-- Private company or association
+- **Private company or association**
   - Simple and easy to set up.
   - Can be limited or unlimited
-- Public company
+- **Public company**
   - Public companies are companies that have listed stocks or shares that have been offered to the public.
   - Private companies can become public companies and vice versa.
-- Partnership
+- **Partnership**
   - Can be limited or unlimited
   - Limited to 20 partners
-- Local branch or subsidiary of a foreign company
-- Cooperative
+- **Local branch or subsidiary of a foreign company**
+- **Cooperative**
   - Please see the above section in “Nonprofits.”
   - The prohibition on distribution of profits does not apply for for-profit cooperatives.
-- Self-employed entrepreneur
+- **Self-employed entrepreneur**
 
 The process for registering a business is extensive, and the steps and requirements will differ depending your incorporation type. A registered agent or lawyer may be helpful during this process. Below, we briefly discuss the registration process for domestic and foreign companies, two of the most popular establishment types. 
 
@@ -139,12 +139,12 @@ Next, to register as a local business, submit the following at the local VAT off
 
 Sources
 ---
-- Council on Foundations | Israel[https://www.cof.org/content/israel] 
-- Israel Nonprofit News | Guide to Nonprofits[http://www.israelnonprofitnews.com/guide-to-non-profits/] 
-- Thomson Reuters | Charitable organisations in Israel: overview[https://uk.practicallaw.thomsonreuters.com/5-633-3670?transitionType=Default&contextData=(sc.Default)&firstPage=true&bhcp=1&comp=pluk]
-- Israel Ministry of Justice | The Registration of a Company[http://www.justice.gov.il/En/Units/IsraeliCorporations/CompaniesRegistrar/Pages/RegistrationOfCompany.aspx]
-- InvestInIsrael.gov | Doing Business in Israel (2018)[http://investinisrael.gov.il/HowWeHelp/Documents/Doing_Business.pdf]
-- Moshe Kahn Advocates | Starting a Business in Israel - the Legal Business Entities[http://www.kahn.co.il/Articles-and-Media/starting-a-business-in-israel-the-legal-business-entities.html]
+- Council on Foundations | [Israel](https://www.cof.org/content/israel)
+- Israel Nonprofit News | [Guide to Nonprofits][http://www.israelnonprofitnews.com/guide-to-non-profits/] 
+- Thomson Reuters | [Charitable organisations in Israel: overview][https://uk.practicallaw.thomsonreuters.com/5-633-3670?transitionType=Default&contextData=(sc.Default)&firstPage=true&bhcp=1&comp=pluk]
+- Israel Ministry of Justice | [The Registration of a Company][http://www.justice.gov.il/En/Units/IsraeliCorporations/CompaniesRegistrar/Pages/RegistrationOfCompany.aspx]
+- InvestInIsrael.gov | [Doing Business in Israel (2018)][http://investinisrael.gov.il/HowWeHelp/Documents/Doing_Business.pdf]
+- Moshe Kahn Advocates | [Starting a Business in Israel - the Legal Business Entities][http://www.kahn.co.il/Articles-and-Media/starting-a-business-in-israel-the-legal-business-entities.html]
 
 
 
