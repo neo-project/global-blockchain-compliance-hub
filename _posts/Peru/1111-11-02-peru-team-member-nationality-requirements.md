@@ -10,7 +10,7 @@ comments: true
 **Work visas in Peru**
 - According to [Newland Chase](https://newlandchase.com/immigration-capabilities/americas/peru/) there are two main types of work permits for Peru:
   - **Temporary Visa for Assignees/(Business Visa)**: for assignees who are in Peru for up to 12 months while remaining on payroll and contract for their home country
-     - This visa is for those Those looking to work in Peru for corporate, legal, contractual, or specialized technical assistance without gaining residency (source: http://www.escapeartist.com/peru/work/working-in-peru-as-an-expat/)
+     - This visa is for those Those looking to work in Peru for corporate, legal, contractual, or specialized technical assistance without gaining residency [(source)](http://www.escapeartist.com/peru/work/working-in-peru-as-an-expat/)
   - **Residence Visa (Working Visa)**: For assignees to enter Peru as resident workers on local contract and payroll
 Valid for one year and renewed annually and the process can take two to four months [(source)]( http://www.expat.com/en/guide/south-america/peru/13329-visas-for-peru.html)
     - Applicants must submit the contract from the hiring company in Peru. The contract must be approved by the Ministry of Work [(source)](http://www.expat.com/en/guide/south-america/peru/13329-visas-for-peru.html)
