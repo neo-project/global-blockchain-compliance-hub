@@ -6,7 +6,7 @@ title: "Peru: Privacy and Data Protection-related Laws"
 category: peru
 comments: true
 ---
-**Current Peru Privacy and Data Protection-Related Law**: [(source)](https://www.dlapiperdataprotection.com/index.html?t=law&c=PE)
+**Current Peru Privacy and Data Protection-Related Laws**: [(source)](https://www.dlapiperdataprotection.com/index.html?t=law&c=PE)
 - **Personal Data Protection Law** (PDPL) was published on July 3, 2011
 its regulations were enacted by Supreme Decree 003-2013-JUS and was published on March 22, 2013 (the 'Regulations')
 the Security Policy on Information Managed by Databanks of Personal Data was enacted by Directorial Resolution N° 019-2013-JUS/DGPDP on October 11, 2013
