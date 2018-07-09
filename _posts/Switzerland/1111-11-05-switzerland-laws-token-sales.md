@@ -40,3 +40,6 @@ Information on regulations related to tokens can be found on [FRORIEP](https://b
 [3] Information quoted from [Walderwyss attorney at law newsletter 118](https://www.walderwyss.com/publications/2092.pdf)
 
 [4] Information quoted from [Schellenberg Wittmer April 2017 newsletter](https://www.swlegal.ch/Publications/Newsletter/FinTech-regulation-and-blockchain-applications-in.aspx) 
+
+
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//switzerland/switzerland-governing-by-law.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//switzerland/switzerland-securities-related-laws.html)** |

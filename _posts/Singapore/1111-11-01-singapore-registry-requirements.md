@@ -35,4 +35,7 @@ After getting an overview of Singapore company incorporation, read the Incorpora
 ### Sources:
    * [Singapore Bizfile (Guides for Registering a Business)](https://www.bizfile.gov.sg/)
    * [Singapore Accounting and Corporate Regulatory Authority (ACRA)](https://www.acra.gov.sg/)
+   
+   
+| **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//singapore/singapore-team-member-requirements.html)** |
 

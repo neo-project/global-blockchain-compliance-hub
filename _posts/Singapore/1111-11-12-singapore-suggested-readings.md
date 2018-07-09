@@ -32,3 +32,5 @@ To learn more about Singapore's laws we recommend the following readings:
       * [News Article and interview with founder of Attores](https://www.dealstreetasia.com/stories/smart-contracts-will-improve-transaction-provenance-compliance-david-moskowitz-attores-59433/)
       * [Another news article about Attores](https://e27.co/beyond-cryptocurrency-singapores-attores-using-blockchain-take-headache-contracts-20160907/)
  
+ 
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//singapore/singapore-nullify-smart-contracts.html)** |

@@ -2,7 +2,7 @@
 layout: post
 date: 0010-08-01
 name: laws-related-to-token-sales-blockchain-and-digital-proof
-title: "Laws Related to Token Sales, Blockchain, and Digital Proof"
+title: "South Korea: Laws Related to Token Sales, Blockchain, and Digital Proof"
 category: south-korea
 comments: true
 ---
@@ -28,4 +28,4 @@ Managing electrocnic currencies includes one or more following services:
 However, if a company only provides agent services, such as delivering information only for the electronic processing of electronic payment transactions without direct involvement in the transfer of funds, it doesn’t have to obtain permission from the Financial Services Commission to operate its business. Article 28 (2).
 
 
-
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//south-korea/south-korea-governing-by-law.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//south-korea/south-korea-securities-related-laws.html)** |

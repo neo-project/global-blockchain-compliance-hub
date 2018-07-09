@@ -23,3 +23,7 @@ In this section “officer” has the meaning assigned by section 1(2) of the Co
 For further detail, please see:
 
 - [Designated Businesses Act, 2015](https://legislation.gov.im/cms/images/LEGISLATION/PRINCIPAL/2015/2015-0009/DesignatedBusinessesRegistrationandOversightAct2015_3.pdf?zoom_highlight=designated+business#search=%22designated%20business%22)
+
+
+
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//the-isle-of-man/the-isle-of-man-privacy-and-data-protection.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//the-isle-of-man/the-isle-of-man-smart-contracts.html)** |

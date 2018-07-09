@@ -26,3 +26,5 @@ The Singaporean government has published model constitutions for private compani
    * [Singaporean Government Model Company Constitutions](https://sso.agc.gov.sg/SL/CoA1967-S833-2015?DocDate=20151231&ProvIds=Sc1-.)
    * [Guide for Drafting Singapore Company Constitutions](https://www.startupdecisions.com.sg/singapore/company-law/company-constitution/)
 
+
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//singapore/singapore-tax-and-auditing-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//singapore/singapore-laws-token-sales.html)** |

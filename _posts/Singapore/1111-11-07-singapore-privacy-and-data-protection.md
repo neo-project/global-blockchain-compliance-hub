@@ -32,3 +32,6 @@ There are three main laws in Singapore related to data security in Singapore.
 
 ### Sources:
    * [Fintech Regulation in Singapore (Article)](http://learn.asialawnetwork.com/2016/10/24/fintech-regulations-in-singapore-what-you-need-to-know-simplified/) 
+
+
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//singapore/singapore-securities-related-laws.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//singapore/singapore-final-liability.html)** |

@@ -84,5 +84,5 @@ Sources
 - [A guide to Isle of Man Companies Acts 1931-2004](http://acsp.co.im/uploads/1931-companies-act-brochure.pdf)
 
 
-
+| **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//the-isle-of-man/the-isle-of-man-team-member-requirements.html)** |
 

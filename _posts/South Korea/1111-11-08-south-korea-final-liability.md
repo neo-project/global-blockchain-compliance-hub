@@ -2,7 +2,7 @@
 layout: post
 date: 0010-05-01
 name: final-responsibility-and-liability
-title: "Who Bears Final Responsibility and Liability"
+title: "South Korea: Who Bears Final Responsibility and Liability"
 category: south-korea
 comments: true
 ---
@@ -51,3 +51,5 @@ According to the **Act on the Development of Cloud Computing And Protection of I
   
   - [The Act on the Development of Cloud Computing And Protection of Its Users](http://www.law.go.kr/engLsSc.do?menuId=0&subMenu=5&query=%EC%A0%84%EC%9E%90%EA%B8%88%EC%9C%B5%EA%B1%B0%EB%9E%98%EB%B2%95#liBgcolor0)
   
+
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//south-korea/south-korea-privacy-and-data-protection.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//south-korea/south-korea-smart-contracts.html)** |

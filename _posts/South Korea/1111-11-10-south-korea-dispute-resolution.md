@@ -2,7 +2,7 @@
 layout: post
 date: 0010-03-01
 name: how-is-dispute-resolution-integrated
-title: "How is Dispute Resolution Integrated"
+title: "South Korea: How is Dispute Resolution Integrated"
 category: south-korea
 comments: true
 ---
@@ -32,3 +32,5 @@ Also,
 - [Act on the Development of Cloud Computing And Protection of Its Users](http://www.law.go.kr/engLsSc.do?menuId=0&subMenu=5&query=%EC%A0%84%EC%9E%90%EA%B8%88%EC%9C%B5%EA%B1%B0%EB%9E%98%EB%B2%95#liBgcolor0)
 
 
+
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//south-korea/south-korea-smart-contracts.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//south-korea/south-korea-nullify-smart-contracts.html)** |

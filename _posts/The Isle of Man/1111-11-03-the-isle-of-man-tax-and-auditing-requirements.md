@@ -23,3 +23,6 @@ Sources
 ------ 
 
 - [2006 Companies Act](http://acsp.co.im/uploads/iom-2006-companies-act.pdf)
+
+
+| **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//the-isle-of-man/the-isle-of-man-team-member-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//the-isle-of-man/the-isle-of-man-governing-by-law.html)** |

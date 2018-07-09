@@ -54,3 +54,6 @@ Among other things this will include a right to know how their data is being use
 
 [3] Information quoted from [Crypto Valley](https://cryptovalley.swiss/legalities-of-tokenization-in-switzerland-and-the-us/)
 
+
+
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//switzerland/switzerland-securities-related-laws.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//switzerland/switzerland-final-liability.html)** |

@@ -2,7 +2,7 @@
 layout: post
 date: 0017-03-01
 name: how-is-dispute-resolution-integrated
-title: "Turkey: How is Dispture Resolution Integrated"
+title: "Turkey: How is Dispute Resolution Integrated"
 category: turkey
 comments: true
 ---
@@ -14,3 +14,6 @@ Sources
 ---
 
 - [Dispute Resolution in Turkey, Getting the Deal Through](https://gettingthedealthrough.com/area/9/jurisdiction/54/dispute-resolution-2017-turkey/)
+
+
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//turkey/turkey-smart-contracts.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//turkey/turkey-nullify-smart-contracts.html)** |

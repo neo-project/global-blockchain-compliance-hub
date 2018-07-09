@@ -51,3 +51,6 @@ There are no legal restrictions as to whether the data protection officer should
   - [the Federal Law No. 149 FZ dated 27 July 2006 On Information, Informational Technologies and the Protection of Information](https://www.wto.org/english/thewto_e/acc_e/rus_e/WTACCRUS48A5_LEG_119.pdf)
   
   - [the Federal Law No. 152-FZ dated 27 July 2006 on Personal Data](https://iapp.org/media/pdf/knowledge_center/Russian_Federal_Law_on_Personal_Data.pdf)
+  
+  
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//russia/russia-securities-related-laws.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//russia/russia-final-liability.html)** |

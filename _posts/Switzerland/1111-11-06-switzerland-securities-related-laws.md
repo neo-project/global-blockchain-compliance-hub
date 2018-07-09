@@ -55,3 +55,6 @@ FINMA does not assess questions of civil law (prospectus) or tax law in the cont
 [2] Information quoted from [Crypto Valley](https://cryptovalley.swiss/legalities-of-tokenization-in-switzerland-and-the-us/)
 
 [3] Information quoted from [Wenger & Vieli](http://www.wengervieli.ch/getattachment/3237d5af-0a8a-4b54-b7ef-cace021e9b22/Initial-Coin-Offering-(ICO)-Co-–-A-Swiss-Law-Persp.aspx)
+
+
+| **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//switzerland/switzerland-laws-token-sales.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//switzerland/switzerland-privacy-and-data-protection.html)** |
