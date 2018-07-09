@@ -11,12 +11,12 @@ To work in Israel, you will need a [B-1 work visa](http://mfa.gov.il/MFA/Consula
 To obtain a work permit, your employer must apply on your behalf with the Ministry of Trade, Industry, and Labour. If approved, you will receive a letter of recommendation from the Ministry, with which you can apply for a work permit at your local Israeli consulate. Foreign workers will require a work visa for initial entry, and should apply for it in parallel with the work permit. 
 
 To apply for a work visa, please provide the following:
-Passport
-Completed visa application
-Certificate of medical examination
-Certificate of good conduct
-Two passport-sized photos
-Signed document from employer stating their intent to hire you
+- Passport
+- Completed visa application
+- Certificate of medical examination
+- Certificate of good conduct
+- Two passport-sized photos
+- Signed document from employer stating their intent to hire the applicant
 
 Foreigners may need to find local Israeli partners to establish a company. However a new incubator program pilot that began in 2017 may eventually help foreign entrepreneurs bypass that requirement (read more below).
 
