@@ -17,7 +17,7 @@ comments: true
 - The Colombian Financial Superintendence has informed all financial entities under its supervision that they cannot, hold, invest, act as intermediaries or allow the use of platforms that operate with cryptocurrencies - therefore cryptocurrencies are not a valid investment for supervised entities 
 - Thus as cryptocurrencies are defined as non-financial assets, individuals are responsible to assess the risk derived from any operation carried out with cryptocurrencies 
 
-## Digital Proof 
+## Digital Proof  
 - Information on digital proof was not available 
 
 Sources 
