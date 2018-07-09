@@ -7,7 +7,7 @@ category: israel
 comments: true
 ---
 
-# Page in progress, stay tuned!
+Israel currently does not have any laws or regulations regarding smart contract technology. 
 
 Sources 
 -- 
