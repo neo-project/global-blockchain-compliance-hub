@@ -22,7 +22,7 @@ The tax authorities in Peru are the Tax Administration (SUNAT) and the Tax Court
   - The mining and hydrocarbon industries (except for natural gas) that enter into tax stability agreements is stabilized at the tax rate in force plus two additional percentage points 
 - **Surtax**: No
 - **Alternative Minimum Tax**: No 
-- **Foreign Tax Credit**: Tax credit available for income tax paid on foreign-source income . More information [here](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Tax/dttl-tax-peruhighlights-2018.pdf)
+- **Foreign Tax Credit**: Tax credit available for income tax paid on foreign-source income. More information [here](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Tax/dttl-tax-peruhighlights-2018.pdf)
 - **Participation exemption**: No
 - **Holding Company Regime**: No
 - **Incentives**: Investors in large mining, oil or gas operations may conclude tax law stability agreements with the government for periods of 10 to 15 years
