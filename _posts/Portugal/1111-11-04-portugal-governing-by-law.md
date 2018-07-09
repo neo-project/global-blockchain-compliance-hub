@@ -33,7 +33,7 @@ Shares in a PLC are freely transferable, except where the respective bylaws set 
 
 Finally, share capital increases, as any other amendment to the company's bylaws, shall be approved by shareholders' meeting. Nevertheless, bylaws can authorize the board of directors to decide on share capital increases in cash within certain limits. 
 
-The shareholders' meetings must be convened by a notice published in the official website of the Ministry of Justice (http://publicacoes.mj.pt/) or, in certain cases where all shares are nominative and the bylaws foresee such possibility, by registered mail or by e-mail to shareholders having expressed their prior written consent. The notice shall be published with at least 1 month or sent 21 days in advance as to the date of the general meeting, and shall mention, amongst other information, general meeting's agenda. 
+The shareholders' meetings must be convened by a notice published in the official website of the [Ministry of Justice](http://publicacoes.mj.pt/) or, in certain cases where all shares are nominative and the bylaws foresee such possibility, by registered mail or by e-mail to shareholders having expressed their prior written consent. The notice shall be published with at least 1 month or sent 21 days in advance as to the date of the general meeting, and shall mention, amongst other information, general meeting's agenda. 
 
 Last reform of the Portuguese Companies Code (2006) introduced the possibility of holding general meetings through “virtual meetings”. The shareholders and the company can benefit from this new way of gathering provided that the respective bylaws do not prohibit such mechanism. 
 
