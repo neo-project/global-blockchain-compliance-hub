@@ -21,7 +21,7 @@ comments: true
 - There are no government agencies responsible for regulating ICOs and token sales as they are not expressly regulated in Peru
 
 **Digital Proof**
-No specific laws related to Digital Proof were found
+As of July 2018, Peru has not created laws related to Digital Proof 
 
 Sources 
 --- 
