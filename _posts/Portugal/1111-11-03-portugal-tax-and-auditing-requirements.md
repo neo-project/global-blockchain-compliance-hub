@@ -15,7 +15,7 @@ Annual financial statements must be presented for each calendar year. However co
 										
 Financial statements must be approved up to March 31 of the following year and must be submitted via internet to the Finance Ministry until the end of June.
 
-The Portuguese tax year runs from 1 January to 31 December and all residents self-employed in Portugal need to submit tax returns annually. See our guides to Taxes in Portugal [3] for more information. The financial statements of a company as well as all corporate tax returns, including VAT returns, must be submitted via internet by a registered accountant.
+The Portuguese tax year runs from 1 January to 31 December and all residents self-employed in Portugal need to submit tax returns annually. See [these guides](https://www.expatica.com/pt/finance/Expat-guide-Tax-in-Portugal_105742.html%20) to Taxes in Portugal for more information. The financial statements of a company as well as all corporate tax returns, including VAT returns, must be submitted via internet by a registered accountant.
 
 The following is a step-by-step guide to specific corporate tax requirements in Portugal:
 - Residence – A company is a resident if its legal seat or place of effective management is in Portugal.
@@ -36,8 +36,8 @@ In the case of those companies subject to the statutory audit requirement, the i
 
 ## Sources 
 
-- [1] https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Tax/dttl-tax-portugalhighlights-2018.pdf 		 	 	
-- [2] https://www.pkf.com/media/131824/doing%20business%20in%20portugal.pdf 
-- [3] https://www.expatica.com/pt/finance/Expat-guide-Tax-in-Portugal_105742.html%20  
+- [Deloitte International Tax Portugal Highlights 2018](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Tax/dttl-tax-portugalhighlights-2018.pdf) 		
+- [PFK Accounts and Business Advisors](https://www.pkf.com/media/131824/doing%20business%20in%20portugal.pdf) 
+- [Expatica Expt Guide Tax in Portugal](https://www.expatica.com/pt/finance/Expat-guide-Tax-in-Portugal_105742.html%20)  
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//portugal/portugal-team-member-nationality-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//portugal/portugal-governing-by-law.html)** |
