@@ -50,6 +50,10 @@ comments: true
 - [Law 12,965/2014 (the Internet Bill of Rights or Marco Civil da Internet)](https://itsrio.org/wp-content/uploads/2015/11/Understanding-Brazils-Internet-Bill-of-Rights.pdf)
 - [Recent Developments on Privacy and Data Protection in Brazil](https://www.bestlawyers.com/article/privacy-and-data-protection-brazil/1555)
 
+**Smart Contracts and Contract Law in Brazil**
+- [Brazil: Limiting Liability Under Brazil's Civil Code](http://www.mondaq.com/brazil/x/425918/Contract+Law/LIMITING+LIABILITY+UNDER+BRAZILS+CIVIL+CODE)
+- [Commercial Contracts](https://gettingthedealthrough.com/area/88/jurisdiction/6/commercial-contracts-brazil/)
+
 
 
 
