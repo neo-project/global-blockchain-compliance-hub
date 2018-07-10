@@ -14,7 +14,7 @@ It is unacceptable to the Brazilian legal system for a contract without validity
 
 Sources
 ---
-- - [Blockchain, Smart Contracts and “Judge as a Service” in Brazilian Law](http://irisbh.com.br/en/blockchain-smart-contracts-and-judge-as-a-service-in-brazilian-law-2/)
+- [Blockchain, Smart Contracts and “Judge as a Service” in Brazilian Law](http://irisbh.com.br/en/blockchain-smart-contracts-and-judge-as-a-service-in-brazilian-law-2/)
 - [Brazilian Government Plans to Process Petitions and Write Laws on Ethereum](https://cointelegraph.com/news/brazilian-government-plans-to-process-petitions-and-write-laws-on-ethereum)
 
 
