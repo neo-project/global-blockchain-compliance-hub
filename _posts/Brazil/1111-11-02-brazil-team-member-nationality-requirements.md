@@ -12,6 +12,7 @@ A company -whether it's a EIRELI , LTDA or S.A. - generally cannot be formed wit
 A company, formed outside of Brasil and wanting to operate in the country, can open a permanent representative office or branch. However, registering a branch entails the appointment of a local representative, who must be a natural person resident in Brasil.
 
 **Work Visa**
+
 Foreigners in Brazil must obtain a work visa. This can be obtained through:
 - Employment contract with a Brazilian company
 - Provision of services to the Brazilian Government
@@ -26,6 +27,7 @@ Foreigners in Brazil must obtain a work visa. This can be obtained through:
 More information on obtaining a work visa can be found on [this guide](https://www.visahunter.com/visa/brazil/how-to-get-a-brazil-work-visa/).
 
 **Investor Visa**
+
 The investor visa is issued to those who establish a business in the country and it is usually valid for up to five years. After five years, the investor needs to apply for an extension, and after ten years he is eligible to be a [permanent resident](http://thebrazilbusiness.com/article/obtain-a-brazilian-citizenship).. The investment can be done in a corporation that already exists in Brazil or can be used to settle up a new one. According to the Ministry of Foreign Affairs, 817 visas of this category were issued in 2012, mainly for Portuguese, Spanish and Italian investors.
 
 More information on obtaining an investor visa can be found on [this article](http://thebrazilbusiness.com/article/timeline-for-moving-to-brazil-on-an-investor-visa?utm_medium=newsletter). 
