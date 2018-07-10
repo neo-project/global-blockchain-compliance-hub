@@ -23,6 +23,15 @@ comments: true
 - [Charitable organisations in Brazil: overview](https://uk.practicallaw.thomsonreuters.com/2-633-0890?transitionType=Default&contextData=(sc.Default)&firstPage=true&comp=pluk&bhcp=1)
 - [Brazil: Nonprofit Organizations In Brazil](http://www.mondaq.com/brazil/x/413418/Corporate+Commercial+Law/Brazil+Nonprofit+Organizations+In+Brazil)
 
+**Tax and Auditing Requirements**
+- [Santander Trade Portal: Brazil Tax System](https://en.portal.santandertrade.com/establish-overseas/brazil/tax-system)
+- [Deloitte: Taxes and Contributions in Brazil](https://www2.deloitte.com/br/en/pages/doing-business-brazil/articles/corporate-taxation.html)
+- [PwC: Brazil Taxes on Corporate Income](http://taxsummaries.pwc.com/ID/Brazil-Corporate-Taxes-on-corporate-income)
+- [Invest Brasil Guide](http://www.investexportbrasil.gov.br/guides-0?l=en)
+- [Healy Consultants Group: Accounting and Tax in Brazil](https://www.healyconsultants.com/brazil-company-registration/accounting-legal/) 
+- [The Brazil Business: Accounting Audit in Brazil](http://thebrazilbusiness.com/article/accounting-audit-in-brazil) 
+- [The Brazil Business: Brazilian Tax Reform](http://thebrazilbusiness.com/article/brazilian-tax-reform)
+
 
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//brazil/brazil-nullify-smart-contracts.html)** |
