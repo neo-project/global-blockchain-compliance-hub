@@ -7,6 +7,9 @@ category: portugal
 comments: true
 ---
 
+
+
+
 The countries of the European Union hold a patchwork of individual attitudes towards cryptocurrency regulation, but all of them also fall under the jurisdiction of the EU Commission. For EU regulations, please visit [EU Laws Related to Token Sales, Blockchain, and Digital Proof.](https://neo-project.github.io/global-blockchain-compliance-hub//europe/europe-laws-token-sales.html)
  
 [Payment regulations](https://steemit.com/bitcoin/@briseth/the-portuguese-parliament-will-discuss-payment-regulations-in-cryptocurrencies)

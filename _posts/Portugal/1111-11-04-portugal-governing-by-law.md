@@ -8,6 +8,7 @@ comments: true
 ---
 
 
+
 The bylaw requirements differ based on the type of Portuguese company established.
 
 **For the PLC (“Sociedade Anónima” or “S.A.”)** 

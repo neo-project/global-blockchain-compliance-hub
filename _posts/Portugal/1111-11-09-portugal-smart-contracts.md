@@ -8,6 +8,7 @@ comments: true
 ---
 
 
+
 For EU regulation, please visit [Europe: Smart Contracts Definition and Legality](https://neo-project.github.io/global-blockchain-compliance-hub//europe/europe-smart-contracts.html). 
 
 The European Union is increasing its efforts to foster work around new technologies like blockchain. The European Commission’s new Fintech Lab in the second quarter in 2018. Involving EU-level and national authorities, as well as technology providers in Europe, seeks to raise the "regulatory and supervisory capacity and knowledge" around new technologies, including blockchain.

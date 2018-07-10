@@ -8,6 +8,7 @@ comments: true
 ---
 
 
+
 For EU regulation, please visit [Europe: Can Smart Contracts be Nullified?](https://neo-project.github.io/global-blockchain-compliance-hub//europe/europe-nullify-smart-contracts.html). 
  
 Again, in May, the Portuguese Parliament debated cryptocurrency payment regulations, with the aim of adopting a new legal framework for cryptocurrency payment services. The new Portuguese regulatory framework is configured to apply "new rules for accessing payment accounts" in order to avoid unjustified setbacks and ensure that payments are secure. The official document and regulation has yet to be released, and as a result language around the nullification of smart contracts, too.

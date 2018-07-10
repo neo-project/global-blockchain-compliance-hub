@@ -8,6 +8,7 @@ comments: true
 ---
 
 
+
 For EU’s GDPR regulation, please visit [Europe: Privacy and Data Protection-related Laws.](https://neo-project.github.io/global-blockchain-compliance-hub//europe/europe-privacy-and-data-protection.html)
 
 The provisions of Directive 95/46/EC on data protection (Data Protection Directive) were implemented into Portuguese law through Law 67/98 of 26 October 1998 (Data Protection Act). The fundamental principles and guarantees on personal data protection are also set out in the Portuguese Constitution (Article 35 on the use of computerised data).
