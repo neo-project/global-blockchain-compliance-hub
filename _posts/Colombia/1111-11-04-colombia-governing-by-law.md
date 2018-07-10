@@ -7,8 +7,6 @@ category: colombia
 comments: true
 ---
 
-## Governing laws/bylaw requirements
-
 **For Profit Requirements**
 The constitution can be made by any of the following alternatives:
 
@@ -105,7 +103,7 @@ In all cases, when an ESAL is constituted and should not be registered in the Ch
 
 See page 24 of [this pdf](https://www.ccb.org.co/content/download/2756/35466/version/1/file/Gu%C3%ADa+Pr%C3%A1ctica+de+las+Entidades+sin+%C3%81nimo+de+Lucro+y+del+Sector+Solidario.pdf) guide to non profits for a model constitution (in Spanish).
 
-**Further Reading:**
+## Sources
 [Requirements for the constitution and registration of associations and corporations](http://www.camaramedellin.com.co/site/Portals/0/Documentos/2015/15%20Requisitos%20asociaciones%20y%20corporaciones.pdf)
 [Colombian Chamber of Commerce Guide to Non Profits](https://www.ccb.org.co/content/download/2756/35466/version/1/file/Gu%C3%ADa+Pr%C3%A1ctica+de+las+Entidades+sin+%C3%81nimo+de+Lucro+y+del+Sector+Solidario.pdf) 
 
