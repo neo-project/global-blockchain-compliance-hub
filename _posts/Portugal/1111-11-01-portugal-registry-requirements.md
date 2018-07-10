@@ -8,7 +8,7 @@ comments: true
 ---
 ## Non-profit/for-profit company registry requirements
 
-There are a number of different legal structures for businesses in Portugal, including individual sole traders to large incorporated companies with many employees. The Portuguese Companies Code [1] regulates businesses in Portugal and defines the different legal forms. Here's a brief overview of the types of businesses in Portugal [2]:
+There are a number of different legal structures for businesses in Portugal, including individual sole traders to large incorporated companies with many employees. [The Portuguese Companies Code](http://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=524&tabela=leis) regulates businesses in Portugal and defines the different legal forms. [Here](http://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=524&tabela=leis) is a brief overview of the types of businesses in Portugal:
 
 ## Businesses owned by more than one person
 
@@ -51,15 +51,15 @@ Similar to the Single-Member Limited Company but the initial capital investment 
 
 ## Foreign companies registered in Portugal
 
-Foreign companies wanting to open up a branch or subsidiary of their company in Portugal need to register the branch office name with the IRN [3] and establish and register the branch with the Commercial Registry Office. The following documents will be needed:
+Foreign companies wanting to open up a branch or subsidiary of their company in Portugal need to register the branch office name with the IRN and establish and register the branch with the Commercial Registry Office. The following documents will be needed:
 - Parent company's incorporation documents
 - Confirmation from the board of directors of the parent company confirming the opening of the branch
 - A power of attorney
 
-Businesses within the EU who have been operating in at least 2 EU countries for at least 2 years can create a European Country which makes it easier to expand into other EU countries. More information available here [4]. 
+Businesses within the EU who have been operating in at least 2 EU countries for at least 2 years can create a European Country which makes it easier to expand into other EU countries. More information available [here.](http://europa.eu/youreurope/business/start-grow/european-company-legal-form/index_en.htm)
 For EU laws, please refer to the relevant [Europe section](https://neo-project.github.io/global-blockchain-compliance-hub//eurpe/europe-laws-token-sales.html.)
 
-**Offshore companies [5]** 
+[Offshore companies](https://www.startupoverseas.co.uk/starting-a-business-in-portugal/company-formation.html)
 
 By choosing to incorporate an offshore company, business owners and investors can set-up a business outside the jurisdiction of its operations. Offshore companies are traditionally, but not exclusively, incorporated for lower fees and taxes. Business owners must abide the regulations of the offshore jurisdiction, and must not trade within the jurisdiction.
 
@@ -80,10 +80,8 @@ Characteristics of an offshore company:
 - Bookkeeping
 
 ## Sources
-- [1] http://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=524&tabela=leis
-- [2] http://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=524&tabela=leis
-- [3] https://www.startupoverseas.co.uk/starting-a-business-in-portugal/company-formation.html
-- [4] http://europa.eu/youreurope/business/start-grow/european-company-legal-form/index_en.htm
-- [5] https://www.startupoverseas.co.uk/starting-a-business-in-portugal/company-formation.html
+- [Commercial Company Code Updated](http://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=524&tabela=leis)
+- [Startup Overseas Portugal Company Formation](https://www.startupoverseas.co.uk/starting-a-business-in-portugal/company-formation.html)
+- [The European Country](http://europa.eu/youreurope/business/start-grow/european-company-legal-form/index_en.htm)
 
 | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//portugal/portugal-team-member-nationality-requirements.html)** |
