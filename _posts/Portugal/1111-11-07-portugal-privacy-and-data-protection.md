@@ -50,6 +50,6 @@ Companies and any other categories of data controllers can transfer data they pr
 
 ### Sources
 
-[Data protection in Portugal: overview](https://uk.practicallaw.thomsonreuters.com/2-575-2225?transitionType=Default&contextData=(sc.Default)&firstPage=true&bhcp=1) 
+- [Data protection in Portugal: overview](https://uk.practicallaw.thomsonreuters.com/2-575-2225?transitionType=Default&contextData=(sc.Default)&firstPage=true&bhcp=1) 
 
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//portugal/portugal-securities-related-laws.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//portugal/portugal-final-liability.html)** |
