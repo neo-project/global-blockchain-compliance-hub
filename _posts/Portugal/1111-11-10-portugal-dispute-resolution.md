@@ -7,7 +7,6 @@ category: portugal
 comments: true
 ---
 
-## How is dispute regulation integrated?
 
 For EU regulation, please visit [Europe: How is Dispute Resolution Integrated.](https://neo-project.github.io/global-blockchain-compliance-hub//europe/europe-dispute-resolution.html)
  
