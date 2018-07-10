@@ -7,7 +7,7 @@ category: portugal
 comments: true
 ---
 
-## Can smart contracts be nullified? How does this interact with the blockchain being immutable?
+
 
 For EU regulation, please visit [Europe: Can Smart Contracts be Nullified?](https://neo-project.github.io/global-blockchain-compliance-hub//europe/europe-nullify-smart-contracts.html). 
  

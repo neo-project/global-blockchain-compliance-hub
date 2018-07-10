@@ -7,7 +7,7 @@ category: portugal
 comments: true
 ---
 
-## The definition of a ‘smart contract’ and whether a smart contract is legally binding (even if both parties agree to use the smart contract)
+
 
 For EU regulation, please visit [Europe: Smart Contracts Definition and Legality](https://neo-project.github.io/global-blockchain-compliance-hub//europe/europe-smart-contracts.html). 
 

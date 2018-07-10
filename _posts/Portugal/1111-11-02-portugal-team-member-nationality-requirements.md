@@ -7,7 +7,7 @@ category: portugal
 comments: true
 ---
 
-## Team Member Nationality Requirements 
+
 
 You need to have a Portuguese residence permit (or a Certificate of Registration if an EU/EFTA citizen who has been a Portuguese resident for less than 5 years) to start a business in Portugal. 
 

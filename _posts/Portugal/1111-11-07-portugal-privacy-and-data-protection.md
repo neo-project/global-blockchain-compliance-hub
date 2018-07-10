@@ -7,7 +7,7 @@ category: portugal
 comments: true
 ---
 
-## Privacy & Data Protection-related Laws (especially on public blockchains)
+
 
 For EU’s GDPR regulation, please visit [Europe: Privacy and Data Protection-related Laws.](https://neo-project.github.io/global-blockchain-compliance-hub//europe/europe-privacy-and-data-protection.html)
 
