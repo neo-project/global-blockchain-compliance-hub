@@ -16,10 +16,7 @@ Microsoft's legal affairs leader points out that in the country there are two st
 ## Sources:
 
 - [Smart Contracts](https://www.uexternado.edu.co/en/derecho-en/retos-y-desafios-de-los-contratos-inteligentes/)
-
-[Que son los smart contracts](http://gerente.com/co/rss-article/que-son-los-smart-contracts/)
-
-[Smart Contracts: The end of lawyers?](https://www.dinero.com/empresas/articulo/contratos-inteligentes-con-blockchain/257066)
-
+- [Que son los smart contracts](http://gerente.com/co/rss-article/que-son-los-smart-contracts/
+- [Smart Contracts: The end of lawyers?](https://www.dinero.com/empresas/articulo/contratos-inteligentes-con-blockchain/257066)
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//colombia/colombia-final-liability.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//colombia/colombia-dispute-resolution.html)** |
