@@ -55,6 +55,7 @@ comments: true
 - [Commercial Contracts](https://gettingthedealthrough.com/area/88/jurisdiction/6/commercial-contracts-brazil/)
 - [Blockchain, Smart Contracts and “Judge as a Service” in Brazilian Law](http://irisbh.com.br/en/blockchain-smart-contracts-and-judge-as-a-service-in-brazilian-law-2/)
 - [Brazilian Government Plans to Process Petitions and Write Laws on Ethereum](https://cointelegraph.com/news/brazilian-government-plans-to-process-petitions-and-write-laws-on-ethereum)
+- [The International Comparative Legal Guide to Litigation and Dispute Resolution](http://www.academia.edu/32777201/Chapter_5_Brazil_-_The_International_Comparative_Legal_Guide_to_Litigation_and_Dispute_Resolution_2017)
 
 
 
