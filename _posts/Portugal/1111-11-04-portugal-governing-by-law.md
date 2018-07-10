@@ -26,8 +26,8 @@ Except for legal or company bylaws prohibition, the issuer may decide on the con
 There are two types of shares: 
 1. Ordinary shares (“acções ordinárias”) which entitle holders to dividends and to a portion of the assets
 2. Preferred shares (“acções preferenciais”) which award special rights to their holders, usually broader rights than the ones attributed to ordinary shares. The bylaws may authorize the PLC to issue two types of preferred shares: 
-- Non-voting preferred shares (“acções preferenciais sem voto”) which confer, if they have nominal or par value, preferential rights to their holders to receive an annual payment of not less than 5% of the shares' par value, payable as a dividend out of distributable profits. If authorized by the bylaws, corporations may issue non-voting preferred shares up to a maximum of 50% of its registered share capital
-- Redeemable preferred shares (“acções preferenciais remíveis”) which are redeemable at a fixed time date or when established by shareholders' general meeting. Redemption must be made at par value or according to shares issue value (in case of shares without par value), unless bylaws provide for the payment of a premium
+  - Non-voting preferred shares (“acções preferenciais sem voto”) which confer, if they have nominal or par value, preferential rights to their holders to receive an annual payment of not less than 5% of the shares' par value, payable as a dividend out of distributable profits. If authorized by the bylaws, corporations may issue non-voting preferred shares up to a maximum of 50% of its registered share capital
+  - Redeemable preferred shares (“acções preferenciais remíveis”) which are redeemable at a fixed time date or when established by shareholders' general meeting. Redemption must be made at par value or according to shares issue value (in case of shares without par value), unless bylaws provide for the payment of a premium
 
 Shares in a PLC are freely transferable, except where the respective bylaws set forth restrictions on its transferability. The bylaws may not prohibit the transfer of shares otherwise permitted by law, being that transfer may only be restricted within the terms of the relevant legal provisions. 
 
@@ -47,7 +47,7 @@ Portuguese companies are regulated by the Portuguese Companies Code, as enacted 
 
 ## Sources
 
-- [MGRA & Associados Establishing Business in Portugal] http://www.mgra.pt/docs/Establishing_business_portugal.pdf 
+- [MGRA & Associados Establishing Business in Portugal](http://www.mgra.pt/docs/Establishing_business_portugal.pdf)
 - [CMVM Commercial Company Act](http://www.cmvm.pt/en/Legislacao/LegislacaoComplementar/EmitentesOfertasInformcaoValoresMobiliarios/Pages/Commercial-Company-Act.aspx?v=)
 - [Madeira Management Types of Madeira Companies](http://www.madeira-management.com/documents/Types_of_Madeira_Companies.pdf) 
 
