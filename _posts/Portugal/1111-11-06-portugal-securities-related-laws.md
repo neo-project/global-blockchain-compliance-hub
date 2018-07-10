@@ -7,7 +7,6 @@ category: portugal
 comments: true
 ---
 
-## Securities-related laws (once a token is registered or identified as a security, what are the consequences for listing the token on crypto exchanges)
 
 For EU specific regulations, please visit [Europe: Securities Related Laws](https://neo-project.github.io/global-blockchain-compliance-hub//europe/europe-securities-related-laws.html).
  
