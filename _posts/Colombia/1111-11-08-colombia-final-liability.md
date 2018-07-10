@@ -6,8 +6,6 @@ title: "Colombia: Who Bears Final Responsibility and Liability"
 category: colombia
 comments: true
 ---
-
-## Who bears final responsibility/liability in case something goes wrong? The party using the smart contract? The party that wrote the smart contract? Or the block chain platform?
  
 Colombia is in the midst of developing regulatory framework around smart contracts and blockchain, but as of yet there is no clear rule for responsibility/liability regarding smart contracts. 
 
@@ -15,7 +13,6 @@ Carlos Mesa, director of the Bitcoin Colombia Foundation, said that the country 
 
 ## Sources 
 
-[Colombia Fintech](https://www.colombiafintech.co/post/empresarios-del-bitcoin-estan-a-la-espera-de-regulacion-para-entrar-a-colombia).
-
+- [Colombia Fintech](https://www.colombiafintech.co/post/empresarios-del-bitcoin-estan-a-la-espera-de-regulacion-para-entrar-a-colombia)
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//colombia/colombia-privacy-and-data-protection.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//colombia/colombia-smart-contracts.html)** |
