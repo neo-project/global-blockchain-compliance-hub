@@ -7,8 +7,6 @@ category: colombia
 comments: true
 ---
 
-## Tax & auditing requirements
-
 The Colombia simplified limited company (SAS) this entity is only required by law to appoint a statutory auditor if its total assets exceed USD $1,655,000 or if its annual turnover exceeds $994,000. The SAS must also appoint at least 1 legal representative who must live in Colombia. A Colombia SAS needs to file an annual tax return, requires a tax registration certificate and financial statement. The corporate tax rates is at 25%.
  
 The Colombia limited liability company (Ltda.) This entity is not required to appoint a statutory auditor unless either 
@@ -40,7 +38,7 @@ However, according to the analysts surveyed by LR, the lack of an express pronou
  
 Finally, Gustavo Cote, former director of the Dian, made it clear that investing in Bitcoins does not free of paying taxes. "While it is true that there are no known programs to raise money from Bitcoins, an investor should include it in their income statement," said the expert.
 
-**Sources**
+## Sources
 
 - [Colombia Fintech](https://www.colombiafintech.co/post/como-declarar-sus-bitcoins-a-la-hora-de-pagar-impuestos)
 - [Colombia PwC](https://www.pwc.com/gx/en/international-transfer-pricing/assets/colombia.pdf)
