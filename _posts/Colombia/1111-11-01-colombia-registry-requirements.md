@@ -131,7 +131,7 @@ ANNEX:
  
 See page 24 of [this pdf](https://www.ccb.org.co/content/download/2756/35466/version/1/file/Gu%C3%ADa+Pr%C3%A1ctica+de+las+Entidades+sin+%C3%81nimo+de+Lucro+y+del+Sector+Solidario.pdf) guide to non profits for a model constitution and detailed walk through of establishing a non-profit in Colombia (in Spanish).
  
-**Sources**
+## Sources
 - [Steps or requirements to create a commercial partnership](https://www.gerencie.com/pasos-o-requisitos-para-crear-sociedad-comercial.html)
 - [Practical Guide to Non Profits](https://www.ccb.org.co/content/download/2756/35466/version/1/file/Gu%C3%ADa+Pr%C3%A1ctica+de+las+Entidades+sin+%C3%81nimo+de+Lucro+y+del+Sector+Solidario.pdf)
 - [Colombia Chamber of Commerce Guides to For Profit Establishment](https://www.ccb.org.co/en/Registrations-and-renewals/Merchant-s-certificate/Registry-your-business-books-acts-and-documents)
