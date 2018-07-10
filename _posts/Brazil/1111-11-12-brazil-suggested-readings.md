@@ -32,6 +32,10 @@ comments: true
 - [The Brazil Business: Accounting Audit in Brazil](http://thebrazilbusiness.com/article/accounting-audit-in-brazil) 
 - [The Brazil Business: Brazilian Tax Reform](http://thebrazilbusiness.com/article/brazilian-tax-reform)
 
-
+**Company Bylaws**
+- [Articles of Association in Brazil](http://thebrazilbusiness.com/article/articles-of-association-in-brazil)
+- [Foreign Investment in Brazil](https://www.plmj.com/xms/files/newsletters/Foreign_Investment_in_Brazil.pdf) 
+- [Endeavor Brasil: Como fazer um contrato social para sua empresa](https://endeavor.org.br/leis-e-impostos/como-fazer-contrato-social/)
+- [Contrato Social Template](https://www.wonder.legal/br/modele/contrato-social-sociedade-limitada)
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//brazil/brazil-nullify-smart-contracts.html)** |
