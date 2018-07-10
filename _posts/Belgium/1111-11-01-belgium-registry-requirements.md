@@ -9,6 +9,7 @@ comments: true
 
 
 
+
 ### Foundation (Stichting)
 At this stage, Belgian law contains two kinds of foundations:
 - Public utility foundations
@@ -68,3 +69,4 @@ A limited is formed by means of a notarial deed that includes the AoA and the fo
 
 
 | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//belgium/belgium-team-member-nationality-requirements.html)** |
+

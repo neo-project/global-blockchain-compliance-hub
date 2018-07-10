@@ -25,6 +25,7 @@ Sources
 - [Malta Proposes Rules to define whether ICOs are securities or not](https://www.coindesk.com/malta-proposes-test-to-define-when-icos-are-securities/)
 - [Laws Related to Token Sales](https://www.lexology.com/library/detail.aspx?g=b1fead6f-7cda-4592-8cd9-80ff1896fc36)
 - [GDPR and Blockchain](https://bitemycoin.com/opinion/gdpr-blockchain-and-malta/)
+- [Malta - Blockchain Regulation and Benefits](https://medium.com/myblockchainisland/malta-blockchain-regulation-and-benefits-2ba40c5312a8)
 
 
 
