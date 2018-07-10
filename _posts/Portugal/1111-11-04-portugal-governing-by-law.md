@@ -47,10 +47,8 @@ Portuguese companies are regulated by the Portuguese Companies Code, as enacted 
 
 ## Sources
 
-[1] http://www.mgra.pt/docs/Establishing_business_portugal.pdf 
-
-[2] http://www.cmvm.pt/en/Legislacao/LegislacaoComplementar/EmitentesOfertasInformcaoValoresMobiliarios/Pages/Commercial-Company-Act.aspx?v= 
-
-[3] http://www.madeira-management.com/documents/Types_of_Madeira_Companies.pdf 
+- [MGRA & Associados Establishing Business in Portugal] http://www.mgra.pt/docs/Establishing_business_portugal.pdf 
+- [CMVM Commercial Company Act](http://www.cmvm.pt/en/Legislacao/LegislacaoComplementar/EmitentesOfertasInformcaoValoresMobiliarios/Pages/Commercial-Company-Act.aspx?v=)
+- [Madeira Management Types of Madeira Companies](http://www.madeira-management.com/documents/Types_of_Madeira_Companies.pdf) 
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//portugal/portugal-tax-and-auditing-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//portugal/portugal-laws-token-sales.html)** |
