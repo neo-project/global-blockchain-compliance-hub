@@ -6,7 +6,6 @@ title: "Portugal: Non-profit/For-profit Company Registry Requirements"
 category: portugal
 comments: true
 ---
-## Non-profit/for-profit company registry requirements
 
 There are a number of different legal structures for businesses in Portugal, including individual sole traders to large incorporated companies with many employees. [The Portuguese Companies Code](http://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=524&tabela=leis) regulates businesses in Portugal and defines the different legal forms. [Here](http://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=524&tabela=leis) is a brief overview of the types of businesses in Portugal:
 
