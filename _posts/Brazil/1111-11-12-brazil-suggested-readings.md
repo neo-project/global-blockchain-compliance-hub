@@ -43,6 +43,9 @@ comments: true
 - [The Legal Future of Cryptocurrencies in Brazil](https://www.coindesk.com/legal-future-cryptocurrencies-brazil/) 
 - [Brazil may Write New Laws Based on Data Stored on the Ethereum Blockchain ](https://qz.com/1163660/brazil-may-write-new-laws-based-on-data-stored-on-the-ethereum-blockchain/)
 - [Brazil sees Launch of Cryptocurrency and Blockchain Association](https://www.zdnet.com/article/brazil-sees-launch-of-cryptocurrency-and-blockchain-association/)
+- [Brazil Regulator Bans Funds from Buying Cryptocurrencies](https://www.reuters.com/article/brazil-bitcoin/brazil-regulator-bans-funds-from-buying-cryptocurrencies-idUSL1N1P71DV)
+- [Brazil to Allow FUnds to Indirectly Invest in Cryptocurrencies](https://www.forbes.com/sites/astanley/2018/04/19/brazil-to-allow-funds-to-indirectly-invest-in-cryptocurrencies/#737687d02c0e)
+
 
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//brazil/brazil-nullify-smart-contracts.html)** |
