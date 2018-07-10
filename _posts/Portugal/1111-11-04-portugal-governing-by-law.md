@@ -7,7 +7,6 @@ category: portugal
 comments: true
 ---
 
-## Governing Laws/Bylaws Requirements  [1]
 
 The bylaw requirements differ based on the type of Portuguese company established.
 
