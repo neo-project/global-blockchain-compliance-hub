@@ -7,8 +7,6 @@ category: portugal
 comments: true
 ---
 
-## Tax and Auditing Requirements
-
 Business and self-employed income is classed as category B income under Portugal's income tax system and can be taxed according to accounts or under a 'simplified regime'. Portugal has a progressive rate of income tax and a VAT tax rate of 23% on goods other than food, drink and basic necessities.
 
 Annual financial statements must be presented for each calendar year. However companies may opt to use a different accounting year. Financial statements must include a balance sheet, income statements, a cash flow statement and related notes.
