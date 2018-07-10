@@ -7,9 +7,9 @@ category: portugal
 comments: true
 ---
 
-## Who bears final responsibility/liability in case something goes wrong? The party using the smart contract? The party that wrote the smart contract? Or the blockchain platform? [1]
+## Who bears final responsibility/liability in case something goes wrong? The party using the smart contract? The party that wrote the smart contract? Or the blockchain platform?
 
-For EU regulation, please visit [Europe: Who Bears Final Responsibility and Liability](https://neo-project.github.io/global-blockchain-compliance-hub//europe/europe-final-liability.html)
+For EU regulation, please visit [Europe: Who Bears Final Responsibility and Liability.](https://neo-project.github.io/global-blockchain-compliance-hub//europe/europe-final-liability.html)
  
 In May 2018, the Portuguese Parliament debated cryptocurrency payment regulations, with the aim of adopting a new legal framework for cryptocurrency payment services. The new Portuguese regulatory framework is configured to apply "new rules for accessing payment accounts" in order to avoid unjustified setbacks and ensure that payments are secure. The official document and regulation has yet to be released. 
  
@@ -25,6 +25,6 @@ In this uncertain area, developers will need to carefully consider their risk pr
 
 ## Sources
 
-[1] https://bravenewcoin.com/news/when-smart-contracts-go-bad-perspectives-on-loss-and-liability/ 
+- [When Smart Contracts Go Bad Perspectives on Loss and Liability](https://bravenewcoin.com/news/when-smart-contracts-go-bad-perspectives-on-loss-and-liability/)
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//portugal/portugal-privacy-and-data-protection.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//portugal/portugal-smart-contracts.html)** |
