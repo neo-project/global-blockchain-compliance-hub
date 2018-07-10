@@ -6,7 +6,6 @@ title: "Portugal: Suggested Readings"
 category: portugal
 comments: true
 ---
-## Suggested Readings
 
 Registering and Doing Business in Portugal
 - [AICEP Portugal Global (Portuguese: Agência para o Investimento e Comércio Externo de Portugal](http://www.portugalglobal.pt/PT/Paginas/Index.aspx)
