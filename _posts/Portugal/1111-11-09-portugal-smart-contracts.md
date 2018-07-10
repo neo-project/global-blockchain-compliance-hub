@@ -7,7 +7,7 @@ category: portugal
 comments: true
 ---
 
-## The definition of a ‘smart contract’ and whether a smart contract is legally binding (even if both parties agree to use the smart contract) [1]
+## The definition of a ‘smart contract’ and whether a smart contract is legally binding (even if both parties agree to use the smart contract)
 
 For EU regulation, please visit [Europe: Smart Contracts Definition and Legality](https://neo-project.github.io/global-blockchain-compliance-hub//europe/europe-smart-contracts.html). 
 
@@ -17,10 +17,8 @@ As Portugal has not yet defined smart contracts please see the EU section since 
 
 ## Sources
 
-[1] https://www2.deloitte.com/nl/nl/pages/financial-services/articles/3-blockchain-the-benefits-of-smart-contracts.html 
-
-[2] http://www.allenovery.com/publications/en-gb/lrrfs/cross-border/Pages/Smart-contracts-for-finance-parties.aspx 
-
-[3] https://www.coindesk.com/eu-eyes-blockchain-push-with-new-fintech-action-plan/ 
+- [Deloitte Blockchain the Benefits of Smart Contracts](https://www2.deloitte.com/nl/nl/pages/financial-services/articles/3-blockchain-the-benefits-of-smart-contracts.html)
+- [Smart contracts for finance parties](http://www.allenovery.com/publications/en-gb/lrrfs/cross-border/Pages/Smart-contracts-for-finance-parties.aspx) 
+- [EU Eyes Blockchain Push With New FinTech Action Plan](https://www.coindesk.com/eu-eyes-blockchain-push-with-new-fintech-action-plan/)
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//portugal/portugal-final-liability.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//portugal/portugal-dispute-resolution.html)** |
