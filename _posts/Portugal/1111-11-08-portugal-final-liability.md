@@ -7,7 +7,6 @@ category: portugal
 comments: true
 ---
 
-## Who bears final responsibility/liability in case something goes wrong? The party using the smart contract? The party that wrote the smart contract? Or the blockchain platform?
 
 For EU regulation, please visit [Europe: Who Bears Final Responsibility and Liability.](https://neo-project.github.io/global-blockchain-compliance-hub//europe/europe-final-liability.html)
  
