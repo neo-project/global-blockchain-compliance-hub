@@ -53,6 +53,9 @@ comments: true
 **Smart Contracts and Contract Law in Brazil**
 - [Brazil: Limiting Liability Under Brazil's Civil Code](http://www.mondaq.com/brazil/x/425918/Contract+Law/LIMITING+LIABILITY+UNDER+BRAZILS+CIVIL+CODE)
 - [Commercial Contracts](https://gettingthedealthrough.com/area/88/jurisdiction/6/commercial-contracts-brazil/)
+- [Blockchain, Smart Contracts and “Judge as a Service” in Brazilian Law](http://irisbh.com.br/en/blockchain-smart-contracts-and-judge-as-a-service-in-brazilian-law-2/)
+- [Brazilian Government Plans to Process Petitions and Write Laws on Ethereum](https://cointelegraph.com/news/brazilian-government-plans-to-process-petitions-and-write-laws-on-ethereum)
+
 
 
 
