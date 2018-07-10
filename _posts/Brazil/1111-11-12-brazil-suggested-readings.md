@@ -38,4 +38,11 @@ comments: true
 - [Endeavor Brasil: Como fazer um contrato social para sua empresa](https://endeavor.org.br/leis-e-impostos/como-fazer-contrato-social/)
 - [Contrato Social Template](https://www.wonder.legal/br/modele/contrato-social-sociedade-limitada)
 
+**Blockchain and Cryptocurrency Regulations**
+- [Fundo poderá ter investimento indireto em moeda virtual, diz CVM](https://www1.folha.uol.com.br/mercado/2018/04/cvm-deve-publicar-em-maio-parecer-sobre-como-gestor-de-fundo-deve-analisar-criptoativo.shtml)
+- [The Legal Future of Cryptocurrencies in Brazil](https://www.coindesk.com/legal-future-cryptocurrencies-brazil/) 
+- [Brazil may Write New Laws Based on Data Stored on the Ethereum Blockchain ](https://qz.com/1163660/brazil-may-write-new-laws-based-on-data-stored-on-the-ethereum-blockchain/)
+- [Brazil sees Launch of Cryptocurrency and Blockchain Association](https://www.zdnet.com/article/brazil-sees-launch-of-cryptocurrency-and-blockchain-association/)
+
+
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//brazil/brazil-nullify-smart-contracts.html)** |
