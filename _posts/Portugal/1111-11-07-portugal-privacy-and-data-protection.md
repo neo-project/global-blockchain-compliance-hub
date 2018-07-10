@@ -7,9 +7,9 @@ category: portugal
 comments: true
 ---
 
-## Privacy & Data Protection-related Laws (especially on public blockchains) [1]
+## Privacy & Data Protection-related Laws (especially on public blockchains)
 
-For EU’s GDPR regulation, please visit [Europe: Privacy and Data Protection-related Laws](https://neo-project.github.io/global-blockchain-compliance-hub//europe/europe-privacy-and-data-protection.html)
+For EU’s GDPR regulation, please visit [Europe: Privacy and Data Protection-related Laws.](https://neo-project.github.io/global-blockchain-compliance-hub//europe/europe-privacy-and-data-protection.html)
 
 The provisions of Directive 95/46/EC on data protection (Data Protection Directive) were implemented into Portuguese law through Law 67/98 of 26 October 1998 (Data Protection Act). The fundamental principles and guarantees on personal data protection are also set out in the Portuguese Constitution (Article 35 on the use of computerised data).
 In Portugal, the Data Protection Act (DPA) applies to both public and private entities.
@@ -50,6 +50,6 @@ Companies and any other categories of data controllers can transfer data they pr
 
 ### Sources
 
-[1] https://uk.practicallaw.thomsonreuters.com/2-575-2225?transitionType=Default&contextData=(sc.Default)&firstPage=true&bhcp=1 
+[Data protection in Portugal: overview](https://uk.practicallaw.thomsonreuters.com/2-575-2225?transitionType=Default&contextData=(sc.Default)&firstPage=true&bhcp=1) 
 
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//portugal/portugal-securities-related-laws.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//portugal/portugal-final-liability.html)** |
