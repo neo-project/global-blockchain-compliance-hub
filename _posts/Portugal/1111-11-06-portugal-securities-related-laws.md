@@ -7,7 +7,7 @@ category: portugal
 comments: true
 ---
 
-## Securities-related laws (once a token is registered or identified as a security, what are the consequences for listing the token on crypto exchanges) [1] [2] 
+## Securities-related laws (once a token is registered or identified as a security, what are the consequences for listing the token on crypto exchanges)
 
 For EU specific regulations, please visit [Europe: Securities Related Laws](https://neo-project.github.io/global-blockchain-compliance-hub//europe/europe-securities-related-laws.html).
  
@@ -15,8 +15,7 @@ In May 2018, the Portuguese Parliament debated cryptocurrency payment regulation
 
 ## Sources 
 
-[1] https://steemit.com/bitcoin/@briseth/the-portuguese-parliament-will-discuss-payment-regulations-in-cryptocurrencies 
-
-[2] https://iclg.com/practice-areas/fintech-laws-and-regulations/portugal 
+- [The Portugese Parliament Will Discuss Payment Regulations in Cryptocurrencies](https://steemit.com/bitcoin/@briseth/the-portuguese-parliament-will-discuss-payment-regulations-in-cryptocurrencies)
+- [Fintech Laws and Regulations](https://iclg.com/practice-areas/fintech-laws-and-regulations/portugal) 
 
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//portugal/portugal-laws-token-sales.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//portugal/portugal-privacy-and-data-protection.html)** |
