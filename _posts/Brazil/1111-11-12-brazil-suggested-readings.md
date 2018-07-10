@@ -46,6 +46,11 @@ comments: true
 - [Brazil Regulator Bans Funds from Buying Cryptocurrencies](https://www.reuters.com/article/brazil-bitcoin/brazil-regulator-bans-funds-from-buying-cryptocurrencies-idUSL1N1P71DV)
 - [Brazil to Allow FUnds to Indirectly Invest in Cryptocurrencies](https://www.forbes.com/sites/astanley/2018/04/19/brazil-to-allow-funds-to-indirectly-invest-in-cryptocurrencies/#737687d02c0e)
 
+**Data and Privacy Regulations**
+- [Law 12,965/2014 (the Internet Bill of Rights or Marco Civil da Internet)](https://itsrio.org/wp-content/uploads/2015/11/Understanding-Brazils-Internet-Bill-of-Rights.pdf)
+- [Recent Developments on Privacy and Data Protection in Brazil](https://www.bestlawyers.com/article/privacy-and-data-protection-brazil/1555)
+
+
 
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//brazil/brazil-nullify-smart-contracts.html)** |
