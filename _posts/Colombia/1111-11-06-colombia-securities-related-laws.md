@@ -10,7 +10,6 @@ comments: true
 **Securities-Related Laws in Colombia**
 - Please see [here](https://www.mayerbrown.com/files/Publication/4868229b-de56-4b53-8669-a55fcfdd728a/Presentation/PublicationAttachment/56e374b9-fab3-467f-b3b1-aa1d67beafbb/Update_New_Regulations_Moveable_Assets_Colombia_0414.pdf) for the securities law in Colombia  
 
-
 **Securities-Related Laws in Colombia**
 Please see [here](https://www.mayerbrown.com/files/Publication/4868229b-de56-4b53-8669-a55fcfdd728a/Presentation/PublicationAttachment/56e374b9-fab3-467f-b3b1-aa1d67beafbb/Update_New_Regulations_Moveable_Assets_Colombia_0414.pdf) for the securities law in Colombia  
 
