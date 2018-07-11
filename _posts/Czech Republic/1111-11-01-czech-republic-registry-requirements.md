@@ -154,25 +154,25 @@ Please check the following sources for more information.
 
 ### Sources:
 
-[Czech Republic Civil Code](http://obcanskyzakonik.justice.cz/images/pdf/Civil-Code.pdf)
+- [Czech Republic Civil Code](http://obcanskyzakonik.justice.cz/images/pdf/Civil-Code.pdf)
 
-[Ministry of Justice's Website](www.justice.cz)
+- [Ministry of Justice's Website](www.justice.cz)
 
-[Commercial Register – electronic access](http://portal.justice.cz/justice2/uvod/uvod.aspx)
+- [Commercial Register – electronic access](http://portal.justice.cz/justice2/uvod/uvod.aspx)
 
-[Commercial Register - forms, addresses of registration courts](http://portal.justice.cz/justice2/ms/ms.aspx?d=47038&j=33&k=2299&o=23)
+- [Commercial Register - forms, addresses of registration courts](http://portal.justice.cz/justice2/ms/ms.aspx?d=47038&j=33&k=2299&o=23)
 
-[Notarial Chamber of the Czech Republic](http://www.nkcr.cz/lang/EN/)
+- [Notarial Chamber of the Czech Republic](http://www.nkcr.cz/lang/EN/)
 
-[Doing Business in Czech Republic](http://www.doingbusiness.cz/)
+- [Doing Business in Czech Republic](http://www.doingbusiness.cz/)
 
-[CzechInvest, Setting up a Business](https://www.czechinvest.org/en/Doing-business-in-the-Czech-Republic/Setting-up-a-business)
+- [CzechInvest, Setting up a Business](https://www.czechinvest.org/en/Doing-business-in-the-Czech-Republic/Setting-up-a-business)
 
-[Association for Foreign Investment](http://www.afi.cz/en)
+- [Association for Foreign Investment](http://www.afi.cz/en)
 
-[Trade licensing office] (http://www.rzp.cz/elpod.html]
+- [Trade licensing office](http://www.rzp.cz/elpod.html)
 
-[Act No. 300/2008 Coll., “On electronic transactions and authorized conversion of documents](https://www.uohs.cz/download/Legislativa/VZ/CR/2006_137_Eng.pdf)
+- [Act No. 300/2008 Coll., “On electronic transactions and authorized conversion of documents](https://www.uohs.cz/download/Legislativa/VZ/CR/2006_137_Eng.pdf)
 
 
 ---
