@@ -6,7 +6,6 @@ title: "Czech Republic: Team Member Nationality Requirements"
 category: czech-republic
 comments: true
 ---
-## Czech Republic: Team Member Nationality Requirements ## 
 
 
 Czech law enables foreigners to conduct commercial  activities under the same conditions and to the same extent as Czech entrepreneurs. Foreigners may become founders or co-founders of a company, or may join an existing Czech company. 
@@ -77,8 +76,7 @@ Documents regarding the purpose of stay in the Czech Republic:
 - [CzechInvest, Setting up a Business](https://www.czechinvest.org/en/Doing-business-in-the-Czech-Republic/Setting-up-a-business)
 
 
----
-- 
+
 
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//czech-republic/czech-republic-registry-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//czech-republic/czech-republic-tax-and-auditing-requirements.html)** |
