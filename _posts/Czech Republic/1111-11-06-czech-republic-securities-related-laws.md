@@ -7,7 +7,6 @@ category: czech-republic
 comments: true
 ---
 
-## Securities-related laws (once a token is registered or identified as a security, what are the consequences for listing the token on crypto exchanges) ## 
 
 For EU specific regulations, please visit [Europe: Securities Related Laws](https://neo-project.github.io/global-blockchain-compliance-hub//europe/europe-securities-related-laws.html).
 
@@ -50,8 +49,7 @@ The form of the individual applications is not stipulated.
 - [European Bank for Reconstruction and Development - Czech Republic Securities](https://www.ebrd.com/downloads/legal/securities/czsecur.pdf)
 
 
---- 
-- 
+
 
 
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//czech-republic/czech-republic-laws-token-sales.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//czech-republic/czech-republic-privacy-and-data-protection.html)** |
