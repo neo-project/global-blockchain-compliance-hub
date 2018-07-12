@@ -50,7 +50,4 @@ comments: true
 
 
 
--- 
-- 
-
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//czech-republic/czech-republic-nullify-smart-contracts.html)** |
