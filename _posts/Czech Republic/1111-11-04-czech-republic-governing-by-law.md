@@ -7,7 +7,6 @@ category: czech-republic
 comments: true
 ---
 
-## Governing laws/bylaw requirements
 
 There are generally no specific restrictions applicable to investments in the Czech Republic by a nonresident. However, certain limitations may apply according to the Czech Crisis Management Act, Act No. 240/2000 Coll. In case of an emergency, the Czech government can particularly prohibit: 
 
@@ -33,7 +32,6 @@ Entities which are subsumed pursuant to notification by the Czech National Bank 
 - [Czech Crisis Management Act, Act No. 240/2000 Coll](http://www.hzscr.cz/hasicien/article/crisis-management-in-the-czech-republic.aspx?q=Y2hudW09Mg%3D%3D)
 
 
---- 
-- 
+
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//czech-republic/czech-republic-tax-and-auditing-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//czech-republic/czech-republic-laws-token-sales.html)** |
