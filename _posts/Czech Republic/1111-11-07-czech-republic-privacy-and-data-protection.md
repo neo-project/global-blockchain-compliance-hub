@@ -21,7 +21,6 @@ Based on [the Act on the Cybersecurity No. 181/2014](https://www.govcert.cz/down
 - [the Act on the Cybersecurity No. 181/2014](https://www.govcert.cz/download/legislation/container-nodeid-1122/actoncybersecuritypopsp.docx )
 
 
----
-- 
+
 
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//czech-republic/czech-republic-securities-related-laws.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//czech-republic/czech-republic-final-liability.html)** |
