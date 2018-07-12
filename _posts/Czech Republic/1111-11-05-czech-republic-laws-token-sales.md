@@ -7,7 +7,6 @@ category: czech-republic
 comments: true
 ---
 
-## Laws related to token sales, blockchain, and digital proof
 
 For EU regulations, please visit [EU Laws Related to Token Sales, Blockchain, and Digital Proof](https://neo-project.github.io/global-blockchain-compliance-hub//europe/europe-laws-token-sales.html)
 
@@ -45,7 +44,6 @@ to curb the illicit use of cash and cryptocurrencies. The Commission has also no
 
 - [Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Directive (EU) 2015/849 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing and amending Directive 2009/101/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52016PC0450)
 
---- 
-- 
+
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//czech-republic/czech-republic-governing-by-law.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//czech-republic/czech-republic-securities-related-laws.html)** |
