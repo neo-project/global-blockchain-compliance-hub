@@ -6,7 +6,6 @@ title: "Czech Republic: Non-profit/For-profit Company Registry Requirements"
 category: czech-republic
 comments: true
 ---
-## Non-profit/for-profit company registry requirements ##
  
 ### General requirements both for Profit and Non-profit organizations in Czech Republic include: ###
 
@@ -175,8 +174,7 @@ Please check the following sources for more information.
 - [Act No. 300/2008 Coll., “On electronic transactions and authorized conversion of documents](https://www.uohs.cz/download/Legislativa/VZ/CR/2006_137_Eng.pdf)
 
 
----
-- 
+
 
 
 | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//czech-republic/czech-republic-team-member-nationality-requirements.html)** |
