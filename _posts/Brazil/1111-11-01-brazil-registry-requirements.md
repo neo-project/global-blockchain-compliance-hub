@@ -7,6 +7,7 @@ category: brazil
 comments: true
 ---
 
+
 ## For-Profit Company Registration
 
 Brazil has been welcoming investors into the country since the early 1990s. This means that both private and public service providers are well aware of the requirements of an incoming operation. Prospective investors often make use of a service provider from the private sector capable of seeing to all their legal and logistical requirements from company registration, access to banking facilities to recruitment of staff. 
@@ -182,6 +183,7 @@ Sources
 - [Complete Guide to Issue a Nota Fiscal in Brazil](http://thebrazilbusiness.com/article/complete-guide-to-issue-nota-fiscal-in-brazil)
 - [Charitable organisations in Brazil: overview](https://uk.practicallaw.thomsonreuters.com/2-633-0890?transitionType=Default&contextData=(sc.Default)&firstPage=true&comp=pluk&bhcp=1)
 - [Brazil: Nonprofit Organizations In Brazil](http://www.mondaq.com/brazil/x/413418/Corporate+Commercial+Law/Brazil+Nonprofit+Organizations+In+Brazil)
+
 
 
 | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//brazil/brazil-team-member-nationality-requirements.html)** |
