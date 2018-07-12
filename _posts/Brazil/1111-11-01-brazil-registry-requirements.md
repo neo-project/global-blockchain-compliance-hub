@@ -7,6 +7,7 @@ category: brazil
 comments: true
 ---
 
+
 ## For-Profit Company Registration
 
 Brazil has been welcoming investors into the country since the early 1990s. This means that both private and public service providers are well aware of the requirements of an incoming operation. Prospective investors often make use of a service provider from the private sector capable of seeing to all their legal and logistical requirements from company registration, access to banking facilities to recruitment of staff. 
