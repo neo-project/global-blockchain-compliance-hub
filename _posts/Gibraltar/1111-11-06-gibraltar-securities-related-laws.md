@@ -8,6 +8,41 @@ comments: true
 ---
 
 **Government-Issued Perspective** 
+- Definition of security from [March 2018 Proposal for the Regulation of Token Sales by  HM Government of Gibraltar](http://gibraltarfinance.gi/20180309-token-regulation---policy-document-v2.1-final.pdf)
+- Most often, tokens do not qualify as securities under Gibraltar or EU legislation. In many cases, they represent the
+advance sale of products that entitle holders to access future networks or consume future services. They are akin to
+mobile phone companies pre-selling airtime in networks they plan to build using the proceeds of those airtime sales.
+As such, these tokens represent commercial products (albeit reliant on future availability and utility) and are not
+caught by existing securities regulation in Gibraltar.
+- Tokens are sometimes created with the characteristics of a virtual currency, serving principally as a medium of
+exchange within an ecosystem (or marketplace) of consumers and service providers. In some cases (e.g. where a
+centralised virtual currency is involved), the organiser of the DLT system may fall within scope of the DLT Regulations2
+but the token sale, secondary market conduct and investment services relating to tokens remain unregulated.
+The driver for purchasing tokens in an ICO is typically the expectation of making a return by selling them at a profit
+once the project is successfully completed and its products or services become popular and in demand. This is similar
+to early acquisition and holding of commodities with a view to trading them later at a higher price.
+- Tokens are digital representations of something else, whether tangible or intangible. As such, they are distinct from
+any underlying object. Much like derivatives, trading tokens is not necessarily the same activity as trading its
+underlying asset (where one exists). So, for example, sale of a token representing a physical asset is not the same as
+selling that physical asset.
+
+**[Regulation for Listing Securities](http://www.gibraltarlaws.gov.gi/articles/2006-43o.pdf)**
+- The Financial Services Listing of Securities Act issued in 2006 defines securities and the process that must be followed when listing them. When listing a security or a token that is a security in Gibraltar, these rules must be followed. 
+
+
+**[Regulation of Tokens as of March 2018](http://gibraltarfinance.gi/20180309-token-regulation---policy-document-v2.1-final.pdf)**
+- The public offering of tokens **that constitute securities** are already adequately caught by existing securities legislation
+and do not require further regulation.
+- The public offering of tokens that are **not securities** and that do not constitute outright gifts or donations are,
+typically, offers of commercial products and services (which, at the time of sale, may or may not yet exist). Such
+tokens are sometimes referred to as utility or access tokens and the like. In circumstances where a token constitutes a
+product or service that does not yet exist (or is not, at the time of sale, substantially functional), it represents, in
+effect, no more than a hope or ambition to deliver that product or service in the future. In such cases, purchasers risk
+that the product or service might never be delivered and often waive any right to the return of the price paid.
+Purchasers may well be prepared to take that risk but it is appropriate that they be presented, in advance, with all
+relevant information to enable them to make an informed decision
+
+**Previous Statements on the Regulation of Tokens**
 * The September 22, 2017 statement from the Gibraltar Financial Services Commission on September 2017 indicated several uses for tokens: “In some cases, tokens represent securities, such as shares in a company, and their promotion and sale are regulated as such. More often, tokens serve some cryptocurrency or functional use that is unregulated, such as prepayment for access to a product or service that is to be developed using funds raised in the ICO” [1]
   * Therefore **it is possible that tokens may be registered as securities** but, as noted above, there is no legislation around token sale in Gibraltar as of now
 
@@ -35,6 +70,9 @@ comments: true
 [4] [Medium.com](https://medium.com/@Gibraltar.Blockchain.Exchange/gibraltar-stock-exchange-plans-to-create-worlds-first-tokenised-stock-exchange-6db0153d5d3b)   
 [5] [itpro.co.uk](http://www.itpro.co.uk/strategy/29979/the-gibraltar-blockchain-exchange-attempts-to-tame-the-ico-wild-west)  
 [6] [Gbx.gi](https://gbx.gi/#1508496269595-2f02501c-bba1)   
+[7] [Regulation for Listing Securities](http://www.gibraltarlaws.gov.gi/articles/2006-43o.pdf)
+[8] [Token Regulation by HM Government of Gibraltar](http://gibraltarfinance.gi/20180309-token-regulation---policy-document-v2.1-final.pdf)
+
 
 
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//gibraltar/gibraltar-laws-token-sales.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//gibraltar/gibraltar-privacy-and-data-protection.html)** |
