@@ -6,7 +6,6 @@ title: "Czech Republic: Tax & Auditing Requirements"
 category: czech-republic
 comments: true
 ---
-## Tax & auditing requirements ## 
 
 ### Taxes 
 
@@ -96,7 +95,5 @@ Mandatory Audit. As of January 1, 2016, the Czech Accounting Act distinguishes 4
 
 
 
----
-- 
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//czech-republic/czech-republic-team-member-nationality-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//czech-republic/czech-republic-governing-by-law.html)** |
