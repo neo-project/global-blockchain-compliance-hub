@@ -39,8 +39,7 @@ and, if applicable, electronic receipt of requests to participate and projects i
 
 - [Czech Republic Act no. 137/2006 Coll. "on Public Contracts"](http://www.portal-vz.cz/getmedia/50657500-3743-426a-8463-e3b46830ae04/ZVZ_english)
 
--- 
-- 
+
 
 
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//czech-republic/czech-republic-smart-contracts.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//czech-republic/czech-republic-nullify-smart-contracts.html)** |
