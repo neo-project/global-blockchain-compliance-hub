@@ -2,7 +2,7 @@
 layout: post
 date: 0013-03-01
 name: how-is-dispute-resolution-integrated
-title: "USA: How is Dispture Resolution Integrated"
+title: "USA: How is Dispute Resolution Integrated"
 category: united-states-of-america
 comments: true
 ---
