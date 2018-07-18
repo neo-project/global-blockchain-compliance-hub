@@ -6,12 +6,11 @@ title: "Czech Republic: Can Smart Contracts be Nullified?"
 category: czech-republic
 comments: true
 ---
+For EU regulation, please visit [Europe: Can Smart Contracts be Nullified?](https://neo-project.github.io/global-blockchain-compliance-hub//europe/europe-nullify-smart-contracts.html).
 
-# Page in progress, stay tuned!
+Unfortunately, there is no clear description of legal procedures  related to nullification of smart contracts in Czech legal system.  
 
-Sources
--- 
-- 
+
 
 
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//czech-republic/czech-republic-dispute-resolution.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//czech-republic/czech-republic-suggested-readings.html)** |

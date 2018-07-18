@@ -7,11 +7,10 @@ category: europe
 comments: true
 ---
 
-# Page in progress, stay tuned!
+There is currently no explicit regulation governing smart contract nullification. It is most likely decided at the member state level.
 
-Sources
--- 
-- 
+
+
 
 
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//europe/europe-dispute-resolution.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//europe/europe-suggested-readings.html)** |

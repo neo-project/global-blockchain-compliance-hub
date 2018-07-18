@@ -7,11 +7,12 @@ category: denmark
 comments: true
 ---
 
-# Page in progress, stay tuned!
+For EU regulation, please visit [Europe: Can Smart Contracts be Nullified?](https://neo-project.github.io/global-blockchain-compliance-hub//europe/europe-nullify-smart-contracts.html).
 
-Sources
--- 
-- 
+There is currently no legal framework in Denmark specifically tailored for smart contracts, including their nullification.
+
+
+
 
 
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//denmark/denmark-dispute-resolution.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//denmark/denmark-suggested-readings.html)** |

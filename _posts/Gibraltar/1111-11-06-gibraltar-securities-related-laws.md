@@ -70,10 +70,9 @@ relevant information to enable them to make an informed decision
 [4] [Medium.com](https://medium.com/@Gibraltar.Blockchain.Exchange/gibraltar-stock-exchange-plans-to-create-worlds-first-tokenised-stock-exchange-6db0153d5d3b)   
 [5] [itpro.co.uk](http://www.itpro.co.uk/strategy/29979/the-gibraltar-blockchain-exchange-attempts-to-tame-the-ico-wild-west)  
 [6] [Gbx.gi](https://gbx.gi/#1508496269595-2f02501c-bba1)   
-
 [7] [Regulation for Listing Securities](http://www.gibraltarlaws.gov.gi/articles/2006-43o.pdf)
-
 [8] [Token Regulation by HM Government of Gibraltar](http://gibraltarfinance.gi/20180309-token-regulation---policy-document-v2.1-final.pdf)
+
 
 
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//gibraltar/gibraltar-laws-token-sales.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//gibraltar/gibraltar-privacy-and-data-protection.html)** |
