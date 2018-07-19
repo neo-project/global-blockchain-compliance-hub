@@ -7,9 +7,7 @@ category: nigeria
 comments: true
 ---
 
-# Page in progress, stay tuned!
-
-
+There are currently no laws on smart contract dispute resolution. 
 
 
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//nigeria/nigeria-smart-contracts.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//nigeria/nigeria-nullify-smart-contracts.html)** |
