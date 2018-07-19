@@ -34,14 +34,14 @@ _IRS_
 Every New Jersey corporation acquires a taxable status beginning either on the date of its incorporation, or on the first day of the month following its incorporation if so stated in its Certificate of Incorporation. Every corporation which incorporates, qualifies or otherwise acquires a taxable status in New Jersey must file a Corporation Business Tax return, [Form CBT-100](https://www.state.nj.us/treasury/taxation/prntcbt.shtml) in addition to Federal Taxes. A tax return must be filed for each fiscal year, or part thereof, beginning on the date the corporation acquired a taxable status in New Jersey regardless of whether it had any assets or conducted any business activities.
 
 In general, corporations required to file the [CBT-100](https://www.state.nj.us/treasury/taxation/prntcbt.shtml) include:
-- Every corporation existing under the laws of the State of New Jersey; and
-- Every foreign corporation which either:
--- holds a general Certificate of Authority to do business in New Jersey issued by the New Jersey Division of Revenue;
--- holds a certificate, license or other authorization issued by any other New Jersey department or agency authorizing the corporation to engage in activity in New Jersey;
--- does business in New Jersey;
--- employs or owns capital in New Jersey;
--- employs or owns property in New Jersey; or
--- maintains an office in New Jersey.
+1. Every corporation existing under the laws of the State of New Jersey; and
+2. Every foreign corporation which either:
+- holds a general Certificate of Authority to do business in New Jersey issued by the New Jersey Division of Revenue;
+- holds a certificate, license or other authorization issued by any other New Jersey department or agency authorizing the corporation to engage in activity in New Jersey;
+- does business in New Jersey;
+- employs or owns capital in New Jersey;
+- employs or owns property in New Jersey; or
+- maintains an office in New Jersey.
 All corporations, whether domestic or foreign, must also submit an annual report and the associated filing fee. Beginning with tax year 2005, the annual report and filing fee must be submitted electronically. The paper form, CAR-100, has been eliminated and the annual report is no longer part of the corporation business tax return filing. In addition, the formation or registration date has become the annual report filing due date. For more information see: [Annual Report Filing Requirements](https://www.state.nj.us/treasury/revenue/dcr/programs/ann_rpt.shtml)
 
 ### Sources
