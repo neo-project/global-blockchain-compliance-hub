@@ -7,7 +7,11 @@ category: new-jersey
 comments: true
 ---
 
-# Page in progress, stay tuned!
+For federal definitions, please visit the [USA Smart Contracts Definition and Legality page](https://neo-project.github.io/global-blockchain-compliance-hub//united-states-of-america/USA-smart-contracts.html). 
+
+
+The State of New Jersey has not published any laws defining Smart Contracts.
+
 
 
 

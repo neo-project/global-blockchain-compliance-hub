@@ -7,7 +7,11 @@ category: new-jersey
 comments: true
 ---
 
-# Page in progress, stay tuned!
+For federal regulations, please visit the [USA How is Dispute Resolution Integrated page](https://neo-project.github.io/global-blockchain-compliance-hub//united-states-of-america/USA-dispute-resolution.html). 
+
+
+There's no current legislation on smart-contract-related dispute resolution in New Jersey. 
+
 
 
 

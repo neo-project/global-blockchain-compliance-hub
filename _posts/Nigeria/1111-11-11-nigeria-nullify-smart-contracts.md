@@ -7,9 +7,6 @@ category: nigeria
 comments: true
 ---
 
-# Page in progress, stay tuned!
-
-
-
+No information is currently available on the nullification of smart contracts in Nigeria.
 
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//nigeria/nigeria-dispute-resolution.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//nigeria/nigeria-suggested-readings.html)** |
