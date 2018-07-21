@@ -17,7 +17,7 @@ In the event any specific regulation is enacted, the responsible agency will be 
  
 ## Sources
  
-- [ICOs and Token Sales Regulations in Various Jurisdictions]  (https://www.legalink.ch/xms/files/PUBLICATIONS/Legalink_ICOS_and_Token_Sales.pdf)
-- [The Role of Data Protection in Distributed Technology] (https://www.lexology.com/library/detail.aspx?g=7f1f41bb-7847-42db-bf3b-8dd824c79179)
+- [ICOs and Token Sales Regulations in Various Jurisdictions](https://www.legalink.ch/xms/files/PUBLICATIONS/Legalink_ICOS_and_Token_Sales.pdf)
+- [The Role of Data Protection in Distributed Technology](https://www.lexology.com/library/detail.aspx?g=7f1f41bb-7847-42db-bf3b-8dd824c79179)
 
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//sweden/sweden-laws-token-sales.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//sweden/sweden-privacy-and-data-protection.html)** |
