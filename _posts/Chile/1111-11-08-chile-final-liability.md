@@ -17,8 +17,8 @@ For more general information on dispute resolutions in Chile read more [here](ht
  
 For more general information on product liability and safety in Chile please read more [here](https://uk.practicallaw.thomsonreuters.com/w-013-1916?transitionType=Default&contextData=(sc.Default)&firstPage=true&comp=pluk&bhcp=1). 
  
-Sources
-[1] [Chile Is Using Ethereum's Blockchain to Track Energy Data](https://www.coindesk.com/chile-to-use-ethereums-blockchain-to-track-energy-data/)
+## Sources
+- [Chile Is Using Ethereum's Blockchain to Track Energy Data](https://www.coindesk.com/chile-to-use-ethereums-blockchain-to-track-energy-data/)
 
 
 
