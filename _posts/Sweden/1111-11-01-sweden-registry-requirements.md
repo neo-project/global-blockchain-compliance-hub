@@ -9,7 +9,7 @@ comments: true
 
 There are a number of different legal structures for businesses in Sweden. Here's a brief overview of the types of businesses in Sweden: 
 
-## Starting a new Business in Sweden**
+## Starting a new Business in Sweden
 
 You can register a Swedish business as a sole trader resident in Sweden (self-employed) or register a new Swedish legal person for taxation. 
 
@@ -50,19 +50,19 @@ A limited company can be started by one or more natural persons or legal entitie
 
 **Company registration**
 
-Register with the Swedish Companies Registration office
+**Register with the Swedish Companies Registration office**
 
 A limited company must be registered with the Swedish Companies Registration Office (Bolagsverket). A limited company only becomes a legal person when it has been registered with the Swedish Companies Registration Office. Registration provides nationwide protection of the company name.
 
 Register limited company online [here](https://www.verksamt.se/web/international/alla-e-tjanster/find-permits?p_p_id=tvv_hitta_tillstand_WAR_tvv_hitta_tillstand&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_tvv_hitta_tillstand_WAR_tvv_hitta_tillstand__facesViewIdRender=%2FshowPermit.xhtml&_tvv_hitta_tillstand_WAR_tvv_hitta_tillstand_permitId=56032&_tvv_hitta_tillstand_WAR_tvv_hitta_tillstand_parentNav=%2FshowAtoZ.xhtml).
 
-Tax and VAT registration
+**Tax and VAT registration**
 
 The company must then register with the Swedish Tax Agency (Skatteverket). The company needs to apply for F-tax and VAT registration and, if relevant, register as an employer.
 
 Register F-tax and VAT [here](https://www.verksamt.se/web/international/alla-e-tjanster/find-permits?p_p_id=tvv_hitta_tillstand_WAR_tvv_hitta_tillstand&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_tvv_hitta_tillstand_WAR_tvv_hitta_tillstand__facesViewIdRender=%2FshowPermit.xhtml&_tvv_hitta_tillstand_WAR_tvv_hitta_tillstand_permitId=55741&_tvv_hitta_tillstand_WAR_tvv_hitta_tillstand_categoryId=48762&_tvv_hitta_tillstand_WAR_tvv_hitta_tillstand_parentNav=%2FshowCategory.xhtml).
 
-Other permits
+**Other permits**
 
 There might be other permits or registrations that you need to consider when starting your business.
 
@@ -150,7 +150,7 @@ There might be other permits or registrations that you need to consider when sta
 
 Find permits [here](https://www.verksamt.se/en/web/international/alla-e-tjanster/find-permits).
 
-*Approval for Sweden F-Tax *
+*Approval for Sweden F-Tax*
 
 Most businesses active in Sweden apply for approval for Swedish F-tax. When your business is approved for F-tax, your customers do not have to deduct taxes on payments made to you for work performed in Sweden.
 If you are self-employed, a sole trader, more information on F-tax can be found [here](https://www.skatteverket.se/privat/sjalvservice/blanketterbroschyrer/broschyrer/info/432b.4.58a1634211f85df4dce800012391.html) 
