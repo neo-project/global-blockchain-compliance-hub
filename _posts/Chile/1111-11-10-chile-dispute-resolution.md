@@ -7,7 +7,7 @@ category: chile
 comments: true
 ---
 
-Although there is no official statement on smart contracts in Chile presently on offer, the Chilean government is currently using smart contracts in a nation-wide energy project. As Chile has not yet defined smart contracts, please keep attuned to ongoing discussions.
+Although there is no official statement on smart contracts in Chile presently on offer, the Chilean government is currently using smart contracts in a [nation-wide energy project](https://www.coindesk.com/chile-to-use-ethereums-blockchain-to-track-energy-data/). As Chile has not yet defined smart contracts, please keep attuned to ongoing discussions.
  
 As a general note, despite certain advantages of smart contracts, they are not free from disputes arising in relation to their performance. There are several potential types of disputes–a party may, for example, contest whether a smart contract is in fact legally binding, disagree as to which jurisdiction’s law is the governing law, or allege misconduct and seek damages. 
  
