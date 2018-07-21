@@ -7,7 +7,7 @@ category: chile
 comments: true
 ---
 
-## Token Sales regulations [2]
+## Token Sales regulations
  
 Presently, cryptocurrencies are entirely unregulated in Chile, and are not legally recognized as a means of exchange or securities. But there are also no impediments for people to conventionally accept to exchange goods or services for crypto actives.
 
@@ -30,7 +30,7 @@ In sum, despite the fact that Chile is one of the most technologically progressi
 
 In response, they have been [pleading for fair regulation](https://www.newsbtc.com/2018/03/26/chilean-exchanges-call-for-regulatory-clarification/) so that the Association of Banks and Financial Institutions (ABIF) makes its position transparent. They have accused the Chilean regulators of being only a few who want to prohibit access to the technology for the majority.
 
-## Blockchain Regulation*
+## Blockchain Regulation
 
 There are no official blockchain regulation documents on offer. However, it appears as though blockchain is already being integrated into several industries in Chile, notably in energy. 
  
