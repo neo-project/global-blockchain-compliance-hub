@@ -107,7 +107,7 @@ Data protection cases are handled by the Swedish Data Protection Authority (Data
 
 ## Sources
 
-- [Data Protection in Sweden Overview] (https://uk.practicallaw.thomsonreuters.com/2-575-2225?transitionType=Default&contextData=(sc.Default)&firstPage=true&bhcp=1)
+- [Data Protection in Sweden Overview](https://uk.practicallaw.thomsonreuters.com/2-575-2225?transitionType=Default&contextData=(sc.Default)&firstPage=true&bhcp=1)
 
 
 
