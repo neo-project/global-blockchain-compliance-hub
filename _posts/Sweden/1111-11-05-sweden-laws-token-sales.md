@@ -57,7 +57,7 @@ The Blockchain partnership declaration was launched at the Digital Day 2018 on A
 - [Swedish Government Land Registry Soon To Conduct First Blockchain Property Transaction](https://cointelegraph.com/news/swedish-government-land-registry-soon-to-conduct-first-blockchain-property-transaction)
 - [Mining the future: Why Sweden is leading the cryptocurrency revolution](https://www.thelocal.se/20171122/mining-the-future-why-sweden-is-leading-the-cryptocurrency-revolution-dcbs-tlccu)
 - [Swedish Government Land Registry Soon To Conduct First Blockchain Property Transaction](https://cointelegraph.com/news/swedish-government-land-registry-soon-to-conduct-first-blockchain-property-transaction)
-- [Sweden Taking a Chance Blockchain Land Registery] (https://www.coindesk.com/sweden-taking-chance-blockchain-land-registry/)
-[Bitcoin Sweden Regulation](https://holytransaction.com/blog/2017/03/bitcoin-sweden-regulation.html) 
+- [Sweden Taking a Chance Blockchain Land Registery](https://www.coindesk.com/sweden-taking-chance-blockchain-land-registry/)
+- [Bitcoin Sweden Regulation](https://holytransaction.com/blog/2017/03/bitcoin-sweden-regulation.html) 
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//sweden/sweden-governing-by-law.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//sweden/sweden-securities-related-laws.html)** |
