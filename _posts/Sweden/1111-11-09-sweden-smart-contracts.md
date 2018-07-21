@@ -13,7 +13,7 @@ The European Union is increasing its efforts to foster work around new technolog
 The report identified areas of possible development, including legal clarifications around smart contracts, initial coin offerings, and other jurisdictional issues raised by the tech.
 Although there is no official statement on smart contracts in Sweden presently on offer, the Swedish government is currently using smart contracts in a real estate land registries project. As Sweden has not yet defined smart contracts, please see the EU section since EU law applies.
  
-##Sources
+## Sources
 
 - [Blockchain Technology the Benefits of Smart Contracts](https://www2.deloitte.com/nl/nl/pages/financial-services/articles/3-blockchain-the-benefits-of-smart-contracts.html)
 - [Smart Contracts for Finance Parties](http://www.allenovery.com/publications/en-gb/lrrfs/cross-border/Pages/Smart-contracts-for-finance-parties.aspx)
