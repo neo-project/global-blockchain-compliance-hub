@@ -233,7 +233,7 @@ A non-profit association is always open to new members who share the aims of the
 A non-profit association must be formed by at least three persons determining its aims and name. If you want to register an association, you must you write its Articles of Association and appoint a Board. You must also register your association with the Swedish Tax Agency.
 
 For EU laws, please refer to the relevant Europe section, [here](
-https://neo-project.github.io/global-blockchain-compliance-hub//eurpe/europe-laws-token-sales.html)
+https://neo-project.github.io/global-blockchain-compliance-hub//eurpe/europe-laws-token-sales.html).
 
 ## Sources
 
