@@ -48,7 +48,7 @@ There are no official blockchain regulation documents on offer.
 
 - [Chilean Central Bank President Considering Regulation of Cryptocurrencies](https://news.bitcoin.com/chilean-central-bank-president-considering-regulation-cryptocurrencies/)
 - [Chilean Central Bank Head Discusses Benefits of Regulating Cryptocurrencies](https://news.bitcoin.com/chilean-central-bank-president-considering-regulation-cryptocurrencies/)
-- [https://www.pv-magazine.com/2018/02/27/chiles-energy-regulator-to-use-blockchain/](https://www.pv-magazine.com/2018/02/27/chiles-energy-regulator-to-use-blockchain/)
+- [Chile’s energy regulator to use Blockchain](https://www.pv-magazine.com/2018/02/27/chiles-energy-regulator-to-use-blockchain/)
 - [Chile Is Using Ethereum's Blockchain to Track Energy Data](https://www.coindesk.com/chile-to-use-ethereums-blockchain-to-track-energy-data/)
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//chile/chile-governing-by-law.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//chile/chile-securities-related-laws.html)** |
