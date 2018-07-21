@@ -98,9 +98,9 @@ For more information on paying taxes look [here](https://www.skatteverket.se/ser
 
 ## Sources
 
-[Taxes in Swede](https://www.pwc.se/en/business-sweden/taxes-sweden.html)
-[Deloitte, Taxation and Investment in Sweden 2016: Reach, Relevance, and Reliability](https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/international-business-support/deloitte-cn-ibs-sweden-tax-invest-en-2016.pdf)
-[Sweden] https://www.pwc.com/gx/en/international-transfer-pricing/assets/sweden.pdf 
+- [Taxes in Sweden](https://www.pwc.se/en/business-sweden/taxes-sweden.html)
+- [Deloitte, Taxation and Investment in Sweden 2016: Reach, Relevance, and Reliability](https://www2.deloitte.com/content/dam/Deloitte/cn/Documents/international-business-support/deloitte-cn-ibs-sweden-tax-invest-en-2016.pdf)
+- [Sweden](https://www.pwc.com/gx/en/international-transfer-pricing/assets/sweden.pdf)
 
 
 
