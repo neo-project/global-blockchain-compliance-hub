@@ -17,7 +17,7 @@ Santiago has also seen a series of blockchain workshops held by Uniendo.LA, toge
 
 ## Sources
 
-- [Los Smart Contracts para regular las transacciones en el mundo del Blockchain y las Bitcoins: The Smart Contracts to regulate transactions in the world of Blockchain and Bitcoin]((http://www.alsterlegal.com/2018/03/20/los-smart-contracts-regular-las-transacciones-en-mundo-del-blockchain-las-bitcoins/)
+- [Los Smart Contracts para regular las transacciones en el mundo del Blockchain y las Bitcoins, The Smart Contracts to regulate transactions in the world of Blockchain and Bitcoin](http://www.alsterlegal.com/2018/03/20/los-smart-contracts-regular-las-transacciones-en-mundo-del-blockchain-las-bitcoins/)
 
 
 
