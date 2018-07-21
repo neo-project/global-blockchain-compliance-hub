@@ -7,7 +7,7 @@ category: sweden
 comments: true
 ---
 
-The countries of the European Union hold a patchwork of individual attitudes towards cryptocurrency regulation, but all of them also fall under the jurisdiction of the EU Commission. For EU regulations, please visit [EU Laws Related to Token Sales, Blockchain, and Digital Proof] (https://neo-project.github.io/global-blockchain-compliance-hub//europe/europe-laws-token-sales.html)
+The countries of the European Union hold a patchwork of individual attitudes towards cryptocurrency regulation, but all of them also fall under the jurisdiction of the EU Commission. For EU regulations, please visit [EU Laws Related to Token Sales, Blockchain, and Digital Proof](https://neo-project.github.io/global-blockchain-compliance-hub//europe/europe-laws-token-sales.html)
  
 ## Token Sales regulations 
  
@@ -33,7 +33,7 @@ The country's official land registration authority, Lantmäteriet, is looking at
  
 The authority partnered with banks and telecom company Telia to create "smart contracts" on a blockchain that allow buyers and sellers to use digital signatures to sign off on a property sale. 
  
-[Sweden’s land-ownership authority, the Lantmäteriet,](https://cointelegraph.com/tags/sweden) is soon expected to conduct their [first Blockchain technology property transaction](https://cointelegraph.com/tags/blockchain) after two years of testing, the Wall Street Journal(WSJ) [reported](https://www.wsj.com/articles/a-pioneer-in-real-estate-blockchain-emerges-in-europe-1520337601?mod=searchresults&page=1&pos=3) Wendesday, March 7.
+[Sweden’s land-ownership authority, the Lantmäteriet,](https://cointelegraph.com/tags/sweden) is soon expected to conduct their [first Blockchain technology property transaction](https://cointelegraph.com/tags/blockchain) after two years of testing, the Wall Street Journal (WSJ) [reported](https://www.wsj.com/articles/a-pioneer-in-real-estate-blockchain-emerges-in-europe-1520337601?mod=searchresults&page=1&pos=3) Wendesday, March 7.
  
 ## Digital Proof
  
@@ -51,12 +51,12 @@ The European Parliament saw that the majority agreed to demand stricter regulati
 The Blockchain partnership declaration was launched at the Digital Day 2018 on April 10, 2018, and was signed by twenty-two Member States: Austria, Belgium, Bulgaria, Czech Republic, Estonia, Finland, France, Germany, Ireland, Latvia, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, UK.
  
 ## Sources
-- [Initial Coin Offerings: the top 25 jurisdictions and their comparative regulatory responses] (https://medium.com/@wulfkaal/initial-coin-offerings-the-top-25-jurisdictions-and-their-comparative-regulatory-responses-4b8c9ae7e8e8)
+- [Initial Coin Offerings: the top 25 jurisdictions and their comparative regulatory responses](https://medium.com/@wulfkaal/initial-coin-offerings-the-top-25-jurisdictions-and-their-comparative-regulatory-responses-4b8c9ae7e8e8)
 - [ICOs and Token Sales](https://www.legalink.ch/xms/files/PUBLICATIONS/Legalink_ICOS_and_Token_Sales.pdf) 
 - [Sweden - IBC Group](https://ibcgroup.io/sweden/)
-- [Swedish Government Land Registry Soon To Conduct First Blockchain Property Transaction] (https://cointelegraph.com/news/swedish-government-land-registry-soon-to-conduct-first-blockchain-property-transaction)
-- [Mining the future: Why Sweden is leading the cryptocurrency revolution] (https://www.thelocal.se/20171122/mining-the-future-why-sweden-is-leading-the-cryptocurrency-revolution-dcbs-tlccu)
-- [Swedish Government Land Registry Soon To Conduct First Blockchain Property Transaction] (https://cointelegraph.com/news/swedish-government-land-registry-soon-to-conduct-first-blockchain-property-transaction)
+- [Swedish Government Land Registry Soon To Conduct First Blockchain Property Transaction](https://cointelegraph.com/news/swedish-government-land-registry-soon-to-conduct-first-blockchain-property-transaction)
+- [Mining the future: Why Sweden is leading the cryptocurrency revolution](https://www.thelocal.se/20171122/mining-the-future-why-sweden-is-leading-the-cryptocurrency-revolution-dcbs-tlccu)
+- [Swedish Government Land Registry Soon To Conduct First Blockchain Property Transaction](https://cointelegraph.com/news/swedish-government-land-registry-soon-to-conduct-first-blockchain-property-transaction)
 - [Sweden Taking a Chance Blockchain Land Registery] (https://www.coindesk.com/sweden-taking-chance-blockchain-land-registry/)
 [Bitcoin Sweden Regulation](https://holytransaction.com/blog/2017/03/bitcoin-sweden-regulation.html) 
 
