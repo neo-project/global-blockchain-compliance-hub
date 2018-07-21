@@ -7,8 +7,6 @@ category: chile
 comments: true
 ---
 
-## [Non-profit/for-profit company registry requirements](https://www.justlanded.com/english/Chile/Chile-Guide/Business/Types-of-business-in-Chile)
-
 Chile is one of the easiest and cheapest places in Latin America to start a business. Typically it takes 3-5 weeks to start a company at a cost of roughly $650. 
 
 You can now start a new business online at no cost via Chile’s Ministry of Economy (Ministerio de Economía de Chile) website [here](http://www.economia.gob.cl/).
