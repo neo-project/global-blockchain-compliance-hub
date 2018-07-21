@@ -7,8 +7,6 @@ category: chile
 comments: true
 ---
 
-## [Tax and Auditing Requirements](https://www.justlanded.com/english/Chile/Chile-Guide/Business/Taxation) 
-
 **[Corporate tax](https://www.justlanded.com/english/Chile/Chile-Guide/Business/Taxation)**
  
 In general, differences arising from the choice of business organisation are not hugely significant.
