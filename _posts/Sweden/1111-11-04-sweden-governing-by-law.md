@@ -133,7 +133,7 @@ Section 11
 A public company whose name does not include the word "publikt" shall, in the articles of association, state the designation, ("publ"), after the name.
 For more information on shares, share register, share certificates, and general meetings please view the Swedish Companies Act [here](http://law.au.dk/fileadmin/www.asb.dk/omasb/institutter/erhvervsjuridiskinstitut-skjultforgoogle/EMCA/NationalCompaniesActsMemberStates/Sweden/THE_SWEDISH_COMPANIES_ACT.pdf).
 
-Sources
+## Sources
 
 - [Establishing a Business in Sweden](https://uk.practicallaw.thomsonreuters.com/0-549-8061?transitionType=Default&contextData=(sc.Default)&firstPage=true&comp=pluk&bhcp=1)
 - [The Swedish Companies Act](http://law.au.dk/fileadmin/www.asb.dk/omasb/institutter/erhvervsjuridiskinstitut-skjultforgoogle/EMCA/NationalCompaniesActsMemberStates/Sweden/THE_SWEDISH_COMPANIES_ACT.pdf)
