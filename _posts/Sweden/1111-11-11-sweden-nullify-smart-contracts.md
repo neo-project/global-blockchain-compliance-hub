@@ -16,7 +16,7 @@ As a general note, despite certain advantages of smart contracts, they are not f
  
 ## Sources
 
--[Blockchain Smart Contracts](https://www.ibanet.org/Document/Default.aspx?DocumentUid=17badeaa-072a-403b-b63c-8fbd985d198b)
+- [Blockchain Smart Contracts](https://www.ibanet.org/Document/Default.aspx?DocumentUid=17badeaa-072a-403b-b63c-8fbd985d198b)
 
 
 
