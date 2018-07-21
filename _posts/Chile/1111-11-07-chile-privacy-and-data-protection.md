@@ -33,12 +33,12 @@ The legislation on personal data processing applies to:
 Defines four categories:
 - Personal data. This is defined as data relating to any information concerning identified or identifiable individuals.
 - Sensitive data. This is defined as personal data relating to the physical or moral characteristics of individuals or to facts or circumstances of their private life, such as:
-- - personal habits;
-- - racial origin;
-- - ideologies and political opinions;
-- - beliefs or religious convictions;
-- - physical or psychological states of health; and
-- - sexual life.
+  - personal habits;
+  - racial origin;
+  - ideologies and political opinions;
+  - beliefs or religious convictions;
+  - physical or psychological states of health; and
+  - sexual life.
 - Lapsed data. This is defined as data that has become outdated by virtue of the law, concurrence of the condition or expiration of the validity term or because of a change in facts or circumstances.
 - Statistical data. This is defined as data that, in its origin, or as a consequence of its treatment, cannot be associated with an identified or identifiable holder. This type of data is not within the scope of the Privacy Protection Law.
 
