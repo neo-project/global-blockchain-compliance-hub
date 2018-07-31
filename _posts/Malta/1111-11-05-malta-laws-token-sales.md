@@ -9,6 +9,11 @@ comments: true
 
 The countries of the European Union hold a patchwork of individual attitudes towards cryptocurrency regulation, but all of them also fall under the jurisdiction of the EU Commission. For EU regulations, please visit [EU Laws Related to Token Sales, Blockchain, and Digital Proof](https://neo-project.github.io/global-blockchain-compliance-hub//europe/europe-laws-token-sales.html).
 
+Malta has positioned itself as a country of choice for cryptocurrency companies, coming to be known as the ["world's first blockchain island"](https://www.forbes.com/sites/rachelwolfson/2018/07/05/maltese-parliament-passes-laws-that-set-regulatory-framework-for-blockchain-cryptocurrency-and-dlt/#30b6122d49ed). In fact, on July 4, 2018, Malta's government passed 3 laws so companies can easily issue new cryptocurrencies and trade existing ones:
+1. Malta Digital Innovation Authority Act (MDIA Act): establishes the Malta Digital Innovation Authority and certifies DLT platforms. This law will focus on internal governance arrangements and will outline the duties and responsibilities of the Authority to certify DLT platforms to ensure credibility and provide legal certainty to users wishing to make use of a DLT platform.
+2.  Innovative Technology Arrangement and Services Act (ITAS Act): deals with DLT arrangements and certifications of DLT platforms. This bill is primarily concerned with the setting up of exchanges and other companies operating in the cryptocurrency market.
+3. Virtual Financial Assets Act (VFA Act): establishes the regulatory regime governing ICOs, cryptocurrency exchanges, wallet providers, etc.
+
 ## Cryptoassets 
 In July 2018, parliament has introduced a financial instrument test, which classifies a DLT asset as electronic money, financial asset, a virtual financial instrument, or a virtual token. 
 
@@ -25,5 +30,7 @@ Sources
 --- 
 - [Laws Related to Token Sales](https://www.lexology.com/library/detail.aspx?g=b1fead6f-7cda-4592-8cd9-80ff1896fc36)
 - [BTC Wires, Malta Regulator Opens Consultation](https://www.btcwires.com/c-buzz/malta-regulator-opens-consultation/)
+- [Have a Cryptocurrency Company? Bermuda, Malta or Gibraltar Wants You](https://www.nytimes.com/2018/07/29/technology/cryptocurrency-bermuda-malta-gibraltar.html)
+- [Forbes, Maltese Parliament Passes Laws That Set Regulatory Framework For Blockchain, Cryptocurrency And DLT](https://www.forbes.com/sites/rachelwolfson/2018/07/05/maltese-parliament-passes-laws-that-set-regulatory-framework-for-blockchain-cryptocurrency-and-dlt/#30b6122d49ed)
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//malta/malta-governing-by-law.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//malta/malta-securities-related-laws.html)** |
