@@ -7,8 +7,6 @@ category: thailand
 comments: true
 ---
 
-Non-profit/for-profit company registry requirements
-
 ### Company Types
 There are 3 types of common for-profit business structures in Thailand. These are the Partnership, Limited Companies, and Joint Venture. However, note that only Limited Companies may currently offer cryptocurrencies (according to the [Royal Decree on Digital Asset Businesses](https://www.sec.or.th/TH/SECInfo/LawsRegulation/Documents/Act_Royal_Enactment/enactment_digital_2561_summary_en.pdf)).
 
