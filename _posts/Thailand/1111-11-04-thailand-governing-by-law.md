@@ -7,7 +7,7 @@ category: thailand
 comments: true
 ---
 
-A private limited company is formed through a process which leads to the registration of a Memorandum of Association (Articles of Incorporation) and Articles of Association (By-laws), as its constitutive documents. 
+A private limited company is formed through a process which leads to the registration of a Memorandum of Association (Articles of Incorporation) and Articles of Association (By-laws) as its constitutive documents. 
 
 ### Memorandum of Association
 The Memorandum of Association of the company has to be filed with the Commercial Registration Department (Registrar of companies) and must include the name of the company that has been successfully reserved, the province where the company will be located, its business objectives, the capital to be registered, and the names of the three promoters. At least three individuals must sign the Memorandum of Association. The promoters can be foreigners and Thai nationals however, each promoter must be a shareholder of the company. The use of [Thai nominee](https://www.samuiforsale.com/other-miscellaneous/nominee-thai-shareholders.html) promoters/ shareholders by foreigners is prohibited under the Foreigner Business Act (and Land Code Act).
