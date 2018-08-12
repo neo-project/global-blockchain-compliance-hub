@@ -7,11 +7,7 @@ category: thailand
 comments: true
 ---
 
-# Page in progress, stay tuned!
-
-Sources 
--- 
-- 
+There does not appear to be any current legislation on smart-contract-related dispute resolution, but there are expected to be developments this year.
 
 
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//thailand/thailand-smart-contracts.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//thailand/thailand-nullify-smart-contracts.html)** |

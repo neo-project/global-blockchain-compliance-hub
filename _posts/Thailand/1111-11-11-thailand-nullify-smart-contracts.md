@@ -7,7 +7,7 @@ category: thailand
 comments: true
 ---
 
-# Page in progress, stay tuned!
+There does not appear to be any current legislation on smart-contract-related dispute resolution, but there are expected to be developments this year.
 
  
 
