@@ -27,7 +27,7 @@ In terms of personal income tax, non-residents are taxed at a flat rate of 28%. 
 All private limited companies incorporated in Malaysia must appoint an approved auditor for their accounts. Audits are required every years before the annual general meeting. Sole proprietorships or partnerships are not required to appoint auditors. ([Source](https://www.ssm.com.my/sites/default/files/companies_act_2016/pd3_2017-qualifying_criteria_for_audit_eemption_for_certain_categories_of_private_companies.pdf)).
 
 ### Sources:
-* [PwC Tax Summaries: Malaysia](http://taxsummaries.pwc.com/ID/Malaysia-Corporate-Taxes-on-corporate-income))
+* [PwC Tax Summaries: Malaysia](http://taxsummaries.pwc.com/ID/Malaysia-Corporate-Taxes-on-corporate-income)
 * [Statutory Audit & Auditors In Malaysia](https://www.ssm.com.my/sites/default/files/companies_act_2016/pd3_2017-qualifying_criteria_for_audit_eemption_for_certain_categories_of_private_companies.pdf)
 
 
