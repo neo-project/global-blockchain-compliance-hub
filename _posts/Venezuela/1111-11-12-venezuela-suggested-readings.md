@@ -8,7 +8,7 @@ comments: true
 ---
 
 ### Suggested Readings
-- [Bitcoin Lessons from Venezuela, Where Hyperinflation Reigns | Lathrop Gage - JDSupra](https://www.jdsupra.com/legalnews/bitcoin-lessons-from-venezuela-where-80856/)
+- [Bitcoin Lessons from Venezuela, Where Hyperinflation Reigns](https://www.jdsupra.com/legalnews/bitcoin-lessons-from-venezuela-where-80856/)
 - [World Bank Group - Doing Business Report 2018- Venezuela](http://www.doingbusiness.org/~/media/WBG/DoingBusiness/Documents/Fact-Sheets/DB18/FactSheet_DoingBusiness2018_LAC_Eng.pdf?la=en)
 - [Venezuela - Ten Things to Know when Investing by Way of Debt or Equity](http://www.nortonrosefulbright.com/knowledge/publications/109706/venezuela-ten-things-to-know-when-investing-by-way-of-debt-or-equity)
 - [Company Formation Venezuela](http://www.bridgewest.eu/company-formation-venezuela)
