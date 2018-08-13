@@ -74,6 +74,7 @@ relevant information to enable them to make an informed decision
 [7] [Regulation for Listing Securities](http://www.gibraltarlaws.gov.gi/articles/2006-43o.pdf)
 [8] [Token Regulation by HM Government of Gibraltar](http://gibraltarfinance.gi/20180309-token-regulation---policy-document-v2.1-final.pdf)
 [9] [EU’s First Regulated Blockchain Platform Launched](https://www.btcwires.com/round-the-block/eus-first-regulated-blockchain-platform-launched/)
+[10] [LegalBlock Podcast: Gibraltar Global Regulation Frameworks Series](https://soundcloud.com/legalblock/gibraltar-global-regulation-frameworks-series)
 
 
 
