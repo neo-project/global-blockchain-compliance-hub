@@ -7,9 +7,7 @@ category: venezuela
 comments: true
 ---
 
-# Page in progress, stay tuned!
-
-
+Venezuela does not seem to have any laws directly targeting tokens as securities. 
 
 
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//venezuela/venezuela-laws-token-sales.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//venezuela/venezuela-privacy-and-data-protection.html)** |
