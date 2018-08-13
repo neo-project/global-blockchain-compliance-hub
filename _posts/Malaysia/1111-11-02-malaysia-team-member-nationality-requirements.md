@@ -27,9 +27,9 @@ Foreigners will need a work visa to work in Malaysia. Working without a visa is 
 For skilled workers hoping to stay in Malaysia Long-Term, a residence pass for Talent (RP-T) permit is offered by the Malaysian Government for skilled foreigners who have 5 years of working experience and has already worked for 3 years in Malaysia, is earning a minimum of RM15,000 (US$ 3500) monthly in Malaysia and has paid tax in Malaysia for two years, and has at least a bachelor’s degree. ([Source](https://www.tmf-group.com/en/news-insights/articles/2018/june/work-permit-malaysia/?utm_source=Mondaq&utm_medium=syndication&utm_campaign=View-Original)).
 
 ### Sources:
-* [In Malaysia For Foreign Investment](http://www.ros.gov.my/index.php/en/soalan-lazim).
-* [Setting Up A Business In Malaysia](http://www.expat.com/en/guide/asia/malaysia/11916-setting-up-a-business-in-malaysia.html)
-* [Starting a Business in Malaysia as a Foreigner](http://www.servcorp.com.my/en/blog/2015/starting-a-business-in-malaysia-as-a-foreigner/)
+- [In Malaysia For Foreign Investment](http://www.ros.gov.my/index.php/en/soalan-lazim).
+- [Setting Up A Business In Malaysia](http://www.expat.com/en/guide/asia/malaysia/11916-setting-up-a-business-in-malaysia.html)
+- [Starting a Business in Malaysia as a Foreigner](http://www.servcorp.com.my/en/blog/2015/starting-a-business-in-malaysia-as-a-foreigner/)
 - [Malaysian Investment Development Authority: Liberalisation of the Services Sector](http://www.mida.gov.my/home/liberalisation-of-the-services-sector/posts/)
 - [Malaysian Investment Development Authority : Immigration Procedures](http://www.mida.gov.my/home/immigration-procedures/posts/)
 - [Work in Malaysia: Getting a Malaysian work visa - TransferWise](https://transferwise.com/us/blog/malaysia-work-visa)
