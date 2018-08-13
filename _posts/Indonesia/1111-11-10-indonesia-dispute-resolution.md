@@ -7,7 +7,7 @@ category: indonesia
 comments: true
 ---
 
-# Page in progress, stay tuned!
+There's no current legislation on smart-contract-related dispute resolution in Indonesia.
 
 
 
