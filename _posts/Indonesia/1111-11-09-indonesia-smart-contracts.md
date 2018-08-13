@@ -7,7 +7,7 @@ category: indonesia
 comments: true
 ---
 
-# Page in progress, stay tuned!
+The Government of Indonesia has not published any laws defining Smart Contracts.
 
 
 
