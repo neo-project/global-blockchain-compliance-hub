@@ -13,7 +13,7 @@ Personal data is defined as data “that relates directly or indirectly to a dat
 
 Personal data must be processed in compliance with the following seven principles:
 1. the General Principle
-    * Data users will not process personal data in absence of consent. This is generally express consent, however, implicit consent may be sufficient if the individual has been made fully aware of why his or her personal data is being processed and that the consent is verifiable afterwards. For sensitive personal data, explicit consent is required. ([Source]https://globaldatahub.taylorwessing.com/article/data-protection-in-malaysia)).
+    * Data users will not process personal data in absence of consent. This is generally express consent, however, implicit consent may be sufficient if the individual has been made fully aware of why his or her personal data is being processed and that the consent is verifiable afterwards. For sensitive personal data, explicit consent is required. ([Source](https://globaldatahub.taylorwessing.com/article/data-protection-in-malaysia)).
 1. the Notice and Choice Principle
     * Upon collection of data, data users must inform data subjects in both written Malay and English, describing the data that is being processed, the purposes for which the data is being collected, the source of the personal data, as well as of the data subjects’ right to access and right to correction of the data, of the groups of third parties to whom the data user may disclose the personal data, and of the choices that the data user offers for limiting the processing of personal data. 
 1. the Disclosure Principle
