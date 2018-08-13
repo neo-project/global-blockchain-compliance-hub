@@ -7,7 +7,7 @@ category: venezuela
 comments: true
 ---
 
-# Page in progress, stay tuned!
+There does not seem to be any regulation on the status of Smart Contracts in Venezuela as of May 21, 2018.
 
 
 
