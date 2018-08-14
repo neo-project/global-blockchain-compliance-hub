@@ -12,7 +12,7 @@ comments: true
 
 *Article 23. Personal Information* 
 
-*Personal information shall be understood as documented or publicly announced information about the person.  Basic information about the person (personal data) shall include: nationality; education; marital status; religion; state of health; address; date and place of birth.  The sources of documented information about the person shall be documents issued in his/her name, signed by that person documents, and personal data collected by bodies of state power and bodies of local and regional self-government, acting within their respective competence. Collection of personal data without a given person's prior consent shall be prohibited, except in cases envisaged by the law  (crime investigation by Ministry of Internal Affairs, National Security Bureau etc.). Every person shall have the right to be informed about the collected information about himself/herself. familiarized with information on him/herself. Information about the person shall be protected by the Law.*
+*Personal information shall be understood as documented or publicly announced information about the person.  Basic information about the person (personal data) shall include: nationality; education; marital status; religion; state of health; address; date and place of birth.  The sources of documented information about the person shall be documents issued in his/her name, signed by that person documents, and personal data collected by bodies of state power and bodies of local and regional self-government, acting within their respective competence. Collection of personal data without a given person's prior consent shall be prohibited, except in cases envisaged by the law  (crime investigation by Ministry of Internal Affairs, National Security Bureau etc.). Every person shall have the right to be informed about the collected information about himself/herself. Information about the person shall be protected by the Law.*
 
 *Article 29. Access to Open Information*
 
@@ -29,8 +29,8 @@ In addition to enacting this Law, the Ukrainian Parliament also ratified [the Co
 
 Following the adoption of the Law, other legislative acts providing clarification and support for the Law were approved by different governmental bodies of Ukraine:
 
--	Also, [The Law of Ukraine No. 80/94 VR "On Protection of Information in the Information and Telecommunication Systems", 5 July 1994](http://cis-legislation.com/document.fwx?rgn=11676)
--	and, especially,	[The Law of Ukraine No 675-VIII "On Electronic Commerce" dated 3 September 2015](http://search.ligazakon.ua/l_doc2.nsf/link1/T150675.html)
+-	[The Law of Ukraine No. 80/94 VR "On Protection of Information in the Information and Telecommunication Systems", 5 July 1994](http://cis-legislation.com/document.fwx?rgn=11676)
+-	[The Law of Ukraine No 675-VIII "On Electronic Commerce", 3 September 2015](http://search.ligazakon.ua/l_doc2.nsf/link1/T150675.html)
 
 These provide more detailed information on data privacy and security, establishes legal requirements and mechanisms for remote conclusion and execution of transactions with the use of electronic information and communication tools and technologies that will make it possible to guarantee the legitimacy, transparency and reliability of such transactions and, in turn accelerate the integration process into the global information space.
 
@@ -44,7 +44,7 @@ In addition, the law obliges all participants of relations in the sphere of e-co
 - [The Law of Ukraine No. 80/94 VR "On Protection of Information in the Information and Telecommunication Systems", 5 July 1994](http://cis-legislation.com/document.fwx?rgn=11676)
 
 -	[The Convention for the Protection of Individuals with regard to the Automatic Processing of Personal Data, 6 July 2010.](https://ukraine-eu.mfa.gov.ua/mediafiles/files/2010associationagendapprioritiesen.pdf)
--	[The Law of Ukraine No 675-VIII "On Electronic Commerce" dated 3 September 2015](http://search.ligazakon.ua/l_doc2.nsf/link1/T150675.html)
+-	[The Law of Ukraine No 675-VIII "On Electronic Commerce", 3 September 2015](http://search.ligazakon.ua/l_doc2.nsf/link1/T150675.html)
 - [President's website announcement](http://www.president.gov.ua/en/news/prezident-pidpisav-zakon-pro-elektronnu-komerciyu-36022)
 
 
