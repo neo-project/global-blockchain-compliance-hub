@@ -78,4 +78,5 @@ relevant information to enable them to make an informed decision
 
 
 
+
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//gibraltar/gibraltar-laws-token-sales.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//gibraltar/gibraltar-privacy-and-data-protection.html)** |

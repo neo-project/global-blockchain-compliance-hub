@@ -33,4 +33,5 @@ Sources
 - [Have a Cryptocurrency Company? Bermuda, Malta or Gibraltar Wants You](https://www.nytimes.com/2018/07/29/technology/cryptocurrency-bermuda-malta-gibraltar.html)
 - [Forbes, Maltese Parliament Passes Laws That Set Regulatory Framework For Blockchain, Cryptocurrency And DLT](https://www.forbes.com/sites/rachelwolfson/2018/07/05/maltese-parliament-passes-laws-that-set-regulatory-framework-for-blockchain-cryptocurrency-and-dlt/#30b6122d49ed)
 
+
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//malta/malta-governing-by-law.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//malta/malta-securities-related-laws.html)** |

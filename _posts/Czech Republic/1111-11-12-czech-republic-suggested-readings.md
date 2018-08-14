@@ -7,7 +7,7 @@ category: czech-republic
 comments: true
 ---
 
-## Czech Republic: Suggested Readings ## 
+
 
 ### Starting Business in Czech Republic: ### 
 

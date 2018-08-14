@@ -30,4 +30,5 @@ Currently as of June 2018, ICOs in general are not yet subject to specific regul
 - [Argentina Launches Blockchain for Public Services](https://www.theepochtimes.com/argentina-launches-blockchain-for-public-services_2608919.html)
 
 
+
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//argentina/argentina-governing-by-law.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//argentina/argentina-securities-related-laws.html)** |
