@@ -54,6 +54,7 @@ relevant information to enable them to make an informed decision
 
 **Gibraltar Blockchain Exchange** 
 * In october 2017, Gibraltar Stock Exchange (GSX) launched the Gibraltar Blockchain Exchange (GBX) in an effort to be a world leading token sale platform and cryptocurrency exchange [4]. GBX is set to open in January 2018 pending regulatory approval [5].
+  * As a wing of the Gibraltar Stock Exchange, the Blockchain Exchange plays by the rules laid down by the EU. It has finished sales of RKT tokens in early 2018 and and has made the service available to KYC-verified users. In addition, 300 early participants acted as beta testers, helping in the development of a simplified trading platform.[9]
   * The GSX is regulated by GFSC under License number FSC 1231B and operates as an EU-regulated market,recognised by ESMA (European Regulator) and HMRC (UK)[6]. Therefore the GBX would have to comply with all the regulations of these organizations
 * As GBX utilizes blockchain technology, it would fall under the Financial Services (Distributed Ledger Technology Providers) Regulations 2017 [4]. It would also represent the world’s [first regulated ICO token exchange](http://www.itpro.co.uk/strategy/29979/the-gibraltar-blockchain-exchange-attempts-to-tame-the-ico-wild-west)
   * The GBX intends to [apply for a DLT Provider’s license](https://gbx.gi/#1508496269595-2f02501c-bba1) from the GFSC 
@@ -72,6 +73,9 @@ relevant information to enable them to make an informed decision
 [6] [Gbx.gi](https://gbx.gi/#1508496269595-2f02501c-bba1)   
 [7] [Regulation for Listing Securities](http://www.gibraltarlaws.gov.gi/articles/2006-43o.pdf)
 [8] [Token Regulation by HM Government of Gibraltar](http://gibraltarfinance.gi/20180309-token-regulation---policy-document-v2.1-final.pdf)
+[9] [EU’s First Regulated Blockchain Platform Launched](https://www.btcwires.com/round-the-block/eus-first-regulated-blockchain-platform-launched/)
+[10] [LegalBlock Podcast: Gibraltar Global Regulation Frameworks Series](https://soundcloud.com/legalblock/gibraltar-global-regulation-frameworks-series)
+
 
 
 
