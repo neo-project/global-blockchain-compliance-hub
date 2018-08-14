@@ -8,7 +8,7 @@ comments: true
 ---
 
 
-## Team member nationality requirements##
+## Team member nationality requirements ##
 
 Ukraine has no restrictions on owners’ or shareholders’ citizenship. 
 
@@ -16,7 +16,7 @@ A foreign national can be appointed as a director only after obtaining a work pe
 
 A foreign national that is to be appointed as a director of a Ukrainian company needs to obtain a Ukrainian Tax Individual Number (Tax ID). 
 
-After the Ukrainian company has been registered with all required state authorities, it will be required to obtain a work permit for all foreign employees. Ukrainian legislation prohibits employing a foreign individual without obtaining a work permit. 
+After the Ukrainian company has been registered with all required state authorities, it will be required to obtain a work permit for all foreign employees. **Ukrainian legislation prohibits employing a foreign individual without obtaining a work permit.**
 
 Those foreigners who intend to work in Ukraine (either in a Ukrainian company or in a RO of a foreign company) are required to apply for a long-term visa. This type of visa provides formal grounds for obtaining a temporary residence permit in Ukraine, i.e. a document that allows entering and staying in Ukraine without any restrictions during the period of the permit validity (usually 1 year).
 
@@ -28,13 +28,13 @@ A foreign national can be hired in Ukraine following receipt of a work permit. T
 
 *Required documents:*
 
-1. [Visa application form](http://visa.mfa.gov.ua)  
-2. One recent colored photograph 4.5cm×3.5cm 
-3. No-objection letter (NOC) from employer or sponsor, a letter from the UAE Company must be original (signed & stamped). Letter must include employee’s position, start date of employment, salary details and guarantees that the employee will return to his/her country and workplace after his/her travel. 
-4. Proof of Travel, flight reservation (provisional or confirmed).  
-5. Original Certificate of Employment issued by Ukraine’s State Centre for Employment. Foreigners / stateless persons exempt from the requirement to obtain a work permit in order to be employed in Ukraine are to provide a copy of the work contract.  
-6. Proof of financial means / Bank Statements Applicant’s original bank statement/originally stamped statement by the bank for the last 3 months. (You must have sufficient financial resources to cover your cost of living in Ukraine; as a rule, an amount of $150 per day is considered sufficient)
-7. Medical Cover / Travel Insurance
+1. [Visa application form](http://visa.mfa.gov.ua);
+2. One recent colored photograph 4.5cm×3.5cm;
+3. No-objection letter (NOC) from employer or sponsor, a letter from the UAE Company must be original (signed & stamped). Letter must include employee’s position, start date of employment, salary details and guarantees that the employee will return to his/her country and workplace after his/her travel.
+4. Proof of Travel, flight reservation (provisional or confirmed);
+5. Original Certificate of Employment issued by Ukraine’s State Centre for Employment. Foreigners / stateless persons exempt from the requirement to obtain a work permit in order to be employed in Ukraine are to provide a copy of the work contract;
+6. Proof of financial means / Bank Statements Applicant’s original bank statement/originally stamped statement by the bank for the last 3 months. (You must have sufficient financial resources to cover your cost of living in Ukraine; as a rule, an amount of $150 per day is considered sufficient);
+7. Medical Cover / Travel Insurance;
 8. Passport
 
 ### Sources: ###
