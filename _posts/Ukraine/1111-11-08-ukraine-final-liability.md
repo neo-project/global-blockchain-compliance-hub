@@ -15,7 +15,7 @@ According to **The law of Ukraine No. 675-VIII, “On E-Commerce” of 03.09.201
 
 *“The seller (contractor, supplier) during the electronic transaction is obliged to ensure full compliance of the subject of the electronic contract agreed by the parties, quantitative and qualitative characteristics.*
 
-*3. If the seller (contractor, supplier) offers the other side of the electronic agreement to provide him with information about the payment instruments for payment of the cost of goods, works, services, he is obliged to protect such information in accordance with the laws of Ukraine "On information protection in information and telecommunication systems" and "On payment systems and retelling of the funds in Ukraine."*
+*3. If the seller (contractor, supplier)  offers the other side of the electronic agreement to provide him with information about the payment instruments for payment of the cost of goods, works, services, he is obliged to protect such information in accordance with the laws of Ukraine "On information protection in information and telecommunication systems" and "On payment systems and retelling of the funds in Ukraine."*
 
 *4. The seller (contractor, supplier) has the right to demand from the other party only such information, without which the conclusion and performance of obligations under the electronic contract is impossible.”*
 
