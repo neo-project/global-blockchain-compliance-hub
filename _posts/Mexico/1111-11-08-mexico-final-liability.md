@@ -7,7 +7,7 @@ category: mexico
 comments: true
 ---
 
-The Mexican government has been exploring the use of smart contracts but has not published any smart contract legislation so which part bears the final responsibility/liability in case something goes wrong in a smart contract remains unclear 
+The Mexican government has been exploring the use of smart contracts but has not published any smart contract legislation. Therefore it remains unclear which party would bear the final responsibility/liability in case something went wrong 
 
 **Current government smart contract initiatives** [(source)](https://www.gob.mx/cms/uploads/attachment/file/269552/Folleto_blockchain_HACKMX_oct2017_v6.pdf)
 - The Digital Government Unit from the Ministry of Public Administration is responsible for promoting strategies and models of innovation in government management 
