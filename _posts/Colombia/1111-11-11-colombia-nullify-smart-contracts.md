@@ -7,6 +7,7 @@ category: colombia
 comments: true
 ---
 
+
 ### Read more:
 
 There is no current legislation on smart-contracts in Colombia, however, a political control debate on blockchain and cryptocurrencies was convened by the [Third Committee of the Colombian Senate](https://www.criptonoticias.com/adopcion/senado-colombia-debate-modernizacion-economica-administrativa-mediante-blockchain/) in early June 2018 to raise the importance of creating a regulatory framework for blockchain and smart contracts.

@@ -30,5 +30,4 @@ comments: true
 - [Finance Colombia](http://www.financecolombia.com/)
 
 
-
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//colombia/colombia-nullify-smart-contracts.html)** |

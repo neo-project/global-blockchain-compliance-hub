@@ -7,10 +7,10 @@ category: colombia
 comments: true
 ---
 
-### For Profit Requirements
+**For Profit Requirements**
 The constitution can be made by any of the following alternatives:
 
-### 2.1 Incorporation Act: in addition to the essential requirements of the act, established in Guide 6 available at www.camaramedellin.com, must be contain the following:
+**2.1 Incorporation Act:** in addition to the essential requirements of the act, established in Guide 6 available at www.camaramedellin.com, must be contain the following:
 - Name, identity document and municipality corresponding to address of each of the constituents. The terms and information of address and residence do not supplement the domicile requirement.
 - Approval of the statutes indicating the number of votes in favor and in against or unanimity, if it is the case.
 - Election and approval of the legal representative and of all the organs of administration including the reviewer? scal, in case of creating the position, with number of votes for and against or unanimity, if applicable.
@@ -34,37 +34,37 @@ functions, under the name established in the statutes. For each of the organs it
 - Decision-making majorities: minimum number of votes required for approve a decision
 - Legal representation: dean the legal representative, whether or not he will have a substitute
 and determine the following:
--- Name, surnames and identity document number.
--- Functions and faculties.
--- Form of designation or election.
--- Letter of acceptance to the position by the designee.
--- Legible copy of the certificate or indication of the date of issue of the
+  - Name, surnames and identity document number.
+  - Functions and faculties.
+  - Form of designation or election.
+  - Letter of acceptance to the position by the designee.
+  - Legible copy of the certificate or indication of the date of issue of the
 same
 - Board of directors or board of directors or executive: it is optional, not there is a norm that requires it, in case of creating it, it is necessary to inform the following:
--- Composition, mode of choice, functions and faculties.
--- Append letter of acceptance of the appointees, indicating the identification number (article 42 of Decree 2150 of 1995) and legible copy of the card.
+  - Composition, mode of choice, functions and faculties.
+  - Append letter of acceptance of the appointees, indicating the identification number (article 42 of Decree 2150 of 1995) and legible copy of the card.
 - Control bodies: the control body subject to registration is the scalper, which is not mandatory creation and appointment, however, if in the statutes regulate their faculties and obligations, their appointment in the act or constitution document. The financial reviewer should be a certified public accountant with their respective registration number (numeral 10, article 40 of Decree 2150 of 1995).
 - Causes of dissolution:
--- By decision of the assembly (numeral 8, article 40 of Decree 2150 of nineteen ninety five).
--- When the legal status is canceled (Article 17 of Decree 1529 1990).
+  - By decision of the assembly (numeral 8, article 40 of Decree 2150 of nineteen ninety five).
+  - When the legal status is canceled (Article 17 of Decree 1529 1990).
 (Once declared dissolved, the entity will retain its legal capacity only to perform the necessary acts for its liquidation.)
 - Liquidation: to carry out the liquidation, once the entity is dissolved, it is necessary to determine the following (numeral 9, article 40 of Decree 2150 of nineteen ninety five):
--- Appointment of the liquidator, who will publish three notices in a newspaper of wide national circulation, leaving between one and the other, a term of fifteen (15) days in which you will inform about the process of liquidation (article 19 of Decree 1529 of 1990). The settlement is shall effect fifteen (15) days after the publication of the last notice (Article 20 of Decree 1529 of 1990).
--- Payment of obligations contracted with third parties, observing the provisions on priority of credits. If there is a remnant of assets, this will go to a Non-Profit Entity chosen by the for such, or a similar according to the statutes. If the statutes do not regulate destination of the remnant, will pass to a beneficent entity (article 20 of Decree 1529 of 1990).
+  - Appointment of the liquidator, who will publish three notices in a newspaper of wide national circulation, leaving between one and the other, a term of fifteen (15) days in which you will inform about the process of liquidation (article 19 of Decree 1529 of 1990). The settlement is shall effect fifteen (15) days after the publication of the last notice (Article 20 of Decree 1529 of 1990).
+  - Payment of obligations contracted with third parties, observing the provisions on priority of credits. If there is a remnant of assets, this will go to a Non-Profit Entity chosen by the for such, or a similar according to the statutes. If the statutes do not regulate destination of the remnant, will pass to a beneficent entity (article 20 of Decree 1529 of 1990).
 
-### 2.2 Constitution by private document 
+**2.2 Constitution by private document**
 In addition to the statutory requirements, the document must be signed by all constituents diligently acknowledge content and Notify before a notary or judge and contain the following information:
 - Name, identification number and address of all constituents.
 - Manifestation of will to constitute an Entity without encouragement Profit.
 - Appointments of the positions created in the statutes.
 
-### 2.3 Constitution by public deed:
+**2.3_ Constitution by public deed:**
 In addition to the content requirements for the private document, the writing must be signed by all constituents and is only necessary if real estate is contributed.
 
-### Further Reading:
+**Further Reading:**
 [Requirements for the constitution and registration of associations and corporations](http://www.camaramedellin.com.co/site/Portals/0/Documentos/2015/15%20Requisitos%20asociaciones%20y%20corporaciones.pdf)
 
-### Non Profit Requirements
+## Non Profit Requirements
 The meeting or assembly of constitution is the meeting that must be held by all natural persons, whether acting on their own behalf or on behalf of other natural or legal persons, who have the will to associate and give birth to a legal entity without the intention of profit. In the case of foundations, this decision can emanate from a single founder and its decision can be expressed in the act or constitution document of the foundation.
 
 The assembly can be held anywhere, even different from the main domicile of the entity that is constituted, and to develop it, the following steps should be taken into account:
@@ -101,17 +101,12 @@ Once the ESAL is registered in the corresponding chamber of commerce, it must be
 
 In all cases, when an ESAL is constituted and should not be registered in the Chamber of Commerce, it must register with the DIAN, to existence and legal representation issued by the government entity that granted legal status.
 
-See page 24 of [this pdf guide to non profits](https://www.ccb.org.co/content/download/2756/35466/version/1/file/Gu%C3%ADa+Pr%C3%A1ctica+de+las+Entidades+sin+%C3%81nimo+de+Lucro+y+del+Sector+Solidario.pdf) for a model constitution (in Spanish).
+See page 24 of [this pdf](https://www.ccb.org.co/content/download/2756/35466/version/1/file/Gu%C3%ADa+Pr%C3%A1ctica+de+las+Entidades+sin+%C3%81nimo+de+Lucro+y+del+Sector+Solidario.pdf) guide to non profits for a model constitution (in Spanish).
 
-Further Reading:
+## Sources
+
 - [Requirements for the constitution and registration of associations and corporations](http://www.camaramedellin.com.co/site/Portals/0/Documentos/2015/15%20Requisitos%20asociaciones%20y%20corporaciones.pdf)
 - [Colombian Chamber of Commerce Guide to Non Profits](https://www.ccb.org.co/content/download/2756/35466/version/1/file/Gu%C3%ADa+Pr%C3%A1ctica+de+las+Entidades+sin+%C3%81nimo+de+Lucro+y+del+Sector+Solidario.pdf) 
 
-Sources
---- 
-- [Camara Medellin](www.camaramedellin.com)  
-- [Camara Medellin Documents](http://www.camaramedellin.com.co/site/Portals/0/Documentos/2015/15%20Requisitos%20asociaciones%20y%20corporaciones.pdf) 
-- [CCB.org](https://www.ccb.org.co/content/download/2756/35466/version/1/file/Gu%C3%ADa+Pr%C3%A1ctica+de+las+Entidades+sin+%C3%81nimo+de+Lucro+y+del+Sector+Solidario.pdf)  
-- [Colombian Chamber of Commerce Guide to Non Profits](https://www.ccb.org.co/content/download/2756/35466/version/1/file/Gu%C3%ADa+Pr%C3%A1ctica+de+las+Entidades+sin+%C3%81nimo+de+Lucro+y+del+Sector+Solidario.pdf)   
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//colombia/colombia-tax-and-auditing-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//colombia/colombia-laws-token-sales.html)** |
