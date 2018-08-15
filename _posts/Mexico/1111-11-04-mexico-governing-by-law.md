@@ -8,7 +8,7 @@ comments: true
 ---
 
 **Corporate Governance** [(source)](https://uk.practicallaw.thomsonreuters.com/2-554-9286?transitionType=Default&contextData=(sc.Default)&firstPage=true&comp=pluk&bhcp=1)
-- The laws that generally regulate corporate governance matters are the: [(source](https://content.next.westlaw.com/Document/I2ef12afa1ed511e38578f7ccc38dcbee/View/FullText.html?contextData=(sc.Default)&transitionType=Default&firstPage=true&bhcp=1)
+- The laws that generally regulate corporate governance matters are the: [(source)](https://content.next.westlaw.com/Document/I2ef12afa1ed511e38578f7ccc38dcbee/View/FullText.html?contextData=(sc.Default)&transitionType=Default&firstPage=true&bhcp=1)
   - General Law of Commercial Companies (LGSM).
   - Securities Market Law (LMV).
 - For Mexican companies, the articles of incorporation contain the essential provisions for the operation of the company
@@ -19,7 +19,7 @@ comments: true
     - **Domicile**: A company must specify its corporate domicile. The corporate domicile may be different from the main place of business and determines the jurisdiction of registration in the Public Register of Commerce, as well as the place where shareholders' or partners' meetings must be held
     - **Duration**: A company can have a specified term or remain operative indefinitely. New companies generally opt for an indefinite term
     - **Capital**: There is no minimum capitalisation requirement, but the articles of incorporation must specify the amount of the company's capital. A company's capital is divided in quotas (in limited liability companies) or shares (in stock corporations).
-    - **Management**:The management of the company must be entrusted to:
+    - **Management**: The management of the company must be entrusted to:
       - A sole manager or a board of managers in the case of a limited liability company; or
       - A sole administrator or a board of directors in the case of a stock corporation.
     - **Officers**: Mexican law does not require the appointment of officers, but it is customary for companies to appoint a president or chief executive officer, a secretary and an assistant secretary. Any other officers can be appointed as desired
