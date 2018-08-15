@@ -7,10 +7,7 @@ category: mexico
 comments: true
 ---
 
-# Page in progress, stay tuned!
-
- 
-
+As of August 2018, Mexico has not developed Distributed Ledger Technology laws or laws regarding smart contracts so whether smart contracts can be nullified is unclear
 
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//mexico/mexico-dispute-resolution.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//mexico/mexico-suggested-readings.html)** |
 
