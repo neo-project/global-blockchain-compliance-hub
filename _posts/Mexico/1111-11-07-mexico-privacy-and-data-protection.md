@@ -27,8 +27,8 @@ comments: true
   - Additionally, like all other businesses, Fintech must process personal data in accordance with the principles of consent, information, data quality, due purpose, proportionality and responsibility 
   - Finally, also like other businesses in Mexico, Fintechs must develop adequate safeguards and security measures to protect personal data
 - One interesting aspect of the Fintech law is that it introduces the the obligation of financial entities to establish programming interfaces for standardized computer applications (**Application Programming Interfaces or APIs**) that will enable connectivity and non-discriminatory access to other interfaces. [(source)](https://www.gtlaw.com/-/media/files/insights/alerts/2018/4/gt-alert_faqs-concerning-mexicos-new-fintech-law.pdf)
-- The Law adopts an open API model, under which any entity can request access to another participant’s interface in exchange for a fee, with prior approval from the corresponding Supervisory Committee or the Bank of Mexico, per the entity in question 
-- Commentators have argued that the open API scheme has implications in terms of personal data protection but have not discussed these implications extensively 
+  - The Law adopts an open API model, under which any entity can request access to another participant’s interface in exchange for a fee, with prior approval from the corresponding Supervisory Committee or the Bank of Mexico, per the entity in question 
+  - Commentators have argued that the open API scheme has implications in terms of personal data protection but have not discussed these implications extensively 
 
 **Sources**
 - [Privacy International](https://privacyinternational.org/state-privacy/1006/state-privacy-mexico)
