@@ -8,7 +8,6 @@ comments: true
 ---
 
 
-
 [Laws Related to Data Protection and Privacy](https://www.dlapiperdataprotection.com/index.html?t=law&c=CO)
 
 **Article 15  of the Colombian Constitution** sets forth fundamental rights to intimacy, good name or reputation and data protection 
