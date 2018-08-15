@@ -23,10 +23,10 @@ comments: true
 
 **Privacy and Data Protection Laws and their Relation to Blockchain**
 - There is currently not a lot of discussion around how privacy and data protection laws relate to the use of blockchain in Mexico. However, as cryptocurrencies are now regulated under the law, they are also subject to the existing privacy and data protection legislation [(source)](https://www.gtlaw.com/-/media/files/insights/alerts/2018/4/gt-alert_faqs-concerning-mexicos-new-fintech-law.pdf)
-- Fintechs like all other businesses in Mexico must provide individuals supplying data with a privacy notice  
-- Additionally, like all other businesses, Fintech must process personal data in accordance with the principles of consent, information, data quality, due purpose, proportionality and responsibility 
-- Finally, also like other businesses in Mexico, Fintechs must develop adequate safeguards and security measures to protect personal data
-- One interesting aspect of the Fintech law is that it introduces the the obligation of financial entities to establish programming interfaces for standardized computer applications (Application Programming Interfaces or APIs) that will enable connectivity and non-discriminatory access to other interfaces. [(source)](https://www.gtlaw.com/-/media/files/insights/alerts/2018/4/gt-alert_faqs-concerning-mexicos-new-fintech-law.pdf)
+  - Fintechs like all other businesses in Mexico must provide individuals supplying data with a privacy notice  
+  - Additionally, like all other businesses, Fintech must process personal data in accordance with the principles of consent, information, data quality, due purpose, proportionality and responsibility 
+  - Finally, also like other businesses in Mexico, Fintechs must develop adequate safeguards and security measures to protect personal data
+- One interesting aspect of the Fintech law is that it introduces the the obligation of financial entities to establish programming interfaces for standardized computer applications (**Application Programming Interfaces or APIs**) that will enable connectivity and non-discriminatory access to other interfaces. [(source)](https://www.gtlaw.com/-/media/files/insights/alerts/2018/4/gt-alert_faqs-concerning-mexicos-new-fintech-law.pdf)
 - The Law adopts an open API model, under which any entity can request access to another participant’s interface in exchange for a fee, with prior approval from the corresponding Supervisory Committee or the Bank of Mexico, per the entity in question 
 - Commentators have argued that the open API scheme has implications in terms of personal data protection but have not discussed these implications extensively 
 
