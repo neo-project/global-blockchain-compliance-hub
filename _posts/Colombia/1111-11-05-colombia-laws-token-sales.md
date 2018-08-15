@@ -12,7 +12,6 @@ comments: true
 - However a series of concepts and statements from the Colombian Central Bank and the Financial Superintendence have been issued to the public warning of the risks associated with cryptocurrencies 
 
 [Are ICOs and Token Sales Regulated in your country](https://www.legalink.ch/xms/files/NEWS/Legalink_ICOS_and_Token_Sales.pdf)
-
 - ICOs and token sales are not yet regulated in Colombia 
 - Although ICOs and token sales are not yet regulated in Colombia, the Financial Superintendence is the Colombian agency reviewing the evolution of and discussing regulatory issues on cryptocurrencies, ICOs and Token Sales
 - The Colombian Central Bank has formed a task force with other entities (as the Financial Superintendence) to study cryptocurrency markets and evaluate the convenience of regulating certain aspects related to them
@@ -20,7 +19,6 @@ comments: true
 - Thus as cryptocurrencies are defined as non-financial assets, individuals are responsible to assess the risk derived from any operation carried out with cryptocurrencies 
 
 **Digital Proof**
-
 - Information on digital proof was not available 
 
 Sources 

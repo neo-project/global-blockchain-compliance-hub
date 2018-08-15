@@ -6,7 +6,6 @@ title: "Ukraine: Securities-Related Laws"
 category: ukraine
 comments: true
 ---
-## Securities-related laws (once a token is registered or identified as a security, what are the consequences for listing the token on crypto exchanges) ##
 
 ### Securities ###
 
@@ -39,6 +38,7 @@ For natural and legal persons, residents, and non-residents it is forbidden to o
 -	[The Law of Ukraine No. 3480-IV “About securities and the stock market” of February 23, 2006, the last edition from 23-03-2017] (http://cis-legislation.com/document.fwx?rgn=11328)
 
 -	[The Law of Ukraine No. 448/96-BP of October 30, 1996 “About state regulation of the security market in Ukraine”, the last edition from 16-11-2017)](http://cis-legislation.com/document.fwx?rgn=9330)
+
 
 
 

@@ -6,7 +6,7 @@ title: "Ukraine: Privacy and Data Protection-related Laws"
 category: ukraine
 comments: true
 ---
-## Privacy & data protection-related laws (especially on public blockchains) ##
+
 
 [The Law of Ukraine On Information](http://www.wipo.int/edocs/lexdocs/laws/en/ua/ua032en.pdf) provides general comments on privacy and information:
 
@@ -46,6 +46,7 @@ In addition, the law obliges all participants of relations in the sphere of e-co
 -	[The Convention for the Protection of Individuals with regard to the Automatic Processing of Personal Data, 6 July 2010.](https://ukraine-eu.mfa.gov.ua/mediafiles/files/2010associationagendapprioritiesen.pdf)
 -	[The Law of Ukraine No 675-VIII "On Electronic Commerce", 3 September 2015](http://search.ligazakon.ua/l_doc2.nsf/link1/T150675.html)
 - [President's website announcement](http://www.president.gov.ua/en/news/prezident-pidpisav-zakon-pro-elektronnu-komerciyu-36022)
+
 
 
 

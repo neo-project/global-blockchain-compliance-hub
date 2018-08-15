@@ -6,7 +6,7 @@ title: "Ukraine: Can Smart Contracts be Nullified?"
 category: ukraine
 comments: true
 ---
- ## Can smart contracts be nullified? How does this interact with the blockchain being immutable? ##
+
 
 The smart contract must meet the existing requirements for similar electronic documents.  If the conditions of a smart contract are contrary to the basic norms of [the Commercial Law (Article 180)](http://kodeksy.com.ua/ka/hozajstvennyj_kodeks_ukrainy.htm) and [the Civil Code (Articles 215-218, 631)](http://search.ligazakon.ua/l_doc2.nsf/link1/T030435.html), it can be nullified.  
 
@@ -16,6 +16,7 @@ The consequences can be determined on the basis of the program code: blocking tr
 
 - [the Commercial Law (Article 180)](http://kodeksy.com.ua/ka/hozajstvennyj_kodeks_ukrainy.htm)
 - [the Civil Code of Ukraine (Articles 215-218, 631)](http://search.ligazakon.ua/l_doc2.nsf/link1/T030435.html)
+
 
 
 

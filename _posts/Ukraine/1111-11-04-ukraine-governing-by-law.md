@@ -6,7 +6,7 @@ title: "Ukraine: Governing Laws/Bylaw Requirements"
 category: ukraine
 comments: true
 ---
-## Governing laws/bylaw requirements ##
+
 
 ### Individual licensing of certain currency transactions ###
 
@@ -39,6 +39,8 @@ According to the law of Ukraine "On economic communities", and in accordance wit
 
 -	[Law of Ukraine “On Economic communities](http://kodeksy.com.ua/ka/o_hozjajstvennyh_obshhestvah.htm)
 - [Law of Ukraine “On state registration of legal entities, individual entrepreneurs and public asssociations”](http://kodeksy.com.ua/ka/o_gosudarstvennoj_registratsii_yuridicheskih_lits_i_fizicheskih_lits-predprinimatelej.htm)
+
+
 
 
 

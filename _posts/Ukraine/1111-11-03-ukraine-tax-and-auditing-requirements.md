@@ -7,7 +7,7 @@ category: ukraine
 comments: true
 ---
 
-### Tax & Auditing requirements ###
+
 
 The Tax Code defines the payers of taxes and duties in Ukraine. The following organizations and individuals are considered to be the taxpayers: 
 
@@ -76,6 +76,7 @@ The Tax Code of Ukraine defined new sources of exempt from taxation income (by A
 -	[The State Fiscal Service of Ukraine](http://sfs.gov.ua/en/)
 -	[The Tax Code of Ukraine](http://gogov.org.ua/wp-content/uploads/2016/05/Tax-Code-of-Ukraine.pdf)
 -	[PriceWaterhouse Coopers Memo](https://www.pwc.com/ua/en/survey/2013/assets/ukraine_doingbusiness_2013.pdf)
+
 
 
 

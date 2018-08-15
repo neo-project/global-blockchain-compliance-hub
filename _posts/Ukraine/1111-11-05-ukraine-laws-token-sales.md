@@ -7,7 +7,6 @@ category: ukraine
 comments: true
 ---
 
-## Laws related to token sales, blockchain, and digital proof ##
 
 On October 6, 2017, the bill (draft law) #7183 “On cryptocurrency turnover in Ukraine” was registered on the website of the Verkhovna Rada (Ukraine’s Parliament), however, it received many negative feedbacks from industry experts.
 
@@ -38,6 +37,7 @@ In contrast to the draft law № 7183, the alternative bill provides for the int
 -	https://buhgalter911.com/news/news-1032886.html
 
 -	https://taxlink.ua/ua/blog/zakonoproekt-71831-vtoraya-popytka-regulirovaniya-.htm
+
 
 
 

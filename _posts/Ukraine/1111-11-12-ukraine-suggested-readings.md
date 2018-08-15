@@ -7,7 +7,7 @@ category: ukraine
 comments: true
 ---
 
-## Suggested Readings: ##
+
 
 ### Starting a Business: ###
 
@@ -38,6 +38,7 @@ comments: true
 - https://buhgalter911.com/news/news-1032886.html
 - https://taxlink.ua/ua/blog/zakonoproekt-71831-vtoraya-popytka-regulirovaniya-.htm
 - https://icf.ua/ua/blog/view/prognoz-na-smart 
+
 
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//ukraine/ukraine-nullify-smart-contracts.html)** | 

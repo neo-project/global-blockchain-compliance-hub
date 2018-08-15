@@ -7,7 +7,6 @@ category: ukraine
 comments: true
 ---
 
-## Who bears final responsibility/liability in case something goes wrong? The party using the smart contract? The party that wrote the smart contract? Or the blockchain platform? ##
 
 The term “smart contract” has not been described in Ukrainian legal system yet. However, basing on other laws, related to contracts, we can draw assumptions on the execution and sides’ responsibilities, as well as role of an intermediary.
 
@@ -37,6 +36,7 @@ Also, Article 216 of the Civil Code states that an invalid deal (transaction) do
 
 -	[The Law of Ukraine No. 675-VIII, “On E-Commerce” of 03.09.2015](http://search.ligazakon.ua/l_doc2.nsf/link1/T150675.html)
 -	[Civil Code of Ukraine](http://www.wipo.int/wipolex/en/details.jsp?id=6228)
+
 
 
 

@@ -6,7 +6,6 @@ title: "Ukraine: Non-profit/For-profit Company Registry Requirements"
 category: ukraine
 comments: true
 ---
-## Non-profit/for-profit company registry requirements ##
 
 
 ### Non-profit registry requirements ### 
@@ -181,5 +180,6 @@ Contractual investment vehicles are represented in Ukraine by a variety of agree
 - [The State Fiscal Service of Ukraine](http://sfs.gov.ua/en/)
 -	[The Ukraine State Statistic Service](http://ukrstat.gov.ua/)
 -	[The Ukraine National Pension Fund](http://www.pfu.gov.ua/)
+
 
 | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//ukraine/ukraine-team-member-nationality-requirements.html)** |

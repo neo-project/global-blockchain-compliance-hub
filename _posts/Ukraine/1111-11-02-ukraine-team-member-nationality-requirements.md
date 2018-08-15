@@ -8,8 +8,6 @@ comments: true
 ---
 
 
-## Team member nationality requirements ##
-
 Ukraine has no restrictions on owners’ or shareholders’ citizenship. 
 
 A foreign national can be appointed as a director only after obtaining a work permit. Also a written employment agreement (contract) concluded between the Ukrainian company and the individual must be provided to the authorities.
@@ -44,6 +42,7 @@ A foreign national can be hired in Ukraine following receipt of a work permit. T
 -	[PriceWaterhouseCoopers Memo](https://www.pwc.com/ua/en/survey/2013/assets/ukraine_doingbusiness_2013.pdf)
 -	[Baker & McKinsey Memo](https://www.bakermckenzie.com/-/media/files/insight/publications/2016/05/conducting-business-in-ukraine-in-2016/bk_ukraine_dbi_16.pdf?la=en)
 -	[VFD Global Consulting Firm](http://www.vfsglobal.com/ukraine/uae/pdf/Checklist-employment.pdf)
+
 
 
 

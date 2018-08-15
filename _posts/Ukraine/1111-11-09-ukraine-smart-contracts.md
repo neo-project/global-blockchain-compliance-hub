@@ -7,7 +7,6 @@ category: ukraine
 comments: true
 ---
 
-## The definition of a ‘smart contract’ and whether a smart contract is legally binding (even if both parties agree to use a smart contract) ##
 
 As for August 2018, the term “smart contract” has not been defined in Ukrainian legal system yet. 
 However, according to The law of Ukraine No. 675-VIII, “On E-Commerce” of 03.09.2015, Article 3.13 :
@@ -19,6 +18,7 @@ Thus, we have a contract that is concluded without the use of paper with an elem
 ### Source: ###
 
 - [The Law of Ukraine No. 675-VIII, “On E-Commerce” of 03.09.2015, Article 3.13](http://search.ligazakon.ua/l_doc2.nsf/link1/T150675.html)
+
 
 
 
