@@ -17,4 +17,5 @@ Sources
 
 
 
+
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//europe/europe-smart-contracts.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//europe/europe-nullify-smart-contracts.html)** |

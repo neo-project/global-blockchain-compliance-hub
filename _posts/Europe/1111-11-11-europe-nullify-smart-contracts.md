@@ -12,5 +12,4 @@ There is currently no explicit regulation governing smart contract nullification
 
 
 
-
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//europe/europe-dispute-resolution.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//europe/europe-suggested-readings.html)** |

@@ -34,6 +34,8 @@ Articles of Association:
 
 
 Sources
+  * [Danish Business Authority](https://danishbusinessauthority.dk/)
+  * [Danish Companies Act](https://danishbusinessauthority.dk/sites/default/files/danish_companies_act.pdf)
 --- 
   * [Danish Business Authority](https://danishbusinessauthority.dk/)
   * [Danish Companies Act](https://danishbusinessauthority.dk/sites/default/files/danish_companies_act.pdf)

@@ -11,6 +11,7 @@ There is currently no legal framework in the European Union specifically tailore
 
 Sources
 ---
+
   * [Law and Autonomous Systems Series: Defining Smart Contracts - The Search for Workable Legal Categories](https://www.law.ox.ac.uk/business-law-blog/blog/2018/05/law-and-autonomous-systems-series-defining-smart-contracts-search)
   * [Law and Autonomous Systems Series: How to Resolve Smart Contract Disputes - Smart Arbitration as a Solution](https://www.law.ox.ac.uk/business-law-blog/blog/2018/06/law-and-autonomous-systems-series-how-resolve-smart-contract-disputes)
   * [Electronic Commerce Directive](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32000L0031)

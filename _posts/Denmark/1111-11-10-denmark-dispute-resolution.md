@@ -14,5 +14,4 @@ There is currently no legal framework in Denmark specifically tailored for smart
 
 
 
-
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//denmark/denmark-smart-contracts.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//denmark/denmark-nullify-smart-contracts.html)** |

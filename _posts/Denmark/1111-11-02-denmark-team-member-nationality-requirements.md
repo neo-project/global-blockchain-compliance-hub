@@ -39,6 +39,13 @@ Register Your Business:
 
 
 Sources
+  * [Work in Denmark: Start Your Own Business](https://www.workindenmark.dk/Working-in-DK/Start-your-own-business)
+  * [New to Denmark](https://www.nyidanmark.dk/en-GB)
+  * [Work in Denmark: About International Citizen Service](https://www.workindenmark.dk/About-Workindenmark/About-International-Citizen-Service)
+  * [Life in Denmark: Healthcare](https://lifeindenmark.borger.dk/Coming-to-Denmark/Healthcare?NavigationTaxonomyId=ff1d9a2b-caf4-451c-8789-854d0b26d898)
+  * [SKAT: Application for Tax Card and CPR Number](https://www.skat.dk/SKAT.aspx?oId=1899274&vId=0&lang=US)
+  * [SKAT: First Steps/Tax Information](https://www.skat.dk/skat.aspx?oid=2246935)
+  
 ---
   * [Work in Denmark: Start Your Own Business](https://www.workindenmark.dk/Working-in-DK/Start-your-own-business)
   * [New to Denmark](https://www.nyidanmark.dk/en-GB)

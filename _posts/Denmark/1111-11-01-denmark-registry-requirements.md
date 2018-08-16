@@ -39,6 +39,11 @@ Non-Profit Registration
   * Approved organizations are able to apply for VAT refunds and tax relief
 
 Sources
+
+  * [Registration of a Business](https://www.startupsvar.dk/registration-of-business)
+  * [Start Virksomhed Website](https://indberet.virk.dk/myndigheder/stat/ERST/Start_virksomhed?nm_extag=Link%3D%2Cforside%2Cmest-anvendte-start-virksomhed%2C)
+  * [Virk.dk Website](https://indberet.virk.dk/)
+  * [European Fundraising Association](http://www.efa-net.eu/country-stats/denmark)
 ---
   * [Registration of a Business](https://www.startupsvar.dk/registration-of-business)
   * [Start Virksomhed Website](https://indberet.virk.dk/myndigheder/stat/ERST/Start_virksomhed?nm_extag=Link%3D%2Cforside%2Cmest-anvendte-start-virksomhed%2C)

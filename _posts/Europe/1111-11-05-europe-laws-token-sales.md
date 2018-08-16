@@ -29,6 +29,7 @@ With regard to blockchain, the European Commission has been supportive and inter
 
 Sources 
 ---
+
   * [Library of Congress: Regulation of Bitcoin in Selected Jurisdictions](https://www.loc.gov/law/help/bitcoin-survey/#eu)
   * [European Central Bank: Virtual Currency Schemes](http://www.ecb.europa.eu/pub/pdf/other/virtualcurrencyschemes201210en.pdf)
   * [Electronic Money Directive](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:267:0007:0017:EN:PDF)
