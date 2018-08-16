@@ -7,7 +7,7 @@ category: bolivia
 comments: true
 ---
 
-# Page in progress, stay tuned!
+There are no explicit laws related to smart contracts.
 
 
 
