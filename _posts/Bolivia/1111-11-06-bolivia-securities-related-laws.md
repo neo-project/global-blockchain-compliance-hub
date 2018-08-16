@@ -7,8 +7,11 @@ category: bolivia
 comments: true
 ---
 
-# Page in progress, stay tuned!
+Cryptocurrencies are explicitly banned in Bolivia.
 
+Sources:
+
+[Library of Congress: Cryptocurrency World Survey](http://www.loc.gov/law/help/cryptocurrency/world-survey.php)
 
 
 
