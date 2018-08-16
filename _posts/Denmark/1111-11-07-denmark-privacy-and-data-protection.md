@@ -30,6 +30,9 @@ Sources
   * [Act on Processing of Personal Data](https://rm.coe.int/16806af0e6)
   * [Linklaters: Data Protected- Denmark](https://www.linklaters.com/en/insights/data-protected/data-protected---denmark)
 ---
-- 
+  * [Datatilsynet Website](https://www.datatilsynet.dk/)
+  * [Act on Processing of Personal Data](https://rm.coe.int/16806af0e6)
+  * [Linklaters: Data Protected- Denmark](https://www.linklaters.com/en/insights/data-protected/data-protected---denmark)
+
 
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//denmark/denmark-securities-related-laws.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//denmark/denmark-final-liability.html)** |

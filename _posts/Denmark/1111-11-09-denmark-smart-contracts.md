@@ -11,9 +11,6 @@ For EU regulation, please visit [Europe: Smart Contracts Definition and Legality
 There is currently no legal framework in Denmark specifically tailored for smart contracts.
 
 
-Sources
--- 
-- 
 
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//denmark/denmark-final-liability.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//denmark/denmark-dispute-resolution.html)** |

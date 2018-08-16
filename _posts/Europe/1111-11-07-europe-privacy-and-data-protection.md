@@ -29,6 +29,13 @@ Sources
   * [How to Design a GDPR-Compliant Blockchain](https://venturebeat.com/2018/05/23/how-to-design-a-gdpr-compliant-blockchain/)
   
 ---
-- 
+  * [Full Text for GDPR](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016R0679)
+  * [What the GDPR Means for Facebook, the EU and You](https://www.cnet.com/how-to/what-gdpr-means-for-facebook-google-the-eu-us-and-you/)
+  * [Will GDPR Block Blockchain?](https://www.weforum.org/agenda/2018/05/will-gdpr-block-blockchain/)
+  * [GDPR and Blockchain: Is the New EU Data Protection Regulation a Threat or an Incentive?](https://cointelegraph.com/news/gdpr-and-blockchain-is-the-new-eu-data-protection-regulation-a-threat-or-an-incentive)
+  * [The Role of Blockchain in GDPR Compliance](https://www.techradar.com/news/the-role-of-blockchain-in-gdpr-compliance)
+  * [How to Design a GDPR-Compliant Blockchain](https://venturebeat.com/2018/05/23/how-to-design-a-gdpr-compliant-blockchain/)
+  
+
 
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//europe/europe-securities-related-laws.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//europe/europe-final-liability.html)** |

@@ -93,6 +93,8 @@ March 2018.
 [3] [Coindesk.com](https://www.coindesk.com/gibraltar-publishes-draft-regulations-for-blockchain-firms/)  
 [4] [Fourtune.com](http://fortune.com/2017/09/26/tax-havens-initial-coin-offerings/)
 
+[5] [LegalBlock Podcast: Gibraltar Global Regulation Frameworks Series](https://soundcloud.com/legalblock/gibraltar-global-regulation-frameworks-series)
+
 
 
 

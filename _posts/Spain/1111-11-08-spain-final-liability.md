@@ -6,6 +6,9 @@ title: "Spain: Who Bears Final Responsibility and Liability"
 category: spain
 comments: true
 ---
+
+For EU regulation, please visit [Europe: Who Bears Final Responsibility and Liability](https://neo-project.github.io/global-blockchain-compliance-hub//europe/europe-final-liability.html). 
+
 Spain currently does not have any laws or regulations regarding smart contract technology. 
 
 

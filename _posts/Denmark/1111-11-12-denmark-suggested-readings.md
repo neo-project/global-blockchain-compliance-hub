@@ -51,7 +51,5 @@ Privacy and Data Protection-Related Laws
 Contract Law:
   * [Danish Contract Law](http://www.mondaq.com/x/169876/Contract+Law/The+Danish+Contracts+Act)
 
--- 
-- 
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//denmark/denmark-nullify-smart-contracts.html)** |

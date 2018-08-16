@@ -22,6 +22,7 @@ comments: true
 * [Laws of Gibraltar](http://gibraltarlaws.gov.gi/search_form.php)
  
 **DLT/ICO:**
+* [LegalBlock Podcast: Gibraltar Global Regulation Frameworks Series](https://soundcloud.com/legalblock/gibraltar-global-regulation-frameworks-series)
 * [HM Government of Gibraltar Token Regulation](http://gibraltarfinance.gi/20180309-token-regulation---policy-document-v2.1-final.pdf)
 * [Gibraltar DLT Regulatory Framework](http://www.gfsc.gi/dlt) 
 * [Published DLT Regulations](http://www.gfsc.gi/uploads/DLT%20regulations%20121017%20(2).pdf)

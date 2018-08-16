@@ -13,10 +13,10 @@ Cryptocurrencies remain unregulated in Denmark. The Danish FSA has pointed out t
 
 
 Sources 
-
+---
 * [FSA Statement on ICOs](https://www.finanstilsynet.dk/Nyheder-og-Presse/Sektornyt/2017/Orientering-om-ICO?sc_lang=en)
---- 
-- 
+ 
+ 
 
 
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//denmark/denmark-laws-token-sales.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//denmark/denmark-privacy-and-data-protection.html)** |

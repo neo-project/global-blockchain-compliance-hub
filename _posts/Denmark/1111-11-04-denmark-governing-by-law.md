@@ -37,6 +37,9 @@ Sources
   * [Danish Business Authority](https://danishbusinessauthority.dk/)
   * [Danish Companies Act](https://danishbusinessauthority.dk/sites/default/files/danish_companies_act.pdf)
 --- 
-- 
+  * [Danish Business Authority](https://danishbusinessauthority.dk/)
+  * [Danish Companies Act](https://danishbusinessauthority.dk/sites/default/files/danish_companies_act.pdf)
+
+ 
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//denmark/denmark-tax-and-auditing-requirements.html)** | **[Next Section]( https://neo-project.github.io/global-blockchain-compliance-hub//denmark/denmark-laws-token-sales.html)** |
