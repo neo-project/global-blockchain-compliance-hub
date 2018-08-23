@@ -8,5 +8,6 @@ url: "https://neo-project.github.io/global-blockchain-compliance-hub/" # the bas
 # Build settings
 markdown: kramdown
 permalink: none
+future : true
 
 theme: jekyll-theme-minimal
