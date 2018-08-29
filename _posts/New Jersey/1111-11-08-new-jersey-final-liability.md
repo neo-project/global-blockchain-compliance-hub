@@ -2,7 +2,7 @@
 layout: post
 date: 0061-05-01
 name: final-responsibility-and-liability
-title: “New Jersey: Who Bears Final Responsibility and Liability"
+title: "New Jersey: Who Bears Final Responsibility and Liability"
 category: new-jersey
 comments: true
 ---
