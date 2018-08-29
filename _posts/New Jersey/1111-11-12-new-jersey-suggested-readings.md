@@ -2,7 +2,7 @@
 layout: post
 date: 0061-01-01
 name: suggested-readings
-title: “New Jersey: Suggested Readings"
+title: "New Jersey: Suggested Readings"
 category: new-jersey
 comments: true
 ---
