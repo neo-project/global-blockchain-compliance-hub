@@ -2,7 +2,7 @@
 layout: post
 date: 0061-03-01
 name: how-is-dispute-resolution-integrated
-title: “New Jersey: How is Dispute Resolution Integrated"
+title: "New Jersey: How is Dispute Resolution Integrated"
 category: new-jersey
 comments: true
 ---
