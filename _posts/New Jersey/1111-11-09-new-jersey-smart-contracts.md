@@ -2,7 +2,7 @@
 layout: post
 date: 0061-04-01
 name: smart-contracts-definition
-title: “New Jersey: Smart Contracts Definition and Legality"
+title: "New Jersey: Smart Contracts Definition and Legality"
 category: new-jersey
 comments: true
 ---
