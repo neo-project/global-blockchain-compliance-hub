@@ -2,7 +2,7 @@
 layout: post
 date: 0061-06-01
 name: privacy-and-data-protection-related-laws
-title: “New Jersey: Privacy and Data Protection-related Laws"
+title: "New Jersey: Privacy and Data Protection-related Laws"
 category: new-jersey
 comments: true
 ---
