@@ -2,7 +2,7 @@
 layout: post
 date: 0061-07-01
 name: securities-related-laws
-title: “New Jersey: Securities-Related Laws"
+title: "New Jersey: Securities-Related Laws"
 category: new-jersey
 comments: true
 ---
