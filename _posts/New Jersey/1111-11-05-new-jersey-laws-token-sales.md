@@ -2,7 +2,7 @@
 layout: post
 date: 0061-08-01
 name: laws-related-to-token-sales-blockchain-and-digital-proof
-title: “New Jersey: Laws Related to Token Sales, Blockchain, and Digital Proof"
+title: "New Jersey: Laws Related to Token Sales, Blockchain, and Digital Proof"
 category: new-jersey
 comments: true
 ---
