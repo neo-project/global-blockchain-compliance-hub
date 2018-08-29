@@ -2,7 +2,7 @@
 layout: post
 date: 0061-02-01
 name: can-smart-contracts-be-nullified
-title: “New Jersey: Can Smart Contracts be Nullified?"
+title: "New Jersey: Can Smart Contracts be Nullified?"
 category: new-jersey
 comments: true
 ---
