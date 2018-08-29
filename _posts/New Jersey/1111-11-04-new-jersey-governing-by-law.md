@@ -2,7 +2,7 @@
 layout: post
 date: 0061-09-01
 name: governing-laws-bylaw-requirements
-title: “New Jersey: Governing Laws/Bylaw Requirements"
+title: "New Jersey: Governing Laws/Bylaw Requirements"
 category: new-jersey
 comments: true
 ---
