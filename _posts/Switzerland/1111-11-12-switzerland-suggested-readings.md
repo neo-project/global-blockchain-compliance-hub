@@ -31,5 +31,14 @@ To learn more about Switzerland's laws we recommend the following readings:
 #### State of Blockchain in Switzerland
 [Deloitte White Paper on Blockchain in Switzerland](https://www2.deloitte.com/content/dam/Deloitte/ch/Documents/innovation/ch-en-innovation-blockchain-revolution.pdf)
 
+### Suggested Legal Counsel
+Ronald Kogens, LL.M.
+
+Attorney at Law
+
+FRORIEP Legal AG | Bellerivestrasse 201 | P.O. Box | 8034Zurich | T +41 44 386 60 00 | F +41 44 383 60 50 |  
+
+[froriep.com](www.froriep.com) | [blog.froriep.com](blog.froriep.com)
+
 
 | **[Previous Section]( https://neo-project.github.io/global-blockchain-compliance-hub//switzerland/switzerland-nullify-smart-contracts.html)** |
