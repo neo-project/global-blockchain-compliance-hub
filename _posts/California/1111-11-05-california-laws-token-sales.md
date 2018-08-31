@@ -10,6 +10,16 @@ comments: true
 The most important laws applying to token sales, blockchain, and digital proof in California come from the federal and not the state level. Please refer to those in detail on our U.S. Federal laws page. Below are some additional legislation that California has passed or tried to lass related to blockchain, to give a sense of the current legal sentiment towards blockchain as of Dec 19, 2017. Most of these bills did not pass and it is reiterated that the bulk of laws in effect which impact blockchain regulation is at the federal level; it’s okay to skim this section.
 
 ### Passed Laws and Regulations:
+
+#### Blockchain Bill ([link](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB2658))
+
+(AB 2658)
+
+Status - Passed in State Senate and General Assembly, awaiting Governor signature 
+
+In February 2018, the bill was introduced the first time. California’s AB 2658 bill directs the Secretary of the Government Operations Agency to create a blockchain working group. In the group, the participants will be from technology as well as non-technology industries including participants from law background and representatives from consumer and privacy organisations. Blockchain working group will also have one member of Assembly, one member of Senate, State Chief Information Officer, Director of Finance or their designees. The chairperson of the group will be designated by July 1, 2019. All the group members will be then responsible for providing recommendations to the state legislature. More information [from BTC Wires](https://www.btcwires.com/round-the-block/bill-passed-by-california-state-legislature-to-establish-blockchain-working-group/)
+
+
 #### Legality of circulation of cryptocurrency as money ([link](http://leginfo.ca.gov/pub/13-14/bill/asm/ab_0101-0150/ab_129_bill_20140624_enrolled.htm))
 
 (AB 129)
