@@ -7,6 +7,8 @@ category: europe
 comments: true
 ---
 
+28 EU member states will meet on September 7th in Vienna, Austria, to review virtual currencies, challenges posed by the growing popularity of virtual assets and the possibility of tightening rules and regulation for the digital assets will be discussed. More on [Bloomberg](https://www.bloomberg.com/crypto). 
+
 While the EU has passed no specific legislation relative to the status of bitcoin (and other cryptocurrencies) as a currency, various EU bodies have issued statements and reports. In October 2012, the European Central Bank issued a [report](http://www.ecb.europa.eu/pub/pdf/other/virtualcurrencyschemes201210en.pdf) on virtual currencies that discussed cryptocurrency.
  
 Some have suggested that cryptocurrency may fall within the definition of the EU’s [Electronic Money Directive](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:267:0007:0017:EN:PDF), which defines electronic money based on the following criteria: electronic storage, issuance upon receipt of funds, and acceptance as a means of payment by a legal or natural person other than the issuer. Cryptocurrencies meet the first and third criteria. Others have suggested that cryptocurrencies fall under the [Payment Services Directive](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2007:319:0001:0036:EN:PDF), which outlines rules related to the execution of payments using electronic money.
@@ -44,6 +46,7 @@ Sources
   * [European Commission Urges Nations to Embrace Blockchain Tech but Address Risks](https://bitcoinmagazine.com/articles/european-commission-urges-nations-embrace-blockchain-tech-address-risks/)
   * [Crypto-Securities Regulation: ICOs, Token Sales and Cryptocurrencies under EU Financial Law](https://www.law.ox.ac.uk/business-law-blog/blog/2018/01/crypto-securities-regulation-icos-token-sales-and-cryptocurrencies)
   * [European Countries Join Blockchain Partnership](https://ec.europa.eu/digital-single-market/en/news/european-countries-join-blockchain-partnership)
+  * [The EU Is Taking Another Look at Regulating Crypto](https://www.bloomberg.com/crypto)
 
 
 
