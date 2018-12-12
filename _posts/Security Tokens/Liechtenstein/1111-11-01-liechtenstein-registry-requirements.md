@@ -28,7 +28,7 @@ In Liechtenstein, the trust plays the role of the “trust settlement” or “f
 Liechtenstein has a form of company called the Trust Enterprise, which is a hybrid between a company and a foundation. It is a usefulful framework for an organization whose the purposes have not been fixed yet and a commercial purpose may be pursued later.
 To form a Trust Enterprise, it suffices to submit the company’s articles of association and submit minimum founding capital of CHF/EUR/USD 30,000 cash or contributions in kind.
 
-### Sources
+### Reference
 * [Business Liechtenstein - Company Types Breakdown ](http://www.company-formation-liechtenstein.com/pdf/Company-formation-liechtenstein.pdf)
 * [Website With Many Guides on How to Set Up All Sorts of Companies in Liechtenstein](https://www.companyformationliechtenstein.com/)
 * [Setting Up A Cryptocurrency Business in Liechtenstein](https://www.companyformationliechtenstein.com/create-a-cryptocurrency-company-in-liechtenstein)
