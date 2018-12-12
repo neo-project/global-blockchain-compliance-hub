@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 0030-03-01
+date: 0030-02-01
 name: laws-related-to-token-sales-blockchain-and-digital-proof
 title: "Liechtenstein: Laws Related to Token Sales, Blockchain, and Digital Proof"
 category: liechtenstein
