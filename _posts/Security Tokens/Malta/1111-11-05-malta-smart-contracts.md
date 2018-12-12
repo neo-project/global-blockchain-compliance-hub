@@ -13,6 +13,8 @@ Even though there is no clear definition made by the Malta government about the 
 
 ‘Whilst some Technology Arrangements are owned by a corporate structure, other Technology Arrangements may not have such an ownership structure. This could result in the possibility of transacting on and with the Technology Arrangement without a proper ‘legal person’ as counterparty. The proposed TAS Bill will try to provide a solution to such a scenario and it is being proposed that certain Technology Arrangements will be able to register with the Registrar for Legal Persons in Malta and acquire legal personality upon satisfaction of a number of requirements.’
 
+The workings of smart contracts have not yet been written into Maltese law, where there is no legal definition provided. Legal liability is currently an untested and unwritten area of Maltese law, and caution should be exercised by firms working with smart contract technologies.
+
 Reference
 -- 
 - [Legal Personality for DAOs and Smart Contracts](https://chainstrategies.com/2018/03/11/malta-blockchain-regulation-proposal-legal-personality-for-daos-and-smart-contracts/)
