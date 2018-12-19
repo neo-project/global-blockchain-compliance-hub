@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 0053-01-01
+date: 0004-01-01
 name: company-registry-requirements
 title: "Gibraltar: Non-profit/For-profit Company Registry Requirements"
 category: gibraltar
