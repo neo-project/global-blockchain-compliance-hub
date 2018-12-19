@@ -1,15 +1,8 @@
-<ul>
-  {% for Security Tokens in site.Security Tokens %}
-    <li>
-      <a href="{{ Security Tokens.url }}">{{ Security Tokens.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-#---
-#title: gibraltar registry requirements
-#categories:  
-#- Security Tokens
-#- Gibraltar
+---
+title: gibraltar registry requirements
+categories:  
+- Security Tokens
+- Gibraltar
 
 
 comments: true
