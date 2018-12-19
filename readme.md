@@ -94,7 +94,6 @@ The `date` field is used to order the sections as well as the posts within each 
 | europe                  | 0041  |
 | chile                   | 0044  |
 | bolivia                 | 0048  |
-| Gibraltar-sto           | 0053  |
 
 Please edit the above table if you change the order of the sections.
 
