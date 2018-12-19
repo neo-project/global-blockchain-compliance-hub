@@ -11,3 +11,6 @@ permalink: none
 future : true
 
 theme: jekyll-theme-minimal
+
+menu:
+  categories: /categories # 在菜单上显示 分类
