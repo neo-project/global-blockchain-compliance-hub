@@ -1,6 +1,6 @@
 # Site settings
 title: Global Blockchain Compliance Hub
-email: miryam.amsili@gmail.com
+email: chentian@neo.org
 description: The repository for global blockchain compliance
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://neo-project.github.io/global-blockchain-compliance-hub/" # the base hostname & protocol for your site
