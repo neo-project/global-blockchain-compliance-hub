@@ -1,10 +1,9 @@
 ---
-layout: post
-date: 0053-01-01
-title: "Gibraltar: Non-profit/For-profit Company Registry Requirements"
-category:
--Security Tokens
--Gibraltar
+title: gibraltar registry requirements
+categories:  
+- Security Tokens
+- Gibraltar
+
 comments: true
 ---
 
