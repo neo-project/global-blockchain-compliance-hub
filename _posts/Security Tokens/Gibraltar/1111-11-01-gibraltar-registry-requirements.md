@@ -1,10 +1,9 @@
 ---
-title: gibraltar registry requirements
-categories:  
-- Security Tokens
-- Gibraltar
-
-
+layout: post
+date: 0004-12-01
+name: company-registry-requirements
+title: "Gibraltar: Non-profit/For-profit Company Registry Requirements"
+category: gibraltar
 comments: true
 ---
 
