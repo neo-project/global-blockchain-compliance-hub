@@ -82,6 +82,18 @@ The `date` field is used to order the sections as well as the posts within each 
 | new york                | 0015  |
 | russia                  | 0016  |
 | turkey                  | 0017  |
+| austria                 | 0018  |
+| australia               | 0019  |
+| cayman-islands          | 0021  |
+| france                  | 0022  |
+| czech-republic          | 0032  |
+| denmark                 | 0033  |
+| argentina               | 0035  |
+| brazil                  | 0037  |
+| colombia                | 0038  |
+| europe                  | 0041  |
+| chile                   | 0044  |
+| bolivia                 | 0048  |
 
 
 Please edit the above table if you change the order of the sections.
