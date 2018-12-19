@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 0053-01-02
+date: 0030-01-01
 name: company-registry-requirements
 title: "Liechtenstein: Non-profit/For-profit Company Registry Requirements"
 category: Security Tokens/Liechtenstein
