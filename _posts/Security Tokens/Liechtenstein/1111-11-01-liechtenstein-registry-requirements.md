@@ -3,7 +3,7 @@ layout: post
 date: 0053-01-02
 name: company-registry-requirements
 title: "Liechtenstein: Non-profit/For-profit Company Registry Requirements"
-category: Security Tokens
+category: Security Tokens/Liechtenstein
 comments: true
 ---
 ### For-Profit Company Forms
