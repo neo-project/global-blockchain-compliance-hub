@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 0030-01-01
+date: 0030-01-02
 name: company-registry-requirements
 title: "Liechtenstein: Non-profit/For-profit Company Registry Requirements"
 category: liechtenstein
