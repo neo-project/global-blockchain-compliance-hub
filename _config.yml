@@ -12,5 +12,3 @@ future : true
 
 theme: jekyll-theme-minimal
 
-menu:
-  categories: /categories 
