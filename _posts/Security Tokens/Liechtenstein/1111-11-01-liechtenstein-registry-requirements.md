@@ -3,7 +3,7 @@ layout: post
 date: 0030-01-01
 name: company-registry-requirements
 title: "Liechtenstein: Non-profit/For-profit Company Registry Requirements"
-category: Liechtenstein
+category: liechtenstein
 comments: true
 ---
 ### For-Profit Company Forms
