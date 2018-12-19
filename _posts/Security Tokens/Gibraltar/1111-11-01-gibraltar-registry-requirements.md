@@ -1,8 +1,8 @@
 ---
 title: gibraltar registry requirements
 categories:  
-- Security Tokens
-- Gibraltar
+- Security Tokens/Gibraltar
+
 
 comments: true
 ---
