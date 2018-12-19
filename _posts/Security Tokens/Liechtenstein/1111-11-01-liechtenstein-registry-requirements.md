@@ -1,9 +1,9 @@
 ---
 layout: post
-date: 0030-01-02
+date: 0053-01-02
 name: company-registry-requirements
 title: "Liechtenstein: Non-profit/For-profit Company Registry Requirements"
-category: liechtenstein
+category: Security Tokens
 comments: true
 ---
 ### For-Profit Company Forms
