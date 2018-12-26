@@ -8,22 +8,35 @@ comments: true
 ---
 
 By way of a definition, a VFA is any form of digital medium recordation that is used as a digital medium of exchange, unit of account, or store of value and that is not one of the following as defined below:
+
 1.	Electronic Money;
+
 2.	Financial Instrument;
+
 3.	Virtual Token.
+
 The following are the legal definitions of the above:
 Electronic Money means electronically, including magnetically, stored monetary value as represented by a claim on the issuer which is issued on receipt of funds for the purpose of making payment transactions and which is accepted by a natural or legal person other than the financial institutions that issued the electronic money.
 
 Financial Instrument includes the following:
-•	Transferable securities, including shares and bonds;
-•	Money market instruments such as treasury bills and certificates of deposit;
-•	Units in a collective investment scheme;
-•	Options, futures, swaps and any other derivative contracts relating to securities, currencies interest rates, yields, commodities or those that are traded on a regulated market etc.;
-•	Derivative instruments for transfer of credit risk;
-•	Rights under a contract for difference;
-•	Instruments which confer property rights;
-•	Foreign exchange held for investment purposes; and
-•	Emission allowances under EU Emissions Trading Scheme.
+
+•Transferable securities, including shares and bonds;
+
+•Money market instruments such as treasury bills and certificates of deposit;
+
+•Units in a collective investment scheme;
+
+•Options, futures, swaps and any other derivative contracts relating to securities, currencies interest rates, yields, commodities or those that are traded on a regulated market etc.;
+
+•Derivative instruments for transfer of credit risk;
+
+•Rights under a contract for difference;
+
+•Instruments which confer property rights;
+
+•Foreign exchange held for investment purposes; 
+
+•Emission allowances under EU Emissions Trading Scheme.
 
 Virtual Tokens have been defined as a form of digital medium recordation whose utility, value or application is restricted solely to the acquisition of goods or services, either solely within the Distributed Ledger Technology (DLT) platform on which it was issued or within a limited network of DLT platforms.It is important to note that a virtual token which may be converted into another DLT asset type shall be treated as the DLT asset type into which it is or may be converted.The laws have introduced a compulsory Financial Instrument Test in order to classify the asset and determine whether it is a VFA, Financial Instrument, Electronic Money or Virtual Token.
 
