@@ -56,3 +56,4 @@ Sources
 - [Malta Proposes Rules to define whether ICOs are securities or not](https://www.coindesk.com/malta-proposes-test-to-define-when-icos-are-securities/)
 - [how to Launching an ICO from Malta](https://www.lexology.com/library/detail.aspx?g=3abf40c8-6f05-45da-8fe2-092892e9e3a9)
 - [Malta parliament passes laws](https://www.forbes.com/sites/rachelwolfson/2018/07/05/maltese-parliament-passes-laws-that-set-regulatory-framework-for-blockchain-cryptocurrency-and-dlt/#25727e6649ed)
+- [The New Legislation Updated 4th](http://www.mondaq.com/x/766274/fin+tech/ICOs+The+New+Legislation+Updated+4th+Edition)
