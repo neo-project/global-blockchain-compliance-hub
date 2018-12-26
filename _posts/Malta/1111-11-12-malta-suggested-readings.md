@@ -10,6 +10,8 @@ comments: true
 
 Sources
 -- 
+### Laws
+- [The New Legislation Updated 4th](http://www.mondaq.com/x/766274/fin+tech/ICOs+The+New+Legislation+Updated+4th+Edition)
 
 ### Company Formation
 - [Team Member Requirements](http://www.newco.pro/en/constituicao-de-sociedades)
