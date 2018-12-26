@@ -17,37 +17,45 @@ The government has also taken steps to warn investors about the possible risks a
 
 The Maltese government has taken several steps to regulate these new industries as well as to propose a framework that will not only protect investors, but that will support the evolution and development of the sector.
  
-Between the 23rd of October and the 17th of November 2017, the Maltese government in collaboration with the MFSA launched a period of public consultation that involved the input of 53 different local and international stakeholders. During this time, the MFSA aimed to gather information and feedback on the ICO and cryptocurrency industry as well as some of its propositions for regulations.
- 
-In February 2018, the Government [published](https://www.crowdfundinsider.com/2018/04/132677-malta-approves-three-pro-crypto-bills-just-another-red-carpet-for-corruption/) its plans to table three bills that would seek to provide comprehensive regulation for ICOs, virtual currencies and blockchain technology.
+In October 2017, the government issued a consultation document that proposed a regulatory framework for collective investment schemes and investment in cryptocurrencies.  As a result of the consultation, Malta Financial Services Authority (MFSA) published conditions that apply to professional investor funds that invest in cryptocurrencies on January 22 and 29, 2018. 
 
-The paper states that new authority will be created, known as the Malta Digital Innovation Authority (MDIA) which will oversee the certification of blockchain platforms and cryptocurrencies, as well as the functioning of ICOs.
- 
-This new authority will act as a regulator and a watchdog over ICOs and will also function as a consultative body that will be tasked with promoting government policy and protecting the reputation of the jurisdiction.
- 
-This board will be entirely responsible for the registration and certification of Technology Service Providers regarding the TAS Bill, and it will function as the National Competent Authority.
- 
-The MDIA will also appoint inspectors and impose administrative penalties as well as single public statements amongst other powers that it will be given.
- 
-The second bill will pertain to virtual currencies, and in particular, it will provide stringent guidance and regulation for Initial Coin Offerings and other services related to VCs.
- 
-The bill will also impact brokers, exchanges, wallet providers, investment advisors, market makers, and asset managers, that deal with cryptocurrency. Certain ICOs can fall within the scope of investment services regulations, and therefore the MFSA will roll out a proposed Financial Instruments Test which will ascertain whether the ICO or cryptocurrency could be considered as a financial instrument that would fall under the investment services regulations or whether it will fall under the scope of the VC Bill.
- 
-The Financial Instruments Test will be made applicable to persons or companies that are offering ICOs conducted in Malta to determine whether it should fall under the scope of the MiFID.
- 
-This test will also apply to individuals that provide services or activities regarding non-classified VCs, and the analysis will provide a much-needed degree of legal certainty and clarification regarding the particular asset.
- 
-The bill will create the first legal framework of its type, in any global jurisdiction that will govern ICOs while providing a regulatory framework which applies to service providers.
-ICOs that relate to VCs yet do not qualify as a financial instrument will then be set transparency requirements and a standardised list of information which must be provided in the whitepaper.
- 
-Those individuals that provide such services will be required to abide by licensing requirements as well as applicable ongoing obligations. The MFSA will also have the right to investigate and if necessary, suspend and ICO or the trading of a VC on any exchange or platform.
- 
-The third bill will be the TAS Bill. It will seek to regulate Technology Service Providers, and it will also certify and verify Technology Arrangements as long as they feature an administrator that has been registered with the MIDA.
+In November 2017, the government published the Discussion Paper on Initial Coin Offerings, Virtual Currencies and Related Service Providers, which noted that while some cryptocurrencies might fall within the scope of existing financial services legislation, others would be outside the scope and thus unregulated.In January 2018, the government issued a further discussion paper that “present a conceptual framework through which DLT Platforms can be subject to certification in Malta.”The government has issued a statement that it intends to facilitate a regulatory framework for cryptocurrency-related activities and initial coin offerings. 
+
+Malta is currently considering three bills that would provide a regulatory framework for cryptocurrency and is following a principles-oriented approach to this legislation to help prevent the laws from becoming rapidly obsolete, or from stifling technological development. The three bills are as follows:
+•	The Malta Digital Innovation Authority Bill would establish the Malta Digital Innovation Authority (MDIA), which would “focus on innovative technology arrangements and their uses such that Malta can take the greatest advantage of new technology arrangements while at the same time protect the public interest.” One of the first objectives for the MDIA would be to promote government policies that favor technical innovation, particularly with reference to digital ledger technology and its adoption by the government in systems of public administration. Other objectives would include maintaining Malta’s reputation and protecting consumers. The MDIA would also bear responsibility for certifying technology arrangements and registering technology services providers under the “TAS Bill.” 
+•	The “TAS Bill” would establish a regime for the registration of technology service providers and provide for the certification of certain technology arrangements.This regime will initially cover distributed ledger technology platforms and related contracts. The proposals would require technology service providers that provide services for any distributed ledger technology platform in or from Malta be certified by the MDIA. Those who provide these services in other specified cases may voluntary register with the MDIA. 
+•	The Virtual Currency Bill would establish a framework for ICOs and a regulatory regime that would apply to certain services relating to cryptocurrencies, such as brokers, wallet providers, and virtual currency exchanges. The Times of Malta has reported that the government is considering introducing its own cryptocurrency “within a ‘controlled framework,’ which would enable regulators to test possible controls and legislation for the technology.” The Virtual Currency Bill aims to regulate ICOs that relate to virtual currency not falling within the existing legislation.  The bill will ensure that the offerings meet transparency requirements and will incorporate obligations that apply to initial public offerings that the issuer must follow. 
+
+The MFSA has also proposed a “financial instrument test” that would enable individuals to determine,with regulatory certainty, whether, based on its specific features, an ICO or a VC falls within the scope of the existing legislative framework, reflecting EU law on the subject, or if not, whether this will be required to comply with the new regulatory framework being proposed by the MFSA. 
+
+The test proposed would be a two-stage test, the first of which would determine whether a cryptocurrency is a financial instrument within existing Maltese or European Union legislation.The second stage would determine if the cryptocurrency was an asset under the proposed Virtual Currency Bill. 
+
+The MFSA would be the regulator for the financial services contained in the Virtual Currency Bill, and would have regulatory and investigatory powers that reflect those contained in the country’s other financial services laws, including the authority to suspend an ICO or trading of a cryptocurrency. 
+
+The government has also established a National Blockchain Strategy Taskforce to advise the government on a framework for distributed ledger technologies. 
+
+After one of Malta’s largest banks, the Bank of Valletta, blocked cryptocurrency transfers, the government of Malta stated that it does not “interfere with individual banks’ operational policies, which are dictated by circumstances which they are best placed to assess.” Many residents of Malta expressed surprise at the actions of the Bank, particularly as the government of Malta is its largest shareholder, owning approximately 25% of the Bank’s shares. 
+
+About how to Launching an ICO from Malta:
+If you are offering a VFA in or from Malta, you should keep these key rules in mind:
+– An entity making a VFA offering needs to have at least 2 Directors or Partners, as the case may be;
+– It cannot publish a whitepaper before the lapse of 10 working days from when it is submitted to the MFSA;
+– The entity must commence its offering within 6 months from when the whitepaper is registered;
+– On an annual basis draw up and submit to the MFSA a certificate of compliance;
+– Accept not more than the equivalent of Eur 5,000 per year from persons that do not qualify as experienced investors;
+– Appoint and have at all times appointed a System Auditor, a VFA Agent, a Custodian, a financial Auditor and an MLRO;
+For a person to be deemed an experienced investor, he/she shall declare to the Issuer that: 
+(1) he/she is capable of providing evidence that he has already participated in other Initial Virtual Financial Asset Offerings and his initial investment exceeded EUR 10,000 or its equivalent; 
+(2) he/she is aware of the risks involved; and 
+(3)the funds he/she is contributing to the specific Initial Virtual Financial Asset Offerings does not exceed one per cent of his net worth excluding his/her main residential home.
+
+
 
 Sources 
 --- 
 - [Malta Proposes Rules for Crypto Regulation](https://bitemycoin.com/news/malta-proposes-rules-for-cryptocurrency-investment/)
 - [Malta Proposes Rules to define whether ICOs are securities or not](https://www.coindesk.com/malta-proposes-test-to-define-when-icos-are-securities/)
-
+- [how to Launching an ICO from Malta](https://www.lexology.com/library/detail.aspx?g=3abf40c8-6f05-45da-8fe2-092892e9e3a9)
+- [Malta parliament passes laws](https://www.forbes.com/sites/rachelwolfson/2018/07/05/maltese-parliament-passes-laws-that-set-regulatory-framework-for-blockchain-cryptocurrency-and-dlt/#25727e6649ed)
 
 | **[Previous Section](https://neo-project.github.io/global-blockchain-compliance-hub//malta/malta-laws-token-sales.html)** | **[Next Section](https://neo-project.github.io/global-blockchain-compliance-hub//malta/malta-privacy-and-data-protection.html)** |
