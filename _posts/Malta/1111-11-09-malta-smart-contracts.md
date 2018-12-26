@@ -11,7 +11,7 @@ Even though there is no clear definition made by the Malta government about the 
 [In the consultation document](https://opm.gov.mt/en/Documents/FSDEI%20-%20DLT%20Regulation%20Document.pdf) there is a short but very significant section; it is section “5.3 Legal Personality of Technology Arrangements” which reads:
 ‘Whilst some Technology Arrangements are owned by a corporate structure, other Technology Arrangements may not have such an ownership structure. This could result in the possibility of transacting on and with the Technology Arrangement without a proper ‘legal person’ as counterparty. The proposed TAS Bill will try to provide a solution to such a scenario and it is being proposed that certain Technology Arrangements will be able to register with the Registrar for Legal Persons in Malta and acquire legal personality upon satisfaction of a number of requirements.’
 
-By way of a definition, a VFA is any form of digital medium recordation that is used as a digital medium of exchange, unit of account, or store of value and that is not one of the following as defined below:
+By way of a definition, a VFA is any form of digital medium recordation that is used as a digital medium of exchange, unit of account, or store of value and that is not one of the following as defined below :
 
 1.Electronic Money;
 
