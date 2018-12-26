@@ -26,6 +26,47 @@ In July 2018, Malta Financial Services Authority (MFSA), opened a consultancy to
 
 Malta is arguably the first country that has created a custom made regulatory system for blockchain-based ventures in July 2018. The VFA Act introduced a new regulatory body that would look upon the sector, the Malta Digital Innovation Authority Act (MDIA), Innovation Technology Agreement and Services Act (ITAS). The country’s parliament has also introduced a financial instrument test, which classifies a DLT asset as electronic money, financial asset, a virtual financial instrument, or a virtual token. The publication of these laws in the country’s gazette has to wait as the regulators are working on a framework to implement them. The MFSA, meanwhile, has been seeking stakeholder opinions on the same. These relate to the exemption of fees and administrative penalties under the VFA Act. This consultation period is set to end on 27th July. After that, the MFSA will be regulating the final rules and regulations for the VFA Act.
 
+In 2018.12.18
+##STRUCTURE OF THE ISSUER OF THE ICO
+The regulations stipulate the following general requirements which must be met at all times by the Issuer of the VFA.
+In essence, by law, it is important that the Issuer:
+1.	Is a legal person (i.e. a company) duly incorporated in Malta.
+2.	Has its business managed by a minimum of 2 individuals with sufficient knowledge and understanding (i.e. fit and proper) of its business.
+3.	Starts its activities within 6 months from date of registration of whitepaper with MFSA.
+4.	Applies the Financial Instrument Test prior to offering a DLT asset to the public that must be endorsed by the VFA Agent.
+5.	Prepares a Whitepaper (see Annex I for the details) and registers this with the MFSA.
+6.	Pays the relevant MFSA fees upon the submission of the Certificate of Compliance (see Annex II for the amount of fees).
+7.	Has a Board of Administration.
+8.	Has the following duly qualified and approved Functionaries:
+a.	VFA Agent
+b.	Systems Auditor
+c.	Auditor
+d.	Money Laundering Reporting Officer (MLRO)
+e.	Custodian (optional)
+9.	Has the following I.T. and Record Keeping systems:
+a.	Establishes a 'Cyber Security Framework'
+b.	Has robust Record Keeping Facilities.
+c.	Has I.T. Infrastructure.
+
+##REQUIREMENT OF A WHITEPAPER
+The law prescribes that a whitepaper which will be registered and in effect approved by MFSA is compulsory in order for an issuer to:
+1.	Offer a VFA to the public in or from within Malta; or
+2.	Apply for a VFA's admission on a Distributed Ledger Technology (DLT) Exchange.
+Ten days before being circulated, the whitepaper has to be:
+1.	Signed by every member of the board of administration; and
+2.	Signed and approved by the duly appointed VFA agent; and
+3.	Delivered to the MFSA, which shall register the whitepaper if it is satisfied that the requirements have been duly complied with.
+the Issuer is required to appoint the following Functionaries:
+1.	VFA Agent
+2.	Systems Auditor
+3.	Auditor
+4.	Custodian
+5.	Money Laundering Reporting Officer
+The regulations stipulate that the Issuer needs to have in place the following systems:
+1.	Cyber Security Framework
+2.	Record Keeping Facilities
+3.	I.T. Infrastructure
+
 Sources 
 --- 
 - [Laws Related to Token Sales](https://www.lexology.com/library/detail.aspx?g=b1fead6f-7cda-4592-8cd9-80ff1896fc36)
