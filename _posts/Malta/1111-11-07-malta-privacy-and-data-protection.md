@@ -21,7 +21,36 @@ In other words, every big business in the world that has any dealings with EU cu
 
 The scope of the GDPR is huge and it would take a lot of time and space to go into every single nuance of it, but basically, the GDPR will enforce strict laws on how your data is collected, why it is collected, how you consented to its collection and how it is stored. It will also afford you the right for you to request that your data is either amended or removed without facing penalties such as disruption or refusal of service.
 
-# Blockchain Nature vs GDPR
+## Cyber Security Framework
+It is compulsory for the Issuer to have a Cyber Security Framework that complies with internationally recognized cyber security standards and be in line with the General Data Protection Regulations (GDPR).
+
+It shall include as a minimum:
+
+Information and data security roles and responsibilities;
+Access management policy;
+Sensitive data management policy;
+Threats management policy;
+Business continuity plan;
+Response and recovery plan; and
+Security education and training.
+
+## Record Keeping Facilities
+The Issuer has to maintain documents for a minimum of 5 years and must be made available to the MFSA whenever required. It is important that storage is made in a manner that:
+
+Allows MFSA to able to access and reconstitute each key stage of the processing of each transaction; and
+It must be possible for any documents and subsequent corrections or other amendments to be easily ascertained;
+It must not be possible for Documents to be manipulated or altered.
+
+## I.T. Infrastructure
+The Issuer shall ascertain that its I.T. infrastructure ensures:
+
+the integrity and security of any data stored therein;
+availability, traceability and accessibility of data; and
+privacy and confidentiality;
+and is in line with the provisions of the GDPR.
+The I.T. infrastructure must be located in Malta, EEA member state or a jurisdiction approved by the MFSA. In case that the I.T. infrastructure is not located in Malta or is located in a cloud environment, the Issuer shall ensure that data is replicated real time by virtue of a live replication server located in Malta.
+
+## Blockchain Nature vs GDPR
 
 Under some circumstances, the GDPR could be referred to as a Digital Declaration of Rights and whilst its terms are comprehensive and far-reaching in some respects, they have failed to take into account many of the principles of blockchain technology.
 
