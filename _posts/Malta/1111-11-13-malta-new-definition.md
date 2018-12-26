@@ -9,11 +9,11 @@ comments: true
 
 By way of a definition, a VFA is any form of digital medium recordation that is used as a digital medium of exchange, unit of account, or store of value and that is not one of the following as defined below:
 
-1.	Electronic Money;
+1.Electronic Money;
 
-2.	Financial Instrument;
+2.Financial Instrument;
 
-3.	Virtual Token.
+3.Virtual Token.
 
 The following are the legal definitions of the above:
 Electronic Money means electronically, including magnetically, stored monetary value as represented by a claim on the issuer which is issued on receipt of funds for the purpose of making payment transactions and which is accepted by a natural or legal person other than the financial institutions that issued the electronic money.
@@ -44,12 +44,12 @@ Virtual Tokens have been defined as a form of digital medium recordation whose u
 An Issuer of a VFA shall, prior to offering such asset to the public in or from within Malta, or applying for its admission on a DLT exchange, undertake the Financial Instrument Test.The test is crucial to determine whether the DLT asset qualifies to be regulated under this new regime of laws, or whether the other Financial Services Laws will apply.
 
 The Test has to be:
-1.	Signed by its Board of Administration, 
-2.	Endorsed by its VFA Agent.
+1.Signed by its Board of Administration, 
+2.Endorsed by its VFA Agent.
 
 The process is a two-fold test, being:
-1.	Does the VFA qualify as a Virtual Token as defined under the new laws? If it does, having in mind its restricted definition as per the new laws herein specified, then it is exempted under the new VFA Law and the licensing requirements do not apply.
-2.	If it is not qualified as a Virtual Token, then one has to determine whether this qualifies as a Financial Instrument under MiFID considering all the categories of Financial Instatements as identified above. If the answer is negative, then the asset is caught under the VFA Law and its licensing procedure must be followed.
+1.Does the VFA qualify as a Virtual Token as defined under the new laws? If it does, having in mind its restricted definition as per the new laws herein specified, then it is exempted under the new VFA Law and the licensing requirements do not apply.
+2.If it is not qualified as a Virtual Token, then one has to determine whether this qualifies as a Financial Instrument under MiFID considering all the categories of Financial Instatements as identified above. If the answer is negative, then the asset is caught under the VFA Law and its licensing procedure must be followed.
 
 Sources
 ---
