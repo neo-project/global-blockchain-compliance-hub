@@ -50,7 +50,6 @@ For a person to be deemed an experienced investor, he/she shall declare to the I
 (3)the funds he/she is contributing to the specific Initial Virtual Financial Asset Offerings does not exceed one per cent of his net worth excluding his/her main residential home.
 
 
-
 Sources 
 --- 
 - [Malta Proposes Rules for Crypto Regulation](https://bitemycoin.com/news/malta-proposes-rules-for-cryptocurrency-investment/)
