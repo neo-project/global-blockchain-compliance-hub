@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 0024-01-01
+date: 0024-12-01
 name: company-registry-requirements
 title: "Malta: Non-profit/For-profit Company Registry Requirements"
 category: malta
