@@ -3,7 +3,7 @@ layout: post
 date: 0054-01-01
 name: local-action-and-national-vision
 title: "Jeju Island: Local Action and National Vision"
-category: jeju island
+category: jeju-island
 comments: true
 ---
 
