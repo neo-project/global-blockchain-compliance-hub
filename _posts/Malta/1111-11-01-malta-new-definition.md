@@ -37,3 +37,8 @@ The Test has to be:
 The process is a two-fold test, being:
 1.	Does the VFA qualify as a Virtual Token as defined under the new laws? If it does, having in mind its restricted definition as per the new laws herein specified, then it is exempted under the new VFA Law and the licensing requirements do not apply.
 2.	If it is not qualified as a Virtual Token, then one has to determine whether this qualifies as a Financial Instrument under MiFID considering all the categories of Financial Instatements as identified above. If the answer is negative, then the asset is caught under the VFA Law and its licensing procedure must be followed.
+
+Sources
+---
+
+* [related article](http://www.mondaq.com/x/766274/fin+tech/ICOs+The+New+Legislation+Updated+4th+Edition)
