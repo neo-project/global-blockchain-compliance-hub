@@ -30,9 +30,19 @@ Japan has no specific ICO regulations, but the Payment Services Act (PSA) also c
 * If regulations under these acts do not apply, the ICO tokens will be regulated under the Specified Commercial Transaction Act. 
 In all cases, it is strongly advised for firms intending to engage in token selling in Japan either through a subsidiary or an independent private company notify the Financial Services Agency of Japan.
 
-**Blockchain**
+#### Opinions
+According to Japan’s Sankei,  the FSA is considering regulating cryptocurrency exchanges under the Financial Instruments and Exchange Act (FIEA). Most ICO coins are regulated under the so-called "Virtual Currency Act". There are two type of VC in Japan, Type I Virtual Currency and Type II Virtual Currency. According to the definition, NEO should be classified into the category ‘’Type VC’’
 
-Japan [offically recognizes](https://cointelegraph.com/news/japan-officially-recognizes-bitcoin-and-digital-currencies-as-money) bitcoin and digital currencies as money,  and is generally a blockchain-friendly country. Blockchain technology [is increasingly used in the banking industry](https://www.cnbc.com/2017/03/01/japanese-banks-plan-to-adopt-blockchain-for-payments.html), and it would appear unlikely for any disruptive changes in its legal status to occur in the near future. In addition, the government is planning on escalating the use of blockchain technology to facilitate the systems for accepting governmental contract bids - see [here](https://asia.nikkei.com/Politics-Economy/Policy-Politics/Japan-looks-to-blockchains-for-more-secure-e-government-systems) for more information. 
+#### Facts about bitcoin in Japan
+1.	It is not a currency and recognizes Bitcoin and other digital currencies as legal tender under the Payment Services Act
+2.	Trading of Bitcoins does NOT fall into the “trading of securities ——not subject to securities regulations.
+Handling of Bitcoins does not require licenses under FIEA3. FIEA is applicable only to the securities and any other rights in which dividends are paid or revenues are shared 
+3. Japanese legal system does not prohibit persons from using Bitcoins for commerce” 
+4. Handling of Bitcoin does not fall into the banking business and handling bitcoin not require banking license
+5.Bitcoin is subject to tax under relevant tax codes  
+-You will be taxed under Income Tax Code of Japan if an individual gains earnings in the form of virtual currency  
+-You will be taxed under Corporate Tax Code of Japan if a corporation gains earnings in the form of virtual currency  
+-Purchasing virtual currency is subject to consumption tax under the Consumption Tax Code Revised 
 
 **Key sources**
 - [Financial Services Agency of Japan](http://www.fsa.go.jp/en)
