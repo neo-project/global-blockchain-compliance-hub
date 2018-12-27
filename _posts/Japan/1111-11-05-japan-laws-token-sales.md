@@ -19,7 +19,7 @@ The required documents to be submitted with the registration application for VCE
 
 It should be noted that the requirements for obtaining VCESP status are extremely stringent, and the number of firms that have successfully registered is exceedingly small. According to the latest database published by the FSA, there are only 15 firms legally registered to trade VC in the whole of Japan, and the range of currencies traded is narrow. See below for more details.
 
-**ICO Token Sales**
+#### ICO Token Sales
 
 The Japan Blockchain Association has published guidelines for ICOs to Japanese residents, which can be found below.
 Japan has no specific ICO regulations, but the Payment Services Act (PSA) also called the Virtual Currency Act (VCA) makes token sales a matter requiring extensive registration procedures at the risk of severe penalties. In particular:
